@@ -267,6 +267,9 @@ _PETSTRINGS[203] = {[1]="Brown Pig";[2]="Available in the Vales of Anduin"}
 _PETSTRINGS[204] = {[1]="Shepherd Dog";[2]="Available in the Minas Morgul Collector's Edition or Ultimate Fan Bundle"}
 _PETSTRINGS[205] = {[1]="Harnessed Shepherd Dog";[2]="Available in the Minas Morgul Collector's Edition or Ultimate Fan Bundle"}
 _PETSTRINGS[206] = {[1]="Badger";[2]="Available from the Fall Festival"}
+_PETSTRINGS[207] = {[1]="Brown Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[208] = {[1]="White Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[209] = {[1]="Black Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 _PETSTRINGS[501] = {[1]="Tattered Bat";[2]="TBD"}
@@ -282,4 +285,8 @@ _PETSTRINGS[508] = {[1]="Black-wing Kite";[2]="TBD"}
 _PETSTRINGS[509] = {[1]="Dusk-wing Kite";[2]="TBD"}
 _PETSTRINGS[510] = {[1]="Maple Kite";[2]="TBD"}
 
+_PETSTRINGS[511] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[512] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[513] = {[1]="Husky Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[514] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
