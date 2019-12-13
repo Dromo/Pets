@@ -270,6 +270,8 @@ _PETSTRINGS[206] = {[1]="Badger";[2]="Available from the Fall Festival"}
 _PETSTRINGS[207] = {[1]="Brown Wolf-dog";[2]="Available for barter in Minas Morgul"}
 _PETSTRINGS[208] = {[1]="White Wolf-dog";[2]="Available for barter in Minas Morgul"}
 _PETSTRINGS[209] = {[1]="Black Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[210] = {[1]="Winter Celebration Pig";[2]="Available from Hobbit Presents as a special Gold Winter Gift"}
+_PETSTRINGS[211] = {[1]="Present-Bearing Pet Pony";[2]="Available from Hobbit Presents as a special Silver Winter Gift"}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 _PETSTRINGS[501] = {[1]="Tattered Bat";[2]="TBD"}
