@@ -273,22 +273,46 @@ _PETSTRINGS[209] = {[1]="Black Wolf-dog";[2]="Available for barter in Minas Morg
 _PETSTRINGS[210] = {[1]="Winter Celebration Pig";[2]="Available from Hobbit Presents as a special Gold Winter Gift"}
 _PETSTRINGS[211] = {[1]="Present-Bearing Pet Pony";[2]="Available from Hobbit Presents as a special Silver Winter Gift"}
 
+_PETSTRINGS[212] = {[1]="Husky Wolf-dog";[2]="Available for Figments of Splendour or in a Lootbox."}
+_PETSTRINGS[213] = {[1]="Flying Fox";[2]="Available for Figments of Splendour or in a Lootbox."}
+_PETSTRINGS[214] = {[1]="Smoky-grey Cat";[2]="Available for Figments of Splendour or in a Lootbox."}
+
+_PETSTRINGS[215] = {[1]="Tattered Bat";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[216] = {[1]="Blood-red Bat";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[217] = {[1]="White Huorn";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[218] = {[1]="Enchanted Vessel";[2]="Available for barter from the White Company Quartermaster"}
+_PETSTRINGS[219] = {[1]="White-headed Hawk";[2]="Available through barter during the Spring Festrival."}
+_PETSTRINGS[220] = {[1]="Woodland Rabbit";[2]="Available through barter during the Spring Festrival."}
+_PETSTRINGS[221] = {[1]="Silly Goose";[2]="Available through barter during the Spring Festrival."}
+
+_PETSTRINGS[222] = {[1]="Swarm of Bees";[2]="Available in the Mist of Wilderland."}
+_PETSTRINGS[223] = {[1]="Anniversary Celebration Pig";[2]="Limited time anniversary offer for VIPs."}
+_PETSTRINGS[224] = {[1]="Mysterious Celebration";[2]="Available as a 13th Anniversary Gift."}
+
+_PETSTRINGS[225] = {[1]="Large Gondorian Kite";[2]="Available from Hobbit Presents as a special Midsummer Wedding Gift."}
+_PETSTRINGS[226] = {[1]="Wedding Celebration Pony";[2]="Available from Hobbit Presents as a special Midsummer Wedding Gift."}
+_PETSTRINGS[227] = {[1]="Decorated Goose";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[228] = {[1]="Gondor Midsummer Kite";[2]="Available in Midsummer."}
+_PETSTRINGS[229] = {[1]="Green Firefly";[2]="Available from Hobbit Presents as special Midsummer Wedding Gift."}
+_PETSTRINGS[230] = {[1]="Purple Firefly";[2]="Available in Midsummer."}
+_PETSTRINGS[231] = {[1]="Blue Firefly";[2]="Available in Midsummer."}
+_PETSTRINGS[232] = {[1]="Red Firefly";[2]="Available in Midsummer."}
+_PETSTRINGS[233] = {[1]="Gloaming Kite";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[234] = {[1]="Grey Pig";[2]="Available through barter during the Farmers Faire Festival."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
-_PETSTRINGS[501] = {[1]="Tattered Bat";[2]="TBD"}
-_PETSTRINGS[502] = {[1]="Injured Bat";[2]="TBD"}
-_PETSTRINGS[503] = {[1]="Flying Fox";[2]="TBD"}
-_PETSTRINGS[504] = {[1]="Tan Bat";[2]="TBD"}
-_PETSTRINGS[505] = {[1]="Black Bat";[2]="TBD"}
-_PETSTRINGS[506] = {[1]="Blood Bat";[2]="TBD"}
 
+_PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
+_PETSTRINGS[502] = {[1]="Tan Bat";[2]="TBD"}
+_PETSTRINGS[503] = {[1]="Black Bat";[2]="TBD"}
 
-_PETSTRINGS[507] = {[1]="Gloaming Kite";[2]="TBD"}
-_PETSTRINGS[508] = {[1]="Black-wing Kite";[2]="TBD"}
-_PETSTRINGS[509] = {[1]="Dusk-wing Kite";[2]="TBD"}
-_PETSTRINGS[510] = {[1]="Maple Kite";[2]="TBD"}
+_PETSTRINGS[504] = {[1]="Black-wing Kite";[2]="TBD"}
+_PETSTRINGS[505] = {[1]="Dusk-wing Kite";[2]="TBD"}
+_PETSTRINGS[506] = {[1]="Maple Kite";[2]="TBD"}
 
-_PETSTRINGS[511] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[512] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[513] = {[1]="Husky Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[514] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[507] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[508] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[509] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
+_PETSTRINGS[510] = {[1]="White Goose";[2]=""}
+_PETSTRINGS[511] = {[1]="Cart Pony";[2]=""}
