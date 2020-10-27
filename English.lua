@@ -300,6 +300,15 @@ _PETSTRINGS[232] = {[1]="Red Firefly";[2]="Available in Midsummer."}
 _PETSTRINGS[233] = {[1]="Gloaming Kite";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[234] = {[1]="Grey Pig";[2]="Available through barter during the Farmers Faire Festival."}
 
+_PETSTRINGS[235] = {[1]="Light Grey Goat";[2]="Available through completing Missions."}
+_PETSTRINGS[236] = {[1]="Dark Grey Squirrel";[2]="Available through completing Missions."}
+_PETSTRINGS[237] = {[1]="Burgundy Goat";[2]="Available through completing Missions."}
+_PETSTRINGS[238] = {[1]="Coffee Goat";[2]="Available through completing Missions."}
+_PETSTRINGS[239] = {[1]="Treasure-laden Donkey";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
+_PETSTRINGS[240] = {[1]="Battle-adorned Pig";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
+_PETSTRINGS[241] = {[1]="Lively Slug";[2]="Available from participating in community events."}
+
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
