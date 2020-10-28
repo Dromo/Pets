@@ -306,8 +306,11 @@ _PETSTRINGS[237] = {[1]="Burgundy Goat";[2]="Available through completing Missio
 _PETSTRINGS[238] = {[1]="Coffee Goat";[2]="Available through completing Missions."}
 _PETSTRINGS[239] = {[1]="Treasure-laden Donkey";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
 _PETSTRINGS[240] = {[1]="Battle-adorned Pig";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
-_PETSTRINGS[241] = {[1]="Lively Slug";[2]="Available from participating in community events."}
 
+_PETSTRINGS[241] = {[1]="Lively Slug";[2]="Available from participating in community events."}
+_PETSTRINGS[242] = {[1]="Spooky Jackdaw";[2]="Available from the Fall Festival."}
+_PETSTRINGS[243] = {[1]="Soot-featherd Crow";[2]="Available from the Fall Festival."}
+_PETSTRINGS[244] = {[1]="Harbinger of the Sage's Storm";[2]="Available from the Fall Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
