@@ -329,6 +329,10 @@ _PETSTRINGS[258] = {[1]="Two-toned Sheep";[2]="Available through crafting in Wil
 _PETSTRINGS[259] = {[1]="Ashen Eagle";[2]="Available through crafting in Wildwood."}
 _PETSTRINGS[260] = {[1]="Spotted Pig";[2]="Available through crafting in Wildwood."}
 _PETSTRINGS[261] = {[1]="Copper Goat";[2]="Available through crafting in Wildwood."}
+_PETSTRINGS[262] = {[1]="Bog-lurker Buddy";[2]="Available to barter from Celeblír."}
+_PETSTRINGS[263] = {[1]="Dappled Tri-colour Cat";[2]="Available in the LOTRO Store"}
+_PETSTRINGS[264] = {[1]="Cozy Grey Cat";[2]="Available Through barter during the Anniversary Festival."}
+_PETSTRINGS[265] = {[1]="Adventurous Lurker";[2]="Available to barter from Celeblír."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
