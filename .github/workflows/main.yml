@@ -1,0 +1,23 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'U*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'Pets $($env:GITHUB_REF -replace "refs/tags/").zip'
+        exclusions: '*.git* README.md'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: 'Pets $($env:GITHUB_REF -replace "refs/tags/").zip'
+        token: ${{ secrets.GITHUB_TOKEN }}
