@@ -1,0 +1,53 @@
+
+-- Pet logo credits: Based on an image of a mask by merimask @ deviantart.com (http://merimask.deviantart.com/art/Grinning-Cat-Mask-167515400)
+
+v.1.1.2b
+- Added pets for update 22.5
+- Added pets for update 23.0
+- Added pets for update 23.1.2
+
+v.1.1.2
+- Added pets for update 22.2
+
+v.1.1.1
+- Fixed an issue preventing the rename button from working.
+- Added pets for update 22.1
+
+v.1.1.0
+- Added pets up to update 22.0.1
+- Increased the height of the main window
+- Changed the search text to also search descriptions as well as pet names.
+- Added a new dropdown so you can also search through the pets added from each update.
+
+v.1.0.9
+- Added pets up to update 21.3.2
+
+v.1.0.8
+- Added pets up to update 21.1
+
+v.1.0.7
+- Added pets up to update 21.0
+- Also fixed an issue with the Little Mumak which now shows up as Little Mumak (raid reward) and Shobdo the Little Mumak (store purchase).
+- Removed the duplicate Hallows-eve Kite.
+
+v.1.0.6
+- Added pets up to update 20.1
+
+v.1.0.5
+- Added pets from U17-19
+
+v.1.0.4
+- Added pets from U16.0
+- German translations provided by DaBear78 
+
+v.1.0.3
+- Added pets from U15.0
+
+v.1.0.2
+- Added pets from U14.2
+
+v.1.0.1
+- Added some new pets from U14.1
+
+v.1.0.0
+- Initial Release

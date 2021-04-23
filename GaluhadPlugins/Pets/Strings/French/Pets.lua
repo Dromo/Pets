@@ -297,6 +297,7 @@ _PETSTRINGS[229] = {[1]="Green Firefly";[2]="Available from Hobbit Presents as s
 _PETSTRINGS[230] = {[1]="Purple Firefly";[2]="Available in Midsummer."}
 _PETSTRINGS[231] = {[1]="Blue Firefly";[2]="Available in Midsummer."}
 _PETSTRINGS[232] = {[1]="Red Firefly";[2]="Available in Midsummer."}
+
 _PETSTRINGS[233] = {[1]="Gloaming Kite";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[234] = {[1]="Grey Pig";[2]="Available through barter during the Farmers Faire Festival."}
 
@@ -306,11 +307,28 @@ _PETSTRINGS[237] = {[1]="Burgundy Goat";[2]="Available through completing Missio
 _PETSTRINGS[238] = {[1]="Coffee Goat";[2]="Available through completing Missions."}
 _PETSTRINGS[239] = {[1]="Treasure-laden Donkey";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
 _PETSTRINGS[240] = {[1]="Battle-adorned Pig";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
-
 _PETSTRINGS[241] = {[1]="Lively Slug";[2]="Available from participating in community events."}
 _PETSTRINGS[242] = {[1]="Spooky Jackdaw";[2]="Available from the Fall Festival."}
 _PETSTRINGS[243] = {[1]="Soot-featherd Crow";[2]="Available from the Fall Festival."}
 _PETSTRINGS[244] = {[1]="Harbinger of the Sage's Storm";[2]="Available from the Fall Festival."}
+_PETSTRINGS[245] = {[1]="Wild Grey Donkey";[2]="Available through completing the deed 'Bringer of Good Cheer'."}
+_PETSTRINGS[246] = {[1]="Cask-laden Donkey";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[247] = {[1]="Alabaster Donkey";[2]="Available for Barter during Yule Seasonal Instances."}
+_PETSTRINGS[248] = {[1]="Cozy Yule Goat Kid";[2]="Available from Hobbit Presents as a special Winter Gift."}
+_PETSTRINGS[249] = {[1]="Brown Bear Cub";[2]="Available through Barter during the Yule Festival."}
+_PETSTRINGS[250] = {[1]="Poinsettia-wreathed Huorn";[2]="Available through Barter during the Yule Festival."}
+_PETSTRINGS[251] = {[1]="Yule Tree Huorn";[2]="Available from Hobbit Presents as a special Winter Gift."}
+_PETSTRINGS[252] = {[1]="Ill Omened Hound";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[253] = {[1]="Ill Omened Worm";[2]="Available from the Skirmishes -- Ill Omens event."}
+
+_PETSTRINGS[254] = {[1]="Tame Wildwood Horn";[2]="Available through Barter in Wildwood."}
+_PETSTRINGS[255] = {[1]="Tame Wildwood Tusker";[2]="Available through Barter in Wildwood."}
+_PETSTRINGS[256] = {[1]="Wild Young Moose";[2]="Available through Barter in Wildwood."}
+_PETSTRINGS[257] = {[1]="Red Gecko";[2]="Available through crafting in Wildwood."}
+_PETSTRINGS[258] = {[1]="Two-toned Sheep";[2]="Available through crafting in Wildwood."}
+_PETSTRINGS[259] = {[1]="Ashen Eagle";[2]="Available through crafting in Wildwood."}
+_PETSTRINGS[260] = {[1]="Spotted Pig";[2]="Available through crafting in Wildwood."}
+_PETSTRINGS[261] = {[1]="Copper Goat";[2]="Available through crafting in Wildwood."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
@@ -328,3 +346,9 @@ _PETSTRINGS[509] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul
 
 _PETSTRINGS[510] = {[1]="White Goose";[2]=""}
 _PETSTRINGS[511] = {[1]="Cart Pony";[2]=""}
+
+_PETSTRINGS[512] = {[1]="Warm Winter Goat Kid";[2]=""}
+_PETSTRINGS[513] = {[1]="Festive Yule Goat Kid";[2]=""}
+_PETSTRINGS[514] = {[1]="Ill Omened Beast";[2]="TBD"}
+_PETSTRINGS[515] = {[1]="Ill Omened Crawler";[2]="TBD"}
+
