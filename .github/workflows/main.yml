@@ -20,7 +20,7 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         artifacts: 'Pets_${{ github.event.inputs.tag }}.zip'
-        commit: main
+        commit: master
         bodyFile: Release.md
         tag: ${{ github.event.inputs.tag }}
         token: ${{ secrets.GITHUB_TOKEN }}
