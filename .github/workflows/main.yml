@@ -1,10 +1,10 @@
 name: Release
 
 on:
-  push:
-    tags:
-      - 'U*'
   workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Update'
 
 jobs:
   build:
@@ -14,10 +14,13 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'Pets $($env:GITHUB_REF -replace "refs/tags/").zip'
-        exclusions: '*.git* README.md'
+        filename: 'Pets_${{ github.event.inputs.tag }}.zip'
+        exclusions: '*.git* *.md'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: 'Pets $($env:GITHUB_REF -replace "refs/tags/").zip'
+        artifacts: 'Pets_${{ github.event.inputs.tag }}.zip'
+        commit: main
+        bodyFile: Release.md
+        tag: ${{ github.event.inputs.tag }}
         token: ${{ secrets.GITHUB_TOKEN }}
