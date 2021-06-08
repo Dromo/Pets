@@ -1,4 +1,7 @@
 Change log:
+* 2021-06-08 - U30 - 7 new + 4 future pets
+  * Bat of Azanulbizat, Delving Nether-hound, Nether-hound, Cart Pony, Snowy Mountain Eagle, Chipmunk, Silver Chipmunk
+  * Not available: Umber Nether-hound, Mushroom Nether-hound, Dusk Nether-hound, Copper Nether-hound
 * 2021-04-23 - U29.5 - 4 new pets: Bog-lurker Buddy, Dappled Tri-colour Cat, Cozy Grey Cat, Adventurous Lurker
 * 2021-03-17 - U29 - 8 new pets: Tame Wildwood Horn, Tame Wildwood Tusker, Wild Young Moose, Red Gecko, Two-toned Sheep, Ashen Eagle, Spotted Pig, Copper Goat
 * 2021-02-09 - 2+2 new Ill Omens pets: Ill Omens Hound, Ill Omens Worm, Ill Omens Beast, Ill Omens Crawler

@@ -334,6 +334,14 @@ _PETSTRINGS[263] = {[1]="Dappled Tri-colour Cat";[2]="Available in the LOTRO Sto
 _PETSTRINGS[264] = {[1]="Cozy Grey Cat";[2]="Available Through barter during the Anniversary Festival."}
 _PETSTRINGS[265] = {[1]="Adventurous Lurker";[2]="Available to barter from Celeblír."}
 
+_PETSTRINGS[266] = {[1]="Bat of Azanulbizar";[2]="Available to barter in Azanulbizar"}
+_PETSTRINGS[267] = {[1]="Delving Nether-hound";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[268] = {[1]="Nether-hound";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[269] = {[1]="Cart Pony";[2]="Available to barter with the Kharum-ubnar."}
+_PETSTRINGS[270] = {[1]="Snowy Mountain Eagle";[2]="Available to barter with the Kharum-ubnar."}
+_PETSTRINGS[271] = {[1]="Chipmunk";[2]="Available to barter from Celeblír."}
+_PETSTRINGS[272] = {[1]="Silver Chipmunk";[2]="Available to barter from Celeblír."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
@@ -349,9 +357,14 @@ _PETSTRINGS[508] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Min
 _PETSTRINGS[509] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
 _PETSTRINGS[510] = {[1]="White Goose";[2]=""}
-_PETSTRINGS[511] = {[1]="Cart Pony";[2]=""}
 
-_PETSTRINGS[512] = {[1]="Warm Winter Goat Kid";[2]=""}
-_PETSTRINGS[513] = {[1]="Festive Yule Goat Kid";[2]=""}
-_PETSTRINGS[514] = {[1]="Ill Omened Beast";[2]="TBD"}
-_PETSTRINGS[515] = {[1]="Ill Omened Crawler";[2]="TBD"}
+_PETSTRINGS[511] = {[1]="Warm Winter Goat Kid";[2]=""}
+_PETSTRINGS[512] = {[1]="Festive Yule Goat Kid";[2]=""}
+_PETSTRINGS[513] = {[1]="Ill Omened Beast";[2]="TBD"}
+_PETSTRINGS[514] = {[1]="Ill Omened Crawler";[2]="TBD"}
+
+_PETSTRINGS[515] = {[1]="Umber Nether-hound";[2]=""}
+_PETSTRINGS[516] = {[1]="Mushroom Nether-hound";[2]=""}
+_PETSTRINGS[517] = {[1]="Dusky Nether-hound";[2]=""}
+_PETSTRINGS[528] = {[1]="Copper Nether-hound";[2]=""}
+
