@@ -366,5 +366,5 @@ _PETSTRINGS[514] = {[1]="Ill Omened Crawler";[2]="TBD"}
 _PETSTRINGS[515] = {[1]="Umber Nether-hound";[2]=""}
 _PETSTRINGS[516] = {[1]="Mushroom Nether-hound";[2]=""}
 _PETSTRINGS[517] = {[1]="Dusky Nether-hound";[2]=""}
-_PETSTRINGS[528] = {[1]="Copper Nether-hound";[2]=""}
+_PETSTRINGS[518] = {[1]="Copper Nether-hound";[2]=""}
 
