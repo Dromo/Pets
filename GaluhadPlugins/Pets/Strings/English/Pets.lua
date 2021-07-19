@@ -339,8 +339,13 @@ _PETSTRINGS[267] = {[1]="Delving Nether-hound";[2]="Limited time availability fo
 _PETSTRINGS[268] = {[1]="Nether-hound";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[269] = {[1]="Cart Pony";[2]="Available to barter with the Kharum-ubnar."}
 _PETSTRINGS[270] = {[1]="Snowy Mountain Eagle";[2]="Available to barter with the Kharum-ubnar."}
-_PETSTRINGS[271] = {[1]="Chipmunk";[2]="Available to barter from Celeblír."}
-_PETSTRINGS[272] = {[1]="Silver Chipmunk";[2]="Available to barter from Celeblír."}
+_PETSTRINGS[271] = {[1]="Chipmunk";[2]="Available in Midsummer."}
+_PETSTRINGS[272] = {[1]="Silver Chipmunk";[2]="Available in Midsummer."}
+
+_PETSTRINGS[273] = {[1]="Woodland Doe";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[274] = {[1]="Woodland Deer";[2]="Available for barter during Summer Seasonal Instances."}
+_PETSTRINGS[275] = {[1]="Spotted Woodland Fawn";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[276] = {[1]="Golden Cave-claw";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
