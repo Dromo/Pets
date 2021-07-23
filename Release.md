@@ -1,4 +1,7 @@
 Change log:
+* 2021-07-23 - U30.1.2
+  * 4 new pets Woodland Doe, Woodlan Deer, Spotted Woodland Fawn, Golden Cave-claw
+  * Teacup Goat Kid - updated description - was in DB since Update 22.2, due to the coding of the plugin it is a lot easier to leave it here than moving to the Update 30 section, moving would cause issues with users savefiles if not done carefully
 * 2021-06-08 - U30 - 7 new + 4 future pets
   * Bat of Azanulbizat, Delving Nether-hound, Nether-hound, Cart Pony, Snowy Mountain Eagle, Chipmunk, Silver Chipmunk
   * Not available: Umber Nether-hound, Mushroom Nether-hound, Dusk Nether-hound, Copper Nether-hound

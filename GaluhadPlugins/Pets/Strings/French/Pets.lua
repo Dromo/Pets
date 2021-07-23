@@ -202,7 +202,7 @@ _PETSTRINGS[155] = {[1]="Green Peahen";[2]="Available through barter during Summ
 _PETSTRINGS[156] = {[1]="Silver Goat Kid";[2]="Available for barter from Quartermaster (Dwarf-holds Rewards)";}
 _PETSTRINGS[157] = {[1]="Black Peahen";[2]="Available trough barter during the Farmers Fair Festival";}
 _PETSTRINGS[158] = {[1]="White Peacock";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox";}
-_PETSTRINGS[159] = {[1]="Teacup Goat Kid";[2]="TBC";}
+_PETSTRINGS[159] = {[1]="Teacup Goat Kid";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
 _PETSTRINGS[160] = {[1]="Green Peacock";[2]="Available through barter during Summer Seasonal Instances";}
 _PETSTRINGS[161] = {[1]="Coffee Goat Kid";[2]="TBC";}
 _PETSTRINGS[162] = {[1]="Big Kid";[2]="Available through barter during the Farners Faire Festival";}
