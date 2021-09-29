@@ -346,6 +346,8 @@ _PETSTRINGS[273] = {[1]="Woodland Doe";[2]="Available through barter during the 
 _PETSTRINGS[274] = {[1]="Woodland Deer";[2]="Available for barter during Summer Seasonal Instances."}
 _PETSTRINGS[275] = {[1]="Spotted Woodland Fawn";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[276] = {[1]="Golden Cave-claw";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[277] = {[1]="Crystal Grim";[2]="Available in the Fate of Gundabad Ultimate Fan Bundle."}
+_PETSTRINGS[278] = {[1]="Gundabad Ukhrash";[2]="Available in the Fate of Gundabad Collector's Edition or Ultimate Fan Bundle."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 

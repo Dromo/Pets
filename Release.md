@@ -1,4 +1,6 @@
 Change log:
+* 2021-09-29 - U30.2.1
+  * 2 new Gundabad pre-order pets: Crystal Grim, Gundabad Ukhrash
 * 2021-07-23 - U30.1.2
   * 4 new pets Woodland Doe, Woodlan Deer, Spotted Woodland Fawn, Golden Cave-claw
   * Teacup Goat Kid - updated description - was in DB since Update 22.2, due to the coding of the plugin it is a lot easier to leave it here than moving to the Update 30 section, moving would cause issues with users savefiles if not done carefully
