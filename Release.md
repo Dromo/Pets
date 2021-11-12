@@ -1,4 +1,6 @@
 Change log:
+* 2021-11-12 - U31
+  * 6 new pets: White Heartwood Fawn, Autumn Heartwood Stag, Tame Gundabad Bat, Little Deep Toad, Craggy Slug, Crystal Spider
 * 2021-09-29 - U30.2.1
   * 2 new Gundabad pre-order pets: Crystal Grim, Gundabad Ukhrash
 * 2021-07-23 - U30.1.2

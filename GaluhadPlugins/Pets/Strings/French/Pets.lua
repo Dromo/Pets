@@ -348,6 +348,13 @@ _PETSTRINGS[276] = {[1]="Golden Cave-claw";[2]="Available from Theodore Gorse du
 _PETSTRINGS[277] = {[1]="Crystal Grim";[2]="Available in the Fate of Gundabad Ultimate Fan Bundle."}
 _PETSTRINGS[278] = {[1]="Gundabad Ukhrash";[2]="Available in the Fate of Gundabad Collector's Edition or Ultimate Fan Bundle."}
 
+_PETSTRINGS[279] = {[1]="White Heartwood Fawn";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[280] = {[1]="Autumn Heartwood Stag";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[281] = {[1]="Tame Gundabad Bat";[2]="Available to barter in Gundabad."}
+_PETSTRINGS[282] = {[1]="Little Deep Toad";[2]="Available to barter in Gundabad."}
+_PETSTRINGS[283] = {[1]="Craggy Slug";[2]="Available to barter in Gundabad."}
+_PETSTRINGS[284] = {[1]="Crystal Spider";[2]="Available to barter in Gundabad."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
