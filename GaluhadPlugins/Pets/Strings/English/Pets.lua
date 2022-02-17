@@ -356,6 +356,10 @@ _PETSTRINGS[282] = {[1]="Little Deep Toad";[2]="Available to barter in Gundabad.
 _PETSTRINGS[283] = {[1]="Craggy Slug";[2]="Available to barter in Gundabad."}
 _PETSTRINGS[284] = {[1]="Crystal Spider";[2]="Available to barter in Gundabad."}
 
+_PETSTRINGS[285] = {[1]="Yule Princess Bunny";[2]="Available through barter during the Yule Festival."}
+_PETSTRINGS[286] = {[1]="Light Grey Squirrel";[2]="Available for barter from the defenders of the angle quartermaster."}
+_PETSTRINGS[287] = {[1]="Cinder Hawk";[2]="Available for barter from the defenders of the angle quartermaster."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}

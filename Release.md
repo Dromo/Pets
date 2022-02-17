@@ -1,4 +1,7 @@
 Change log:
+* 2022-02-17 - U32
+  * Light Grey Squirrel, Cinder Hawk
+  * Yule Princess Bunny
 * 2021-11-12 - U31
   * 6 new pets: White Heartwood Fawn, Autumn Heartwood Stag, Tame Gundabad Bat, Little Deep Toad, Craggy Slug, Crystal Spider
 * 2021-09-29 - U30.2.1
