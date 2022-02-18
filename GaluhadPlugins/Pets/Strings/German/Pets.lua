@@ -354,6 +354,7 @@ _PETSTRINGS[284] = {[1]="Crystal Spider";[2]="Available to barter in Gundabad."}
 _PETSTRINGS[285] = {[1]="Yule Princess Bunny";[2]="Available through barter during the Yule Festival."}
 _PETSTRINGS[286] = {[1]="Light Grey Squirrel";[2]="Available for barter from the defenders of the angle quartermaster."}
 _PETSTRINGS[287] = {[1]="Cinder Hawk";[2]="Available for barter from the defenders of the angle quartermaster."}
+_PETSTRINGS[288] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter with the Defenders of the Angle Quartermaster."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
@@ -365,18 +366,18 @@ _PETSTRINGS[504] = {[1]="Black-wing Kite";[2]="TBD"}
 _PETSTRINGS[505] = {[1]="Dusk-wing Kite";[2]="TBD"}
 _PETSTRINGS[506] = {[1]="Maple Kite";[2]="TBD"}
 
-_PETSTRINGS[507] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[508] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[509] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[507] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[508] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
-_PETSTRINGS[510] = {[1]="White Goose";[2]=""}
+_PETSTRINGS[509] = {[1]="White Goose";[2]=""}
 
-_PETSTRINGS[511] = {[1]="Warm Winter Goat Kid";[2]=""}
-_PETSTRINGS[512] = {[1]="Festive Yule Goat Kid";[2]=""}
-_PETSTRINGS[513] = {[1]="Ill Omened Beast";[2]="TBD"}
-_PETSTRINGS[514] = {[1]="Ill Omened Crawler";[2]="TBD"}
+_PETSTRINGS[510] = {[1]="Warm Winter Goat Kid";[2]=""}
+_PETSTRINGS[511] = {[1]="Festive Yule Goat Kid";[2]=""}
+_PETSTRINGS[512] = {[1]="Ill Omened Beast";[2]="TBD"}
+_PETSTRINGS[513] = {[1]="Ill Omened Crawler";[2]="TBD"}
 
-_PETSTRINGS[515] = {[1]="Umber Nether-hound";[2]=""}
-_PETSTRINGS[516] = {[1]="Mushroom Nether-hound";[2]=""}
-_PETSTRINGS[517] = {[1]="Dusky Nether-hound";[2]=""}
-_PETSTRINGS[518] = {[1]="Copper Nether-hound";[2]=""}
+_PETSTRINGS[514] = {[1]="Umber Nether-hound";[2]=""}
+_PETSTRINGS[515] = {[1]="Mushroom Nether-hound";[2]=""}
+_PETSTRINGS[516] = {[1]="Dusky Nether-hound";[2]=""}
+_PETSTRINGS[517] = {[1]="Copper Nether-hound";[2]=""}
+

@@ -1,4 +1,5 @@
 Change log:
+* 2022-02-18 - added Brown Marble Wolf-dog
 * 2022-02-17 - U32
   * Light Grey Squirrel, Cinder Hawk
   * Yule Princess Bunny
