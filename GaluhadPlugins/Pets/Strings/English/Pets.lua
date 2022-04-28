@@ -361,6 +361,14 @@ _PETSTRINGS[286] = {[1]="Light Grey Squirrel";[2]="Available for barter from the
 _PETSTRINGS[287] = {[1]="Cinder Hawk";[2]="Available for barter from the defenders of the angle quartermaster."}
 _PETSTRINGS[288] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter with the Defenders of the Angle Quartermaster."}
 
+_PETSTRINGS[289] = {[1]="Wild Spotted Donkey";[2]="";}
+_PETSTRINGS[290] = {[1]="Tri-colour Corgi";[2]="Available through barter during the Anniversary Festival.";}
+_PETSTRINGS[291] = {[1]="Fireworks Corgi";[2]="Available through barter during the Anniversary Festival.";}
+_PETSTRINGS[292] = {[1]="Chestnut Corgi";[2]="Limited time Anniversary gift.";}
+_PETSTRINGS[293] = {[1]="Golden Crystal Beetle";[2]="Available through barter during the Anniversary Festival.";}
+_PETSTRINGS[294] = {[1]="Anniversary Celebration Corgi";[2]="Available from participating in community events.";}
+_PETSTRINGS[295] = {[1]="Spotted Corgi";[2]="Available from participating in community events.";}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
@@ -386,3 +394,12 @@ _PETSTRINGS[515] = {[1]="Mushroom Nether-hound";[2]=""}
 _PETSTRINGS[516] = {[1]="Dusky Nether-hound";[2]=""}
 _PETSTRINGS[517] = {[1]="Copper Nether-hound";[2]=""}
 
+_PETSTRINGS[518] = {[1]="Mountaineering Donkey";[2]="Limited time availability: Legendary Item Reward Track Season 2";}
+_PETSTRINGS[519] = {[1]="Cream Corgi";[2]="";}
+_PETSTRINGS[520] = {[1]="Rust Corgi";[2]="";}
+_PETSTRINGS[521] = {[1]="Russet Corgi";[2]="";}
+_PETSTRINGS[522] = {[1]="Brick Corgi";[2]="";}
+_PETSTRINGS[523] = {[1]="Formal Corgi";[2]="";}
+_PETSTRINGS[524] = {[1]="Prepared Corgi";[2]="";}
+_PETSTRINGS[525] = {[1]="Library Corgi";[2]="";}
+_PETSTRINGS[526] = {[1]="Blonde Corgi";[2]="";}

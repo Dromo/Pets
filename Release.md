@@ -1,4 +1,7 @@
 Change log:
+* 2022-04-28 - U33 - 7 new + 9 future pets
+  * Wild Spotted Donkey, Tri-colour Corgi, Fireworks Corgi, Chestnut Corgi, Golden Crystal Beetle, Anniversary Celebration Corgi, Spotted Corgi
+  * Mountaineering Donkey, Cream Corgi, Rust Corgi, Russet Corgi, Brick Corgi, Formal Corgi, Prepared Corgi, Library Corgi, Blonde Corgi
 * 2022-02-18 - added Brown Marble Wolf-dog
 * 2022-02-17 - U32
   * Light Grey Squirrel, Cinder Hawk
