@@ -1,4 +1,5 @@
 Change log:
+* 2022-05-11 - U33.0.3 - 1 new + 1 newly available: Buff Donkey and Copper Nether-hound
 * 2022-04-28 - U33 - 7 new + 9 future pets
   * Wild Spotted Donkey, Tri-colour Corgi, Fireworks Corgi, Chestnut Corgi, Golden Crystal Beetle, Anniversary Celebration Corgi, Spotted Corgi
   * Mountaineering Donkey, Cream Corgi, Rust Corgi, Russet Corgi, Brick Corgi, Formal Corgi, Prepared Corgi, Library Corgi, Blonde Corgi
