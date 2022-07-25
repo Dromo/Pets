@@ -431,7 +431,7 @@ _PETS[303] = {[1]=1879411740;[2]=1879411762;[3]=6;} -- Mountaineering Donkey
 _PETS[304] = {[1]=1879411761;[2]=1879411749;[3]=6;} -- Feed-laden Donkey
 _PETS[305] = {[1]=1879420862;[2]=1879420846;[3]=6;} -- Mushroom Nether-hound
 
-_UPDATES[35] = {[1] = "Future";[2] = 500;[3] = 522;};
+_UPDATES[34] = {[1] = "Future";[2] = 500;[3] = 522;};
 -- Unavaliable yet
 _PETS[500] = {[1]=1879338919;[2]=1879338919;[3]=3;} -- Stripey Bat
 
