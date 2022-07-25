@@ -1,4 +1,9 @@
 Change log:
+* 2022-07-25 - U33.1 - 5 new + 3 newly available:
+  * Mountaineering Donkey - Reward Track Season 2
+  * Friendly Bear Cub, Black Bear Cub, Noble Starling - U33.1
+  * Blood Craban, Formal Corgi - Treasure Bugan Event
+  * Feed-laden Donkey, Mushroom Nether-hound - Farmers Fair
 * 2022-05-11 - U33.0.3 - 1 new + 1 newly available: Buff Donkey and Copper Nether-hound
 * 2022-04-28 - U33 - 7 new + 9 future pets
   * Wild Spotted Donkey, Tri-colour Corgi, Fireworks Corgi, Chestnut Corgi, Golden Crystal Beetle, Anniversary Celebration Corgi, Spotted Corgi
