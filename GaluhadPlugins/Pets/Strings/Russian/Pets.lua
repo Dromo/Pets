@@ -378,34 +378,34 @@ _PETSTRINGS[302] = {[1]="Noble Starling";[2]="Acquired by buing an enhanced or l
 _PETSTRINGS[303] = {[1]="Mountaineering Donkey";[2]="Limited time availability: Legendary Item Reward Track Season 2";}
 _PETSTRINGS[304] = {[1]="Feed-laden Donkey";[2]="Available through barter during the Farmers Fair Festival.";}
 _PETSTRINGS[305] = {[1]="Mushroom Nether-hound";[2]="Available through barter during the Farmers Fair Festival."}
+_PETSTRINGS[306] = {[1]="Black Bat";[2]="Limited time availability: Legendary Item Reward Track Season 3"}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
 _PETSTRINGS[502] = {[1]="Tan Bat";[2]="TBD"}
-_PETSTRINGS[503] = {[1]="Black Bat";[2]="TBD"}
 
-_PETSTRINGS[504] = {[1]="Black-wing Kite";[2]="TBD"}
-_PETSTRINGS[505] = {[1]="Dusk-wing Kite";[2]="TBD"}
-_PETSTRINGS[506] = {[1]="Maple Kite";[2]="TBD"}
+_PETSTRINGS[503] = {[1]="Black-wing Kite";[2]="TBD"}
+_PETSTRINGS[504] = {[1]="Dusk-wing Kite";[2]="TBD"}
+_PETSTRINGS[505] = {[1]="Maple Kite";[2]="TBD"}
 
-_PETSTRINGS[507] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[508] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[506] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[507] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
 
-_PETSTRINGS[509] = {[1]="White Goose";[2]=""}
+_PETSTRINGS[508] = {[1]="White Goose";[2]=""}
 
-_PETSTRINGS[510] = {[1]="Warm Winter Goat Kid";[2]=""}
-_PETSTRINGS[511] = {[1]="Festive Yule Goat Kid";[2]=""}
-_PETSTRINGS[512] = {[1]="Ill Omened Beast";[2]="TBD"}
-_PETSTRINGS[513] = {[1]="Ill Omened Crawler";[2]="TBD"}
+_PETSTRINGS[509] = {[1]="Warm Winter Goat Kid";[2]=""}
+_PETSTRINGS[510] = {[1]="Festive Yule Goat Kid";[2]=""}
+_PETSTRINGS[511] = {[1]="Ill Omened Beast";[2]="TBD"}
+_PETSTRINGS[512] = {[1]="Ill Omened Crawler";[2]="TBD"}
 
-_PETSTRINGS[514] = {[1]="Umber Nether-hound";[2]=""}
-_PETSTRINGS[515] = {[1]="Dusky Nether-hound";[2]=""}
+_PETSTRINGS[513] = {[1]="Umber Nether-hound";[2]=""}
+_PETSTRINGS[514] = {[1]="Dusky Nether-hound";[2]=""}
 
-_PETSTRINGS[516] = {[1]="Cream Corgi";[2]="";}
-_PETSTRINGS[517] = {[1]="Rust Corgi";[2]="";}
-_PETSTRINGS[518] = {[1]="Russet Corgi";[2]="";}
-_PETSTRINGS[519] = {[1]="Brick Corgi";[2]="";}
-_PETSTRINGS[520] = {[1]="Prepared Corgi";[2]="";}
-_PETSTRINGS[521] = {[1]="Library Corgi";[2]="";}
-_PETSTRINGS[522] = {[1]="Blonde Corgi";[2]="";}
+_PETSTRINGS[515] = {[1]="Cream Corgi";[2]="";}
+_PETSTRINGS[516] = {[1]="Rust Corgi";[2]="";}
+_PETSTRINGS[517] = {[1]="Russet Corgi";[2]="";}
+_PETSTRINGS[518] = {[1]="Brick Corgi";[2]="";}
+_PETSTRINGS[519] = {[1]="Prepared Corgi";[2]="";}
+_PETSTRINGS[520] = {[1]="Library Corgi";[2]="";}
+_PETSTRINGS[521] = {[1]="Blonde Corgi";[2]="";}
