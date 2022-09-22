@@ -380,6 +380,11 @@ _PETSTRINGS[304] = {[1]="Feed-laden Donkey";[2]="Available through barter during
 _PETSTRINGS[305] = {[1]="Mushroom Nether-hound";[2]="Available through barter during the Farmers Fair Festival."}
 _PETSTRINGS[306] = {[1]="Black Bat";[2]="Limited time availability: Legendary Item Reward Track Season 3"}
 
+_PETSTRINGS[307] = {[1]="Night Sky Craban";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[308] = {[1]="Lantern Gourd-lurker";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[309] = {[1]="Loyal Turtle";[2]="Available in the Before the Shadow Ultimate Fan Bundle."}
+_PETSTRINGS[310] = {[1]="Friendly Heron";[2]="Available in the Before the Shadow Collector's Edition or Ultimate Fan Bundle."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
 
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
@@ -409,3 +414,5 @@ _PETSTRINGS[518] = {[1]="Brick Corgi";[2]="";}
 _PETSTRINGS[519] = {[1]="Prepared Corgi";[2]="";}
 _PETSTRINGS[520] = {[1]="Library Corgi";[2]="";}
 _PETSTRINGS[521] = {[1]="Blonde Corgi";[2]="";}
+_PETSTRINGS[522] = {[1]="Friendly Stork";[2]="";}
+_PETSTRINGS[523] = {[1]="Friendly Egret";[2]="";}
