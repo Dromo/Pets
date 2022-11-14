@@ -1,5 +1,5 @@
 Change log:
-* 2022-09-22 - U33.2 - 4+2 new pets
-  * Night Sky Carban, Lantern Gourd-lurker, Loyal Turtle, Friendly Heron
-  * Future: Friendly Stork, Friendly Egret
+* 2022-11-14 - U33.2.2
+  * Added 2 pets that were forgotten: Mottled Craban, Golden Bat
+  * Future: Winter's Wind
 [Full changelog](Changelog.md)

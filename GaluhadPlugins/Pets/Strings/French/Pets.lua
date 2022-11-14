@@ -7,21 +7,21 @@
 --]]
 -----------------------------------------------------------------------------------------------------
 
-_PETSTRINGS[1] = {[1]="Snowy Fangorn Huorn";[2]="A small wintery huorn topped with snow. Rewarded randomly on opening gift boxes from Quickbeam in Fangorn.";};
-_PETSTRINGS[2] = {[1]="Fangorn Huorn";[2]="A small huorn with few leaves. Rewarded randomly on opening gift boxes from Quickbeam in Fangorn.";};
-_PETSTRINGS[3] = {[1]="Black Huorn with Honeycomb";[2]="A small huorn with copper leaves and beehives hanging from its branches. Rewarded randomly on opening gift boxes from Quickbeam in Fangorn.";};
+_PETSTRINGS[1] = {[1]="Huorn neigeux de Fangorn";[2]="Disponible dans l'Ouest de Fangorn par échange ou par chance !";};
+_PETSTRINGS[2] = {[1]="Huorn de Fangorn";[2]="Disponible dans l'Ouest de Fangorn par échange ou par chance !";};
+_PETSTRINGS[3] = {[1]="Huorn noir avec nid d'abeille";[2]="Disponible dans l'Ouest de Fangorn par échange ou par chance !";};
 
-_PETSTRINGS[4] = {[1]="Scrapper Chicken";[2]="Available for barter at the Hobnanigans fields in Bree-land when the event is active.";};
-_PETSTRINGS[5] = {[1]="Black-foot Chicken";[2]="Available for barter at the Hobnanigans fields in Bree-land when the event is active.";};
-_PETSTRINGS[6] = {[1]="Orange Wyandotte Chicken";[2]="Available to barter for at the Hobnanigans fields in Bree-land when the event is active.";};
-_PETSTRINGS[7] = {[1]="Dorking Chicken";[2]="Available for barter at the Hobnanigans fields in Bree-land when the event is active.";};
-_PETSTRINGS[8] = {[1]="Red Chicken";[2]="Available for barter at the Hobnanigans fields in Bree-land when the event is active.";};
-_PETSTRINGS[9] = {[1]="White Chicken";[2]="Available for barter at the Hobnanigans fields in Bree-land when the event is active.";};
+_PETSTRINGS[4] = {[1]="Poulet belliqueux";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
+_PETSTRINGS[5] = {[1]="Poulet à pattes noires";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
+_PETSTRINGS[6] = {[1]="Poulet Wyandotte orange";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
+_PETSTRINGS[7] = {[1]="Poulet Dorking";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
+_PETSTRINGS[8] = {[1]="Poulet rouge";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
+_PETSTRINGS[9] = {[1]="Poulet blanc";[2]="Disponible au jeu de chasse-poulet par échange ou par chance !";};
 
-_PETSTRINGS[10] = {[1]="Dusty Shrew";[2]="Rare chance of receiving from the Spring Festival Box reward offered from the 'Terrible Tweens' quest (Spring Festival - Hedge Maze).";};
-_PETSTRINGS[11] = {[1]="Plain Shrew";[2]="Rare chance of receiving from the Spring Festival Box reward offered from the 'Stomp-A-Shrew Challenge' quest (Spring Festival - Shrew Stomping).";};
-_PETSTRINGS[12] = {[1]="Spotted Shrew";[2]="Chance of receiving when gathering flowers for the quest 'A Fist Full of Flowers' (Spring Festival).";};
-_PETSTRINGS[13] = {[1]="Large Shrew";[2]="Rare chance of receiving from the Spring Festival Box reward offered from the 'Stomp-a-shrew - An enormous shrew' quest (Spring Festival - Shrew Stomping).";};
+_PETSTRINGS[10] = {[1]="Musaraigne poussiéreuse";[2]="Disponible au Festival du printemps si vous allez dans le labyrinthe végétal.";};
+_PETSTRINGS[11] = {[1]="Musaraigne ordinaire";[2]="Disponible au festival de printemps si vous faites une partie d'écrase-musaraigne.";};
+_PETSTRINGS[12] = {[1]="Musaraigne tachetée";[2]="Disponible au Festival du printemps si vous participez à l'événement floral.";};
+_PETSTRINGS[13] = {[1]="Grande musaraigne";[2]="Disponible au Festival du printemps si vous faites une grosse partie d'écrase-musaraigne.";};
 
 _PETSTRINGS[14] = {[1]="Bird-speech";[2]="Lore-master exclusive. Available from the Elves of Rivendell when you reach kindred.";};
 _PETSTRINGS[15] = {[1]="Cat-speech";[2]="Lore-master exclusive. Random world drop.";};
@@ -34,385 +34,388 @@ _PETSTRINGS[21] = {[1]="Squirrel-speech";[2]="Lore-master exclusive. Random worl
 _PETSTRINGS[22] = {[1]="Turtle-speech";[2]="Lore-master exclusive. Available from the Mathom Society when you reach ally.";};
 
 -- U14
-_PETSTRINGS[23] = {[1]="White Swan";[2]="Available for barter at Dol Amorth in Gondor.";};
-_PETSTRINGS[24] = {[1]="Black Swan";[2]="Available for barter at Dol Amorth in Gondor.";};
-_PETSTRINGS[25] = {[1]="Little Tundra Cub";[2]="Offered as a reward for Extra Life donations.";};
-_PETSTRINGS[26] = {[1]="Ghost Bear";[2]="Offered as a reward for Extra Life donations. Other methods may be available but are presently unknown.";};
-_PETSTRINGS[27] = {[1]="Treasure-seeking Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
+_PETSTRINGS[23] = {[1]="Cygne blanc";[2]="Disponible dans l'Ouest du Gondor par échange.";};
+_PETSTRINGS[24] = {[1]="Cygne noir";[2]="Disponible dans l'Ouest du Gondor par échange.";};
+_PETSTRINGS[25] = {[1]="Petit ourson de la toundra";[2]="Disponible en participant à des événements de communauté.";};
+_PETSTRINGS[26] = {[1]="Esprit de l'ours";[2]="Disponible en participant à des événements de communauté.";};
+_PETSTRINGS[27] = {[1]="Grifferoche chercheur de trésor";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
 
 -- U14.1
-_PETSTRINGS[28] = {[1]="Night Swan";[2]="Available from Lotro Store for 595 Lotro Points.";};
-_PETSTRINGS[29] = {[1]="Tan-back Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
-_PETSTRINGS[30] = {[1]="Green-beak Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
-_PETSTRINGS[31] = {[1]="Green-back Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
-_PETSTRINGS[32] = {[1]="Pink-beak Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
-_PETSTRINGS[33] = {[1]="Black-beak Cave-claw";[2]="Available for barter at the Treasure Hunt event.";};
+_PETSTRINGS[28] = {[1]="Cygne de la nuit";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[29] = {[1]="Grifferoche à dos sombre";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
+_PETSTRINGS[30] = {[1]="Grifferoche à bec vert";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
+_PETSTRINGS[31] = {[1]="Grifferoche à dos vert";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
+_PETSTRINGS[32] = {[1]="Grifferoche à bec rose";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
+_PETSTRINGS[33] = {[1]="Grifferoche à bec noir";[2]="Disponible par échange dans l'événement de Chasse au trésor.";};
 
 -- U14.2
-_PETSTRINGS[34] = {[1]="Frog";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[35] = {[1]="Pond Frog";[2]="Available for barter from any Roving Threat Quartermaster.";};
-_PETSTRINGS[36] = {[1]="Marsh Frog";[2]="Rare reward from warband in the Dead Marshes.";};
-_PETSTRINGS[37] = {[1]="Copper-back Frog";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[38] = {[1]="Fog Frog";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[39] = {[1]="Well-travelled Turtle";[2]="Rare reward from warband in the Dead Marshes.";};
+_PETSTRINGS[34] = {[1]="Grenouille";[2]="Disponible par échange à l'est du Gondor.";};
+_PETSTRINGS[35] = {[1]="Grenouille des étangs";[2]="Disponible par échange auprès des négociants de menaces itinérantes.";};
+_PETSTRINGS[36] = {[1]="Grenouille des marais";[2]="Peut être obtenu d'une troupe de guerre dans les Marais des Morts.";};
+_PETSTRINGS[37] = {[1]="Grenouille à dos cuivré";[2]="Disponible par échange à l'est du Gondor.";};
+_PETSTRINGS[38] = {[1]="Grenouille de brume";[2]="Disponible par échange à l'est du Gondor.";};
+_PETSTRINGS[39] = {[1]="Tortue voyageuse";[2]="Peut être obtenu d'une troupe de guerre dans les Marais des Morts.";};
 
 -- u15.0
-_PETSTRINGS[40] = {[1]="Aurochs Calf";[2]="Available for barter at Central Gondor.";};
-_PETSTRINGS[41] = {[1]="Fire Grim";[2]="Available from the Yule festival.";};
-_PETSTRINGS[42] = {[1]="Grim";[2]="Available from the Yule festival.";};
-_PETSTRINGS[43] = {[1]="Sand-flies";[2]="Available for barter at Central Gondor.";};
-_PETSTRINGS[44] = {[1]="Shadow Grim";[2]="Available from the Yule festival.";};
-_PETSTRINGS[45] = {[1]="Stowaway Rat";[2]="Available for barter at Central Gondor.";};
+_PETSTRINGS[40] = {[1]="Jeune aurochs";[2]="'Peut être échangé dans le Val de Ringló. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes du Val de Ringló.";};
+_PETSTRINGS[41] = {[1]="Macabras ardent";[2]="Peut être échangé au Festival de Yule.";};
+_PETSTRINGS[42] = {[1]="Macabras";[2]="Peut être échangé au Festival de Yule.";};
+_PETSTRINGS[43] = {[1]="Mouches des sables";[2]="'Peut être échangé dans la région de Dor-en-Ernil. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes de Dor-en-Ernil.";};
+_PETSTRINGS[44] = {[1]="Macabras ténébreux";[2]="Peut être échangé au Festival de Yule.";};
+_PETSTRINGS[45] = {[1]="Rat clandestin";[2]="'Peut être échangé dans le Lebennin. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes du Lebennin.";};
 
 -- u16.0
-_PETSTRINGS[46] = {[1]="Brown Rabbit";[2]="Available for barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[47] = {[1]="Very Fancy Cat";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[48] = {[1]="Brown Squirrel";[2]="Available for barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[49] = {[1]="Brown Fox";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[50] = {[1]="Ginger Cat";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[51] = {[1]="Tan Sheep";[2]="Available for barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[52] = {[1]="Pinto Rabbit";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[53] = {[1]="Brown Sheep";[2]="Available for barter from the quartermaster of the Rangers of Ithilien.";};
-_PETSTRINGS[54] = {[1]="Sleek Fox";[2]="Available for barter from Bert Bartleby for 5 Bingo Tokens.";};
+_PETSTRINGS[46] = {[1]="Lapin brun";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Comté.";};
+_PETSTRINGS[47] = {[1]="Chat très noble";[2]="Disponible par échange pour les Frères et Sœurs des Rôdeurs de l'Ithilien";};
+_PETSTRINGS[48] = {[1]="Écureuil brun";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Trouée des Trolls.";};
+_PETSTRINGS[49] = {[1]="Renard brun";[2]="Disponible par échange pour les Frères et Sœurs des Rôdeurs de l'Ithilien";};
+_PETSTRINGS[50] = {[1]="Chat roux";[2]="Disponible par échange pour les Frères et Sœurs des Rôdeurs de l'Ithilien";};
+_PETSTRINGS[51] = {[1]="Mouton brun clair";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange au Pays de Bree.";};
+_PETSTRINGS[52] = {[1]="Lapin noir et blanc";[2]="Disponible par échange pour les Frères et Sœurs des Rôdeurs de l'Ithilien";};
+_PETSTRINGS[53] = {[1]="Mouton brun";[2]="Disponible par échange pour les Frères et Sœurs des Rôdeurs de l'Ithilien";};
+_PETSTRINGS[54] = {[1]="Renard au poil lustré";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans les Terres Solitaires.";};
 
 -- u17-19
-_PETSTRINGS[55] = {[1]="Old Rattlepacks";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[56] = {[1]="Tanglemane";[2]="Barter from Bert Bartleby for 20 Bingo Tokens.";};
-_PETSTRINGS[57] = {[1]="Blue Lizard";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[58] = {[1]="Brown Bat";[2]="Barter from harvest festival for 40 tokens.";};
-_PETSTRINGS[59] = {[1]="Blue Beetle";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[60] = {[1]="Brown Snake";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[61] = {[1]="Distant Cousin";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[62] = {[1]="Green Beetle";[2]="Barter from Heledon at the Great Gate of Minas Tirith";};
-_PETSTRINGS[63] = {[1]="Hallows-eve Kite";[2]="Available at the store for 595 Lotro pts.";};
-_PETSTRINGS[64] = {[1]="Ice Salamander";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[65] = {[1]="Ithilien Fox";[2]="Available for 1 vial of Amber Extract from a Herbalist in the West Army.";};
-_PETSTRINGS[66] = {[1]="Kite of the Sickle";[2]="Barter from Yule Festival for 75 tokens.";};
-_PETSTRINGS[67] = {[1]="Leaf-fall Kite";[2]="Barter from harvest festival for 40 tokens.";};
-_PETSTRINGS[68] = {[1]="Light Brown Goat";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[69] = {[1]="Little Mûmak";[2]="Random drop from Throne of the Dread Terror raid T2";};
-_PETSTRINGS[70] = {[1]="Loyal Swan Knight";[2]="Random drop from Throne of the Dread Terror raid T2.";};
-_PETSTRINGS[71] = {[1]="Miniature Grodbog Warrior";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[72] = {[1]="Oaken Kite";[2]="Barter from harvest festival for 40 tokens.";};
-_PETSTRINGS[73] = {[1]="Rat-catcher Cat";[2]="Available at the store for 495 Lotro pts.";};
-_PETSTRINGS[74] = {[1]="Red Beetle";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[75] = {[1]="Red Eagle";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[76] = {[1]="Red Fox";[2]="Barter from North Ithilien Quartermasters for 80 Host of the West Silver Pieces";};
-_PETSTRINGS[77] = {[1]="Red Squirrel";[2]="Available for 1 vial of Amber Extract from a Herbalist in the West Army.";};
-_PETSTRINGS[78] = {[1]="Rohirric Follower";[2]="Barter from Quartermaster (Riders of Rohan) at the War-stead of the King's Men for 40 Exquisite Wood-carvings and 32 Polished Marble Trinkets";};
-_PETSTRINGS[79] = {[1]="Skittish Black Horse";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[80] = {[1]="Soaring Bird Kite";[2]="Barter from summer festival for 30 mithril coins";};
-_PETSTRINGS[81] = {[1]="Striped Pelennor Pig";[2]="Barter from The Guardians of Minas Tirith";};
-_PETSTRINGS[82] = {[1]="Storm-wing Kite";[2]="Available at the store for 595 Lotro pts.";};
-_PETSTRINGS[83] = {[1]="Sunny Summer Kite";[2]="Barter from summer festival for 75 tokens";};
-_PETSTRINGS[84] = {[1]="Swan Knight Rider";[2]="Random drop from Throne of the Dread Terror raid T2.";};
-_PETSTRINGS[85] = {[1]="Tamed Hound";[2]="Random drop from Throne of the Dread Terror raid T2.";};
-_PETSTRINGS[86] = {[1]="Umber Goat";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[87] = {[1]="White Squirrel";[2]="Barter from Bert Bartleby for 5 Bingo Tokens.";};
-_PETSTRINGS[88] = {[1]="Willem's Cub";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
-_PETSTRINGS[89] = {[1]="Willem Whisker";[2]="Barter from Bert Bartleby for 5 Bingo Tokens";};
+_PETSTRINGS[55] = {[1]="Vieux Cahin";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Comté.";};
+_PETSTRINGS[56] = {[1]="Crin-Fou";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans les Landes farouches.";};
+_PETSTRINGS[57] = {[1]="Lézard bleu";[2]="Disponible par échange avec la Communauté des Échevins de Minas Tirith";};
+_PETSTRINGS[58] = {[1]="Chauve-souris brune";[2]="Disponible par échange au cours du Festival d'automne.";};
+_PETSTRINGS[59] = {[1]="Scarabée bleu";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange en Lothlórien.";};
+_PETSTRINGS[60] = {[1]="Serpent brun";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange au Grand Fleuve.";};
+_PETSTRINGS[61] = {[1]="Lointain cousin";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange au Pays de Bree.";};
+_PETSTRINGS[62] = {[1]="Scarabée vert";[2]="Disponible par échange avec la Communauté des Échevins de Minas Tirith";};
+_PETSTRINGS[63] = {[1]="Cerf-volant d'Halloween";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[64] = {[1]="Salamandre de glace";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans le Rohan Ouest.";};
+_PETSTRINGS[65] = {[1]="Renard de l'Ithilien";[2]="Disponible par échange dans l'Ithilien du Nord.";};
+_PETSTRINGS[66] = {[1]="Cerf-volant de la faucille";[2]="Disponible par échange au cours du Festival de Yule.";};
+_PETSTRINGS[67] = {[1]="Cerf-volant de la chute des feuilles";[2]="Disponible par échange au cours du Festival d'automne.";};
+_PETSTRINGS[68] = {[1]="Chèvre marron clair";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans les Monts Brumeux.";};
+_PETSTRINGS[69] = {[1]="Petit Mûmak";[2]="Disponible comme possible butin dans le raid Le trône du Seigneur de la Terreur - défi de niveau 2.";};
+_PETSTRINGS[70] = {[1]="Chevalier au cygne loyal";[2]="Disponible comme possible butin dans le raid Le trône du Seigneur de la Terreur - niveau 2.";};
+_PETSTRINGS[71] = {[1]="Guerrier grodbog miniature";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange au Pays de Bree.";};
+_PETSTRINGS[72] = {[1]="Cerf-volant du chêne";[2]="Disponible par échange au cours du Festival d'automne.";};
+_PETSTRINGS[73] = {[1]="Chat croque-rat";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[74] = {[1]="Scarabée rouge";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Moria.";};
+_PETSTRINGS[75] = {[1]="Aigle rouge";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans le Rohan Est.";};
+_PETSTRINGS[76] = {[1]="Renard roux";[2]="Disponible par échange dans l'Ithilien du Nord.";};
+_PETSTRINGS[77] = {[1]="Ecureuil roux";[2]="Disponible par échange dans l'Ithilien du Nord.";};
+_PETSTRINGS[78] = {[1]="Suivant des Rohirrim";[2]="Disponible par échange pour les Frères et Sœurs des Cavaliers du Rohan.";};
+_PETSTRINGS[79] = {[1]="Cheval noir nerveux";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange au Pays de Dun.";};
+_PETSTRINGS[80] = {[1]="Cerf-volant planant en forme d'oiseau";[2]="Disponible contre du Mithril au cours du Festival de la Foire des fermiers.";};
+_PETSTRINGS[81] = {[1]="Cochon rayé du Pelennor";[2]="Disponible par échange pour les Frères et Sœurs des Défenseurs de Minas Tirith";};
+_PETSTRINGS[82] = {[1]="Cerf-volant des ailes des tempêtes";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[83] = {[1]="Cerf-volant d'été ensoleillé";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";};
+_PETSTRINGS[84] = {[1]="Chevalier au cygne cavalier";[2]="";};
+_PETSTRINGS[85] = {[1]="Chien variag dressé";[2]="Disponible comme possible butin dans le raid Le trône du Seigneur de la Terreur - défi de niveau 2.";};
+_PETSTRINGS[86] = {[1]="Chèvre couleur terre";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange en Eregion.";};
+_PETSTRINGS[87] = {[1]="Écureuil blanc";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Forêt Noire.";};
+_PETSTRINGS[88] = {[1]="Petit de Willem";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange en Enedwaith.";};
+_PETSTRINGS[89] = {[1]="Willem Poil";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Comté.";};
 
 -- u19.1
-_PETSTRINGS[90] = {[1]="Shobdo the Little Mûmak";[2]="Available from the store for 595 LOTRO points";};
+_PETSTRINGS[90] = {[1]="Shobdo le petit Mûmak";[2]="Disponible au magasin SdAO.";};
 
 -- u19.3
-_PETSTRINGS[91] = {[1]="Winter's Flower";[2]="Barter from Yule Festival for 75 tokens.";};
-_PETSTRINGS[92] = {[1]="Frosty Kite";[2]="Available at the store for 595 Lotro pts.";};
-_PETSTRINGS[93] = {[1]="Winter Dove Kite";[2]="Available at the store for 595 Lotro pts.";};
+_PETSTRINGS[91] = {[1]="Fleur d'hiver";[2]="Disponible au Festival de Yule.";};
+_PETSTRINGS[92] = {[1]="Cerf-volant glacial";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[93] = {[1]="Cerf-volant de colombe d'hiver";[2]="Disponible au magasin SdAO.";};
 
 -- u20
-_PETSTRINGS[94] = {[1]="Faroth the Tracking Hound";[2]="Reward for completing Quest 'A New Friend'.";};
-_PETSTRINGS[95] = {[1]="Helpful Hound";[2]="Barter from Master-provisioner (Host of the West) for 40 Salt and 10 Provision.";};
-_PETSTRINGS[96] = {[1]="Well-supplied Hound";[2]="Barter from Master-provisioner (Host of the West) for 40 Salt and 10 Provisions.";};
-_PETSTRINGS[97] = {[1]="Moth Kite";[2]="Barter from Spring Rewards Vendor for 30 Spring Leaves.";};
-_PETSTRINGS[98] = {[1]="Floral Kite";[2]="Barter from Spring Rewards Vendor for 30 Spring Leaves.";};
-_PETSTRINGS[99] = {[1]="Bumblebee Kite";[2]="Purchased from LOTRO Store for 495 LOTRO points.";};
+_PETSTRINGS[94] = {[1]="Faroth";[2]="Disponible en terminant la quête Un nouvel ami.";};
+_PETSTRINGS[95] = {[1]="Chien dévoué";[2]="Disponible par échange dans les Landes désertiques.";};
+_PETSTRINGS[96] = {[1]="Chien bien approvisionné";[2]="Disponible par échange dans les Landes désertiques.";};
+_PETSTRINGS[97] = {[1]="Cerf-volant du papillon";[2]="Disponible par échange au cours du Festival du printemps.";};
+_PETSTRINGS[98] = {[1]="Cerf-volant floral";[2]="Disponible par échange au cours du Festival du printemps.";};
+_PETSTRINGS[99] = {[1]="Cerf-volant du bourdon";[2]="Disponible au magasin SdAO.";};
 
 -- Anniversary Pets
-_PETSTRINGS[100] = {[1]="Happy Pig";[2]="Possible Anniversary reward.";};
-_PETSTRINGS[101] = {[1]="Raven";[2]="Reward for The Anniversary Scavenger Hunt -- Year Three";};
-_PETSTRINGS[102] = {[1]="Puffy Sheep";[2]="Possible Anniversary reward.";};
-_PETSTRINGS[103] = {[1]="Quiet Cow";[2]="Possible Anniversary reward.";};
-_PETSTRINGS[104] = {[1]="Farmer Maggot's Dog";[2]="Reward for The Anniversary Scavenger Hunt -- Year One";};
-_PETSTRINGS[105] = {[1]="Bill the Pony";[2]="Reward for The Anniversary Scavenger Hunt -- Year Two";};
-_PETSTRINGS[106] = {[1]="Friendly Deer";[2]="Possible Anniversary reward.";};
-_PETSTRINGS[107] = {[1]="Majestic White Stag";[2]="Possible Anniversary reward.";};
-_PETSTRINGS[108] = {[1]="Crimson Dragon Kite";[2]="Purchased from LOTRO Store for 595 LOTRO points.";};
-_PETSTRINGS[109] = {[1]="Golden Dragon Kite";[2]="Barter from Games-master NPCs for 15 Anniversary Tokens.";};
-_PETSTRINGS[110] = {[1]="Silver Dragon Kite";[2]="Barter from Games-master NPCs for 15 Anniversary Tokens.";};
-_PETSTRINGS[111] = {[1]="Midnight Dragon Kite";[2]="Purchased from LOTRO Store for 595 LOTRO points.";};
+_PETSTRINGS[100] = {[1]="Cochon heureux";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[101] = {[1]="Corbeau";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[102] = {[1]="Mouton duveteux";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[103] = {[1]="Vache paisible";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[104] = {[1]="Chien du Père Maggotte";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[105] = {[1]="Bill le poney";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[106] = {[1]="Biche amicale";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[107] = {[1]="Cerf blanc majestueux";[2]="Disponible dans l'événement d'anniversaire des 10 ans.";};
+_PETSTRINGS[108] = {[1]="Cerf-volant du dragon cramoisi";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[109] = {[1]="Cerf-volant du dragon d'or";[2]="Disponible par échange au cours du Festival d'anniversaire.";};
+_PETSTRINGS[110] = {[1]="Cerf-volant du dragon d'argent";[2]="Disponible par échange au cours du Festival d'anniversaire.";};
+_PETSTRINGS[111] = {[1]="Cerf-volant du dragon de minuit";[2]="Disponible au magasin SdAO.";};
 
 -- Summer festival 2017
-_PETSTRINGS[112] = {[1]="Sunflower Kite";[2]="Available from the Summer festival for 50 Summer Tokens";};
-_PETSTRINGS[113] = {[1]="Trout Kite";[2]="Available from the Summer festival for 50 Summer Tokens";};
-_PETSTRINGS[114] = {[1]="Summer Flower Kite";[2]="Purchased from LOTRO Store for 495 LOTRO points";};
-_PETSTRINGS[115] = {[1]="Midsummer's Comet Kite";[2]="Purchased from LOTRO Store for 495 LOTRO points";};
+_PETSTRINGS[112] = {[1]="Cerf-volant du tournesol";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[113] = {[1]="Cerf-volant de la truite";[2]="Disponible au magasin SdAO.";};
+_PETSTRINGS[114] = {[1]="Cerf-volant de la fleur d'été";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";};
+_PETSTRINGS[115] = {[1]="Cerf-volant de la comète du solstice d'été";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";};
 
 -- u21 (MORDOR)
-_PETSTRINGS[116] = {[1]="Noble Eagle Kite";[2]="Available as part of the Mordor Ultimate Fan Bundle.";};
-_PETSTRINGS[117] = {[1]="Hopeful Swan Kite";[2]="Available as part of the Mordor Collector's Bundle AND Ultimate Fan Bundle";};
+_PETSTRINGS[116] = {[1]="Cerf-volant de l'aigle noble";[2]="Disponible dans le Pack Fan ultime Mordor.";};
+_PETSTRINGS[117] = {[1]="Cerf-volant du cygne d'espoir";[2]="Disponible dans l'Édition Collector Mordor ou le Pack Fan ultime Mordor.";};
 
 -- u21.1
-_PETSTRINGS[118] = {[1]="Harvest Revelry Kite";[2]="Available from the Farmer's Faire Festival Announcer for 60 Faire Tokens";}
-_PETSTRINGS[119] = {[1]="Beer-Loving Badgers Kite";[2]="Purchased from LOTRO Store for 495 points";}
-_PETSTRINGS[120] = {[1]="Golden Grain Kite";[2]="Available from the Farmer's Faire Festival Announcer for 60 Faire Tokens";}
+_PETSTRINGS[118] = {[1]="Cerf-volant de célébration de la récolte";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[119] = {[1]="Cerf-volant des blaireaux amateurs de bière";[2]="Disponible au magasin SdAO.";}
+_PETSTRINGS[120] = {[1]="Cerf-volant du grain d'or";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
 
 -- u22.1 -> u21.3.2
-_PETSTRINGS[121] = {[1]="Lhingris Crawler";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[122] = {[1]="Thicket Mole-rat";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[123] = {[1]="Gorgoroth Crawler";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[124] = {[1]="Ash Frog";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[125] = {[1]="Blight Frog";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[126] = {[1]="Agarnaith Wormling";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[127] = {[1]="Lhingris Wormling";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[128] = {[1]="Toxic Frogling";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[129] = {[1]="Plateau Mole-rat";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[130] = {[1]="Agarnaith Crawler";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[131] = {[1]="Diamondback Snake";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[132] = {[1]="Mordor Snake";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[133] = {[1]="Banded Snake";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[134] = {[1]="Yellow Snake";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[135] = {[1]="Agarnaith Snake";[2]="Available from the Gorgoroth Quatermaster 50 Silver Signets of the Thandrim";}
-_PETSTRINGS[136] = {[1]="Red Snake";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[137] = {[1]="Striped Snake";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[138] = {[1]="Gourd-lurker";[2]="Available from a Fall Festival Trader for 40 Fall Festival Tokens";}
-_PETSTRINGS[139] = {[1]="Snow Owl";[2]="Available from a Yule Festival Trader for 75 Yule Festival Tokens";}
-_PETSTRINGS[140] = {[1]="White Hare";[2]="Available from a Yule Festival Trader for 75 Yule Festival Tokens";}
-_PETSTRINGS[141] = {[1]="Wildfowl Kite";[2]="Purchased from LOTRO Store for 495 points";}
+_PETSTRINGS[121] = {[1]="Rampant de Lhingris";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[122] = {[1]="Rataupe des fourrés";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[123] = {[1]="Rampant du Gorgoroth";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[124] = {[1]="Grenouille de cendres";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[125] = {[1]="Grenouille de poussier";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[126] = {[1]="Jeune ver d'Agarnaith";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[127] = {[1]="Jeune ver de Lhingris";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[128] = {[1]="Têtard toxique";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[129] = {[1]="Rataupe du Plateau";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[130] = {[1]="Rampant d'Agarnaith";[2]="Disponible contre des mirages de splendeur auprès de la Gardienne des mystères.";}
+_PETSTRINGS[131] = {[1]="Crotale diamantin";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[132] = {[1]="Serpent du Mordor";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[133] = {[1]="Serpent à bandes";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[134] = {[1]="Serpent jaune";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[135] = {[1]="Serpent d'Agarnaith";[2]="Peut s'obtenir en négociant avec l'intendant des récompenses de la conquête de Gorgoroth.";}
+_PETSTRINGS[136] = {[1]="Serpent rouge";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[137] = {[1]="Serpent à rayures";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[138] = {[1]="Rôde-gourde";[2]="Disponible par échange au cours du Festival d'automne.";}
+_PETSTRINGS[139] = {[1]="Chouette des neiges";[2]="Disponible par échange au cours du Festival de Yule.";}
+_PETSTRINGS[140] = {[1]="Lièvre blanc";[2]="Disponible par échange au cours du Festival de Yule.";}
+_PETSTRINGS[141] = {[1]="Cerf-volant de l'oiseau sauvage";[2]="Disponible au magasin SdAO.";}
 
 -- u22.0
-_PETSTRINGS[142] = {[1]="Lasgalen Owl";[2]="Available from the Keeper of Mysteries for 700 Ahses of Gorgoroth or can drop from within a Gorgoroth Steel-bound Lootbox";}
-_PETSTRINGS[143] = {[1]="Thrush";[2]="Available from Quartermaster (Dwarves of Erebor Rewards) for 75 Tokens of the Lake and Rivers";}
-_PETSTRINGS[144] = {[1]="Dale Calf";[2]="Available from Quartermaster (Elves of Felegoth Rewards) for 75 Tokens of the Lake and Rivers";}
-_PETSTRINGS[145] = {[1]="Male Spring Pheasant";[2]="Spring Rewards Vendor for 20 Spring Leaves";}
-_PETSTRINGS[146] = {[1]="Female Spring Pheasant";[2]="Spring Rewards Vendor for 20 Spring Leaves";}
-_PETSTRINGS[147] = {[1]="Hedgehog";[2]="Spring Rewards Vendor for 20 Spring Leaves";}
-_PETSTRINGS[148] = {[1]="Smaug Kite";[2]="Available from Quartermaster (Men of Dale Rewards) for 75 Tokens of the Lake and Rivers";}
+_PETSTRINGS[142] = {[1]="Chouette grise de Lasgalen";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[143] = {[1]="Grive";[2]="Disponible sur les Terres de Dale.";}
+_PETSTRINGS[144] = {[1]="Veau de Dale";[2]="Disponible sur les Terres de Dale.";}
+_PETSTRINGS[145] = {[1]="Faisan du printemps";[2]="Disponible par échange au cours du Festival du printemps.";}
+_PETSTRINGS[146] = {[1]="Faisane du printemps";[2]="Disponible par échange au cours du Festival du printemps.";}
+_PETSTRINGS[147] = {[1]="Hérisson";[2]="Disponible par échange au cours du Festival du printemps.";}
+_PETSTRINGS[148] = {[1]="Cerf-volant Smaug";[2]="Disponible sur les Terres de Dale.";}
 
 -- u22.1
-_PETSTRINGS[149] = {[1]="Eager Beaver";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
-_PETSTRINGS[150] = {[1]="Beaver";[2]="Available through barter during the Anniversary Festival";}
-_PETSTRINGS[151] = {[1]="Russet Hedgehog";[2]="Found inside Gorgoroth Steel-bound Lootboxes";}
+_PETSTRINGS[149] = {[1]="Castor enthousiaste";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[150] = {[1]="Castor";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[151] = {[1]="Hérisson brun";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
 
 -- u22.2
-_PETSTRINGS[152] = {[1]="Blue Peahen";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[153] = {[1]="White Peahen";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox";}
-_PETSTRINGS[154] = {[1]="Mottled Goat Kid";[2]="Available for barter from Adventurer's Quartermaster and inside Adventurer's Steel-bound Lootboxes";}
-_PETSTRINGS[155] = {[1]="Green Peahen";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[156] = {[1]="Silver Goat Kid";[2]="Available for barter from Quartermaster (Dwarf-holds Rewards)";}
-_PETSTRINGS[157] = {[1]="Black Peahen";[2]="Available trough barter during the Farmers Fair Festival";}
-_PETSTRINGS[158] = {[1]="White Peacock";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox";}
-_PETSTRINGS[159] = {[1]="Teacup Goat Kid";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
-_PETSTRINGS[160] = {[1]="Green Peacock";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[161] = {[1]="Coffee Goat Kid";[2]="TBC";}
-_PETSTRINGS[162] = {[1]="Big Kid";[2]="Available through barter during the Farners Faire Festival";}
-_PETSTRINGS[163] = {[1]="Black Peacock";[2]="Available trough barter during the Farmers Fair Festival";}
-_PETSTRINGS[164] = {[1]="Little Kid";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox";}
-_PETSTRINGS[165] = {[1]="Blue Peacock";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[166] = {[1]="Picnic Pony";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[167] = {[1]="Raincloud";[2]="Available through barter during Summer Seasonal Instances";}
-_PETSTRINGS[168] = {[1]="Songbird";[2]="Available for barter from Featured Challenges";}
-_PETSTRINGS[169] = {[1]="White Fox";[2]="Available for barter from Featured Challenges";}
+_PETSTRINGS[152] = {[1]="Paonne bleue";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[153] = {[1]="Paonne blanche";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[154] = {[1]="Chevreau moucheté";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[155] = {[1]="Paonne verte";[2]="Disponible à l'échange pendant les instances saisonnières d'été.";}
+_PETSTRINGS[156] = {[1]="Chevreau argenté";[2]="Disponible dans les Montagnes Grises.";}
+_PETSTRINGS[157] = {[1]="Paonne noire";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[158] = {[1]="Paon blanc";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[159] = {[1]="Chevreau café-au-lait";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[160] = {[1]="Paon vert";[2]="Disponible à l'échange pendant les instances saisonnières d'été.";}
+_PETSTRINGS[161] = {[1]="Chevreau caramel";[2]="Peut être échangé auprès de l'Itendant des Reconquérants de Gundabad.";}
+_PETSTRINGS[162] = {[1]="Gros chevreau";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[163] = {[1]="Paon noir";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[164] = {[1]="Petit chevreau";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[165] = {[1]="Paon bleu";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[166] = {[1]="Poney à pique-nique";[2]="Disponible à l'échange pendant les instances saisonnières d'été.";}
+_PETSTRINGS[167] = {[1]="Nuage de pluie";[2]="Disponible à l'échange pendant les instances saisonnières d'été.";}
+_PETSTRINGS[168] = {[1]="Oiseau chanteur";[2]="Disponible par échange avec le défi de la semaine.";}
+_PETSTRINGS[169] = {[1]="Renard blanc";[2]="Disponible par échange avec le défi de la semaine.";}
 
 -- u22.5
-_PETSTRINGS[170] = {[1]="Storm-cloud";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox"}
-_PETSTRINGS[171] = {[1]="Yule Rabbit";[2]="Reward for the Stolen Sweets quest."}
+_PETSTRINGS[170] = {[1]="Nuage noir";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[171] = {[1]="Lapin de Yule";[2]="Disponible dans la quête 'Friandises volées'."}
 
 -- u23.0
-_PETSTRINGS[172] = {[1]="Fiery Red Beetle";[2]="Available for barter from Quartermaster (Dwarves of Erebor Rewards)"}
-_PETSTRINGS[173] = {[1]="Rustflake Dust Devil";[2]="Available for barter from Quartermaster (Dwarves of Erebor Rewards)."}
+_PETSTRINGS[172] = {[1]="Scarabée rouge ardent";[2]="Disponible dans les Montagnes Grises."}
+_PETSTRINGS[173] = {[1]="Tourbillon de poussière parsemé de rouille";[2]="Disponible dans les Montagnes Grises."}
 
 -- Harvestmath 2018
-_PETSTRINGS[174] = {[1]="Black Cat";[2]="Available for barter from Festival Announcer (Farmers Faire)."}
+_PETSTRINGS[174] = {[1]="Chat noir";[2]="Disponible au festival de l'automne."}
 
 -- u23.1.2
-_PETSTRINGS[175] = {[1]="Black Mastiff";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox"}
+_PETSTRINGS[175] = {[1]="Mastiff noir";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 -- u23.1.7
-_PETSTRINGS[176] = {[1]="Snowy Barn Owl";[2]="Available from the Yule festival."}
-_PETSTRINGS[177] = {[1]="Snow Not-so-grim";[2]="Available from the Yule festival Seasonal Instances."}
-_PETSTRINGS[178] = {[1]="Golden Barn Owl";[2]="Available for Figments of Splendour from Traveller's Quartermaster, or in a Traveller's Steel-bound Lootbox"}
-_PETSTRINGS[179] = {[1]="Currupted Craban";[2]="Available from the Skirmishes -- Ill Omens event for 40 Tokens of Ill Omens."}
-_PETSTRINGS[180] = {[1]="Fiery Yellow Beetle";[2]="Available from the Skirmishes -- Ill Omens event for 40 Tokens of Ill Omens."}
-_PETSTRINGS[181] = {[1]="Sienna Goat";[2]="Available from the Skirmishes -- Ill Omens event for 40 Tokens of Ill Omens."}
+_PETSTRINGS[176] = {[1]="Effraie des neiges";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[177] = {[1]="Macabras de neige";[2]="Disponible à l'échange pendant les instances saisonnières de Yule."}
+_PETSTRINGS[178] = {[1]="Effraie dorée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[179] = {[1]="Crébain corrompu";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[180] = {[1]="Scarabée jaune ardent";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[181] = {[1]="Chèvre brune";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 -- u23.4
-_PETSTRINGS[182] = {[1]="Sentinel-in-training";[2]="Purchased from LOTRO Store for 595 LOTRO points or in Reclaim Moria Bundle"}
-_PETSTRINGS[183] = {[1]="Green Glow Worm";[2]="Acquired from Filbert Fig for 2,000 Figments of Splendour or Adventurer's Steel-bound Lootbox"}
-_PETSTRINGS[184] = {[1]="Orange Glow Worm";[2]="Acquired from Filbert Fig for 2,000 Figments of Splendour or Adventurer's Steel-bound Lootbox"}
+_PETSTRINGS[182] = {[1]="Chèvre-sentinelle";[2]="Disponible au magasin SdAO (partie du pack de reconquête de la Moria)"}
+_PETSTRINGS[183] = {[1]="Ver luminescent vert";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[184] = {[1]="Ver luminescent orange";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 
-_PETSTRINGS[185] = {[1]="Sky of a Perfect Day Kite";[2]="Available through barter during the Anniversary Festival"}
+_PETSTRINGS[185] = {[1]="Cerf-volant du ciel d'un jour sans nuages";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 
-_PETSTRINGS[186] = {[1]="Topaz Neekerbreeker";[2]="Available for Figments of Splendour or in a Lootbox"}
-_PETSTRINGS[187] = {[1]="Sapphire Neekerbreeker";[2]="Available for Figments of Splendour or in a Lootbox"}
-_PETSTRINGS[188] = {[1]="Amethyst Neekerbreeker";[2]="Available for Figments of Splendour or in a Lootbox"}
+_PETSTRINGS[186] = {[1]="Nicbriqueux de topaze";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[187] = {[1]="Nicbriqueux de saphir";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[188] = {[1]="Nicbriqueux d'améthyste";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 
-_PETSTRINGS[189] = {[1]="Black Rabbit";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[190] = {[1]="Night Squirrel";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[191] = {[1]="Tan Fox";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[192] = {[1]="Golden Sheep";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[193] = {[1]="Brown Pig";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[194] = {[1]="Golden Bat";[2]="Available by aiding Radagast at Rhosgobel."}
+_PETSTRINGS[189] = {[1]="Lapin noir";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[190] = {[1]="Écureuil nocturne";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[191] = {[1]="Renard brun clair";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[192] = {[1]="Mouton doré";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[193] = {[1]="Cochon brun";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[194] = {[1]="Cochon brun";[2]="Disponible en aidant Radagast à Rhosgobel."}
 
-_PETSTRINGS[195] = {[1]="Big Honey Bee";[2]="Available in the Vales of Anduin"}
-_PETSTRINGS[196] = {[1]="Silverback Badger";[2]="Available in the LOTRO Store for 595LP"}
-_PETSTRINGS[197] = {[1]="Spotted Pig";[2]="Available in the Vales of Anduin"}
+_PETSTRINGS[195] = {[1]="Grosse abeille à miel";[2]="Disponible au Val d'Anduin."}
+_PETSTRINGS[196] = {[1]="Blaireau à dos argenté";[2]="Disponible au magasin SdAO."}
+_PETSTRINGS[197] = {[1]="Cochon tacheté";[2]="Disponible au Val d'Anduin."}
 
-_PETSTRINGS[198] = {[1]="Big Blue Carpenter Bee";[2]="Available for Figments of Splendour or in a Lootbox."}
-_PETSTRINGS[199] = {[1]="Big Wasp";[2]="Available for Figments of Splendour or in a Lootbox."}
+_PETSTRINGS[198] = {[1]="Grosse abeille charpentière bleue";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[199] = {[1]="Grosse guêpe";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 
-_PETSTRINGS[200] = {[1]="Black Pig";[2]="Available for Figments of Splendour or in a Lootbox"}
-_PETSTRINGS[201] = {[1]="Pink Pig";[2]="Available for Figments of Splendour or in a Lootbox"}
-_PETSTRINGS[202] = {[1]="Big Bumblebee";[2]="Available for barter in the Vales of Anduin"}
-_PETSTRINGS[203] = {[1]="Brown Pig";[2]="Available in the Vales of Anduin"}
+_PETSTRINGS[200] = {[1]="Cochon noir";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[201] = {[1]="Cochon rose";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[202] = {[1]="Gros bourdon";[2]="Peut être échangé au Val d'Anduin."}
+_PETSTRINGS[203] = {[1]="Petit cochon brun";[2]="Disponible au Val d'Anduin."}
 
-_PETSTRINGS[204] = {[1]="Shepherd Dog";[2]="Available in the Minas Morgul Collector's Edition or Ultimate Fan Bundle"}
-_PETSTRINGS[205] = {[1]="Harnessed Shepherd Dog";[2]="Available in the Minas Morgul Collector's Edition or Ultimate Fan Bundle"}
-_PETSTRINGS[206] = {[1]="Badger";[2]="Available from the Fall Festival"}
-_PETSTRINGS[207] = {[1]="Brown Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[208] = {[1]="White Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[209] = {[1]="Black Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[210] = {[1]="Winter Celebration Pig";[2]="Available from Hobbit Presents as a special Gold Winter Gift"}
-_PETSTRINGS[211] = {[1]="Present-Bearing Pet Pony";[2]="Available from Hobbit Presents as a special Silver Winter Gift"}
+_PETSTRINGS[204] = {[1]="Chien de berger";[2]="Disponible dans l'Édition Collector Minas Morgul ou le Pack de Fan ultime."}
+_PETSTRINGS[205] = {[1]="Chien de berger dressé";[2]="Disponible dans le Pack de Fan ultime Minas Morgul."}
+_PETSTRINGS[206] = {[1]="Blaireau";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[207] = {[1]="Chien-loup marron";[2]="Disponible par échange à Minas Morgul."}
+_PETSTRINGS[208] = {[1]="Chien-loup blanc";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[209] = {[1]="Chien-loup noir";[2]="Disponible par échange dans l'Imlad Morgul."}
+_PETSTRINGS[210] = {[1]="Cochon festif d'hiver";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en or."}
+_PETSTRINGS[211] = {[1]="Poney domestique porteur de cadeaux";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
 
-_PETSTRINGS[212] = {[1]="Husky Wolf-dog";[2]="Available for Figments of Splendour or in a Lootbox."}
-_PETSTRINGS[213] = {[1]="Flying Fox";[2]="Available for Figments of Splendour or in a Lootbox."}
-_PETSTRINGS[214] = {[1]="Smoky-grey Cat";[2]="Available for Figments of Splendour or in a Lootbox."}
+_PETSTRINGS[212] = {[1]="Chien-loup Husky";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[213] = {[1]="Renard volant";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[214] = {[1]="Chat gris cendré";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 
-_PETSTRINGS[215] = {[1]="Tattered Bat";[2]="Available from the Skirmishes -- Ill Omens event."}
-_PETSTRINGS[216] = {[1]="Blood-red Bat";[2]="Available from the Skirmishes -- Ill Omens event."}
-_PETSTRINGS[217] = {[1]="White Huorn";[2]="Available from the Skirmishes -- Ill Omens event."}
-_PETSTRINGS[218] = {[1]="Enchanted Vessel";[2]="Available for barter from the White Company Quartermaster"}
-_PETSTRINGS[219] = {[1]="White-headed Hawk";[2]="Available through barter during the Spring Festrival."}
-_PETSTRINGS[220] = {[1]="Woodland Rabbit";[2]="Available through barter during the Spring Festrival."}
-_PETSTRINGS[221] = {[1]="Silly Goose";[2]="Available through barter during the Spring Festrival."}
+_PETSTRINGS[215] = {[1]="Chauve-souris en piteux état";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[216] = {[1]="Chauve-souris rouge sang";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[217] = {[1]="Huorn blanc";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[218] = {[1]="Récipient enchanté";[2]="Peut être échangé auprès de l'intendant de la Compagnie blanche."}
+_PETSTRINGS[219] = {[1]="Faucon à tête blanche";[2]="Disponible par échange au cours du Festival du printemps."}
+_PETSTRINGS[220] = {[1]="Lapin des bois";[2]="Disponible par échange au cours du Festival du printemps."}
+_PETSTRINGS[221] = {[1]="Oie";[2]="Disponible par échange au cours du Festival du printemps."}
 
-_PETSTRINGS[222] = {[1]="Swarm of Bees";[2]="Available in the Mist of Wilderland."}
-_PETSTRINGS[223] = {[1]="Anniversary Celebration Pig";[2]="Limited time anniversary offer for VIPs."}
-_PETSTRINGS[224] = {[1]="Mysterious Celebration";[2]="Available as a 13th Anniversary Gift."}
+_PETSTRINGS[222] = {[1]="Essaim d'abeilles";[2]="Disponible dans les Brumes des Terres sauvages"}
+_PETSTRINGS[223] = {[1]="Cochon festif d'anniversaire";[2]="Offre anniversaire en temps limité pour les VIP"}
+_PETSTRINGS[224] = {[1]="Mystérieux cochon festif";[2]="Disponible comme 13e cadeau d'anniversaire."}
 
-_PETSTRINGS[225] = {[1]="Large Gondorian Kite";[2]="Available from Hobbit Presents as a special Midsummer Wedding Gift."}
-_PETSTRINGS[226] = {[1]="Wedding Celebration Pony";[2]="Available from Hobbit Presents as a special Midsummer Wedding Gift."}
-_PETSTRINGS[227] = {[1]="Decorated Goose";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[228] = {[1]="Gondor Midsummer Kite";[2]="Available in Midsummer."}
-_PETSTRINGS[229] = {[1]="Green Firefly";[2]="Available from Hobbit Presents as special Midsummer Wedding Gift."}
-_PETSTRINGS[230] = {[1]="Purple Firefly";[2]="Available in Midsummer."}
-_PETSTRINGS[231] = {[1]="Blue Firefly";[2]="Available in Midsummer."}
-_PETSTRINGS[232] = {[1]="Red Firefly";[2]="Available in Midsummer."}
+_PETSTRINGS[225] = {[1]="Grand cerf-volant gondorien";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[226] = {[1]="Poney de fête de mariage";[2]="Disponible précédemment dans les cadeaux de Hobbits comme cadeau spécial de mariage du Solstice d’été."}
+_PETSTRINGS[227] = {[1]="Oie décorée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[228] = {[1]="Cerf-volant gondorien du Solstice d'été";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[229] = {[1]="Luciole verte";[2]="Disponible précédemment dans les cadeaux de Hobbits comme cadeau spécial de mariage du Solstice d’été."}
+_PETSTRINGS[230] = {[1]="Luciole violette";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[231] = {[1]="Luciole bleue";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[232] = {[1]="Luciole rouge";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
 
-_PETSTRINGS[233] = {[1]="Gloaming Kite";[2]="Available through barter during the Farmers Faire Festival."}
-_PETSTRINGS[234] = {[1]="Grey Pig";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[233] = {[1]="Cerf-volant du point du jour";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[234] = {[1]="Cochon gris";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
 
-_PETSTRINGS[235] = {[1]="Light Grey Goat";[2]="Available through completing Missions."}
-_PETSTRINGS[236] = {[1]="Dark Grey Squirrel";[2]="Available through completing Missions."}
-_PETSTRINGS[237] = {[1]="Burgundy Goat";[2]="Available through completing Missions."}
-_PETSTRINGS[238] = {[1]="Coffee Goat";[2]="Available through completing Missions."}
-_PETSTRINGS[239] = {[1]="Treasure-laden Donkey";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
-_PETSTRINGS[240] = {[1]="Battle-adorned Pig";[2]="Available in the War of Three Peaks Ultimate Fan Bundle."}
-_PETSTRINGS[241] = {[1]="Lively Slug";[2]="Available from participating in community events."}
-_PETSTRINGS[242] = {[1]="Spooky Jackdaw";[2]="Available from the Fall Festival."}
-_PETSTRINGS[243] = {[1]="Soot-featherd Crow";[2]="Available from the Fall Festival."}
-_PETSTRINGS[244] = {[1]="Harbinger of the Sage's Storm";[2]="Available from the Fall Festival."}
-_PETSTRINGS[245] = {[1]="Wild Grey Donkey";[2]="Available through completing the deed 'Bringer of Good Cheer'."}
-_PETSTRINGS[246] = {[1]="Cask-laden Donkey";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[247] = {[1]="Alabaster Donkey";[2]="Available for Barter during Yule Seasonal Instances."}
-_PETSTRINGS[248] = {[1]="Cozy Yule Goat Kid";[2]="Available from Hobbit Presents as a special Winter Gift."}
-_PETSTRINGS[249] = {[1]="Brown Bear Cub";[2]="Available through Barter during the Yule Festival."}
-_PETSTRINGS[250] = {[1]="Poinsettia-wreathed Huorn";[2]="Available through Barter during the Yule Festival."}
-_PETSTRINGS[251] = {[1]="Yule Tree Huorn";[2]="Available from Hobbit Presents as a special Winter Gift."}
-_PETSTRINGS[252] = {[1]="Ill Omened Hound";[2]="Available from the Skirmishes -- Ill Omens event."}
-_PETSTRINGS[253] = {[1]="Ill Omened Worm";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[235] = {[1]="Chèvre gris clair";[2]="S'obtient en accomplissant des missions."}
+_PETSTRINGS[236] = {[1]="Écureuil gris foncé";[2]="Peut être échangé auprès de l'Itendant des Reconquérants de Gundabad."}
+_PETSTRINGS[237] = {[1]="Chèvre bordeaux";[2]="Peut être échangé auprès de l'Itendant des Reconquérants de Gundabad."}
+_PETSTRINGS[238] = {[1]="Chèvre café";[2]="S'obtient en accomplissant des missions."}
+_PETSTRINGS[239] = {[1]="Âne chargé de trésor";[2]="Disponible dans le Pack Fan ultime de La Guerre des Trois Sommets."}
+_PETSTRINGS[240] = {[1]="Cochon harnaché pour le combat";[2]="Disponible dans le Pack Fan ultime de La Guerre des Trois Sommets."}
+_PETSTRINGS[241] = {[1]="Limace vivace";[2]="Disponible en participant à des événements de communauté."}
+_PETSTRINGS[242] = {[1]="Choucas sinistre";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[243] = {[1]="Corbeau au plumage de suie";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[244] = {[1]="Présage de la tempête de sauge";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[245] = {[1]="Âne gris sauvage";[2]="Disponible en accomplissant l'exploit ${PLAYERNAME:Protecteur[m]|Protectrice[f]} de la bonne humeur"}
+_PETSTRINGS[246] = {[1]="Âne chargé de barils";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[247] = {[1]="Âne d'albâtre";[2]="Disponible à l'échange pendant les instances saisonnières de Yule."}
+_PETSTRINGS[248] = {[1]="Chevreau de Yule";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
+_PETSTRINGS[249] = {[1]="Ourson brun";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[250] = {[1]="Huorn orné de poinsettias";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[251] = {[1]="Huorn de Yule";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
+_PETSTRINGS[252] = {[1]="Chien de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[253] = {[1]="Ver de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 
-_PETSTRINGS[254] = {[1]="Tame Wildwood Horn";[2]="Available through Barter in Wildwood."}
-_PETSTRINGS[255] = {[1]="Tame Wildwood Tusker";[2]="Available through Barter in Wildwood."}
-_PETSTRINGS[256] = {[1]="Wild Young Moose";[2]="Available through Barter in Wildwood."}
-_PETSTRINGS[257] = {[1]="Red Gecko";[2]="Available through crafting in Wildwood."}
-_PETSTRINGS[258] = {[1]="Two-toned Sheep";[2]="Available through crafting in Wildwood."}
-_PETSTRINGS[259] = {[1]="Ashen Eagle";[2]="Available through crafting in Wildwood."}
-_PETSTRINGS[260] = {[1]="Spotted Pig";[2]="Available through crafting in Wildwood."}
-_PETSTRINGS[261] = {[1]="Copper Goat";[2]="Available through crafting in Wildwood."}
-_PETSTRINGS[262] = {[1]="Bog-lurker Buddy";[2]="Available to barter from Celeblír."}
-_PETSTRINGS[263] = {[1]="Dappled Tri-colour Cat";[2]="Available in the LOTRO Store"}
-_PETSTRINGS[264] = {[1]="Cozy Grey Cat";[2]="Available Through barter during the Anniversary Festival."}
-_PETSTRINGS[265] = {[1]="Adventurous Lurker";[2]="Available to barter from Celeblír."}
+_PETSTRINGS[254] = {[1]="Huorn docile des Bois sauvages";[2]="Disponible par échange dans les Bois sauvage."}
+_PETSTRINGS[255] = {[1]="Défenseur docile des Bois sauvages";[2]="Disponible par échange dans les Bois sauvage."}
+_PETSTRINGS[256] = {[1]="Jeune élan sauvage";[2]="Disponible par échange dans les Bois sauvage."}
+_PETSTRINGS[257] = {[1]="Gecko rouge";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[258] = {[1]="Mouton bicolore";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[259] = {[1]="Aigle cendré";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[260] = {[1]="Cochon tacheté";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[261] = {[1]="Chèvre cuivrée";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[262] = {[1]="Compagnon rôdemarais";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
+_PETSTRINGS[263] = {[1]="Chat tricolore pommelé";[2]="Disponible au magasin SdAO."}
+_PETSTRINGS[264] = {[1]="Chat gris affectueux";[2]="Disponible par échange au cours du Festival d'anniversaire."}
+_PETSTRINGS[265] = {[1]="Rôdemarais aventureux";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
 
-_PETSTRINGS[266] = {[1]="Bat of Azanulbizar";[2]="Available to barter in Azanulbizar"}
-_PETSTRINGS[267] = {[1]="Delving Nether-hound";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[268] = {[1]="Nether-hound";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[269] = {[1]="Cart Pony";[2]="Available to barter with the Kharum-ubnar."}
-_PETSTRINGS[270] = {[1]="Snowy Mountain Eagle";[2]="Available to barter with the Kharum-ubnar."}
-_PETSTRINGS[271] = {[1]="Chipmunk";[2]="Available in Midsummer."}
-_PETSTRINGS[272] = {[1]="Silver Chipmunk";[2]="Available in Midsummer."}
-_PETSTRINGS[273] = {[1]="Woodland Doe";[2]="Available through barter during the Farmers Faire Festival."}
-_PETSTRINGS[274] = {[1]="Woodland Deer";[2]="Available for barter during Summer Seasonal Instances."}
-_PETSTRINGS[275] = {[1]="Spotted Woodland Fawn";[2]="Available through barter during the Farmers Faire Festival."}
-_PETSTRINGS[276] = {[1]="Golden Cave-claw";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
-_PETSTRINGS[277] = {[1]="Crystal Grim";[2]="Available in the Fate of Gundabad Ultimate Fan Bundle."}
-_PETSTRINGS[278] = {[1]="Gundabad Ukhrash";[2]="Available in the Fate of Gundabad Collector's Edition or Ultimate Fan Bundle."}
+_PETSTRINGS[266] = {[1]="Chauve-souris d'Azanulbizar";[2]="Disponible par échange à Azanulbizar."}
+_PETSTRINGS[267] = {[1]="Chien fouisseur du tréfonds";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[268] = {[1]="Chien du tréfonds";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[269] = {[1]="Poney de charrette";[2]="Disponible par échange avec le Kharum-ubnâr."}
+_PETSTRINGS[270] = {[1]="Aigle des montagnes enneigées";[2]="Disponible par échange avec le Kharum-ubnâr."}
+_PETSTRINGS[271] = {[1]="Tamia";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[272] = {[1]="Tamia argenté";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[273] = {[1]="Biche des bois";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[274] = {[1]="Cerf des bois";[2]="Disponible à l'échange pendant les instances saisonnières d'été."}
+_PETSTRINGS[275] = {[1]="Faon des bois repéré";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[276] = {[1]="Grifferoche doré";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[277] = {[1]="Macabras de cristal";[2]="Disponible dans le Pack Fan ultime Gundabad."}
+_PETSTRINGS[278] = {[1]="Ukhrash de Gundabad";[2]="Disponible dans l'Édition Collector Gundabad ou le Pack Fan ultime Gundabad."}
 
-_PETSTRINGS[279] = {[1]="White Heartwood Fawn";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[280] = {[1]="Autumn Heartwood Stag";[2]="Limited time availability for Figments of Splendour."}
-_PETSTRINGS[281] = {[1]="Tame Gundabad Bat";[2]="Available to barter in Gundabad."}
-_PETSTRINGS[282] = {[1]="Little Deep Toad";[2]="Available to barter in Gundabad."}
-_PETSTRINGS[283] = {[1]="Craggy Slug";[2]="Available to barter in Gundabad."}
-_PETSTRINGS[284] = {[1]="Crystal Spider";[2]="Available to barter in Gundabad."}
+_PETSTRINGS[279] = {[1]="Faon des duramens blanc";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[280] = {[1]="Cerf des duramens d'automne";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[281] = {[1]="Chauve-souris domestique de Gundabad";[2]="Disponible par échange à Gundabad."}
+_PETSTRINGS[282] = {[1]="Petit crapaud des profondeurs";[2]="Disponible dans le coffre de Pughlak, dans l'Antre de Pughlak."}
+_PETSTRINGS[283] = {[1]="Limace bosselée";[2]="Disponible par échange à Gundabad."}
+_PETSTRINGS[284] = {[1]="Araignée de cristal";[2]="Disponible par échange à Gundabad."}
 
-_PETSTRINGS[285] = {[1]="Yule Princess Bunny";[2]="Available through barter during the Yule Festival."}
-_PETSTRINGS[286] = {[1]="Light Grey Squirrel";[2]="Available for barter from the defenders of the angle quartermaster."}
-_PETSTRINGS[287] = {[1]="Cinder Hawk";[2]="Available for barter from the defenders of the angle quartermaster."}
-_PETSTRINGS[288] = {[1]="Brown Marble Wolf-dog";[2]="Available for barter with the Defenders of the Angle Quartermaster."}
+_PETSTRINGS[285] = {[1]="Princesse lapine de Yule";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[286] = {[1]="Écureuil gris clair";[2]="Peut être échangé auprès de l'intendant des Défenseurs de l'Angle."}
+_PETSTRINGS[287] = {[1]="Faucon cendré";[2]="Disponible par échange auprès de l'intendant des Défenseurs de l'Angle."}
+_PETSTRINGS[288] = {[1]="Chien-loup en marbre marron";[2]="Peut être échangé avec l'intendant des Défenseurs de l'Angle."}
 
-_PETSTRINGS[289] = {[1]="Wild Spotted Donkey";[2]="";}
-_PETSTRINGS[290] = {[1]="Tri-colour Corgi";[2]="Available through barter during the Anniversary Festival.";}
-_PETSTRINGS[291] = {[1]="Fireworks Corgi";[2]="Available through barter during the Anniversary Festival.";}
-_PETSTRINGS[292] = {[1]="Chestnut Corgi";[2]="Limited time Anniversary gift.";}
-_PETSTRINGS[293] = {[1]="Golden Crystal Beetle";[2]="Available through barter during the Anniversary Festival.";}
-_PETSTRINGS[294] = {[1]="Anniversary Celebration Corgi";[2]="Available from participating in community events.";}
-_PETSTRINGS[295] = {[1]="Spotted Corgi";[2]="Available from participating in community events.";}
-_PETSTRINGS[296] = {[1]="Buff Donkey";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes";}
-_PETSTRINGS[297] = {[1]="Copper Nether-hound";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes";}
+_PETSTRINGS[289] = {[1]="Âne tacheté sauvage";[2]="Disponible par échange au cours du Festival du printemps.";}
+_PETSTRINGS[290] = {[1]="Corgi tricolore";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[291] = {[1]="Corgi feux d'artifice";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[292] = {[1]="Corgi châtain";[2]="Cadeau anniversaire à durée limitée";}
+_PETSTRINGS[293] = {[1]="Scarabée de cristal doré";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[294] = {[1]="Corgi d'anniversaire";[2]="Disponible en participant à des événements de communauté.";}
+_PETSTRINGS[295] = {[1]="Corgi moucheté";[2]="Disponible en participant à des événements de communauté.";}
+_PETSTRINGS[296] = {[1]="Âne chamois";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier";}
+_PETSTRINGS[297] = {[1]="Chien cuivré du tréfonds";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier";}
 
-_PETSTRINGS[298] = {[1]="Blood Craban";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
-_PETSTRINGS[299] = {[1]="Formal Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
-_PETSTRINGS[300] = {[1]="Friendly Bear Cub";[2]="Available to barter from Celeblír in Rivendell"}
-_PETSTRINGS[301] = {[1]="Black Bear Cub";[2]="Available to barter from Celeblír in Rivendell"}
-_PETSTRINGS[302] = {[1]="Noble Starling";[2]="Acquired by buing an enhanced or luxurious supporter of Rivendell"}
-_PETSTRINGS[303] = {[1]="Mountaineering Donkey";[2]="Limited time availability: Legendary Item Reward Track Season 2";}
-_PETSTRINGS[304] = {[1]="Feed-laden Donkey";[2]="Available through barter during the Farmers Fair Festival.";}
-_PETSTRINGS[305] = {[1]="Mushroom Nether-hound";[2]="Available through barter during the Farmers Fair Festival."}
-_PETSTRINGS[306] = {[1]="Black Bat";[2]="Limited time availability: Legendary Item Reward Track Season 3"}
+_PETSTRINGS[298] = {[1]="Crébain sanglant";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[299] = {[1]="Corgi formel";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[300] = {[1]="Gentil ourson";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
+_PETSTRINGS[301] = {[1]="Ourson noir";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
+_PETSTRINGS[302] = {[1]="Étourneau noble";[2]="Acquis en étant un soutien amélioré ou de luxe de Fondcombe."}
+_PETSTRINGS[303] = {[1]="Âne d'alpiniste";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 2";}
+_PETSTRINGS[304] = {[1]="Âne chargé de fourrage";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
+_PETSTRINGS[305] = {[1]="Chien fongique du tréfonds";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[306] = {[1]="Chauve-souris noire";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 3"}
 
-_PETSTRINGS[307] = {[1]="Night Sky Craban";[2]="Available through barter during the Fall Festival."}
-_PETSTRINGS[308] = {[1]="Lantern Gourd-lurker";[2]="Available through barter during the Fall Festival."}
-_PETSTRINGS[309] = {[1]="Loyal Turtle";[2]="Available in the Before the Shadow Ultimate Fan Bundle."}
-_PETSTRINGS[310] = {[1]="Friendly Heron";[2]="Available in the Before the Shadow Collector's Edition or Ultimate Fan Bundle."}
+_PETSTRINGS[307] = {[1]="Crébain du ciel nocturne";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[308] = {[1]="Rôde-gourde lanterne";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[309] = {[1]="Tortue loyale";[2]="Disponible dans le Pack Fan ultime Avant l'Ombre."}
+_PETSTRINGS[310] = {[1]="Héron amical";[2]="Disponible dans l'Édition Collector ou le Pack de Fan ultime Avant l'Ombre."}
+_PETSTRINGS[311] = {[1]="Crébain moucheté";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[312] = {[1]="Chauve-souris dorée";[2]="Disponible en aidant Radagast à Rhosgobel."}
 
-_PETSTRINGS[500] = {[1]="Stripey Bat";[2]="TBD"}
+_PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 
-_PETSTRINGS[501] = {[1]="Injured Bat";[2]="TBD"}
-_PETSTRINGS[502] = {[1]="Tan Bat";[2]="TBD"}
+_PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
+_PETSTRINGS[502] = {[1]="Chauve-souris brunie";[2]=""}
 
-_PETSTRINGS[503] = {[1]="Black-wing Kite";[2]="TBD"}
-_PETSTRINGS[504] = {[1]="Dusk-wing Kite";[2]="TBD"}
-_PETSTRINGS[505] = {[1]="Maple Kite";[2]="TBD"}
+_PETSTRINGS[503] = {[1]="Cerf-volant des ailes noires";[2]=""}
+_PETSTRINGS[504] = {[1]="Cerf-volant des ailes du crépuscule";[2]=""}
+_PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
 
-_PETSTRINGS[506] = {[1]="Black Marble Wolf-dog";[2]="Available for barter in Minas Morgul"}
-_PETSTRINGS[507] = {[1]="Tan Wolf-dog";[2]="Available for barter in Minas Morgul"}
+_PETSTRINGS[506] = {[1]="Chien-loup en marbre noir";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[507] = {[1]="Chien-loup en brun claire";[2]=""}
 
-_PETSTRINGS[508] = {[1]="White Goose";[2]=""}
+_PETSTRINGS[508] = {[1]="Oie blanche";[2]="Disponible dans la Comté lointaine."}
 
-_PETSTRINGS[509] = {[1]="Warm Winter Goat Kid";[2]=""}
-_PETSTRINGS[510] = {[1]="Festive Yule Goat Kid";[2]=""}
-_PETSTRINGS[511] = {[1]="Ill Omened Beast";[2]="TBD"}
-_PETSTRINGS[512] = {[1]="Ill Omened Crawler";[2]="TBD"}
+_PETSTRINGS[509] = {[1]="Chevreau bien au chaud";[2]="Available from Season 4 of the Legendary Item Reward Track."}
+_PETSTRINGS[510] = {[1]="Chevreau de Yule festif";[2]=""}
+_PETSTRINGS[511] = {[1]="Bête de mauvais augure";[2]=""}
+_PETSTRINGS[512] = {[1]="Rampant de mauvais augure";[2]=""}
 
-_PETSTRINGS[513] = {[1]="Umber Nether-hound";[2]=""}
-_PETSTRINGS[514] = {[1]="Dusky Nether-hound";[2]=""}
+_PETSTRINGS[513] = {[1]="Chien couleur terre du tréfonds";[2]=""}
+_PETSTRINGS[514] = {[1]="Chien mat du tréfonds";[2]="Available through barter by participating in Delvings."}
 
-_PETSTRINGS[515] = {[1]="Cream Corgi";[2]="";}
-_PETSTRINGS[516] = {[1]="Rust Corgi";[2]="";}
-_PETSTRINGS[517] = {[1]="Russet Corgi";[2]="";}
-_PETSTRINGS[518] = {[1]="Brick Corgi";[2]="";}
-_PETSTRINGS[519] = {[1]="Prepared Corgi";[2]="";}
-_PETSTRINGS[520] = {[1]="Library Corgi";[2]="";}
-_PETSTRINGS[521] = {[1]="Blonde Corgi";[2]="";}
-_PETSTRINGS[522] = {[1]="Friendly Stork";[2]="";}
-_PETSTRINGS[523] = {[1]="Friendly Egret";[2]="";}
+_PETSTRINGS[515] = {[1]="Corgi crème";[2]="";}
+_PETSTRINGS[516] = {[1]="Corgi rouille";[2]="";}
+_PETSTRINGS[517] = {[1]="Corgi brun-roux";[2]="";}
+_PETSTRINGS[518] = {[1]="Corgi brique";[2]="Available through barter by participating in Delvings.";}
+_PETSTRINGS[519] = {[1]="Corgi apprêté";[2]="";}
+_PETSTRINGS[520] = {[1]="Corgi de bibliothèque";[2]="";}
+_PETSTRINGS[521] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[522] = {[1]="Cigogne amicale";[2]="Available to barter in Cardolan.";}
+_PETSTRINGS[523] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[524] = {[1]="Vent d'hiver";[2]=""}
