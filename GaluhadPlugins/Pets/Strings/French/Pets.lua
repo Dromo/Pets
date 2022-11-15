@@ -57,12 +57,12 @@ _PETSTRINGS[38] = {[1]="Grenouille de brume";[2]="Disponible par échange à l'e
 _PETSTRINGS[39] = {[1]="Tortue voyageuse";[2]="Peut être obtenu d'une troupe de guerre dans les Marais des Morts.";};
 
 -- u15.0
-_PETSTRINGS[40] = {[1]="Jeune aurochs";[2]="'Peut être échangé dans le Val de Ringló. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes du Val de Ringló.";};
+_PETSTRINGS[40] = {[1]="Jeune aurochs";[2]="'Peut être échangé dans le Val de Ringló. Requiert le statut de frère/sœur des Hommes du Val de Ringló.";};
 _PETSTRINGS[41] = {[1]="Macabras ardent";[2]="Peut être échangé au Festival de Yule.";};
 _PETSTRINGS[42] = {[1]="Macabras";[2]="Peut être échangé au Festival de Yule.";};
-_PETSTRINGS[43] = {[1]="Mouches des sables";[2]="'Peut être échangé dans la région de Dor-en-Ernil. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes de Dor-en-Ernil.";};
+_PETSTRINGS[43] = {[1]="Mouches des sables";[2]="'Peut être échangé dans la région de Dor-en-Ernil. Requiert le statut de frère/sœur des Hommes de Dor-en-Ernil.";};
 _PETSTRINGS[44] = {[1]="Macabras ténébreux";[2]="Peut être échangé au Festival de Yule.";};
-_PETSTRINGS[45] = {[1]="Rat clandestin";[2]="'Peut être échangé dans le Lebennin. Requiert le statut de ${PLAYERNAME:frère[m]|sœur[f]} des Hommes du Lebennin.";};
+_PETSTRINGS[45] = {[1]="Rat clandestin";[2]="'Peut être échangé dans le Lebennin. Requiert le statut de frère/sœur des Hommes du Lebennin.";};
 
 -- u16.0
 _PETSTRINGS[46] = {[1]="Lapin brun";[2]="Disponible en participant à l'histoire de Bingo Bophin. Peut s'obtenir par échange dans la Comté.";};
@@ -311,7 +311,7 @@ _PETSTRINGS[241] = {[1]="Limace vivace";[2]="Disponible en participant à des é
 _PETSTRINGS[242] = {[1]="Choucas sinistre";[2]="Disponible au festival de l'automne."}
 _PETSTRINGS[243] = {[1]="Corbeau au plumage de suie";[2]="Disponible au festival de l'automne."}
 _PETSTRINGS[244] = {[1]="Présage de la tempête de sauge";[2]="Disponible au festival de l'automne."}
-_PETSTRINGS[245] = {[1]="Âne gris sauvage";[2]="Disponible en accomplissant l'exploit ${PLAYERNAME:Protecteur[m]|Protectrice[f]} de la bonne humeur"}
+_PETSTRINGS[245] = {[1]="Âne gris sauvage";[2]="Disponible en accomplissant l'exploit Protecteur/Protectrice de la bonne humeur"}
 _PETSTRINGS[246] = {[1]="Âne chargé de barils";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[247] = {[1]="Âne d'albâtre";[2]="Disponible à l'échange pendant les instances saisonnières de Yule."}
 _PETSTRINGS[248] = {[1]="Chevreau de Yule";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
