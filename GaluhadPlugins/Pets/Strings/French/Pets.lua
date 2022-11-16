@@ -387,35 +387,33 @@ _PETSTRINGS[310] = {[1]="Héron amical";[2]="Disponible dans l'Édition Collecto
 _PETSTRINGS[311] = {[1]="Crébain moucheté";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
 _PETSTRINGS[312] = {[1]="Chauve-souris dorée";[2]="Disponible en aidant Radagast à Rhosgobel."}
 
-_PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
+_PETSTRINGS[313] = {[1]="Chat tigré affectueux";[2]="Disponible par échange dans le Cardolan."}
+_PETSTRINGS[314] = {[1]="Salamandre rouge";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 4"}
+_PETSTRINGS[315] = {[1]="Vagabond des galgals effrayant";[2]="Disponible comme récompense à Sarch Vorn, le Tombeau noir."}
 
+_PETSTRINGS[316] = {[1]="Chien-loup en marbre noir";[2]="Disponible au festival de l'automne."}
+_PETSTRINGS[317] = {[1]="Oie blanche";[2]="Disponible dans la Comté lointaine.";}
+_PETSTRINGS[318] = {[1]="Chevreau bien au chaud";[2]="Disponible dans la saison 4 du suivi de récompense d'objets légendaires.";}
+_PETSTRINGS[319] = {[1]="Chien mat du tréfonds";[2]="Disponible par échange en participant à des excavations.";}
+_PETSTRINGS[320] = {[1]="Corgi brique";[2]="Disponible par échange en participant à des excavations.";}
+_PETSTRINGS[321] = {[1]="Cigogne amicale";[2]="Disponible par échange dans le Cardolan.";}
+_PETSTRINGS[322] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+
+_PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
 _PETSTRINGS[502] = {[1]="Chauve-souris brunie";[2]=""}
-
 _PETSTRINGS[503] = {[1]="Cerf-volant des ailes noires";[2]=""}
 _PETSTRINGS[504] = {[1]="Cerf-volant des ailes du crépuscule";[2]=""}
 _PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
-
-_PETSTRINGS[506] = {[1]="Chien-loup en marbre noir";[2]="Disponible au festival de l'automne."}
-_PETSTRINGS[507] = {[1]="Chien-loup en brun claire";[2]=""}
-
-_PETSTRINGS[508] = {[1]="Oie blanche";[2]="Disponible dans la Comté lointaine."}
-
-_PETSTRINGS[509] = {[1]="Chevreau bien au chaud";[2]="Available from Season 4 of the Legendary Item Reward Track."}
-_PETSTRINGS[510] = {[1]="Chevreau de Yule festif";[2]=""}
-_PETSTRINGS[511] = {[1]="Bête de mauvais augure";[2]=""}
-_PETSTRINGS[512] = {[1]="Rampant de mauvais augure";[2]=""}
-
-_PETSTRINGS[513] = {[1]="Chien couleur terre du tréfonds";[2]=""}
-_PETSTRINGS[514] = {[1]="Chien mat du tréfonds";[2]="Available through barter by participating in Delvings."}
-
-_PETSTRINGS[515] = {[1]="Corgi crème";[2]="";}
-_PETSTRINGS[516] = {[1]="Corgi rouille";[2]="";}
-_PETSTRINGS[517] = {[1]="Corgi brun-roux";[2]="";}
-_PETSTRINGS[518] = {[1]="Corgi brique";[2]="Available through barter by participating in Delvings.";}
-_PETSTRINGS[519] = {[1]="Corgi apprêté";[2]="";}
-_PETSTRINGS[520] = {[1]="Corgi de bibliothèque";[2]="";}
-_PETSTRINGS[521] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
-_PETSTRINGS[522] = {[1]="Cigogne amicale";[2]="Available to barter in Cardolan.";}
-_PETSTRINGS[523] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
-_PETSTRINGS[524] = {[1]="Vent d'hiver";[2]=""}
+_PETSTRINGS[506] = {[1]="Chien-loup en brun claire";[2]=""}
+_PETSTRINGS[507] = {[1]="Chevreau de Yule festif";[2]=""}
+_PETSTRINGS[508] = {[1]="Bête de mauvais augure";[2]=""}
+_PETSTRINGS[509] = {[1]="Rampant de mauvais augure";[2]=""}
+_PETSTRINGS[510] = {[1]="Chien couleur terre du tréfonds";[2]=""}
+_PETSTRINGS[511] = {[1]="Corgi crème";[2]=""}
+_PETSTRINGS[512] = {[1]="Corgi rouille";[2]=""}
+_PETSTRINGS[513] = {[1]="Corgi brun-roux";[2]=""}
+_PETSTRINGS[514] = {[1]="Corgi apprêté";[2]=""}
+_PETSTRINGS[515] = {[1]="Corgi de bibliothèque";[2]="";}
+_PETSTRINGS[516] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[517] = {[1]="Vent d'hiver";[2]="";}
