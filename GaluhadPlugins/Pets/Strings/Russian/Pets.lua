@@ -397,9 +397,9 @@ _PETSTRINGS[317] = {[1]="White Goose";[2]="Available in the Yondershire.";}
 _PETSTRINGS[318] = {[1]="Warm Winter Goat Kid";[2]="Available from Season 4 of the Legendary Item Reward Track.";}
 _PETSTRINGS[319] = {[1]="Dusky Nether-hound";[2]="Available through barter by participating in Delvings.";}
 _PETSTRINGS[320] = {[1]="Brick Corgi";[2]="Available through barter by participating in Delvings.";}
-_PETSTRINGS[321] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
-_PETSTRINGS[322] = {[1]="Friendly Stork";[2]="Available to barter in Cardolan.";}
-_PETSTRINGS[323] = {[1]="Friendly Egret";[2]="Limited time availability for Figments of Splendour.";}
+_PETSTRINGS[321] = {[1]="Friendly Stork";[2]="Available to barter in Cardolan.";}
+_PETSTRINGS[322] = {[1]="Friendly Egret";[2]="Limited time availability for Figments of Splendour.";}
+_PETSTRINGS[323] = {[1]="Festive Yule Goat Kid";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -408,13 +408,13 @@ _PETSTRINGS[503] = {[1]="Black-wing Kite";[2]=""}
 _PETSTRINGS[504] = {[1]="Dusk-wing Kite";[2]=""}
 _PETSTRINGS[505] = {[1]="Maple Kite";[2]=""}
 _PETSTRINGS[506] = {[1]="Tan Wolf-dog";[2]=""}
-_PETSTRINGS[507] = {[1]="Festive Yule Goat Kid";[2]=""}
-_PETSTRINGS[508] = {[1]="Ill Omened Beast";[2]=""}
-_PETSTRINGS[509] = {[1]="Ill Omened Crawler";[2]=""}
-_PETSTRINGS[510] = {[1]="Umber Nether-hound";[2]=""}
-_PETSTRINGS[511] = {[1]="Cream Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Rust Corgi";[2]=""}
-_PETSTRINGS[513] = {[1]="Russet Corgi";[2]=""}
-_PETSTRINGS[514] = {[1]="Prepared Corgi";[2]=""}
-_PETSTRINGS[515] = {[1]="Library Corgi";[2]="";}
+_PETSTRINGS[507] = {[1]="Ill Omened Beast";[2]=""}
+_PETSTRINGS[508] = {[1]="Ill Omened Crawler";[2]=""}
+_PETSTRINGS[509] = {[1]="Umber Nether-hound";[2]=""}
+_PETSTRINGS[510] = {[1]="Cream Corgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Rust Corgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Russet Corgi";[2]=""}
+_PETSTRINGS[513] = {[1]="Prepared Corgi";[2]=""}
+_PETSTRINGS[514] = {[1]="Library Corgi";[2]="";}
+_PETSTRINGS[515] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
 _PETSTRINGS[516] = {[1]="Winter's Wind";[2]="";}

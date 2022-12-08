@@ -398,6 +398,7 @@ _PETSTRINGS[319] = {[1]="Chien mat du tréfonds";[2]="Disponible par échange en
 _PETSTRINGS[320] = {[1]="Corgi brique";[2]="Disponible par échange en participant à des excavations.";}
 _PETSTRINGS[321] = {[1]="Cigogne amicale";[2]="Disponible par échange dans le Cardolan.";}
 _PETSTRINGS[322] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
+_PETSTRINGS[323] = {[1]="Chevreau de Yule festif";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -406,14 +407,13 @@ _PETSTRINGS[503] = {[1]="Cerf-volant des ailes noires";[2]=""}
 _PETSTRINGS[504] = {[1]="Cerf-volant des ailes du crépuscule";[2]=""}
 _PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
 _PETSTRINGS[506] = {[1]="Chien-loup en brun claire";[2]=""}
-_PETSTRINGS[507] = {[1]="Chevreau de Yule festif";[2]=""}
-_PETSTRINGS[508] = {[1]="Bête de mauvais augure";[2]=""}
-_PETSTRINGS[509] = {[1]="Rampant de mauvais augure";[2]=""}
-_PETSTRINGS[510] = {[1]="Chien couleur terre du tréfonds";[2]=""}
-_PETSTRINGS[511] = {[1]="Corgi crème";[2]=""}
-_PETSTRINGS[512] = {[1]="Corgi rouille";[2]=""}
-_PETSTRINGS[513] = {[1]="Corgi brun-roux";[2]=""}
-_PETSTRINGS[514] = {[1]="Corgi apprêté";[2]=""}
-_PETSTRINGS[515] = {[1]="Corgi de bibliothèque";[2]="";}
-_PETSTRINGS[516] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
-_PETSTRINGS[517] = {[1]="Vent d'hiver";[2]="";}
+_PETSTRINGS[507] = {[1]="Bête de mauvais augure";[2]=""}
+_PETSTRINGS[508] = {[1]="Rampant de mauvais augure";[2]=""}
+_PETSTRINGS[509] = {[1]="Chien couleur terre du tréfonds";[2]=""}
+_PETSTRINGS[510] = {[1]="Corgi crème";[2]=""}
+_PETSTRINGS[511] = {[1]="Corgi rouille";[2]=""}
+_PETSTRINGS[512] = {[1]="Corgi brun-roux";[2]=""}
+_PETSTRINGS[513] = {[1]="Corgi apprêté";[2]=""}
+_PETSTRINGS[514] = {[1]="Corgi de bibliothèque";[2]="";}
+_PETSTRINGS[515] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[516] = {[1]="Vent d'hiver";[2]="";}
