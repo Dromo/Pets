@@ -398,7 +398,10 @@ _PETSTRINGS[319] = {[1]="Dusky Nether-hound";[2]="Available through barter by pa
 _PETSTRINGS[320] = {[1]="Brick Corgi";[2]="Available through barter by participating in Delvings.";}
 _PETSTRINGS[321] = {[1]="Friendly Stork";[2]="Available to barter in Cardolan.";}
 _PETSTRINGS[322] = {[1]="Friendly Egret";[2]="Limited time availability for Figments of Splendour.";}
-_PETSTRINGS[323] = {[1]="Festive Yule Goat Kid";[2]=""}
+_PETSTRINGS[323] = {[1]="Festive Yule Goat Kid";[2]="Available through barter during the Yule Festival."}
+_PETSTRINGS[324] = {[1]="Dashing Feline";[2]="Acquired from Rakish Patron's Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[325] = {[1]="Rakish Feline";[2]="Acquired from the Rakish Patron's Luxuriant Coffer."}
+_PETSTRINGS[326] = {[1]="Charming Feline";[2]="Acquired from Rakish Patron's Simple, Enhanced, or Luxuriant Coffers."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}

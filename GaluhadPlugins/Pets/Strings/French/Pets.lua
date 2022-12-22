@@ -399,6 +399,9 @@ _PETSTRINGS[320] = {[1]="Corgi brique";[2]="Disponible par échange en participa
 _PETSTRINGS[321] = {[1]="Cigogne amicale";[2]="Disponible par échange dans le Cardolan.";}
 _PETSTRINGS[322] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
 _PETSTRINGS[323] = {[1]="Chevreau de Yule festif";[2]=""}
+_PETSTRINGS[324] = {[1]="Dashing Feline";[2]="Acquired from Rakish Patron's Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[325] = {[1]="Rakish Feline";[2]="Acquired from the Rakish Patron's Luxuriant Coffer."}
+_PETSTRINGS[326] = {[1]="Charming Feline";[2]="Acquired from Rakish Patron's Simple, Enhanced, or Luxuriant Coffers."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}

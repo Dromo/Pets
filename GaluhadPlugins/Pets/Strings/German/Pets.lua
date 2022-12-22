@@ -395,6 +395,9 @@ _PETSTRINGS[320] = {[1]="Ziegelcorgi";[2]="Durch Tauschhandel bei Teilnahme an E
 _PETSTRINGS[321] = {[1]="Freundlicher Storch";[2]="Kann in Cardolan eingetauscht werden.";}
 _PETSTRINGS[322] = {[1]="Freundlicher Reiher";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
 _PETSTRINGS[323] = {[1]="Festliches Julfest-Zicklein";[2]=""}
+_PETSTRINGS[324] = {[1]="Dashing Feline";[2]="Acquired from Rakish Patron's Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[325] = {[1]="Rakish Feline";[2]="Acquired from the Rakish Patron's Luxuriant Coffer."}
+_PETSTRINGS[326] = {[1]="Charming Feline";[2]="Acquired from Rakish Patron's Simple, Enhanced, or Luxuriant Coffers."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
