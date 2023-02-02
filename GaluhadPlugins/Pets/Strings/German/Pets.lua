@@ -394,10 +394,14 @@ _PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnah
 _PETSTRINGS[320] = {[1]="Ziegelcorgi";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
 _PETSTRINGS[321] = {[1]="Freundlicher Storch";[2]="Kann in Cardolan eingetauscht werden.";}
 _PETSTRINGS[322] = {[1]="Freundlicher Reiher";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
-_PETSTRINGS[323] = {[1]="Festliches Julfest-Zicklein";[2]=""}
-_PETSTRINGS[324] = {[1]="Dashing Feline";[2]="Acquired from Rakish Patron's Enhanced or Luxuriant Coffers."}
-_PETSTRINGS[325] = {[1]="Rakish Feline";[2]="Acquired from the Rakish Patron's Luxuriant Coffer."}
-_PETSTRINGS[326] = {[1]="Charming Feline";[2]="Acquired from Rakish Patron's Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[323] = {[1]="Festliches Julfest-Zicklein";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[324] = {[1]="Elegante Katze";[2]="Aus einer verbesserten oder luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[325] = {[1]="Verwegene Katze";[2]="Aus einer luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[326] = {[1]="Charmante Katze";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[327] = {[1]="Unheilvolle Kreatur";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[328] = {[1]="Unheilvoller Kriecher";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[329] = {[1]="Schneebedeckter Auerochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
+_PETSTRINGS[330] = {[1]="Feuriger blauer Käfer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -406,13 +410,20 @@ _PETSTRINGS[503] = {[1]="Schwarzschwingendrachen";[2]=""}
 _PETSTRINGS[504] = {[1]="Dämmerschwingendrachen";[2]=""}
 _PETSTRINGS[505] = {[1]="Ahorndrachen";[2]=""}
 _PETSTRINGS[506] = {[1]="Hellbrauner Wolfshund";[2]=""}
-_PETSTRINGS[507] = {[1]="Unheilvolle Kreatur";[2]=""}
-_PETSTRINGS[508] = {[1]="Unheilvoller Kriecher";[2]=""}
-_PETSTRINGS[509] = {[1]="Umbrafarbener Niederhund";[2]=""}
-_PETSTRINGS[510] = {[1]="Cremefarbener Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Rostfarbener Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[513] = {[1]="Vorbereiteter Corgi";[2]=""}
-_PETSTRINGS[514] = {[1]="Bibliothekscorgi";[2]="";}
-_PETSTRINGS[515] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
-_PETSTRINGS[516] = {[1]="Winterwind";[2]="";}
+_PETSTRINGS[507] = {[1]="Umbrafarbener Niederhund";[2]=""}
+_PETSTRINGS[508] = {[1]="Cremefarbener Corgi";[2]=""}
+_PETSTRINGS[509] = {[1]="Rostfarbener Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Rostbrauner Corgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Vorbereiteter Corgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[513] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[514] = {[1]="Winterwind";[2]="";}
+_PETSTRINGS[515] = {[1]="Frosthauer-Junges";[2]="";}
+_PETSTRINGS[516] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
+_PETSTRINGS[517] = {[1]="Schneemöwe";[2]=""}
+_PETSTRINGS[518] = {[1]="Bezaubernde Sichelfliege";[2]=""}
+_PETSTRINGS[519] = {[1]="Rohan-Auerochse";[2]=""}
+_PETSTRINGS[520] = {[1]="Dämmerungsglühwürmchen";[2]=""}
+_PETSTRINGS[521] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[522] = {[1]="Bernstein-Glühwürmchen";[2]=""}
+_PETSTRINGS[523] = {[1]="Immergrüne Sichelfliege";[2]=""}

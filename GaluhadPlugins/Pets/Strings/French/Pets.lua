@@ -398,10 +398,14 @@ _PETSTRINGS[319] = {[1]="Chien mat du tréfonds";[2]="Disponible par échange en
 _PETSTRINGS[320] = {[1]="Corgi brique";[2]="Disponible par échange en participant à des excavations.";}
 _PETSTRINGS[321] = {[1]="Cigogne amicale";[2]="Disponible par échange dans le Cardolan.";}
 _PETSTRINGS[322] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
-_PETSTRINGS[323] = {[1]="Chevreau de Yule festif";[2]=""}
-_PETSTRINGS[324] = {[1]="Dashing Feline";[2]="Acquired from Rakish Patron's Enhanced or Luxuriant Coffers."}
-_PETSTRINGS[325] = {[1]="Rakish Feline";[2]="Acquired from the Rakish Patron's Luxuriant Coffer."}
-_PETSTRINGS[326] = {[1]="Charming Feline";[2]="Acquired from Rakish Patron's Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[323] = {[1]="Chevreau de Yule festif";[2]="Disponible par échange au cours du Festival de Yule."}
+_PETSTRINGS[324] = {[1]="Félin fringant";[2]="S'obtient dans les coffres améliorés et luxuriants du client élégant."}
+_PETSTRINGS[325] = {[1]="Félin élégant";[2]="Acquis dans le Coffre luxuriant du client élégant."}
+_PETSTRINGS[326] = {[1]="Félin charmant";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client élégant."}
+_PETSTRINGS[327] = {[1]="Bête de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[328] = {[1]="Rampant de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[329] = {[1]="Auroch couvert de neige";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
+_PETSTRINGS[330] = {[1]="Scarabée bleu ardent";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -410,13 +414,20 @@ _PETSTRINGS[503] = {[1]="Cerf-volant des ailes noires";[2]=""}
 _PETSTRINGS[504] = {[1]="Cerf-volant des ailes du crépuscule";[2]=""}
 _PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
 _PETSTRINGS[506] = {[1]="Chien-loup en brun claire";[2]=""}
-_PETSTRINGS[507] = {[1]="Bête de mauvais augure";[2]=""}
-_PETSTRINGS[508] = {[1]="Rampant de mauvais augure";[2]=""}
-_PETSTRINGS[509] = {[1]="Chien couleur terre du tréfonds";[2]=""}
-_PETSTRINGS[510] = {[1]="Corgi crème";[2]=""}
-_PETSTRINGS[511] = {[1]="Corgi rouille";[2]=""}
-_PETSTRINGS[512] = {[1]="Corgi brun-roux";[2]=""}
-_PETSTRINGS[513] = {[1]="Corgi apprêté";[2]=""}
-_PETSTRINGS[514] = {[1]="Corgi de bibliothèque";[2]="";}
-_PETSTRINGS[515] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
-_PETSTRINGS[516] = {[1]="Vent d'hiver";[2]="";}
+_PETSTRINGS[507] = {[1]="Chien couleur terre du tréfonds";[2]=""}
+_PETSTRINGS[508] = {[1]="Corgi crème";[2]=""}
+_PETSTRINGS[509] = {[1]="Corgi rouille";[2]=""}
+_PETSTRINGS[510] = {[1]="Corgi brun-roux";[2]=""}
+_PETSTRINGS[511] = {[1]="Corgi apprêté";[2]=""}
+_PETSTRINGS[512] = {[1]="Corgi de bibliothèque";[2]=""}
+_PETSTRINGS[513] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[514] = {[1]="Vent d'hiver";[2]="";}
+_PETSTRINGS[515] = {[1]="Jeune défense-de-givre";[2]="";}
+_PETSTRINGS[516] = {[1]="Chaton de combat féroce";[2]="";}
+_PETSTRINGS[517] = {[1]="Mouette des neiges";[2]=""}
+_PETSTRINGS[518] = {[1]="Mouche faucheuse adorable";[2]=""}
+_PETSTRINGS[519] = {[1]="Auroch du Rohan";[2]=""}
+_PETSTRINGS[520] = {[1]="Luciole du crépuscule";[2]=""}
+_PETSTRINGS[521] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[522] = {[1]="Luciole ambrée";[2]=""}
+_PETSTRINGS[523] = {[1]="Mouche faucheuse tenace";[2]=""}
