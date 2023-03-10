@@ -406,6 +406,8 @@ _PETSTRINGS[327] = {[1]="Bête de mauvais augure";[2]="Disponible dans les escar
 _PETSTRINGS[328] = {[1]="Rampant de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 _PETSTRINGS[329] = {[1]="Auroch couvert de neige";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
 _PETSTRINGS[330] = {[1]="Scarabée bleu ardent";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
+_PETSTRINGS[331] = {[1]="null";[2]=""}
+_PETSTRINGS[332] = {[1]="Mouche faucheuse adorable";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -425,9 +427,8 @@ _PETSTRINGS[514] = {[1]="Vent d'hiver";[2]="";}
 _PETSTRINGS[515] = {[1]="Jeune défense-de-givre";[2]="";}
 _PETSTRINGS[516] = {[1]="Chaton de combat féroce";[2]="";}
 _PETSTRINGS[517] = {[1]="Mouette des neiges";[2]=""}
-_PETSTRINGS[518] = {[1]="Mouche faucheuse adorable";[2]=""}
-_PETSTRINGS[519] = {[1]="Auroch du Rohan";[2]=""}
-_PETSTRINGS[520] = {[1]="Luciole du crépuscule";[2]=""}
-_PETSTRINGS[521] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[522] = {[1]="Luciole ambrée";[2]=""}
-_PETSTRINGS[523] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[518] = {[1]="Auroch du Rohan";[2]=""}
+_PETSTRINGS[519] = {[1]="Luciole du crépuscule";[2]=""}
+_PETSTRINGS[520] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[521] = {[1]="Luciole ambrée";[2]=""}
+_PETSTRINGS[522] = {[1]="Mouche faucheuse tenace";[2]=""}

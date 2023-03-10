@@ -402,6 +402,8 @@ _PETSTRINGS[327] = {[1]="Unheilvolle Kreatur";[2]="Erhältlich beim Ereignis 'Sc
 _PETSTRINGS[328] = {[1]="Unheilvoller Kriecher";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[329] = {[1]="Schneebedeckter Auerochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
 _PETSTRINGS[330] = {[1]="Feuriger blauer Käfer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
+_PETSTRINGS[331] = {[1]="null";[2]=""}
+_PETSTRINGS[332] = {[1]="Bezaubernde Sichelfliege";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -421,9 +423,8 @@ _PETSTRINGS[514] = {[1]="Winterwind";[2]="";}
 _PETSTRINGS[515] = {[1]="Frosthauer-Junges";[2]="";}
 _PETSTRINGS[516] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
 _PETSTRINGS[517] = {[1]="Schneemöwe";[2]=""}
-_PETSTRINGS[518] = {[1]="Bezaubernde Sichelfliege";[2]=""}
-_PETSTRINGS[519] = {[1]="Rohan-Auerochse";[2]=""}
-_PETSTRINGS[520] = {[1]="Dämmerungsglühwürmchen";[2]=""}
-_PETSTRINGS[521] = {[1]="Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[522] = {[1]="Bernstein-Glühwürmchen";[2]=""}
-_PETSTRINGS[523] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[518] = {[1]="Rohan-Auerochse";[2]=""}
+_PETSTRINGS[519] = {[1]="Dämmerungsglühwürmchen";[2]=""}
+_PETSTRINGS[520] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[521] = {[1]="Bernstein-Glühwürmchen";[2]=""}
+_PETSTRINGS[522] = {[1]="Immergrüne Sichelfliege";[2]=""}
