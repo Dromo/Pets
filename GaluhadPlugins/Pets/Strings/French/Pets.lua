@@ -400,14 +400,14 @@ _PETSTRINGS[321] = {[1]="Cigogne amicale";[2]="Disponible par échange dans le C
 _PETSTRINGS[322] = {[1]="Aigrette amicale";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
 _PETSTRINGS[323] = {[1]="Chevreau de Yule festif";[2]="Disponible par échange au cours du Festival de Yule."}
 _PETSTRINGS[324] = {[1]="Félin fringant";[2]="S'obtient dans les coffres améliorés et luxuriants du client élégant."}
-_PETSTRINGS[325] = {[1]="Félin élégant";[2]="Acquis dans le Coffre luxuriant du client élégant."}
+_PETSTRINGS[325] = {[1]="Félin élégant";[2]="Pris dans le coffre luxuriant du client élégant."}
 _PETSTRINGS[326] = {[1]="Félin charmant";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client élégant."}
 _PETSTRINGS[327] = {[1]="Bête de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 _PETSTRINGS[328] = {[1]="Rampant de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 _PETSTRINGS[329] = {[1]="Auroch couvert de neige";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
 _PETSTRINGS[330] = {[1]="Scarabée bleu ardent";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
-_PETSTRINGS[331] = {[1]="null";[2]=""}
-_PETSTRINGS[332] = {[1]="Mouche faucheuse adorable";[2]=""}
+_PETSTRINGS[331] = {[1]="Chiot blanc";[2]="Disponible par échange au cours du Festival du printemps."}
+_PETSTRINGS[332] = {[1]="Mouche faucheuse adorable";[2]="Disponible par échange au cours du Festival du printemps."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}

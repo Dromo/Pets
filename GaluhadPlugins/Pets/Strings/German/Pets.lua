@@ -402,8 +402,8 @@ _PETSTRINGS[327] = {[1]="Unheilvolle Kreatur";[2]="Erhältlich beim Ereignis 'Sc
 _PETSTRINGS[328] = {[1]="Unheilvoller Kriecher";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[329] = {[1]="Schneebedeckter Auerochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
 _PETSTRINGS[330] = {[1]="Feuriger blauer Käfer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
-_PETSTRINGS[331] = {[1]="null";[2]=""}
-_PETSTRINGS[332] = {[1]="Bezaubernde Sichelfliege";[2]=""}
+_PETSTRINGS[331] = {[1]="Weißer Welpe";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[332] = {[1]="Bezaubernde Sichelfliege";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
