@@ -408,6 +408,10 @@ _PETSTRINGS[329] = {[1]="Auroch couvert de neige";[2]="Offre à durée limitée�
 _PETSTRINGS[330] = {[1]="Scarabée bleu ardent";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 5."}
 _PETSTRINGS[331] = {[1]="Chiot blanc";[2]="Disponible par échange au cours du Festival du printemps."}
 _PETSTRINGS[332] = {[1]="Mouche faucheuse adorable";[2]="Disponible par échange au cours du Festival du printemps."}
+_PETSTRINGS[333] = {[1]="Le roi des rats";[2]="Disponible dans le coffre de Radarrig dans Sagroth, le repaire des vermines. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
+_PETSTRINGS[334] = {[1]="Rat d'égout";[2]="Disponible dans le coffre de Radarrig dans Sagroth, le repaire des vermines. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
+_PETSTRINGS[335] = {[1]="Luciole du crépuscule";[2]="Disponible comme récompense dans Thaurisgar, l'infâme échoppe d'apothicaire. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
+_PETSTRINGS[336] = {[1]="Luciole ambrée";[2]="Disponible comme récompense dans Sant Lhoer, le Jardin empoisonné. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -428,7 +432,5 @@ _PETSTRINGS[515] = {[1]="Jeune défense-de-givre";[2]="";}
 _PETSTRINGS[516] = {[1]="Chaton de combat féroce";[2]="";}
 _PETSTRINGS[517] = {[1]="Mouette des neiges";[2]=""}
 _PETSTRINGS[518] = {[1]="Auroch du Rohan";[2]=""}
-_PETSTRINGS[519] = {[1]="Luciole du crépuscule";[2]=""}
-_PETSTRINGS[520] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[521] = {[1]="Luciole ambrée";[2]=""}
-_PETSTRINGS[522] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[519] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[520] = {[1]="Mouche faucheuse tenace";[2]=""}

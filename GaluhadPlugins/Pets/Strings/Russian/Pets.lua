@@ -409,6 +409,10 @@ _PETSTRINGS[329] = {[1]="Snow-covered Aurochs";[2]="Limited time availability: L
 _PETSTRINGS[330] = {[1]="Fiery Blue Beetle";[2]="Limited time availability: Legendary Item Reward Track Season 5."}
 _PETSTRINGS[331] = {[1]="White Puppy";[2]="Available through barter during the Spring Festival."}
 _PETSTRINGS[332] = {[1]="Adorable Sickle-fly";[2]="Available through barter during the Spring Festival."}
+_PETSTRINGS[333] = {[1]="Rat King";[2]="Available from Rádarríg's Chest in Sagroth, Lair of Vermin. Also available for barter from Muirál in Bail Avarc."}
+_PETSTRINGS[334] = {[1]="Sewer Rat";[2]="Available from Rádarríg's Chest in Sagroth, Lair of Vermin. Also available for barter from Muirál in Bail Avarc."}
+_PETSTRINGS[335] = {[1]="Twilight Fire-fly";[2]="Available as a reward in Thaurisgar, the Vile Apothecary. Also available for barter from Muirál in Bail Avarc."}
+_PETSTRINGS[336] = {[1]="Amber Fire-fly";[2]="Available as a reward in Sant Lhoer, the Poison Gardens. Also available for barter from Muirál in Bail Avarc."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -429,7 +433,5 @@ _PETSTRINGS[515] = {[1]="Frost-tusk Youngling";[2]="";}
 _PETSTRINGS[516] = {[1]="Ferocious Battle-kitten";[2]="";}
 _PETSTRINGS[517] = {[1]="Snow Seagull";[2]=""}
 _PETSTRINGS[518] = {[1]="Rohan Aurochs";[2]=""}
-_PETSTRINGS[519] = {[1]="Twilight Fire-fly";[2]=""}
-_PETSTRINGS[520] = {[1]="Deep-claw Whelp";[2]=""}
-_PETSTRINGS[521] = {[1]="Amber Fire-fly";[2]=""}
-_PETSTRINGS[522] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[519] = {[1]="Deep-claw Whelp";[2]=""}
+_PETSTRINGS[520] = {[1]="Evergreen Sickle-fly";[2]=""}

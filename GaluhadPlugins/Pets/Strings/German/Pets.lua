@@ -312,7 +312,7 @@ _PETSTRINGS[246] = {[1]="Fässerbeladener Esel";[2]="Prachtstücke des Glanzes n
 _PETSTRINGS[247] = {[1]="Alabasterfarbener Esel";[2]="Durch Tauschhandel während der Julfest-Saison-Instanzen erhältlich."}
 _PETSTRINGS[248] = {[1]="Kuscheliges Julfest-Zicklein";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
 _PETSTRINGS[249] = {[1]="Braunes Bärenjunges";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
-_PETSTRINGS[250] = {[1]="Weihnachtsstern-Kranz-Huorn";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[250] = {[1]="Poinsettien-Kranz-Huorn";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
 _PETSTRINGS[251] = {[1]="Julfestbaum-Huorn";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
 _PETSTRINGS[252] = {[1]="Unheilvoller Hund";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[253] = {[1]="Unheilvoller Wurm";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
@@ -404,6 +404,10 @@ _PETSTRINGS[329] = {[1]="Schneebedeckter Auerochse";[2]="Nur für kurze Zeit ver
 _PETSTRINGS[330] = {[1]="Feuriger blauer Käfer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
 _PETSTRINGS[331] = {[1]="Weißer Welpe";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
 _PETSTRINGS[332] = {[1]="Bezaubernde Sichelfliege";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[333] = {[1]="Rattenkönig";[2]="Zu finden in Rádarrígs Truhe in Sagroth, Hort des Ungeziefers. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[334] = {[1]="Kanalratte";[2]="Zu finden in Rádarrígs Truhe in Sagroth, Hort des Ungeziefers. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[335] = {[1]="Dämmerungsglühwürmchen";[2]="Als Belohnung zu finden in Thaurisgar, der abscheulichen Apotheke. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[336] = {[1]="Bernstein-Glühwürmchen";[2]="Als Belohnung zu finden in Sant Lhoer, dem Giftgarten. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -424,7 +428,5 @@ _PETSTRINGS[515] = {[1]="Frosthauer-Junges";[2]="";}
 _PETSTRINGS[516] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
 _PETSTRINGS[517] = {[1]="Schneemöwe";[2]=""}
 _PETSTRINGS[518] = {[1]="Rohan-Auerochse";[2]=""}
-_PETSTRINGS[519] = {[1]="Dämmerungsglühwürmchen";[2]=""}
-_PETSTRINGS[520] = {[1]="Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[521] = {[1]="Bernstein-Glühwürmchen";[2]=""}
-_PETSTRINGS[522] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[519] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[520] = {[1]="Immergrüne Sichelfliege";[2]=""}
