@@ -413,6 +413,11 @@ _PETSTRINGS[333] = {[1]="Rat King";[2]="Available from Rádarríg's Chest in Sag
 _PETSTRINGS[334] = {[1]="Sewer Rat";[2]="Available from Rádarríg's Chest in Sagroth, Lair of Vermin. Also available for barter from Muirál in Bail Avarc."}
 _PETSTRINGS[335] = {[1]="Twilight Fire-fly";[2]="Available as a reward in Thaurisgar, the Vile Apothecary. Also available for barter from Muirál in Bail Avarc."}
 _PETSTRINGS[336] = {[1]="Amber Fire-fly";[2]="Available as a reward in Sant Lhoer, the Poison Gardens. Also available for barter from Muirál in Bail Avarc."}
+_PETSTRINGS[337] = {[1]="Rust Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes"}
+_PETSTRINGS[338] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
+_PETSTRINGS[339] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[340] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[341] = {[1]="Anniversary Celebration Goat";[2]="Available through barter during the Anniversary Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -423,15 +428,14 @@ _PETSTRINGS[505] = {[1]="Maple Kite";[2]=""}
 _PETSTRINGS[506] = {[1]="Tan Wolf-dog";[2]=""}
 _PETSTRINGS[507] = {[1]="Umber Nether-hound";[2]=""}
 _PETSTRINGS[508] = {[1]="Cream Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Rust Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Russet Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Prepared Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Library Corgi";[2]=""}
-_PETSTRINGS[513] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
-_PETSTRINGS[514] = {[1]="Winter's Wind";[2]="";}
-_PETSTRINGS[515] = {[1]="Frost-tusk Youngling";[2]="";}
-_PETSTRINGS[516] = {[1]="Ferocious Battle-kitten";[2]="";}
-_PETSTRINGS[517] = {[1]="Snow Seagull";[2]=""}
-_PETSTRINGS[518] = {[1]="Rohan Aurochs";[2]=""}
-_PETSTRINGS[519] = {[1]="Deep-claw Whelp";[2]=""}
-_PETSTRINGS[520] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[509] = {[1]="Russet Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Prepared Corgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Library Corgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[513] = {[1]="Winter's Wind";[2]=""}
+_PETSTRINGS[514] = {[1]="Frost-tusk Youngling";[2]="";}
+_PETSTRINGS[515] = {[1]="Ferocious Battle-kitten";[2]="";}
+_PETSTRINGS[516] = {[1]="Snow Seagull";[2]="";}
+_PETSTRINGS[517] = {[1]="Rohan Aurochs";[2]=""}
+_PETSTRINGS[518] = {[1]="Deep-claw Whelp";[2]=""}
+_PETSTRINGS[519] = {[1]="Evergreen Sickle-fly";[2]=""}

@@ -1,5 +1,4 @@
 Change log:
-* 2023-03-23 - U35 - 2 new + 2 newly available
-  * Rat King, Sewer Rat
-  * Twilight Fire-fly, Amber Fire-fly
+* 2023-05-02 - U35.1.1 - 4 new + 1 newly available
+  * Anniversary Celebration Goat, Rust Corgi, Homesteader's Draught Horse, Dappled Grey Draught Horse, Black Draught Horse
 [Full changelog](Changelog.md)

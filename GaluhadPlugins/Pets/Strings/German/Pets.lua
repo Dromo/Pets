@@ -312,7 +312,7 @@ _PETSTRINGS[246] = {[1]="Fässerbeladener Esel";[2]="Prachtstücke des Glanzes n
 _PETSTRINGS[247] = {[1]="Alabasterfarbener Esel";[2]="Durch Tauschhandel während der Julfest-Saison-Instanzen erhältlich."}
 _PETSTRINGS[248] = {[1]="Kuscheliges Julfest-Zicklein";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
 _PETSTRINGS[249] = {[1]="Braunes Bärenjunges";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
-_PETSTRINGS[250] = {[1]="Poinsettien-Kranz-Huorn";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[250] = {[1]="Weihnachtsstern-Kranz-Huorn";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
 _PETSTRINGS[251] = {[1]="Julfestbaum-Huorn";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
 _PETSTRINGS[252] = {[1]="Unheilvoller Hund";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[253] = {[1]="Unheilvoller Wurm";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
@@ -408,6 +408,11 @@ _PETSTRINGS[333] = {[1]="Rattenkönig";[2]="Zu finden in Rádarrígs Truhe in Sa
 _PETSTRINGS[334] = {[1]="Kanalratte";[2]="Zu finden in Rádarrígs Truhe in Sagroth, Hort des Ungeziefers. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
 _PETSTRINGS[335] = {[1]="Dämmerungsglühwürmchen";[2]="Als Belohnung zu finden in Thaurisgar, der abscheulichen Apotheke. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
 _PETSTRINGS[336] = {[1]="Bernstein-Glühwürmchen";[2]="Als Belohnung zu finden in Sant Lhoer, dem Giftgarten. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[337] = {[1]="Rostfarbener Corgi";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[338] = {[1]="Siedler-Zugpferd";[2]="Aus der luxuriösen Siedlungs- und Erntetruhe."}
+_PETSTRINGS[339] = {[1]="Geflecktes Graues Zugpferd";[2]="Aus verbesserten oder luxuriösen Siedlungs- und Erntetruhen."}
+_PETSTRINGS[340] = {[1]="Schwarzes Zugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
+_PETSTRINGS[341] = {[1]="Jubiläumsfestziege";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -418,15 +423,14 @@ _PETSTRINGS[505] = {[1]="Ahorndrachen";[2]=""}
 _PETSTRINGS[506] = {[1]="Hellbrauner Wolfshund";[2]=""}
 _PETSTRINGS[507] = {[1]="Umbrafarbener Niederhund";[2]=""}
 _PETSTRINGS[508] = {[1]="Cremefarbener Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Rostfarbener Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Vorbereiteter Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Bibliothekscorgi";[2]=""}
-_PETSTRINGS[513] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
-_PETSTRINGS[514] = {[1]="Winterwind";[2]="";}
-_PETSTRINGS[515] = {[1]="Frosthauer-Junges";[2]="";}
-_PETSTRINGS[516] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
-_PETSTRINGS[517] = {[1]="Schneemöwe";[2]=""}
-_PETSTRINGS[518] = {[1]="Rohan-Auerochse";[2]=""}
-_PETSTRINGS[519] = {[1]="Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[520] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[509] = {[1]="Rostbrauner Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Vorbereiteter Corgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[513] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[514] = {[1]="Frosthauer-Junges";[2]="";}
+_PETSTRINGS[515] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
+_PETSTRINGS[516] = {[1]="Schneemöwe";[2]="";}
+_PETSTRINGS[517] = {[1]="Rohan-Auerochse";[2]=""}
+_PETSTRINGS[518] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[519] = {[1]="Immergrüne Sichelfliege";[2]=""}

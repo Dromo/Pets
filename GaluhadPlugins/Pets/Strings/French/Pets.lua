@@ -412,6 +412,11 @@ _PETSTRINGS[333] = {[1]="Le roi des rats";[2]="Disponible dans le coffre de Rada
 _PETSTRINGS[334] = {[1]="Rat d'égout";[2]="Disponible dans le coffre de Radarrig dans Sagroth, le repaire des vermines. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
 _PETSTRINGS[335] = {[1]="Luciole du crépuscule";[2]="Disponible comme récompense dans Thaurisgar, l'infâme échoppe d'apothicaire. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
 _PETSTRINGS[336] = {[1]="Luciole ambrée";[2]="Disponible comme récompense dans Sant Lhoer, le Jardin empoisonné. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
+_PETSTRINGS[337] = {[1]="Corgi rouille";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
+_PETSTRINGS[338] = {[1]="Cheval de trait du propriétaire";[2]="S'obtient dans le coffre luxuriant Propriétés et moissons."}
+_PETSTRINGS[339] = {[1]="Cheval de trait gris pommelé";[2]="S'obtient dans les coffres améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[340] = {[1]="Cheval de trait noir";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[341] = {[1]="Chèvre d'anniversaire";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -422,15 +427,14 @@ _PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
 _PETSTRINGS[506] = {[1]="Chien-loup en brun claire";[2]=""}
 _PETSTRINGS[507] = {[1]="Chien couleur terre du tréfonds";[2]=""}
 _PETSTRINGS[508] = {[1]="Corgi crème";[2]=""}
-_PETSTRINGS[509] = {[1]="Corgi rouille";[2]=""}
-_PETSTRINGS[510] = {[1]="Corgi brun-roux";[2]=""}
-_PETSTRINGS[511] = {[1]="Corgi apprêté";[2]=""}
-_PETSTRINGS[512] = {[1]="Corgi de bibliothèque";[2]=""}
-_PETSTRINGS[513] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
-_PETSTRINGS[514] = {[1]="Vent d'hiver";[2]="";}
-_PETSTRINGS[515] = {[1]="Jeune défense-de-givre";[2]="";}
-_PETSTRINGS[516] = {[1]="Chaton de combat féroce";[2]="";}
-_PETSTRINGS[517] = {[1]="Mouette des neiges";[2]=""}
-_PETSTRINGS[518] = {[1]="Auroch du Rohan";[2]=""}
-_PETSTRINGS[519] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[520] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[509] = {[1]="Corgi brun-roux";[2]=""}
+_PETSTRINGS[510] = {[1]="Corgi apprêté";[2]=""}
+_PETSTRINGS[511] = {[1]="Corgi de bibliothèque";[2]=""}
+_PETSTRINGS[512] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[513] = {[1]="Vent d'hiver";[2]=""}
+_PETSTRINGS[514] = {[1]="Jeune défense-de-givre";[2]="";}
+_PETSTRINGS[515] = {[1]="Chaton de combat féroce";[2]="";}
+_PETSTRINGS[516] = {[1]="Mouette des neiges";[2]="";}
+_PETSTRINGS[517] = {[1]="Auroch du Rohan";[2]=""}
+_PETSTRINGS[518] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[519] = {[1]="Mouche faucheuse tenace";[2]=""}
