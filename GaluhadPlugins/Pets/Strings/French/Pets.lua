@@ -417,6 +417,8 @@ _PETSTRINGS[338] = {[1]="Cheval de trait du propriétaire";[2]="S'obtient dans l
 _PETSTRINGS[339] = {[1]="Cheval de trait gris pommelé";[2]="S'obtient dans les coffres améliorés et luxuriants Propriétés et moissons."}
 _PETSTRINGS[340] = {[1]="Cheval de trait noir";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
 _PETSTRINGS[341] = {[1]="Chèvre d'anniversaire";[2]="Disponible par échange au cours du Festival d'anniversaire."}
+_PETSTRINGS[342] = {[1]="Mouette des neiges";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 6."}
+_PETSTRINGS[343] = {[1]="Limace des cavernes";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 6."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -434,7 +436,16 @@ _PETSTRINGS[512] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajon
 _PETSTRINGS[513] = {[1]="Vent d'hiver";[2]=""}
 _PETSTRINGS[514] = {[1]="Jeune défense-de-givre";[2]="";}
 _PETSTRINGS[515] = {[1]="Chaton de combat féroce";[2]="";}
-_PETSTRINGS[516] = {[1]="Mouette des neiges";[2]="";}
-_PETSTRINGS[517] = {[1]="Auroch du Rohan";[2]=""}
-_PETSTRINGS[518] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[519] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[516] = {[1]="Auroch du Rohan";[2]="";}
+_PETSTRINGS[517] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[518] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[519] = {[1]="Aurochs givré";[2]=""}
+_PETSTRINGS[520] = {[1]="Bufflonne";[2]=""}
+_PETSTRINGS[521] = {[1]="Taureau noir";[2]=""}
+_PETSTRINGS[522] = {[1]="Jeune élan";[2]=""}
+_PETSTRINGS[523] = {[1]="Aurochs automnal";[2]=""}
+_PETSTRINGS[524] = {[1]="Limace curieuse";[2]="";}
+_PETSTRINGS[525] = {[1]="Glouton fougueux";[2]="";}
+_PETSTRINGS[526] = {[1]="Avanc à pointes";[2]="";}
+_PETSTRINGS[527] = {[1]="Aurochs fauve";[2]=""}
+_PETSTRINGS[528] = {[1]="Aurochs gris ardoise";[2]=""}

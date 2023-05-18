@@ -413,6 +413,8 @@ _PETSTRINGS[338] = {[1]="Siedler-Zugpferd";[2]="Aus der luxuriösen Siedlungs- u
 _PETSTRINGS[339] = {[1]="Geflecktes Graues Zugpferd";[2]="Aus verbesserten oder luxuriösen Siedlungs- und Erntetruhen."}
 _PETSTRINGS[340] = {[1]="Schwarzes Zugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
 _PETSTRINGS[341] = {[1]="Jubiläumsfestziege";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[342] = {[1]="Schneemöwe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 6"}
+_PETSTRINGS[343] = {[1]="Höhlenschnecke";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 6"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -430,7 +432,16 @@ _PETSTRINGS[512] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster wäh
 _PETSTRINGS[513] = {[1]="Winterwind";[2]=""}
 _PETSTRINGS[514] = {[1]="Frosthauer-Junges";[2]="";}
 _PETSTRINGS[515] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
-_PETSTRINGS[516] = {[1]="Schneemöwe";[2]="";}
-_PETSTRINGS[517] = {[1]="Rohan-Auerochse";[2]=""}
-_PETSTRINGS[518] = {[1]="Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[519] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[516] = {[1]="Rohan-Auerochse";[2]="";}
+_PETSTRINGS[517] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[518] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[519] = {[1]="Frostweißer Auerochse";[2]=""}
+_PETSTRINGS[520] = {[1]="Büffelkuh";[2]=""}
+_PETSTRINGS[521] = {[1]="Schwarzer Bulle";[2]=""}
+_PETSTRINGS[522] = {[1]="Junger Elch";[2]=""}
+_PETSTRINGS[523] = {[1]="Herbstroter Auerochse";[2]=""}
+_PETSTRINGS[524] = {[1]="Neugierige Schnecke";[2]="";}
+_PETSTRINGS[525] = {[1]="Munterer Vielfraß";[2]="";}
+_PETSTRINGS[526] = {[1]="Stacheliger Avanc";[2]="";}
+_PETSTRINGS[527] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[528] = {[1]="Schiefergrauer Auerochse";[2]=""}

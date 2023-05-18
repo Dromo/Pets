@@ -417,6 +417,8 @@ _PETSTRINGS[338] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Hom
 _PETSTRINGS[339] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
 _PETSTRINGS[340] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
 _PETSTRINGS[341] = {[1]="Anniversary Celebration Goat";[2]="Available through barter during the Anniversary Festival."}
+_PETSTRINGS[342] = {[1]="Pure Seagull";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
+_PETSTRINGS[343] = {[1]="Cave Slug";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -434,7 +436,16 @@ _PETSTRINGS[512] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during
 _PETSTRINGS[513] = {[1]="Winter's Wind";[2]=""}
 _PETSTRINGS[514] = {[1]="Frost-tusk Youngling";[2]="";}
 _PETSTRINGS[515] = {[1]="Ferocious Battle-kitten";[2]="";}
-_PETSTRINGS[516] = {[1]="Snow Seagull";[2]="";}
-_PETSTRINGS[517] = {[1]="Rohan Aurochs";[2]=""}
-_PETSTRINGS[518] = {[1]="Deep-claw Whelp";[2]=""}
-_PETSTRINGS[519] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[516] = {[1]="Rohan Aurochs";[2]="";}
+_PETSTRINGS[517] = {[1]="Deep-claw Whelp";[2]=""}
+_PETSTRINGS[518] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[519] = {[1]="Frost Aurochs";[2]=""}
+_PETSTRINGS[520] = {[1]="Buffalo Cow";[2]=""}
+_PETSTRINGS[521] = {[1]="Black Bull";[2]=""}
+_PETSTRINGS[522] = {[1]="Young Moose";[2]=""}
+_PETSTRINGS[523] = {[1]="Autumn Aurochs";[2]=""}
+_PETSTRINGS[524] = {[1]="Curious Slug";[2]="";}
+_PETSTRINGS[525] = {[1]="Feisty Wolverine";[2]="";}
+_PETSTRINGS[526] = {[1]="Spiky Avanc";[2]="";}
+_PETSTRINGS[527] = {[1]="Tawny Aurochs";[2]=""}
+_PETSTRINGS[528] = {[1]="Slate Aurochs";[2]=""}
