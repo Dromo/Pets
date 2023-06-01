@@ -413,12 +413,20 @@ _PETSTRINGS[334] = {[1]="Sewer Rat";[2]="Available from Rádarríg's Chest in Sa
 _PETSTRINGS[335] = {[1]="Twilight Fire-fly";[2]="Available as a reward in Thaurisgar, the Vile Apothecary. Also available for barter from Muirál in Bail Avarc."}
 _PETSTRINGS[336] = {[1]="Amber Fire-fly";[2]="Available as a reward in Sant Lhoer, the Poison Gardens. Also available for barter from Muirál in Bail Avarc."}
 _PETSTRINGS[337] = {[1]="Rust Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes"}
-_PETSTRINGS[338] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
-_PETSTRINGS[339] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
-_PETSTRINGS[340] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[338] = {[1]="Homesteader's Miniature Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
+_PETSTRINGS[339] = {[1]="Dappled Grey Miniature Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[340] = {[1]="Black Miniature Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
 _PETSTRINGS[341] = {[1]="Anniversary Celebration Goat";[2]="Available through barter during the Anniversary Festival."}
 _PETSTRINGS[342] = {[1]="Pure Seagull";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
 _PETSTRINGS[343] = {[1]="Cave Slug";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
+_PETSTRINGS[344] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
+_PETSTRINGS[345] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
+_PETSTRINGS[346] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[347] = {[1]="The King's Pony";[2]="Available by completing the quest 'Chapter 1.10: Inside Every Shadow'."}
+_PETSTRINGS[348] = {[1]="Summer Concert Firefly";[2]="Available for barter during the Midsummer Festival."}
+_PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[350] = {[1]="Spiky Avanc";[2]="Available through barter by participating in Delvings."}
+_PETSTRINGS[351] = {[1]="Slate Aurochs";[2]="Available through barter by participating in Delvings."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -432,20 +440,23 @@ _PETSTRINGS[508] = {[1]="Cream Corgi";[2]=""}
 _PETSTRINGS[509] = {[1]="Russet Corgi";[2]=""}
 _PETSTRINGS[510] = {[1]="Prepared Corgi";[2]=""}
 _PETSTRINGS[511] = {[1]="Library Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
-_PETSTRINGS[513] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[514] = {[1]="Frost-tusk Youngling";[2]="";}
-_PETSTRINGS[515] = {[1]="Ferocious Battle-kitten";[2]="";}
-_PETSTRINGS[516] = {[1]="Rohan Aurochs";[2]="";}
-_PETSTRINGS[517] = {[1]="Deep-claw Whelp";[2]=""}
-_PETSTRINGS[518] = {[1]="Evergreen Sickle-fly";[2]=""}
-_PETSTRINGS[519] = {[1]="Frost Aurochs";[2]=""}
-_PETSTRINGS[520] = {[1]="Buffalo Cow";[2]=""}
-_PETSTRINGS[521] = {[1]="Black Bull";[2]=""}
-_PETSTRINGS[522] = {[1]="Young Moose";[2]=""}
-_PETSTRINGS[523] = {[1]="Autumn Aurochs";[2]=""}
-_PETSTRINGS[524] = {[1]="Curious Slug";[2]="";}
-_PETSTRINGS[525] = {[1]="Feisty Wolverine";[2]="";}
-_PETSTRINGS[526] = {[1]="Spiky Avanc";[2]="";}
-_PETSTRINGS[527] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[528] = {[1]="Slate Aurochs";[2]=""}
+_PETSTRINGS[512] = {[1]="Winter's Wind";[2]=""}
+_PETSTRINGS[513] = {[1]="Frost-tusk Youngling";[2]=""}
+_PETSTRINGS[514] = {[1]="Ferocious Battle-kitten";[2]="";}
+_PETSTRINGS[515] = {[1]="Rohan Aurochs";[2]="";}
+_PETSTRINGS[516] = {[1]="Deep-claw Whelp";[2]="";}
+_PETSTRINGS[517] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[518] = {[1]="Frost Aurochs";[2]=""}
+_PETSTRINGS[519] = {[1]="Buffalo Cow";[2]=""}
+_PETSTRINGS[520] = {[1]="Black Bull";[2]=""}
+_PETSTRINGS[521] = {[1]="Young Moose";[2]=""}
+_PETSTRINGS[522] = {[1]="Autumn Aurochs";[2]=""}
+_PETSTRINGS[523] = {[1]="Curious Slug";[2]=""}
+_PETSTRINGS[524] = {[1]="Feisty Wolverine";[2]="";}
+_PETSTRINGS[525] = {[1]="Tawny Aurochs";[2]="";}
+_PETSTRINGS[526] = {[1]="Jerboa";[2]="";}
+_PETSTRINGS[527] = {[1]="Striped Jerboa";[2]=""}
+_PETSTRINGS[528] = {[1]="White Jerboa";[2]=""}
+_PETSTRINGS[529] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[530] = {[1]="Black Jerboa";[2]=""}
+_PETSTRINGS[531] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}

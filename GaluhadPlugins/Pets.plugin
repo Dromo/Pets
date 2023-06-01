@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <Plugin>
 	<Information>
-		<Name>Pets U35.1.3</Name>
+		<Name>Pets U36</Name>
 		<Author>Drono</Author>
-		<Version>35.1.3</Version>
+		<Version>36</Version>
 		<Description>A simple plugin for accessing your pets.
 Original plugin by Galuhad.
 Updated databse by Drono.

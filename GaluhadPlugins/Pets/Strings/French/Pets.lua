@@ -413,12 +413,20 @@ _PETSTRINGS[334] = {[1]="Rat d'égout";[2]="Disponible dans le coffre de Radarri
 _PETSTRINGS[335] = {[1]="Luciole du crépuscule";[2]="Disponible comme récompense dans Thaurisgar, l'infâme échoppe d'apothicaire. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
 _PETSTRINGS[336] = {[1]="Luciole ambrée";[2]="Disponible comme récompense dans Sant Lhoer, le Jardin empoisonné. Peut également s'obtenir par échange auprès de Muiral à Bail Avarc."}
 _PETSTRINGS[337] = {[1]="Corgi rouille";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
-_PETSTRINGS[338] = {[1]="Cheval de trait du propriétaire";[2]="S'obtient dans le coffre luxuriant Propriétés et moissons."}
-_PETSTRINGS[339] = {[1]="Cheval de trait gris pommelé";[2]="S'obtient dans les coffres améliorés et luxuriants Propriétés et moissons."}
-_PETSTRINGS[340] = {[1]="Cheval de trait noir";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[338] = {[1]="Cheval de trait miniature du propriétaire";[2]="S'obtient dans le coffre luxuriant Propriétés et moissons."}
+_PETSTRINGS[339] = {[1]="Cheval de trait gris pommelé miniature";[2]="S'obtient dans les coffres améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[340] = {[1]="Cheval de trait noir miniature";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
 _PETSTRINGS[341] = {[1]="Chèvre d'anniversaire";[2]="Disponible par échange au cours du Festival d'anniversaire."}
-_PETSTRINGS[342] = {[1]="Mouette des neiges";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 6."}
+_PETSTRINGS[342] = {[1]="Mouette pure";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 6."}
 _PETSTRINGS[343] = {[1]="Limace des cavernes";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 6."}
+_PETSTRINGS[344] = {[1]="Cheval de trait du propriétaire";[2]="S'obtient dans le coffre luxuriant Propriétés et moissons."}
+_PETSTRINGS[345] = {[1]="Cheval de trait gris pommelé";[2]="S'obtient dans les coffres améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[346] = {[1]="Cheval de trait noir";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
+_PETSTRINGS[347] = {[1]="Le poney du roi";[2]="Disponible en terminant la quête 'Chapitre 1.10 : Dans chaque ombre'."}
+_PETSTRINGS[348] = {[1]="Luciole de concert estival";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[349] = {[1]="Gerboise mouchetée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[350] = {[1]="Avanc à pointes";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[351] = {[1]="Aurochs gris ardoise";[2]="Disponible par échange en participant à des excavations."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -432,20 +440,23 @@ _PETSTRINGS[508] = {[1]="Corgi crème";[2]=""}
 _PETSTRINGS[509] = {[1]="Corgi brun-roux";[2]=""}
 _PETSTRINGS[510] = {[1]="Corgi apprêté";[2]=""}
 _PETSTRINGS[511] = {[1]="Corgi de bibliothèque";[2]=""}
-_PETSTRINGS[512] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
-_PETSTRINGS[513] = {[1]="Vent d'hiver";[2]=""}
-_PETSTRINGS[514] = {[1]="Jeune défense-de-givre";[2]="";}
-_PETSTRINGS[515] = {[1]="Chaton de combat féroce";[2]="";}
-_PETSTRINGS[516] = {[1]="Auroch du Rohan";[2]="";}
-_PETSTRINGS[517] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[518] = {[1]="Mouche faucheuse tenace";[2]=""}
-_PETSTRINGS[519] = {[1]="Aurochs givré";[2]=""}
-_PETSTRINGS[520] = {[1]="Bufflonne";[2]=""}
-_PETSTRINGS[521] = {[1]="Taureau noir";[2]=""}
-_PETSTRINGS[522] = {[1]="Jeune élan";[2]=""}
-_PETSTRINGS[523] = {[1]="Aurochs automnal";[2]=""}
-_PETSTRINGS[524] = {[1]="Limace curieuse";[2]="";}
-_PETSTRINGS[525] = {[1]="Glouton fougueux";[2]="";}
-_PETSTRINGS[526] = {[1]="Avanc à pointes";[2]="";}
-_PETSTRINGS[527] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[528] = {[1]="Aurochs gris ardoise";[2]=""}
+_PETSTRINGS[512] = {[1]="Vent d'hiver";[2]=""}
+_PETSTRINGS[513] = {[1]="Jeune défense-de-givre";[2]=""}
+_PETSTRINGS[514] = {[1]="Chaton de combat féroce";[2]="";}
+_PETSTRINGS[515] = {[1]="Auroch du Rohan";[2]="";}
+_PETSTRINGS[516] = {[1]="Jeune griffefosse";[2]="";}
+_PETSTRINGS[517] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[518] = {[1]="Aurochs givré";[2]=""}
+_PETSTRINGS[519] = {[1]="Bufflonne";[2]=""}
+_PETSTRINGS[520] = {[1]="Taureau noir";[2]=""}
+_PETSTRINGS[521] = {[1]="Jeune élan";[2]=""}
+_PETSTRINGS[522] = {[1]="Aurochs automnal";[2]=""}
+_PETSTRINGS[523] = {[1]="Limace curieuse";[2]=""}
+_PETSTRINGS[524] = {[1]="Glouton fougueux";[2]="";}
+_PETSTRINGS[525] = {[1]="Aurochs fauve";[2]="";}
+_PETSTRINGS[526] = {[1]="Gerboise";[2]="";}
+_PETSTRINGS[527] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[528] = {[1]="Gerboise blanche";[2]=""}
+_PETSTRINGS[529] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[530] = {[1]="Gerboise noire";[2]=""}
+_PETSTRINGS[531] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
