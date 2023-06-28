@@ -46,13 +46,11 @@ function NewItemInfo(itemID)
 		cItemInspect:SetShortcut(Turbine.UI.Lotro.Shortcut(Turbine.UI.Lotro.ShortcutType.Item, "0x0,0x" .. itemHex));
 	end
 
-	if pcall(SetInspectIcon) then
-		cItemInspect:SetShortcut(Turbine.UI.Lotro.Shortcut(Turbine.UI.Lotro.ShortcutType.Item, "0x0,0x" .. itemHex));
-		local itemInfo = cItemInspect:GetShortcut():GetItem():GetItemInfo();
+	if pcall(SetInspectIcon) and cItemInspect:GetShortcut():GetItem() then
+        local itemInfo = cItemInspect:GetShortcut():GetItem():GetItemInfo();
 		cItemInfo:SetItemInfo(itemInfo);
 		cItemInfo:SetQuantity(1);
-	end
-
+    end
 	cItemInspect = nil;
 	return cItemInfo;
 end
