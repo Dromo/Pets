@@ -427,6 +427,9 @@ _PETSTRINGS[348] = {[1]="Luciole de concert estival";[2]="Disponible par échang
 _PETSTRINGS[349] = {[1]="Gerboise mouchetée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[350] = {[1]="Avanc à pointes";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[351] = {[1]="Aurochs gris ardoise";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[352] = {[1]="Bufflonne";[2]=""}
+_PETSTRINGS[353] = {[1]="Taureau noir";[2]=""}
+
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -447,16 +450,14 @@ _PETSTRINGS[515] = {[1]="Auroch du Rohan";[2]="";}
 _PETSTRINGS[516] = {[1]="Jeune griffefosse";[2]="";}
 _PETSTRINGS[517] = {[1]="Mouche faucheuse tenace";[2]=""}
 _PETSTRINGS[518] = {[1]="Aurochs givré";[2]=""}
-_PETSTRINGS[519] = {[1]="Bufflonne";[2]=""}
-_PETSTRINGS[520] = {[1]="Taureau noir";[2]=""}
-_PETSTRINGS[521] = {[1]="Jeune élan";[2]=""}
-_PETSTRINGS[522] = {[1]="Aurochs automnal";[2]=""}
-_PETSTRINGS[523] = {[1]="Limace curieuse";[2]=""}
-_PETSTRINGS[524] = {[1]="Glouton fougueux";[2]="";}
-_PETSTRINGS[525] = {[1]="Aurochs fauve";[2]="";}
-_PETSTRINGS[526] = {[1]="Gerboise";[2]="";}
-_PETSTRINGS[527] = {[1]="Gerboise à rayures";[2]=""}
-_PETSTRINGS[528] = {[1]="Gerboise blanche";[2]=""}
-_PETSTRINGS[529] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[530] = {[1]="Gerboise noire";[2]=""}
-_PETSTRINGS[531] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[519] = {[1]="Jeune élan";[2]=""}
+_PETSTRINGS[520] = {[1]="Aurochs automnal";[2]=""}
+_PETSTRINGS[521] = {[1]="Limace curieuse";[2]=""}
+_PETSTRINGS[522] = {[1]="Glouton fougueux";[2]=""}
+_PETSTRINGS[523] = {[1]="Aurochs fauve";[2]=""}
+_PETSTRINGS[524] = {[1]="Gerboise";[2]="";}
+_PETSTRINGS[525] = {[1]="Gerboise à rayures";[2]="";}
+_PETSTRINGS[526] = {[1]="Gerboise blanche";[2]="";}
+_PETSTRINGS[527] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[528] = {[1]="Gerboise noire";[2]=""}
+_PETSTRINGS[529] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}

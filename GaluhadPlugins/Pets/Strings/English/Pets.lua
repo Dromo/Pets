@@ -427,6 +427,9 @@ _PETSTRINGS[348] = {[1]="Summer Concert Firefly";[2]="Available for barter durin
 _PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[350] = {[1]="Spiky Avanc";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[351] = {[1]="Slate Aurochs";[2]="Available through barter by participating in Delvings."}
+_PETSTRINGS[352] = {[1]="Brown Cow";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
+_PETSTRINGS[353] = {[1]="Black Bull";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
+
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -447,16 +450,14 @@ _PETSTRINGS[515] = {[1]="Rohan Aurochs";[2]="";}
 _PETSTRINGS[516] = {[1]="Deep-claw Whelp";[2]="";}
 _PETSTRINGS[517] = {[1]="Evergreen Sickle-fly";[2]=""}
 _PETSTRINGS[518] = {[1]="Frost Aurochs";[2]=""}
-_PETSTRINGS[519] = {[1]="Buffalo Cow";[2]=""}
-_PETSTRINGS[520] = {[1]="Black Bull";[2]=""}
-_PETSTRINGS[521] = {[1]="Young Moose";[2]=""}
-_PETSTRINGS[522] = {[1]="Autumn Aurochs";[2]=""}
-_PETSTRINGS[523] = {[1]="Curious Slug";[2]=""}
-_PETSTRINGS[524] = {[1]="Feisty Wolverine";[2]="";}
-_PETSTRINGS[525] = {[1]="Tawny Aurochs";[2]="";}
-_PETSTRINGS[526] = {[1]="Jerboa";[2]="";}
-_PETSTRINGS[527] = {[1]="Striped Jerboa";[2]=""}
-_PETSTRINGS[528] = {[1]="White Jerboa";[2]=""}
-_PETSTRINGS[529] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[530] = {[1]="Black Jerboa";[2]=""}
-_PETSTRINGS[531] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[519] = {[1]="Young Moose";[2]=""}
+_PETSTRINGS[520] = {[1]="Autumn Aurochs";[2]=""}
+_PETSTRINGS[521] = {[1]="Curious Slug";[2]=""}
+_PETSTRINGS[522] = {[1]="Feisty Wolverine";[2]=""}
+_PETSTRINGS[523] = {[1]="Tawny Aurochs";[2]=""}
+_PETSTRINGS[524] = {[1]="Jerboa";[2]="";}
+_PETSTRINGS[525] = {[1]="Striped Jerboa";[2]="";}
+_PETSTRINGS[526] = {[1]="White Jerboa";[2]="";}
+_PETSTRINGS[527] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[528] = {[1]="Black Jerboa";[2]=""}
+_PETSTRINGS[529] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}

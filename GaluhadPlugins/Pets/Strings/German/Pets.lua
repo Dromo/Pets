@@ -423,6 +423,8 @@ _PETSTRINGS[348] = {[1]="Sommerkonzert-Glühwürmchen";[2]="Während des Mittsom
 _PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[350] = {[1]="Stacheliger Avanc";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[351] = {[1]="Schiefergrauer Auerochse";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[352] = {[1]="Büffelkuh";[2]=""}
+_PETSTRINGS[353] = {[1]="Schwarzer Bulle";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -443,16 +445,14 @@ _PETSTRINGS[515] = {[1]="Rohan-Auerochse";[2]="";}
 _PETSTRINGS[516] = {[1]="Tiefenklauen-Welpe";[2]="";}
 _PETSTRINGS[517] = {[1]="Immergrüne Sichelfliege";[2]=""}
 _PETSTRINGS[518] = {[1]="Frostweißer Auerochse";[2]=""}
-_PETSTRINGS[519] = {[1]="Büffelkuh";[2]=""}
-_PETSTRINGS[520] = {[1]="Schwarzer Bulle";[2]=""}
-_PETSTRINGS[521] = {[1]="Junger Elch";[2]=""}
-_PETSTRINGS[522] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[523] = {[1]="Neugierige Schnecke";[2]=""}
-_PETSTRINGS[524] = {[1]="Munterer Vielfraß";[2]="";}
-_PETSTRINGS[525] = {[1]="Lohfarbener Auerochse";[2]="";}
-_PETSTRINGS[526] = {[1]="Springmaus";[2]="";}
-_PETSTRINGS[527] = {[1]="Gestreifte Springmaus";[2]=""}
-_PETSTRINGS[528] = {[1]="Weiße Springmaus";[2]=""}
-_PETSTRINGS[529] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[530] = {[1]="Schwarze Springmaus";[2]=""}
-_PETSTRINGS[531] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[519] = {[1]="Junger Elch";[2]=""}
+_PETSTRINGS[520] = {[1]="Herbstroter Auerochse";[2]=""}
+_PETSTRINGS[521] = {[1]="Neugierige Schnecke";[2]=""}
+_PETSTRINGS[522] = {[1]="Munterer Vielfraß";[2]=""}
+_PETSTRINGS[523] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[524] = {[1]="Springmaus";[2]="";}
+_PETSTRINGS[525] = {[1]="Gestreifte Springmaus";[2]="";}
+_PETSTRINGS[526] = {[1]="Weiße Springmaus";[2]="";}
+_PETSTRINGS[527] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[528] = {[1]="Schwarze Springmaus";[2]=""}
+_PETSTRINGS[529] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
