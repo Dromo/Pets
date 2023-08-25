@@ -429,35 +429,35 @@ _PETSTRINGS[350] = {[1]="Avanc à pointes";[2]="Disponible par échange en parti
 _PETSTRINGS[351] = {[1]="Aurochs gris ardoise";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[352] = {[1]="Bufflonne";[2]=""}
 _PETSTRINGS[353] = {[1]="Taureau noir";[2]=""}
-
+_PETSTRINGS[354] = {[1]="null";[2]=""}
+_PETSTRINGS[355] = {[1]="Glouton fougueux";[2]=""}
+_PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
 _PETSTRINGS[502] = {[1]="Chauve-souris brunie";[2]=""}
 _PETSTRINGS[503] = {[1]="Cerf-volant des ailes noires";[2]=""}
 _PETSTRINGS[504] = {[1]="Cerf-volant des ailes du crépuscule";[2]=""}
-_PETSTRINGS[505] = {[1]="Cerf-volant de l'érable";[2]=""}
-_PETSTRINGS[506] = {[1]="Chien-loup en brun claire";[2]=""}
-_PETSTRINGS[507] = {[1]="Chien couleur terre du tréfonds";[2]=""}
-_PETSTRINGS[508] = {[1]="Corgi crème";[2]=""}
-_PETSTRINGS[509] = {[1]="Corgi brun-roux";[2]=""}
-_PETSTRINGS[510] = {[1]="Corgi apprêté";[2]=""}
-_PETSTRINGS[511] = {[1]="Corgi de bibliothèque";[2]=""}
-_PETSTRINGS[512] = {[1]="Vent d'hiver";[2]=""}
-_PETSTRINGS[513] = {[1]="Jeune défense-de-givre";[2]=""}
-_PETSTRINGS[514] = {[1]="Chaton de combat féroce";[2]="";}
-_PETSTRINGS[515] = {[1]="Auroch du Rohan";[2]="";}
-_PETSTRINGS[516] = {[1]="Jeune griffefosse";[2]="";}
-_PETSTRINGS[517] = {[1]="Mouche faucheuse tenace";[2]=""}
-_PETSTRINGS[518] = {[1]="Aurochs givré";[2]=""}
-_PETSTRINGS[519] = {[1]="Jeune élan";[2]=""}
-_PETSTRINGS[520] = {[1]="Aurochs automnal";[2]=""}
-_PETSTRINGS[521] = {[1]="Limace curieuse";[2]=""}
-_PETSTRINGS[522] = {[1]="Glouton fougueux";[2]=""}
-_PETSTRINGS[523] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[524] = {[1]="Gerboise";[2]="";}
-_PETSTRINGS[525] = {[1]="Gerboise à rayures";[2]="";}
-_PETSTRINGS[526] = {[1]="Gerboise blanche";[2]="";}
-_PETSTRINGS[527] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[528] = {[1]="Gerboise noire";[2]=""}
-_PETSTRINGS[529] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[505] = {[1]="Chien-loup en brun claire";[2]=""}
+_PETSTRINGS[506] = {[1]="Chien couleur terre du tréfonds";[2]=""}
+_PETSTRINGS[507] = {[1]="Corgi crème";[2]=""}
+_PETSTRINGS[508] = {[1]="Corgi brun-roux";[2]=""}
+_PETSTRINGS[509] = {[1]="Corgi apprêté";[2]=""}
+_PETSTRINGS[510] = {[1]="Corgi de bibliothèque";[2]=""}
+_PETSTRINGS[511] = {[1]="Vent d'hiver";[2]=""}
+_PETSTRINGS[512] = {[1]="Jeune défense-de-givre";[2]=""}
+_PETSTRINGS[513] = {[1]="Chaton de combat féroce";[2]=""}
+_PETSTRINGS[514] = {[1]="Auroch du Rohan";[2]="";}
+_PETSTRINGS[515] = {[1]="Jeune griffefosse";[2]="";}
+_PETSTRINGS[516] = {[1]="Mouche faucheuse tenace";[2]="";}
+_PETSTRINGS[517] = {[1]="Aurochs givré";[2]=""}
+_PETSTRINGS[518] = {[1]="Jeune élan";[2]=""}
+_PETSTRINGS[519] = {[1]="Aurochs automnal";[2]=""}
+_PETSTRINGS[520] = {[1]="Limace curieuse";[2]=""}
+_PETSTRINGS[521] = {[1]="Aurochs fauve";[2]=""}
+_PETSTRINGS[522] = {[1]="Gerboise";[2]=""}
+_PETSTRINGS[523] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[524] = {[1]="Gerboise blanche";[2]="";}
+_PETSTRINGS[525] = {[1]="Gerboise brune";[2]="";}
+_PETSTRINGS[526] = {[1]="Gerboise noire";[2]="";}
+_PETSTRINGS[527] = {[1]="Corgi blond";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}

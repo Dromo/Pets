@@ -204,7 +204,7 @@ _PETSTRINGS[157] = {[1]="Black Peahen";[2]="Available through barter during the 
 _PETSTRINGS[158] = {[1]="White Peacock";[2]="Limited time availability for Figments of Splendour.";}
 _PETSTRINGS[159] = {[1]="Teacup Goat Kid";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
 _PETSTRINGS[160] = {[1]="Green Peacock";[2]="Available for barter during Summer Seasonal Instances.";}
-_PETSTRINGS[161] = {[1]="Toffee Goat Kid";[2]="Available for barter from the March on Gundabad Quartermaster.";}
+_PETSTRINGS[161] = {[1]="Toffee Goat Kid";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster.";}
 _PETSTRINGS[162] = {[1]="Big Kid";[2]="Available through barter during the Farmers Faire Festival.";}
 _PETSTRINGS[163] = {[1]="Black Peacock";[2]="Available through barter during the Farmers Faire Festival.";}
 _PETSTRINGS[164] = {[1]="Little Kid";[2]="Limited time availability for Figments of Splendour.";}
@@ -324,11 +324,11 @@ _PETSTRINGS[253] = {[1]="Ill Omened Worm";[2]="Available from the Skirmishes -- 
 _PETSTRINGS[254] = {[1]="Tame Wildwood Huorn";[2]="Available through barter in Wildwood."}
 _PETSTRINGS[255] = {[1]="Tame Wildwood Tusker";[2]="Available through barter in Wildwood."}
 _PETSTRINGS[256] = {[1]="Wild Young Moose";[2]="Available through barter in Wildwood."}
-_PETSTRINGS[257] = {[1]="Red Gecko";[2]="Obtained through crafting in Wildwood."}
-_PETSTRINGS[258] = {[1]="Two-toned Sheep";[2]="Obtained through crafting in Wildwood."}
-_PETSTRINGS[259] = {[1]="Ashen Eagle";[2]="Obtained through crafting in Wildwood."}
-_PETSTRINGS[260] = {[1]="Spotted Pig";[2]="Obtained through crafting in Wildwood."}
-_PETSTRINGS[261] = {[1]="Copper Goat";[2]="Obtained through crafting in Wildwood."}
+_PETSTRINGS[257] = {[1]="Red Gecko";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
+_PETSTRINGS[258] = {[1]="Two-toned Sheep";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
+_PETSTRINGS[259] = {[1]="Ashen Eagle";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
+_PETSTRINGS[260] = {[1]="Spotted Pig";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
+_PETSTRINGS[261] = {[1]="Copper Goat";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
 _PETSTRINGS[262] = {[1]="Bog-lurker Buddy";[2]="Available to barter from Celeblír in Rivendell."}
 _PETSTRINGS[263] = {[1]="Dappled Tri-colour Cat";[2]="Available in the LOTRO Store."}
 _PETSTRINGS[264] = {[1]="Cozy Grey Cat";[2]="Available through barter during the Anniversary Festival."}
@@ -368,10 +368,10 @@ _PETSTRINGS[292] = {[1]="Chestnut Corgi";[2]="Limited time Anniversary gift.";}
 _PETSTRINGS[293] = {[1]="Golden Crystal Beetle";[2]="Available through barter during the Anniversary Festival.";}
 _PETSTRINGS[294] = {[1]="Anniversary Celebration Corgi";[2]="Available from participating in community events.";}
 _PETSTRINGS[295] = {[1]="Spotted Corgi";[2]="Available from participating in community events.";}
-_PETSTRINGS[296] = {[1]="Buff Donkey";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes";}
-_PETSTRINGS[297] = {[1]="Copper Nether-hound";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes";}
+_PETSTRINGS[296] = {[1]="Buff Donkey";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes.";}
+_PETSTRINGS[297] = {[1]="Copper Nether-hound";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes.";}
 _PETSTRINGS[298] = {[1]="Blood Craban";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
-_PETSTRINGS[299] = {[1]="Formal Corgi";[2]="Available through barter during the Anniversary Festival.";}
+_PETSTRINGS[299] = {[1]="Formal Corgi";[2]="Available for barter from Theodore Gorse during the Treasure Bugan Event.";}
 _PETSTRINGS[300] = {[1]="Friendly Bear Cub";[2]="Available to barter from Celeblír in Rivendell."}
 _PETSTRINGS[301] = {[1]="Black Bear Cub";[2]="Available to barter from Celeblír in Rivendell."}
 _PETSTRINGS[302] = {[1]="Noble Starling";[2]="Acquired by being an enhanced or luxurious supporter of Rivendell."}
@@ -384,7 +384,7 @@ _PETSTRINGS[307] = {[1]="Night Sky Craban";[2]="Available through barter during 
 _PETSTRINGS[308] = {[1]="Lantern Gourd-lurker";[2]="Available through barter during the Fall Festival."}
 _PETSTRINGS[309] = {[1]="Loyal Turtle";[2]="Available in the Before the Shadow Ultimate Fan Bundle."}
 _PETSTRINGS[310] = {[1]="Friendly Heron";[2]="Available in the Before the Shadow Collector's Edition or Ultimate Fan Bundle."}
-_PETSTRINGS[311] = {[1]="Mottled Craban";[2]="Obtained through crafting in Wildwood."}
+_PETSTRINGS[311] = {[1]="Mottled Craban";[2]="Crafted from a recipe available for barter from the March on Gundabad Quartermaster."}
 _PETSTRINGS[312] = {[1]="Golden Bat";[2]="Available by aiding Radagast at Rhosgobel."}
 
 _PETSTRINGS[313] = {[1]="Cozy Tabby Cat";[2]="Available to barter in Cardolan."}
@@ -424,40 +424,40 @@ _PETSTRINGS[345] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homestea
 _PETSTRINGS[346] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
 _PETSTRINGS[347] = {[1]="The King's Pony";[2]="Available by completing the quest 'Chapter 1.10: Inside Every Shadow'."}
 _PETSTRINGS[348] = {[1]="Summer Concert Firefly";[2]="Available for barter during the Midsummer Festival."}
-_PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[350] = {[1]="Spiky Avanc";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[351] = {[1]="Slate Aurochs";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[352] = {[1]="Brown Cow";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
 _PETSTRINGS[353] = {[1]="Black Bull";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
-
+_PETSTRINGS[354] = {[1]="Fire-fox Bandit";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[355] = {[1]="Feisty Wolverine";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
+_PETSTRINGS[356] = {[1]="Maple Kite";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Tan Bat";[2]=""}
 _PETSTRINGS[503] = {[1]="Black-wing Kite";[2]=""}
 _PETSTRINGS[504] = {[1]="Dusk-wing Kite";[2]=""}
-_PETSTRINGS[505] = {[1]="Maple Kite";[2]=""}
-_PETSTRINGS[506] = {[1]="Tan Wolf-dog";[2]=""}
-_PETSTRINGS[507] = {[1]="Umber Nether-hound";[2]=""}
-_PETSTRINGS[508] = {[1]="Cream Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Russet Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Prepared Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Library Corgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[513] = {[1]="Frost-tusk Youngling";[2]=""}
-_PETSTRINGS[514] = {[1]="Ferocious Battle-kitten";[2]="";}
-_PETSTRINGS[515] = {[1]="Rohan Aurochs";[2]="";}
-_PETSTRINGS[516] = {[1]="Deep-claw Whelp";[2]="";}
-_PETSTRINGS[517] = {[1]="Evergreen Sickle-fly";[2]=""}
-_PETSTRINGS[518] = {[1]="Frost Aurochs";[2]=""}
-_PETSTRINGS[519] = {[1]="Young Moose";[2]=""}
-_PETSTRINGS[520] = {[1]="Autumn Aurochs";[2]=""}
-_PETSTRINGS[521] = {[1]="Curious Slug";[2]=""}
-_PETSTRINGS[522] = {[1]="Feisty Wolverine";[2]=""}
-_PETSTRINGS[523] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[524] = {[1]="Jerboa";[2]="";}
-_PETSTRINGS[525] = {[1]="Striped Jerboa";[2]="";}
-_PETSTRINGS[526] = {[1]="White Jerboa";[2]="";}
-_PETSTRINGS[527] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[528] = {[1]="Black Jerboa";[2]=""}
-_PETSTRINGS[529] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[505] = {[1]="Tan Wolf-dog";[2]=""}
+_PETSTRINGS[506] = {[1]="Umber Nether-hound";[2]=""}
+_PETSTRINGS[507] = {[1]="Cream Corgi";[2]=""}
+_PETSTRINGS[508] = {[1]="Russet Corgi";[2]=""}
+_PETSTRINGS[509] = {[1]="Prepared Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Library Corgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Winter's Wind";[2]=""}
+_PETSTRINGS[512] = {[1]="Frost-tusk Youngling";[2]=""}
+_PETSTRINGS[513] = {[1]="Ferocious Battle-kitten";[2]=""}
+_PETSTRINGS[514] = {[1]="Rohan Aurochs";[2]="";}
+_PETSTRINGS[515] = {[1]="Deep-claw Whelp";[2]="";}
+_PETSTRINGS[516] = {[1]="Evergreen Sickle-fly";[2]="";}
+_PETSTRINGS[517] = {[1]="Frost Aurochs";[2]=""}
+_PETSTRINGS[518] = {[1]="Young Moose";[2]=""}
+_PETSTRINGS[519] = {[1]="Autumn Aurochs";[2]=""}
+_PETSTRINGS[520] = {[1]="Curious Slug";[2]=""}
+_PETSTRINGS[521] = {[1]="Tawny Aurochs";[2]=""}
+_PETSTRINGS[522] = {[1]="Jerboa";[2]=""}
+_PETSTRINGS[523] = {[1]="Striped Jerboa";[2]=""}
+_PETSTRINGS[524] = {[1]="White Jerboa";[2]="";}
+_PETSTRINGS[525] = {[1]="Brown Jerboa";[2]="";}
+_PETSTRINGS[526] = {[1]="Black Jerboa";[2]="";}
+_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}

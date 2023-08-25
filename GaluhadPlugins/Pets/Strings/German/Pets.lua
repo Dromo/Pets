@@ -425,34 +425,35 @@ _PETSTRINGS[350] = {[1]="Stacheliger Avanc";[2]="Durch Tauschhandel bei Teilnahm
 _PETSTRINGS[351] = {[1]="Schiefergrauer Auerochse";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[352] = {[1]="Büffelkuh";[2]=""}
 _PETSTRINGS[353] = {[1]="Schwarzer Bulle";[2]=""}
+_PETSTRINGS[354] = {[1]="null";[2]=""}
+_PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]=""}
+_PETSTRINGS[356] = {[1]="Ahorndrachen";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
 _PETSTRINGS[502] = {[1]="Hellbraune Fledermaus";[2]=""}
 _PETSTRINGS[503] = {[1]="Schwarzschwingendrachen";[2]=""}
 _PETSTRINGS[504] = {[1]="Dämmerschwingendrachen";[2]=""}
-_PETSTRINGS[505] = {[1]="Ahorndrachen";[2]=""}
-_PETSTRINGS[506] = {[1]="Hellbrauner Wolfshund";[2]=""}
-_PETSTRINGS[507] = {[1]="Umbrafarbener Niederhund";[2]=""}
-_PETSTRINGS[508] = {[1]="Cremefarbener Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Vorbereiteter Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Bibliothekscorgi";[2]=""}
-_PETSTRINGS[512] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[513] = {[1]="Frosthauer-Junges";[2]=""}
-_PETSTRINGS[514] = {[1]="Grimmiges Kampfkätzchen";[2]="";}
-_PETSTRINGS[515] = {[1]="Rohan-Auerochse";[2]="";}
-_PETSTRINGS[516] = {[1]="Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[517] = {[1]="Immergrüne Sichelfliege";[2]=""}
-_PETSTRINGS[518] = {[1]="Frostweißer Auerochse";[2]=""}
-_PETSTRINGS[519] = {[1]="Junger Elch";[2]=""}
-_PETSTRINGS[520] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[521] = {[1]="Neugierige Schnecke";[2]=""}
-_PETSTRINGS[522] = {[1]="Munterer Vielfraß";[2]=""}
-_PETSTRINGS[523] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[524] = {[1]="Springmaus";[2]="";}
-_PETSTRINGS[525] = {[1]="Gestreifte Springmaus";[2]="";}
-_PETSTRINGS[526] = {[1]="Weiße Springmaus";[2]="";}
-_PETSTRINGS[527] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[528] = {[1]="Schwarze Springmaus";[2]=""}
-_PETSTRINGS[529] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[505] = {[1]="Hellbrauner Wolfshund";[2]=""}
+_PETSTRINGS[506] = {[1]="Umbrafarbener Niederhund";[2]=""}
+_PETSTRINGS[507] = {[1]="Cremefarbener Corgi";[2]=""}
+_PETSTRINGS[508] = {[1]="Rostbrauner Corgi";[2]=""}
+_PETSTRINGS[509] = {[1]="Vorbereiteter Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[511] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[512] = {[1]="Frosthauer-Junges";[2]=""}
+_PETSTRINGS[513] = {[1]="Grimmiges Kampfkätzchen";[2]=""}
+_PETSTRINGS[514] = {[1]="Rohan-Auerochse";[2]="";}
+_PETSTRINGS[515] = {[1]="Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[516] = {[1]="Immergrüne Sichelfliege";[2]="";}
+_PETSTRINGS[517] = {[1]="Frostweißer Auerochse";[2]=""}
+_PETSTRINGS[518] = {[1]="Junger Elch";[2]=""}
+_PETSTRINGS[519] = {[1]="Herbstroter Auerochse";[2]=""}
+_PETSTRINGS[520] = {[1]="Neugierige Schnecke";[2]=""}
+_PETSTRINGS[521] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[522] = {[1]="Springmaus";[2]=""}
+_PETSTRINGS[523] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[524] = {[1]="Weiße Springmaus";[2]="";}
+_PETSTRINGS[525] = {[1]="Braune Springmaus";[2]="";}
+_PETSTRINGS[526] = {[1]="Schwarze Springmaus";[2]="";}
+_PETSTRINGS[527] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
