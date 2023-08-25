@@ -204,7 +204,7 @@ _PETSTRINGS[157] = {[1]="Schwarze Pfauenhenne";[2]="Durch Tauschhandel während 
 _PETSTRINGS[158] = {[1]="Weißer Pfau";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
 _PETSTRINGS[159] = {[1]="Teetassen-Zicklein";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
 _PETSTRINGS[160] = {[1]="Grüner Pfau";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich.";}
-_PETSTRINGS[161] = {[1]="Toffee-Zicklein";[2]="Per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich.";}
+_PETSTRINGS[161] = {[1]="Toffee-Zicklein";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist.";}
 _PETSTRINGS[162] = {[1]="Riesenzicklein";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
 _PETSTRINGS[163] = {[1]="Schwarzer Pfau";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
 _PETSTRINGS[164] = {[1]="Kleines Zicklein";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
@@ -320,11 +320,11 @@ _PETSTRINGS[253] = {[1]="Unheilvoller Wurm";[2]="Erhältlich beim Ereignis 'Scha
 _PETSTRINGS[254] = {[1]="Zahmer Wildwald-Huorn";[2]="Durch Tauschhandel in Wildwald erhältlich."}
 _PETSTRINGS[255] = {[1]="Zahmer Wildwald-Keiler";[2]="Durch Tauschhandel in Wildwald erhältlich."}
 _PETSTRINGS[256] = {[1]="Wilden junger Elch";[2]="Durch Tauschhandel in Wildwald erhältlich."}
-_PETSTRINGS[257] = {[1]="Roter Gecko";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
-_PETSTRINGS[258] = {[1]="Zweifarbiges Schaf";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
-_PETSTRINGS[259] = {[1]="Aschgrauer Adler";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
-_PETSTRINGS[260] = {[1]="Geflecktes Schwein";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
-_PETSTRINGS[261] = {[1]="Kupferziege";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
+_PETSTRINGS[257] = {[1]="Roter Gecko";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[258] = {[1]="Zweifarbiges Schaf";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[259] = {[1]="Aschgrauer Adler";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[260] = {[1]="Geflecktes Schwein";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[261] = {[1]="Kupferziege";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
 _PETSTRINGS[262] = {[1]="Freundlicher Sumpflauerer";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[263] = {[1]="Gefleckte dreifarbige Katze";[2]="Im HdRO-Shop erhältlich."}
 _PETSTRINGS[264] = {[1]="Flauschige graue Katze";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
@@ -363,11 +363,11 @@ _PETSTRINGS[292] = {[1]="Kastanienfarbener Corgi";[2]="Zeitlich begrenztes Jubil
 _PETSTRINGS[293] = {[1]="Goldener Kristallkäfer";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
 _PETSTRINGS[294] = {[1]="Jubiläumsfestcorgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
 _PETSTRINGS[295] = {[1]="Gefleckter Corgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
-_PETSTRINGS[296] = {[1]="Kräftiger Esel";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers.";}
-_PETSTRINGS[297] = {[1]="Kupferfarbener Niederhund";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers.";}
+_PETSTRINGS[296] = {[1]="Kräftiger Esel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit in Schatzkästchen des Reisenden und Abenteurers verfügbar.";}
+_PETSTRINGS[297] = {[1]="Kupferfarbener Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit in Schatzkästchen des Reisenden und Abenteurers verfügbar.";}
 
 _PETSTRINGS[298] = {[1]="Blut-Craban";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
-_PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
+_PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
 _PETSTRINGS[300] = {[1]="Freundliches Bärenjunges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[301] = {[1]="Schwarzbären-Junges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[302] = {[1]="Nobler Star";[2]="Erworben, indem Ihr Euch als verbesserter oder luxuriöser Unterstützer von Bruchtal gezeigt habt."}
@@ -380,7 +380,7 @@ _PETSTRINGS[307] = {[1]="Nachthimmel-Craban";[2]="Durch Tauschhandel während de
 _PETSTRINGS[308] = {[1]="Laternen-Kalebassenlauerer";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
 _PETSTRINGS[309] = {[1]="Loyale Schildkröte";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Vor dem Schatten\"."}
 _PETSTRINGS[310] = {[1]="Freundlicher Fischreiher";[2]="Erhältlich in der Sammleredition \"Vor dem Schatten\" oder im \"Ultimativer Fan\"-Paket."}
-_PETSTRINGS[311] = {[1]="Gesprenkelter Crebain";[2]="Kann im Wildwald mit Handwerkskunst hergestellt werden."}
+_PETSTRINGS[311] = {[1]="Gesprenkelter Crebain";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
 _PETSTRINGS[312] = {[1]="Goldene Fledermaus";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
 
 _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetauscht werden."}
@@ -420,14 +420,14 @@ _PETSTRINGS[345] = {[1]="Geflecktes Graues Zugpferd";[2]="Aus verbesserten oder 
 _PETSTRINGS[346] = {[1]="Schwarzes Zugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
 _PETSTRINGS[347] = {[1]="Das Pony des Königs";[2]="Erhältlich nach Abschluss der Aufgabe \"Kapitel 1.10: In allen Schatten\"."}
 _PETSTRINGS[348] = {[1]="Sommerkonzert-Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
-_PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
 _PETSTRINGS[350] = {[1]="Stacheliger Avanc";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[351] = {[1]="Schiefergrauer Auerochse";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
-_PETSTRINGS[352] = {[1]="Büffelkuh";[2]=""}
-_PETSTRINGS[353] = {[1]="Schwarzer Bulle";[2]=""}
-_PETSTRINGS[354] = {[1]="null";[2]=""}
-_PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]=""}
-_PETSTRINGS[356] = {[1]="Ahorndrachen";[2]=""}
+_PETSTRINGS[352] = {[1]="Braune Kuh";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[353] = {[1]="Schwarzer Bulle";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[354] = {[1]="Feuerfuchs-Bandit";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
+_PETSTRINGS[356] = {[1]="Ahorndrachen";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}

@@ -204,7 +204,7 @@ _PETSTRINGS[157] = {[1]="Paonne noire";[2]="Disponible par échange au cours du 
 _PETSTRINGS[158] = {[1]="Paon blanc";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
 _PETSTRINGS[159] = {[1]="Chevreau café-au-lait";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
 _PETSTRINGS[160] = {[1]="Paon vert";[2]="Disponible à l'échange pendant les instances saisonnières d'été.";}
-_PETSTRINGS[161] = {[1]="Chevreau caramel";[2]="Peut être échangé auprès de l'Itendant des Reconquérants de Gundabad.";}
+_PETSTRINGS[161] = {[1]="Chevreau caramel";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad.";}
 _PETSTRINGS[162] = {[1]="Gros chevreau";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
 _PETSTRINGS[163] = {[1]="Paon noir";[2]="Disponible par échange au cours du Festival de la Foire des fermiers.";}
 _PETSTRINGS[164] = {[1]="Petit chevreau";[2]="Disponibilité limitée pour les Mirages de splendeur.";}
@@ -324,11 +324,11 @@ _PETSTRINGS[253] = {[1]="Ver de mauvais augure";[2]="Disponible dans les escarmo
 _PETSTRINGS[254] = {[1]="Huorn docile des Bois sauvages";[2]="Disponible par échange dans les Bois sauvage."}
 _PETSTRINGS[255] = {[1]="Défenseur docile des Bois sauvages";[2]="Disponible par échange dans les Bois sauvage."}
 _PETSTRINGS[256] = {[1]="Jeune élan sauvage";[2]="Disponible par échange dans les Bois sauvage."}
-_PETSTRINGS[257] = {[1]="Gecko rouge";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
-_PETSTRINGS[258] = {[1]="Mouton bicolore";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
-_PETSTRINGS[259] = {[1]="Aigle cendré";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
-_PETSTRINGS[260] = {[1]="Cochon tacheté";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
-_PETSTRINGS[261] = {[1]="Chèvre cuivrée";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[257] = {[1]="Gecko rouge";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
+_PETSTRINGS[258] = {[1]="Mouton bicolore";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
+_PETSTRINGS[259] = {[1]="Aigle cendré";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
+_PETSTRINGS[260] = {[1]="Cochon tacheté";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
+_PETSTRINGS[261] = {[1]="Chèvre cuivrée";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
 _PETSTRINGS[262] = {[1]="Compagnon rôdemarais";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
 _PETSTRINGS[263] = {[1]="Chat tricolore pommelé";[2]="Disponible au magasin SdAO."}
 _PETSTRINGS[264] = {[1]="Chat gris affectueux";[2]="Disponible par échange au cours du Festival d'anniversaire."}
@@ -367,11 +367,11 @@ _PETSTRINGS[292] = {[1]="Corgi châtain";[2]="Cadeau anniversaire à durée limi
 _PETSTRINGS[293] = {[1]="Scarabée de cristal doré";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
 _PETSTRINGS[294] = {[1]="Corgi d'anniversaire";[2]="Disponible en participant à des événements de communauté.";}
 _PETSTRINGS[295] = {[1]="Corgi moucheté";[2]="Disponible en participant à des événements de communauté.";}
-_PETSTRINGS[296] = {[1]="Âne chamois";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier";}
-_PETSTRINGS[297] = {[1]="Chien cuivré du tréfonds";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier";}
+_PETSTRINGS[296] = {[1]="Âne chamois";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier.";}
+_PETSTRINGS[297] = {[1]="Chien cuivré du tréfonds";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier.";}
 
 _PETSTRINGS[298] = {[1]="Crébain sanglant";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
-_PETSTRINGS[299] = {[1]="Corgi formel";[2]="Disponible par échange au cours du Festival d'anniversaire.";}
+_PETSTRINGS[299] = {[1]="Corgi formel";[2]="Échangeable auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
 _PETSTRINGS[300] = {[1]="Gentil ourson";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
 _PETSTRINGS[301] = {[1]="Ourson noir";[2]="Disponible par échange auprès de Celeblir à Fondcombe."}
 _PETSTRINGS[302] = {[1]="Étourneau noble";[2]="Acquis en étant un soutien amélioré ou de luxe de Fondcombe."}
@@ -384,7 +384,7 @@ _PETSTRINGS[307] = {[1]="Crébain du ciel nocturne";[2]="Disponible par échange
 _PETSTRINGS[308] = {[1]="Rôde-gourde lanterne";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[309] = {[1]="Tortue loyale";[2]="Disponible dans le Pack Fan ultime Avant l'Ombre."}
 _PETSTRINGS[310] = {[1]="Héron amical";[2]="Disponible dans l'Édition Collector ou le Pack de Fan ultime Avant l'Ombre."}
-_PETSTRINGS[311] = {[1]="Crébain moucheté";[2]="Obtenu grâce à l'artisanat dans le Bois sauvage."}
+_PETSTRINGS[311] = {[1]="Crébain moucheté";[2]="Fabriqué à partir d'une méthode de préparation échangeable auprès de l'intendant des Reconquérants de Gundabad."}
 _PETSTRINGS[312] = {[1]="Chauve-souris dorée";[2]="Disponible en aidant Radagast à Rhosgobel."}
 
 _PETSTRINGS[313] = {[1]="Chat tigré affectueux";[2]="Disponible par échange dans le Cardolan."}
@@ -424,14 +424,14 @@ _PETSTRINGS[345] = {[1]="Cheval de trait gris pommelé";[2]="S'obtient dans les 
 _PETSTRINGS[346] = {[1]="Cheval de trait noir";[2]="S'obtient dans les coffres simples, améliorés et luxuriants Propriétés et moissons."}
 _PETSTRINGS[347] = {[1]="Le poney du roi";[2]="Disponible en terminant la quête 'Chapitre 1.10 : Dans chaque ombre'."}
 _PETSTRINGS[348] = {[1]="Luciole de concert estival";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
-_PETSTRINGS[349] = {[1]="Gerboise mouchetée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[349] = {[1]="Gerboise mouchetée";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
 _PETSTRINGS[350] = {[1]="Avanc à pointes";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[351] = {[1]="Aurochs gris ardoise";[2]="Disponible par échange en participant à des excavations."}
-_PETSTRINGS[352] = {[1]="Bufflonne";[2]=""}
-_PETSTRINGS[353] = {[1]="Taureau noir";[2]=""}
-_PETSTRINGS[354] = {[1]="null";[2]=""}
-_PETSTRINGS[355] = {[1]="Glouton fougueux";[2]=""}
-_PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]=""}
+_PETSTRINGS[352] = {[1]="Vache brune";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
+_PETSTRINGS[353] = {[1]="Taureau noir";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
+_PETSTRINGS[354] = {[1]="Bandit renard de feu";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[355] = {[1]="Glouton fougueux";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
+_PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
