@@ -363,11 +363,11 @@ _PETSTRINGS[292] = {[1]="Kastanienfarbener Corgi";[2]="Zeitlich begrenztes Jubil
 _PETSTRINGS[293] = {[1]="Goldener Kristallkäfer";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
 _PETSTRINGS[294] = {[1]="Jubiläumsfestcorgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
 _PETSTRINGS[295] = {[1]="Gefleckter Corgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
-_PETSTRINGS[296] = {[1]="Kräftiger Esel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit in Schatzkästchen des Reisenden und Abenteurers verfügbar.";}
-_PETSTRINGS[297] = {[1]="Kupferfarbener Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit in Schatzkästchen des Reisenden und Abenteurers verfügbar.";}
+_PETSTRINGS[296] = {[1]="Kräftiger Esel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar.";}
+_PETSTRINGS[297] = {[1]="Kupferfarbener Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar.";}
 
 _PETSTRINGS[298] = {[1]="Blut-Craban";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
-_PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
+_PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Per Tauschhandel bei Theodor Ginster während des Schatz-Bugan-Ereignisses erhältlich.";}
 _PETSTRINGS[300] = {[1]="Freundliches Bärenjunges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[301] = {[1]="Schwarzbären-Junges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[302] = {[1]="Nobler Star";[2]="Erworben, indem Ihr Euch als verbesserter oder luxuriöser Unterstützer von Bruchtal gezeigt habt."}
@@ -429,6 +429,8 @@ _PETSTRINGS[354] = {[1]="Feuerfuchs-Bandit";[2]="Durch Tauschhandel während des
 _PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
 _PETSTRINGS[356] = {[1]="Ahorndrachen";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
 
+_PETSTRINGS[357] = {[1]="Schmetterlinge";[2]="Erworben im \"Überragenden Fluss-Hobbit-Paket\"."}
+
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
 _PETSTRINGS[502] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -456,4 +458,5 @@ _PETSTRINGS[523] = {[1]="Gestreifte Springmaus";[2]=""}
 _PETSTRINGS[524] = {[1]="Weiße Springmaus";[2]="";}
 _PETSTRINGS[525] = {[1]="Braune Springmaus";[2]="";}
 _PETSTRINGS[526] = {[1]="Schwarze Springmaus";[2]="";}
-_PETSTRINGS[527] = {[1]="Heller Corgi";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[527] = {[1]="Heller Corgi";[2]=""}
+_PETSTRINGS[528] = {[1]="Wüstenfuchs";[2]="";}

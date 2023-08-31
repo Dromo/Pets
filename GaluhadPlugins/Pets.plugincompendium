@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>1021</Id>
-  <Name>Pets U36.2 Patch</Name>
-  <Version>36.2</Version>
+  <Name>Pets U37 Patch</Name>
+  <Version>37</Version>
   <Author>Drono</Author>
   <InfoUrl>http://www.lotrointerface.com/downloads/info1021</InfoUrl>
   <DownloadUrl>http://www.lotrointerface.com/downloads/download1021</DownloadUrl>

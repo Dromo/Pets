@@ -422,7 +422,7 @@ _PETSTRINGS[343] = {[1]="Cave Slug";[2]="Limited time availability: Legendary It
 _PETSTRINGS[344] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
 _PETSTRINGS[345] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
 _PETSTRINGS[346] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
-_PETSTRINGS[347] = {[1]="The King's Pony";[2]="Available by completing the quest 'Chapter 1.10: Inside Every Shadow'."}
+_PETSTRINGS[347] = {[1]="The King's Pony";[2]="Available by completing the quest 'The Song of Waves and Wind, Chapter 1.10: Inside Every Shadow'."}
 _PETSTRINGS[348] = {[1]="Summer Concert Firefly";[2]="Available for barter during the Midsummer Festival."}
 _PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[350] = {[1]="Spiky Avanc";[2]="Available through barter by participating in Delvings."}
@@ -432,6 +432,8 @@ _PETSTRINGS[353] = {[1]="Black Bull";[2]="Available for barter from The Renewal 
 _PETSTRINGS[354] = {[1]="Fire-fox Bandit";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[355] = {[1]="Feisty Wolverine";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
 _PETSTRINGS[356] = {[1]="Maple Kite";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
+
+_PETSTRINGS[357] = {[1]="Butterflies";[2]="Acquired from the Superior River Hobbit Bundle."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -460,4 +462,5 @@ _PETSTRINGS[523] = {[1]="Striped Jerboa";[2]=""}
 _PETSTRINGS[524] = {[1]="White Jerboa";[2]="";}
 _PETSTRINGS[525] = {[1]="Brown Jerboa";[2]="";}
 _PETSTRINGS[526] = {[1]="Black Jerboa";[2]="";}
-_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]=""}
+_PETSTRINGS[528] = {[1]="Fennec Fox";[2]=""}

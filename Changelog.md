@@ -1,4 +1,7 @@
 Change log:
+* 2023-08-31 - U37 - 1 new + 1 future
+  * new: Butterflies
+  * furture: Fennec Fox
 * 2023-08-25 - U36.2 - 3 new pets
   * Fire-fox Bandit - Farmers Faire Festival
   * Feisty Wolverine, Maple kite - Reward Track 7

@@ -434,6 +434,8 @@ _PETSTRINGS[354] = {[1]="Fire-fox Bandit";[2]="Available through barter during t
 _PETSTRINGS[355] = {[1]="Feisty Wolverine";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
 _PETSTRINGS[356] = {[1]="Maple Kite";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
 
+_PETSTRINGS[357] = {[1]="Butterflies";[2]="Acquired from the Superior River Hobbit Bundle."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Tan Bat";[2]=""}
@@ -461,4 +463,5 @@ _PETSTRINGS[523] = {[1]="Striped Jerboa";[2]=""}
 _PETSTRINGS[524] = {[1]="White Jerboa";[2]="";}
 _PETSTRINGS[525] = {[1]="Brown Jerboa";[2]="";}
 _PETSTRINGS[526] = {[1]="Black Jerboa";[2]="";}
-_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
+_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]=""}
+_PETSTRINGS[528] = {[1]="Fennec Fox";[2]=""}
