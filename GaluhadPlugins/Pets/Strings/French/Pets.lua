@@ -433,7 +433,10 @@ _PETSTRINGS[354] = {[1]="Bandit renard de feu";[2]="Disponible par échange au c
 _PETSTRINGS[355] = {[1]="Glouton fougueux";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 _PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 
-_PETSTRINGS[357] = {[1]="Papillons";[2]="S'obtient dans le pack Hobbit des rivières supérieur."}
+_PETSTRINGS[357] = {[1]="Papillons";[2]="Obtenu dans le pack Hobbit des rivières supérieur."}
+_PETSTRINGS[358] = {[1]="Chèvre de l'Esprit de la forêt";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[359] = {[1]="Perroquet";[2]="Disponible dans le Pack Fan ultime Corsaires d'Umbar."}
+_PETSTRINGS[360] = {[1]="Fennec";[2]="Disponible dans l'Édition Collector de Corsaires d'Umbar ou le Pack de Fan ultime."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -463,4 +466,3 @@ _PETSTRINGS[524] = {[1]="Gerboise blanche";[2]="";}
 _PETSTRINGS[525] = {[1]="Gerboise brune";[2]="";}
 _PETSTRINGS[526] = {[1]="Gerboise noire";[2]="";}
 _PETSTRINGS[527] = {[1]="Corgi blond";[2]=""}
-_PETSTRINGS[528] = {[1]="Fennec";[2]="";}

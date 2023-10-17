@@ -434,6 +434,9 @@ _PETSTRINGS[355] = {[1]="Feisty Wolverine";[2]="Limited time availability: Legen
 _PETSTRINGS[356] = {[1]="Maple Kite";[2]="Limited time availability: Legendary Item Reward Track Season 7."}
 
 _PETSTRINGS[357] = {[1]="Butterflies";[2]="Acquired from the Superior River Hobbit Bundle."}
+_PETSTRINGS[358] = {[1]="Goat of the Forest-spirit";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[359] = {[1]="Parrot";[2]="Available in the Corsairs of Umbar Ultimate Fan Bundle."}
+_PETSTRINGS[360] = {[1]="Fennec Fox";[2]="Available in the Corsairs of Umbar Collector's Edition or Ultimate Fan Bundle."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -463,4 +466,3 @@ _PETSTRINGS[524] = {[1]="White Jerboa";[2]="";}
 _PETSTRINGS[525] = {[1]="Brown Jerboa";[2]="";}
 _PETSTRINGS[526] = {[1]="Black Jerboa";[2]="";}
 _PETSTRINGS[527] = {[1]="Blonde Corgi";[2]=""}
-_PETSTRINGS[528] = {[1]="Fennec Fox";[2]=""}

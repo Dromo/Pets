@@ -430,6 +430,9 @@ _PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]="Nur für kurze Zeit verfügbar
 _PETSTRINGS[356] = {[1]="Ahorndrachen";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
 
 _PETSTRINGS[357] = {[1]="Schmetterlinge";[2]="Erworben im \"Überragenden Fluss-Hobbit-Paket\"."}
+_PETSTRINGS[358] = {[1]="Ziege des Waldgeistes";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[359] = {[1]="Papagei";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Korsaren von Umbar\"."}
+_PETSTRINGS[360] = {[1]="Wüstenfuchs";[2]="Erhältlich in der \"Korsaren von Umbar\"-Sammleredition oder im \"Ultimativer Fan\"-Paket."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -459,4 +462,3 @@ _PETSTRINGS[524] = {[1]="Weiße Springmaus";[2]="";}
 _PETSTRINGS[525] = {[1]="Braune Springmaus";[2]="";}
 _PETSTRINGS[526] = {[1]="Schwarze Springmaus";[2]="";}
 _PETSTRINGS[527] = {[1]="Heller Corgi";[2]=""}
-_PETSTRINGS[528] = {[1]="Wüstenfuchs";[2]="";}
