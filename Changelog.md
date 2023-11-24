@@ -1,4 +1,8 @@
 Change log:
+* 2023-11-24 - U38 & U38.0.1 - 5 new + 3 newly available + 3 future
+  * Silver Donkey, Lion Cub, Crocodile Hatchling, Harmonious Falcon, Sea-side Sand-lurker
+  * Ferocious Battle-kitten, Frost-tusk Youngling, Young Moose
+  * Umbari Huorn, Wily Macaque, Tidal Dune-lurker
 * 2023-10-17 - U37 - 2 new + 1 newly available
   * Goat of Forest-sprirt, Parrot, Fennec Fox
 * 2023-08-31 - U37 - 1 new + 1 future

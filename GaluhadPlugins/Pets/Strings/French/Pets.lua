@@ -57,7 +57,7 @@ _PETSTRINGS[38] = {[1]="Grenouille de brume";[2]="Disponible par échange à l'e
 _PETSTRINGS[39] = {[1]="Tortue voyageuse";[2]="Peut être obtenu d'une troupe de guerre dans les Marais des Morts.";};
 
 -- u15.0
-_PETSTRINGS[40] = {[1]="Jeune aurochs";[2]="'Peut être échangé dans le Val de Ringló. Requiert le statut de frère/sœur des Hommes du Val de Ringló.";};
+_PETSTRINGS[40] = {[1]="Jeune aurochs";[2]="'Peut être échangé dans le Val de Ringlo. Requiert le statut de frère/sœur des Hommes du Val de Ringlo.";};
 _PETSTRINGS[41] = {[1]="Macabras ardent";[2]="Peut être échangé au Festival de Yule.";};
 _PETSTRINGS[42] = {[1]="Macabras";[2]="Peut être échangé au Festival de Yule.";};
 _PETSTRINGS[43] = {[1]="Mouches des sables";[2]="'Peut être échangé dans la région de Dor-en-Ernil. Requiert le statut de frère/sœur des Hommes de Dor-en-Ernil.";};
@@ -438,6 +438,15 @@ _PETSTRINGS[358] = {[1]="Chèvre de l'Esprit de la forêt";[2]="Disponible par �
 _PETSTRINGS[359] = {[1]="Perroquet";[2]="Disponible dans le Pack Fan ultime Corsaires d'Umbar."}
 _PETSTRINGS[360] = {[1]="Fennec";[2]="Disponible dans l'Édition Collector de Corsaires d'Umbar ou le Pack de Fan ultime."}
 
+_PETSTRINGS[361] = {[1]="Âne argenté";[2]=""}
+_PETSTRINGS[362] = {[1]="Lionceau";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance à l'Ordre de l'Aigle."}
+_PETSTRINGS[363] = {[1]="Bébé crocodile";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
+_PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]=""}
+_PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
+_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[367] = {[1]="Jeune défense-de-givre";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
+_PETSTRINGS[368] = {[1]="Jeune élan";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
+
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
 _PETSTRINGS[502] = {[1]="Chauve-souris brunie";[2]=""}
@@ -450,19 +459,19 @@ _PETSTRINGS[508] = {[1]="Corgi brun-roux";[2]=""}
 _PETSTRINGS[509] = {[1]="Corgi apprêté";[2]=""}
 _PETSTRINGS[510] = {[1]="Corgi de bibliothèque";[2]=""}
 _PETSTRINGS[511] = {[1]="Vent d'hiver";[2]=""}
-_PETSTRINGS[512] = {[1]="Jeune défense-de-givre";[2]=""}
-_PETSTRINGS[513] = {[1]="Chaton de combat féroce";[2]=""}
-_PETSTRINGS[514] = {[1]="Auroch du Rohan";[2]="";}
-_PETSTRINGS[515] = {[1]="Jeune griffefosse";[2]="";}
-_PETSTRINGS[516] = {[1]="Mouche faucheuse tenace";[2]="";}
-_PETSTRINGS[517] = {[1]="Aurochs givré";[2]=""}
-_PETSTRINGS[518] = {[1]="Jeune élan";[2]=""}
-_PETSTRINGS[519] = {[1]="Aurochs automnal";[2]=""}
-_PETSTRINGS[520] = {[1]="Limace curieuse";[2]=""}
-_PETSTRINGS[521] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[522] = {[1]="Gerboise";[2]=""}
-_PETSTRINGS[523] = {[1]="Gerboise à rayures";[2]=""}
-_PETSTRINGS[524] = {[1]="Gerboise blanche";[2]="";}
-_PETSTRINGS[525] = {[1]="Gerboise brune";[2]="";}
-_PETSTRINGS[526] = {[1]="Gerboise noire";[2]="";}
-_PETSTRINGS[527] = {[1]="Corgi blond";[2]=""}
+_PETSTRINGS[512] = {[1]="Auroch du Rohan";[2]=""}
+_PETSTRINGS[513] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[514] = {[1]="Mouche faucheuse tenace";[2]="";}
+_PETSTRINGS[515] = {[1]="Aurochs givré";[2]="";}
+_PETSTRINGS[516] = {[1]="Aurochs automnal";[2]="";}
+_PETSTRINGS[517] = {[1]="Limace curieuse";[2]=""}
+_PETSTRINGS[518] = {[1]="Aurochs fauve";[2]=""}
+_PETSTRINGS[519] = {[1]="Gerboise";[2]=""}
+_PETSTRINGS[520] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[521] = {[1]="Gerboise blanche";[2]=""}
+_PETSTRINGS[522] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[523] = {[1]="Gerboise noire";[2]=""}
+_PETSTRINGS[524] = {[1]="Corgi blond";[2]="";}
+_PETSTRINGS[525] = {[1]="Huorn umbari";[2]="";}
+_PETSTRINGS[526] = {[1]="Macaque rusé";[2]="";}
+_PETSTRINGS[527] = {[1]="Rôdedune des marées";[2]=""}

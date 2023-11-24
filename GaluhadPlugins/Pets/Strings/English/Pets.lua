@@ -438,6 +438,15 @@ _PETSTRINGS[358] = {[1]="Goat of the Forest-spirit";[2]="Available through barte
 _PETSTRINGS[359] = {[1]="Parrot";[2]="Available in the Corsairs of Umbar Ultimate Fan Bundle."}
 _PETSTRINGS[360] = {[1]="Fennec Fox";[2]="Available in the Corsairs of Umbar Collector's Edition or Ultimate Fan Bundle."}
 
+_PETSTRINGS[361] = {[1]="Silver Donkey";[2]=""}
+_PETSTRINGS[362] = {[1]="Lion Cub";[2]="Available for barter from The Order of the Eagle Allegiance Rewards Quartermaster in Umbar."}
+_PETSTRINGS[363] = {[1]="Crocodile Hatchling";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
+_PETSTRINGS[364] = {[1]="Ferocious Battle-kitten";[2]=""}
+_PETSTRINGS[365] = {[1]="Harmonious Falcon";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[367] = {[1]="Frost-tusk Youngling";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
+_PETSTRINGS[368] = {[1]="Young Moose";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Tan Bat";[2]=""}
@@ -450,19 +459,19 @@ _PETSTRINGS[508] = {[1]="Russet Corgi";[2]=""}
 _PETSTRINGS[509] = {[1]="Prepared Corgi";[2]=""}
 _PETSTRINGS[510] = {[1]="Library Corgi";[2]=""}
 _PETSTRINGS[511] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[512] = {[1]="Frost-tusk Youngling";[2]=""}
-_PETSTRINGS[513] = {[1]="Ferocious Battle-kitten";[2]=""}
-_PETSTRINGS[514] = {[1]="Rohan Aurochs";[2]="";}
-_PETSTRINGS[515] = {[1]="Deep-claw Whelp";[2]="";}
-_PETSTRINGS[516] = {[1]="Evergreen Sickle-fly";[2]="";}
-_PETSTRINGS[517] = {[1]="Frost Aurochs";[2]=""}
-_PETSTRINGS[518] = {[1]="Young Moose";[2]=""}
-_PETSTRINGS[519] = {[1]="Autumn Aurochs";[2]=""}
-_PETSTRINGS[520] = {[1]="Curious Slug";[2]=""}
-_PETSTRINGS[521] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[522] = {[1]="Jerboa";[2]=""}
-_PETSTRINGS[523] = {[1]="Striped Jerboa";[2]=""}
-_PETSTRINGS[524] = {[1]="White Jerboa";[2]="";}
-_PETSTRINGS[525] = {[1]="Brown Jerboa";[2]="";}
-_PETSTRINGS[526] = {[1]="Black Jerboa";[2]="";}
-_PETSTRINGS[527] = {[1]="Blonde Corgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Rohan Aurochs";[2]=""}
+_PETSTRINGS[513] = {[1]="Deep-claw Whelp";[2]=""}
+_PETSTRINGS[514] = {[1]="Evergreen Sickle-fly";[2]="";}
+_PETSTRINGS[515] = {[1]="Frost Aurochs";[2]="";}
+_PETSTRINGS[516] = {[1]="Autumn Aurochs";[2]="";}
+_PETSTRINGS[517] = {[1]="Curious Slug";[2]=""}
+_PETSTRINGS[518] = {[1]="Tawny Aurochs";[2]=""}
+_PETSTRINGS[519] = {[1]="Jerboa";[2]=""}
+_PETSTRINGS[520] = {[1]="Striped Jerboa";[2]=""}
+_PETSTRINGS[521] = {[1]="White Jerboa";[2]=""}
+_PETSTRINGS[522] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[523] = {[1]="Black Jerboa";[2]=""}
+_PETSTRINGS[524] = {[1]="Blonde Corgi";[2]="";}
+_PETSTRINGS[525] = {[1]="Umbari Huorn";[2]="";}
+_PETSTRINGS[526] = {[1]="Wily Macaque";[2]="";}
+_PETSTRINGS[527] = {[1]="Tidal Dune-lurker";[2]=""}

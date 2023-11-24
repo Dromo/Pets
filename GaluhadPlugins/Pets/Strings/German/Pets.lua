@@ -434,6 +434,15 @@ _PETSTRINGS[358] = {[1]="Ziege des Waldgeistes";[2]="Durch Tauschhandel während
 _PETSTRINGS[359] = {[1]="Papagei";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Korsaren von Umbar\"."}
 _PETSTRINGS[360] = {[1]="Wüstenfuchs";[2]="Erhältlich in der \"Korsaren von Umbar\"-Sammleredition oder im \"Ultimativer Fan\"-Paket."}
 
+_PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]=""}
+_PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
+_PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
+_PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]=""}
+_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[367] = {[1]="Frosthauer-Junges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
+_PETSTRINGS[368] = {[1]="Junger Elch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
+
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
 _PETSTRINGS[502] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -446,19 +455,19 @@ _PETSTRINGS[508] = {[1]="Rostbrauner Corgi";[2]=""}
 _PETSTRINGS[509] = {[1]="Vorbereiteter Corgi";[2]=""}
 _PETSTRINGS[510] = {[1]="Bibliothekscorgi";[2]=""}
 _PETSTRINGS[511] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[512] = {[1]="Frosthauer-Junges";[2]=""}
-_PETSTRINGS[513] = {[1]="Grimmiges Kampfkätzchen";[2]=""}
-_PETSTRINGS[514] = {[1]="Rohan-Auerochse";[2]="";}
-_PETSTRINGS[515] = {[1]="Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[516] = {[1]="Immergrüne Sichelfliege";[2]="";}
-_PETSTRINGS[517] = {[1]="Frostweißer Auerochse";[2]=""}
-_PETSTRINGS[518] = {[1]="Junger Elch";[2]=""}
-_PETSTRINGS[519] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[520] = {[1]="Neugierige Schnecke";[2]=""}
-_PETSTRINGS[521] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[522] = {[1]="Springmaus";[2]=""}
-_PETSTRINGS[523] = {[1]="Gestreifte Springmaus";[2]=""}
-_PETSTRINGS[524] = {[1]="Weiße Springmaus";[2]="";}
-_PETSTRINGS[525] = {[1]="Braune Springmaus";[2]="";}
-_PETSTRINGS[526] = {[1]="Schwarze Springmaus";[2]="";}
-_PETSTRINGS[527] = {[1]="Heller Corgi";[2]=""}
+_PETSTRINGS[512] = {[1]="Rohan-Auerochse";[2]=""}
+_PETSTRINGS[513] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[514] = {[1]="Immergrüne Sichelfliege";[2]="";}
+_PETSTRINGS[515] = {[1]="Frostweißer Auerochse";[2]="";}
+_PETSTRINGS[516] = {[1]="Herbstroter Auerochse";[2]="";}
+_PETSTRINGS[517] = {[1]="Neugierige Schnecke";[2]=""}
+_PETSTRINGS[518] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[519] = {[1]="Springmaus";[2]=""}
+_PETSTRINGS[520] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[521] = {[1]="Weiße Springmaus";[2]=""}
+_PETSTRINGS[522] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[523] = {[1]="Schwarze Springmaus";[2]=""}
+_PETSTRINGS[524] = {[1]="Heller Corgi";[2]="";}
+_PETSTRINGS[525] = {[1]="Umbar-Huorn";[2]="";}
+_PETSTRINGS[526] = {[1]="Listiger Makake";[2]="";}
+_PETSTRINGS[527] = {[1]="Tidal Dune-lurker";[2]=""}
