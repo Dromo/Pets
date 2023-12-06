@@ -439,14 +439,23 @@ _PETSTRINGS[358] = {[1]="Goat of the Forest-spirit";[2]="Available through barte
 _PETSTRINGS[359] = {[1]="Parrot";[2]="Available in the Corsairs of Umbar Ultimate Fan Bundle."}
 _PETSTRINGS[360] = {[1]="Fennec Fox";[2]="Available in the Corsairs of Umbar Collector's Edition or Ultimate Fan Bundle."}
 
-_PETSTRINGS[361] = {[1]="Silver Donkey";[2]=""}
+_PETSTRINGS[361] = {[1]="Silver Donkey";[2]="Available for barter from the Ledger-keepers Allegiance Rewards Quartermaster in Umbar."}
 _PETSTRINGS[362] = {[1]="Lion Cub";[2]="Available for barter from The Order of the Eagle Allegiance Rewards Quartermaster in Umbar."}
 _PETSTRINGS[363] = {[1]="Crocodile Hatchling";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
-_PETSTRINGS[364] = {[1]="Ferocious Battle-kitten";[2]=""}
+_PETSTRINGS[364] = {[1]="Ferocious Battle-kitten";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
 _PETSTRINGS[365] = {[1]="Harmonious Falcon";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[367] = {[1]="Frost-tusk Youngling";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
 _PETSTRINGS[368] = {[1]="Young Moose";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
+
+_PETSTRINGS[369] = {[1]="Prepared Corgi";[2]="Available from Hobbit Presents as a special Winter Gift."}
+_PETSTRINGS[370] = {[1]="Frost Aurochs";[2]="Available from Hobbit Presents as a special Winter Gift."}
+_PETSTRINGS[371] = {[1]="Umbari Huorn";[2]="Available for barter from the Ledger-keepers Allegiance Rewards Quartermaster in Umbar."}
+_PETSTRINGS[372] = {[1]="Tidal Dune-lurker";[2]="Available for barter from The Order of the Eagle Allegiance Rewards Quartermaster in Umbar."}
+_PETSTRINGS[373] = {[1]="Wild Cinnamon Donkey";[2]="Available from Hobbit Presents as a special Winter Gift."}
+_PETSTRINGS[374] = {[1]="Sublime Piglet";[2]="Acquired from the Sublime Patron's Enhanced and Luxuriant Coffers."}
+_PETSTRINGS[375] = {[1]="Icy Expeditions Sheep";[2]="Available for barter in the Yule Festival."}
+_PETSTRINGS[376] = {[1]="Sublime Boar";[2]="Acquired from the Sublime Patron's Luxuriant Coffer."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -457,22 +466,18 @@ _PETSTRINGS[505] = {[1]="Tan Wolf-dog";[2]=""}
 _PETSTRINGS[506] = {[1]="Umber Nether-hound";[2]=""}
 _PETSTRINGS[507] = {[1]="Cream Corgi";[2]=""}
 _PETSTRINGS[508] = {[1]="Russet Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Prepared Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Library Corgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[512] = {[1]="Rohan Aurochs";[2]=""}
-_PETSTRINGS[513] = {[1]="Deep-claw Whelp";[2]=""}
-_PETSTRINGS[514] = {[1]="Evergreen Sickle-fly";[2]="";}
-_PETSTRINGS[515] = {[1]="Frost Aurochs";[2]="";}
-_PETSTRINGS[516] = {[1]="Autumn Aurochs";[2]="";}
-_PETSTRINGS[517] = {[1]="Curious Slug";[2]=""}
-_PETSTRINGS[518] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[519] = {[1]="Jerboa";[2]=""}
-_PETSTRINGS[520] = {[1]="Striped Jerboa";[2]=""}
-_PETSTRINGS[521] = {[1]="White Jerboa";[2]=""}
-_PETSTRINGS[522] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[523] = {[1]="Black Jerboa";[2]=""}
-_PETSTRINGS[524] = {[1]="Blonde Corgi";[2]="";}
-_PETSTRINGS[525] = {[1]="Umbari Huorn";[2]="";}
-_PETSTRINGS[526] = {[1]="Wily Macaque";[2]="";}
-_PETSTRINGS[527] = {[1]="Tidal Dune-lurker";[2]=""}
+_PETSTRINGS[509] = {[1]="Library Corgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Winter's Wind";[2]=""}
+_PETSTRINGS[511] = {[1]="Rohan Aurochs";[2]=""}
+_PETSTRINGS[512] = {[1]="Deep-claw Whelp";[2]=""}
+_PETSTRINGS[513] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[514] = {[1]="Autumn Aurochs";[2]="";}
+_PETSTRINGS[515] = {[1]="Curious Slug";[2]="";}
+_PETSTRINGS[516] = {[1]="Tawny Aurochs";[2]="";}
+_PETSTRINGS[517] = {[1]="Jerboa";[2]=""}
+_PETSTRINGS[518] = {[1]="Striped Jerboa";[2]=""}
+_PETSTRINGS[519] = {[1]="White Jerboa";[2]=""}
+_PETSTRINGS[520] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[521] = {[1]="Black Jerboa";[2]=""}
+_PETSTRINGS[522] = {[1]="Blonde Corgi";[2]=""}
+_PETSTRINGS[523] = {[1]="Wily Macaque";[2]=""}

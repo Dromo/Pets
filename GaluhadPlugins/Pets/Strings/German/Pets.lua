@@ -437,11 +437,20 @@ _PETSTRINGS[360] = {[1]="Wüstenfuchs";[2]="Erhältlich in der \"Korsaren von Um
 _PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]=""}
 _PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
 _PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
-_PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]=""}
-_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
-_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
 _PETSTRINGS[367] = {[1]="Frosthauer-Junges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
 _PETSTRINGS[368] = {[1]="Junger Elch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
+
+_PETSTRINGS[369] = {[1]="Vorbereiteter Corgi";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[370] = {[1]="Frostweißer Auerochse";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[371] = {[1]="Umbar-Huorn";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister der Buchhüter in Umbar."}
+_PETSTRINGS[372] = {[1]="Gezeiten-Dünenlauerer";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
+_PETSTRINGS[373] = {[1]="Zimtbrauner Wildesel";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[374] = {[1]="Vorzügliches Ferkel";[2]="Aus einer luxuriösen oder einer verbesserten Truhe des vorzüglichen Gasts erhalten."}
+_PETSTRINGS[375] = {[1]="Schaf der Eisexpeditionen";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
+_PETSTRINGS[376] = {[1]="Vorzüglicher Keiler";[2]="Aus einer luxuriösen Truhe des vorzüglichen Gasts erhalten."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -452,22 +461,18 @@ _PETSTRINGS[505] = {[1]="Hellbrauner Wolfshund";[2]=""}
 _PETSTRINGS[506] = {[1]="Umbrafarbener Niederhund";[2]=""}
 _PETSTRINGS[507] = {[1]="Cremefarbener Corgi";[2]=""}
 _PETSTRINGS[508] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Vorbereiteter Corgi";[2]=""}
-_PETSTRINGS[510] = {[1]="Bibliothekscorgi";[2]=""}
-_PETSTRINGS[511] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[512] = {[1]="Rohan-Auerochse";[2]=""}
-_PETSTRINGS[513] = {[1]="Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[514] = {[1]="Immergrüne Sichelfliege";[2]="";}
-_PETSTRINGS[515] = {[1]="Frostweißer Auerochse";[2]="";}
-_PETSTRINGS[516] = {[1]="Herbstroter Auerochse";[2]="";}
-_PETSTRINGS[517] = {[1]="Neugierige Schnecke";[2]=""}
-_PETSTRINGS[518] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[519] = {[1]="Springmaus";[2]=""}
-_PETSTRINGS[520] = {[1]="Gestreifte Springmaus";[2]=""}
-_PETSTRINGS[521] = {[1]="Weiße Springmaus";[2]=""}
-_PETSTRINGS[522] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[523] = {[1]="Schwarze Springmaus";[2]=""}
-_PETSTRINGS[524] = {[1]="Heller Corgi";[2]="";}
-_PETSTRINGS[525] = {[1]="Umbar-Huorn";[2]="";}
-_PETSTRINGS[526] = {[1]="Listiger Makake";[2]="";}
-_PETSTRINGS[527] = {[1]="Tidal Dune-lurker";[2]=""}
+_PETSTRINGS[509] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[510] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[511] = {[1]="Rohan-Auerochse";[2]=""}
+_PETSTRINGS[512] = {[1]="Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[513] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[514] = {[1]="Herbstroter Auerochse";[2]="";}
+_PETSTRINGS[515] = {[1]="Neugierige Schnecke";[2]="";}
+_PETSTRINGS[516] = {[1]="Lohfarbener Auerochse";[2]="";}
+_PETSTRINGS[517] = {[1]="Springmaus";[2]=""}
+_PETSTRINGS[518] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[519] = {[1]="Weiße Springmaus";[2]=""}
+_PETSTRINGS[520] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[521] = {[1]="Schwarze Springmaus";[2]=""}
+_PETSTRINGS[522] = {[1]="Heller Corgi";[2]=""}
+_PETSTRINGS[523] = {[1]="Listiger Makake";[2]=""}

@@ -441,11 +441,20 @@ _PETSTRINGS[360] = {[1]="Fennec";[2]="Disponible dans l'Édition Collector de Co
 _PETSTRINGS[361] = {[1]="Âne argenté";[2]=""}
 _PETSTRINGS[362] = {[1]="Lionceau";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance à l'Ordre de l'Aigle."}
 _PETSTRINGS[363] = {[1]="Bébé crocodile";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
-_PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]=""}
-_PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
-_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
+_PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
 _PETSTRINGS[367] = {[1]="Jeune défense-de-givre";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
 _PETSTRINGS[368] = {[1]="Jeune élan";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
+
+_PETSTRINGS[369] = {[1]="Corgi apprêté";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
+_PETSTRINGS[370] = {[1]="Aurochs givré";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
+_PETSTRINGS[371] = {[1]="Huorn umbari";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance de Gardiens des écrits."}
+_PETSTRINGS[372] = {[1]="Rôdedune des marées";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance à l'Ordre de l'Aigle."}
+_PETSTRINGS[373] = {[1]="Âne cannelle sauvage";[2]="Disponible dans les cadeaux de Hobbits comme Cadeau d'hiver spécial."}
+_PETSTRINGS[374] = {[1]="Porcelet sublime";[2]="Obtenu dans les Coffres luxuriants et améliorés du client sublime."}
+_PETSTRINGS[375] = {[1]="Mouton des expéditions glacées";[2]="Peut être échangé au Festival de Yule."}
+_PETSTRINGS[376] = {[1]="Sanglier sublime";[2]="Obtenu dans le Coffre luxuriant du client sublime."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -456,22 +465,18 @@ _PETSTRINGS[505] = {[1]="Chien-loup en brun claire";[2]=""}
 _PETSTRINGS[506] = {[1]="Chien couleur terre du tréfonds";[2]=""}
 _PETSTRINGS[507] = {[1]="Corgi crème";[2]=""}
 _PETSTRINGS[508] = {[1]="Corgi brun-roux";[2]=""}
-_PETSTRINGS[509] = {[1]="Corgi apprêté";[2]=""}
-_PETSTRINGS[510] = {[1]="Corgi de bibliothèque";[2]=""}
-_PETSTRINGS[511] = {[1]="Vent d'hiver";[2]=""}
-_PETSTRINGS[512] = {[1]="Auroch du Rohan";[2]=""}
-_PETSTRINGS[513] = {[1]="Jeune griffefosse";[2]=""}
-_PETSTRINGS[514] = {[1]="Mouche faucheuse tenace";[2]="";}
-_PETSTRINGS[515] = {[1]="Aurochs givré";[2]="";}
-_PETSTRINGS[516] = {[1]="Aurochs automnal";[2]="";}
-_PETSTRINGS[517] = {[1]="Limace curieuse";[2]=""}
-_PETSTRINGS[518] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[519] = {[1]="Gerboise";[2]=""}
-_PETSTRINGS[520] = {[1]="Gerboise à rayures";[2]=""}
-_PETSTRINGS[521] = {[1]="Gerboise blanche";[2]=""}
-_PETSTRINGS[522] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[523] = {[1]="Gerboise noire";[2]=""}
-_PETSTRINGS[524] = {[1]="Corgi blond";[2]="";}
-_PETSTRINGS[525] = {[1]="Huorn umbari";[2]="";}
-_PETSTRINGS[526] = {[1]="Macaque rusé";[2]="";}
-_PETSTRINGS[527] = {[1]="Rôdedune des marées";[2]=""}
+_PETSTRINGS[509] = {[1]="Corgi de bibliothèque";[2]=""}
+_PETSTRINGS[510] = {[1]="Vent d'hiver";[2]=""}
+_PETSTRINGS[511] = {[1]="Auroch du Rohan";[2]=""}
+_PETSTRINGS[512] = {[1]="Jeune griffefosse";[2]=""}
+_PETSTRINGS[513] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[514] = {[1]="Aurochs automnal";[2]="";}
+_PETSTRINGS[515] = {[1]="Limace curieuse";[2]="";}
+_PETSTRINGS[516] = {[1]="Aurochs fauve";[2]="";}
+_PETSTRINGS[517] = {[1]="Gerboise";[2]=""}
+_PETSTRINGS[518] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[519] = {[1]="Gerboise blanche";[2]=""}
+_PETSTRINGS[520] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[521] = {[1]="Gerboise noire";[2]=""}
+_PETSTRINGS[522] = {[1]="Corgi blond";[2]=""}
+_PETSTRINGS[523] = {[1]="Macaque rusé";[2]=""}

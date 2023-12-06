@@ -1,4 +1,7 @@
 Change log:
+* 2023-12-06 - U38.1 - 4 new + 4 newly available
+  * Wild Cinnamon Donkey, Sublime Piglet, Icy Expeditions Sheep, Sublime Boar
+  * Prepared Corgi, Frost Aurochs, Umbari Huorn, Tidal Dune-lurker
 * 2023-11-24 - U38 & U38.0.1 - 5 new + 3 newly available + 3 future
   * Silver Donkey, Lion Cub, Crocodile Hatchling, Harmonious Falcon, Sea-side Sand-lurker
   * Ferocious Battle-kitten, Frost-tusk Youngling, Young Moose
