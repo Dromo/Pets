@@ -434,7 +434,7 @@ _PETSTRINGS[358] = {[1]="Ziege des Waldgeistes";[2]="Durch Tauschhandel während
 _PETSTRINGS[359] = {[1]="Papagei";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Korsaren von Umbar\"."}
 _PETSTRINGS[360] = {[1]="Wüstenfuchs";[2]="Erhältlich in der \"Korsaren von Umbar\"-Sammleredition oder im \"Ultimativer Fan\"-Paket."}
 
-_PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]=""}
+_PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister der Buchhüter in Umbar."}
 _PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
 _PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
 _PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
@@ -451,6 +451,9 @@ _PETSTRINGS[373] = {[1]="Zimtbrauner Wildesel";[2]="Erhältlich durch Hobbitgesc
 _PETSTRINGS[374] = {[1]="Vorzügliches Ferkel";[2]="Aus einer luxuriösen oder einer verbesserten Truhe des vorzüglichen Gasts erhalten."}
 _PETSTRINGS[375] = {[1]="Schaf der Eisexpeditionen";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
 _PETSTRINGS[376] = {[1]="Vorzüglicher Keiler";[2]="Aus einer luxuriösen Truhe des vorzüglichen Gasts erhalten."}
+_PETSTRINGS[377] = {[1]="Unheilvoller Schakal";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[378] = {[1]="Unheilvolle Schlange";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[379] = {[1]="Unheilvolle Krabbe";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -476,3 +479,12 @@ _PETSTRINGS[520] = {[1]="Braune Springmaus";[2]=""}
 _PETSTRINGS[521] = {[1]="Schwarze Springmaus";[2]=""}
 _PETSTRINGS[522] = {[1]="Heller Corgi";[2]=""}
 _PETSTRINGS[523] = {[1]="Listiger Makake";[2]=""}
+_PETSTRINGS[524] = {[1]="Tiefgrüne Schlange";[2]="";}
+_PETSTRINGS[525] = {[1]="Weinrote Schlange";[2]="";}
+_PETSTRINGS[526] = {[1]="Gefleckte Jadeschlange";[2]="";}
+_PETSTRINGS[527] = {[1]="Türkise Schlange";[2]=""}
+_PETSTRINGS[528] = {[1]="Gefleckte Schlange";[2]=""}
+_PETSTRINGS[529] = {[1]="Blattgrüne Schlange";[2]=""}
+_PETSTRINGS[530] = {[1]="Smaragdgrüne Schlange";[2]=""}
+_PETSTRINGS[531] = {[1]="Gierige Krabbe";[2]=""}
+_PETSTRINGS[532] = {[1]="Feurige Wüstenschlange";[2]=""}

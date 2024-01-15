@@ -433,12 +433,12 @@ _PETSTRINGS[354] = {[1]="Bandit renard de feu";[2]="Disponible par échange au c
 _PETSTRINGS[355] = {[1]="Glouton fougueux";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 _PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 
-_PETSTRINGS[357] = {[1]="Papillons";[2]="Obtenu dans le pack Hobbit des rivières supérieur."}
+_PETSTRINGS[357] = {[1]="Papillons";[2]="Obtenu dans le pack Pack Hobbit des rivières supérieur."}
 _PETSTRINGS[358] = {[1]="Chèvre de l'Esprit de la forêt";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[359] = {[1]="Perroquet";[2]="Disponible dans le Pack Fan ultime Corsaires d'Umbar."}
 _PETSTRINGS[360] = {[1]="Fennec";[2]="Disponible dans l'Édition Collector de Corsaires d'Umbar ou le Pack de Fan ultime."}
 
-_PETSTRINGS[361] = {[1]="Âne argenté";[2]=""}
+_PETSTRINGS[361] = {[1]="Âne argenté";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance de Gardiens des écrits."}
 _PETSTRINGS[362] = {[1]="Lionceau";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance à l'Ordre de l'Aigle."}
 _PETSTRINGS[363] = {[1]="Bébé crocodile";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
 _PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
@@ -455,6 +455,9 @@ _PETSTRINGS[373] = {[1]="Âne cannelle sauvage";[2]="Disponible dans les cadeaux
 _PETSTRINGS[374] = {[1]="Porcelet sublime";[2]="Obtenu dans les Coffres luxuriants et améliorés du client sublime."}
 _PETSTRINGS[375] = {[1]="Mouton des expéditions glacées";[2]="Peut être échangé au Festival de Yule."}
 _PETSTRINGS[376] = {[1]="Sanglier sublime";[2]="Obtenu dans le Coffre luxuriant du client sublime."}
+_PETSTRINGS[377] = {[1]="Chacal de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[378] = {[1]="Serpent de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[379] = {[1]="Crabe de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -480,3 +483,12 @@ _PETSTRINGS[520] = {[1]="Gerboise brune";[2]=""}
 _PETSTRINGS[521] = {[1]="Gerboise noire";[2]=""}
 _PETSTRINGS[522] = {[1]="Corgi blond";[2]=""}
 _PETSTRINGS[523] = {[1]="Macaque rusé";[2]=""}
+_PETSTRINGS[524] = {[1]="Serpent vert vif";[2]="";}
+_PETSTRINGS[525] = {[1]="Serpent bordeaux";[2]="";}
+_PETSTRINGS[526] = {[1]="Serpent moucheté de jade";[2]="";}
+_PETSTRINGS[527] = {[1]="Serpent turquoise";[2]=""}
+_PETSTRINGS[528] = {[1]="Serpent tacheté";[2]=""}
+_PETSTRINGS[529] = {[1]="Serpent vert forêt";[2]=""}
+_PETSTRINGS[530] = {[1]="Serpent vert émeraude";[2]=""}
+_PETSTRINGS[531] = {[1]="Crabe";[2]=""}
+_PETSTRINGS[532] = {[1]="Serpent ardent du désert";[2]=""}

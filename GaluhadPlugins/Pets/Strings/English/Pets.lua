@@ -455,6 +455,9 @@ _PETSTRINGS[373] = {[1]="Wild Cinnamon Donkey";[2]="Available from Hobbit Presen
 _PETSTRINGS[374] = {[1]="Sublime Piglet";[2]="Acquired from the Sublime Patron's Enhanced and Luxuriant Coffers."}
 _PETSTRINGS[375] = {[1]="Icy Expeditions Sheep";[2]="Available for barter in the Yule Festival."}
 _PETSTRINGS[376] = {[1]="Sublime Boar";[2]="Acquired from the Sublime Patron's Luxuriant Coffer."}
+_PETSTRINGS[377] = {[1]="Ill Omened Jackal";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[378] = {[1]="Ill Omened Snake";[2]="Available from the Skirmishes -- Ill Omens event."}
+_PETSTRINGS[379] = {[1]="Ill Omened Crab";[2]="Available from the Skirmishes -- Ill Omens event."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -480,3 +483,12 @@ _PETSTRINGS[520] = {[1]="Brown Jerboa";[2]=""}
 _PETSTRINGS[521] = {[1]="Black Jerboa";[2]=""}
 _PETSTRINGS[522] = {[1]="Blonde Corgi";[2]=""}
 _PETSTRINGS[523] = {[1]="Wily Macaque";[2]=""}
+_PETSTRINGS[524] = {[1]="Vivid Green Snake";[2]="";}
+_PETSTRINGS[525] = {[1]="Wine-red Snake";[2]="";}
+_PETSTRINGS[526] = {[1]="Jade Speckled Snake";[2]="";}
+_PETSTRINGS[527] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[528] = {[1]="Pebbled Snake";[2]=""}
+_PETSTRINGS[529] = {[1]="Leafy Green Snake";[2]=""}
+_PETSTRINGS[530] = {[1]="Deep Emerald Snake";[2]=""}
+_PETSTRINGS[531] = {[1]="Grabby Crab";[2]=""}
+_PETSTRINGS[532] = {[1]="Fiery Desert Snake";[2]=""}

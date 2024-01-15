@@ -1,4 +1,7 @@
 Change log:
+* 2024-01-15 - U38.2 - 3 new + 9 future
+  * Ill Omened Jackal, Ill Omened Snake, Ill Omened Crab
+  *  Vivid Green Snake, Wine-red Snake, Jade Speckled Snake, Turquoise Snake, Pebbled Snake, Leafy Green Snake, Deep Emerald Snake, Grabby Crab, Fiery Desert Snake
 * 2023-12-06 - U38.1 - 4 new + 4 newly available
   * Wild Cinnamon Donkey, Sublime Piglet, Icy Expeditions Sheep, Sublime Boar
   * Prepared Corgi, Frost Aurochs, Umbari Huorn, Tidal Dune-lurker
