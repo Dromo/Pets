@@ -454,6 +454,13 @@ _PETSTRINGS[376] = {[1]="Vorzüglicher Keiler";[2]="Aus einer luxuriösen Truhe 
 _PETSTRINGS[377] = {[1]="Unheilvoller Schakal";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[378] = {[1]="Unheilvolle Schlange";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
 _PETSTRINGS[379] = {[1]="Unheilvolle Krabbe";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[380] = {[1]="Neugierige Schnecke";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 9"}
+_PETSTRINGS[381] = {[1]="Tiefgrüne Schlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 9"}
+
+_PETSTRINGS[382] = {[1]="Bezaubernder Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[383] = {[1]="Perfekt gekringelte Gartenschnecke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[384] = {[1]="Gierige Krabbe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[385] = {[1]="Listiger Makake";[2]="Verfügbar in der Instanz \"Die Insel der Stürme\""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -470,21 +477,19 @@ _PETSTRINGS[511] = {[1]="Rohan-Auerochse";[2]=""}
 _PETSTRINGS[512] = {[1]="Tiefenklauen-Welpe";[2]=""}
 _PETSTRINGS[513] = {[1]="Immergrüne Sichelfliege";[2]=""}
 _PETSTRINGS[514] = {[1]="Herbstroter Auerochse";[2]="";}
-_PETSTRINGS[515] = {[1]="Neugierige Schnecke";[2]="";}
-_PETSTRINGS[516] = {[1]="Lohfarbener Auerochse";[2]="";}
-_PETSTRINGS[517] = {[1]="Springmaus";[2]=""}
-_PETSTRINGS[518] = {[1]="Gestreifte Springmaus";[2]=""}
-_PETSTRINGS[519] = {[1]="Weiße Springmaus";[2]=""}
-_PETSTRINGS[520] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[521] = {[1]="Schwarze Springmaus";[2]=""}
-_PETSTRINGS[522] = {[1]="Heller Corgi";[2]=""}
-_PETSTRINGS[523] = {[1]="Listiger Makake";[2]=""}
-_PETSTRINGS[524] = {[1]="Tiefgrüne Schlange";[2]="";}
-_PETSTRINGS[525] = {[1]="Weinrote Schlange";[2]="";}
-_PETSTRINGS[526] = {[1]="Gefleckte Jadeschlange";[2]="";}
-_PETSTRINGS[527] = {[1]="Türkise Schlange";[2]=""}
-_PETSTRINGS[528] = {[1]="Gefleckte Schlange";[2]=""}
-_PETSTRINGS[529] = {[1]="Blattgrüne Schlange";[2]=""}
-_PETSTRINGS[530] = {[1]="Smaragdgrüne Schlange";[2]=""}
-_PETSTRINGS[531] = {[1]="Gierige Krabbe";[2]=""}
-_PETSTRINGS[532] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[515] = {[1]="Lohfarbener Auerochse";[2]="";}
+_PETSTRINGS[516] = {[1]="Springmaus";[2]="";}
+_PETSTRINGS[517] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[518] = {[1]="Weiße Springmaus";[2]=""}
+_PETSTRINGS[519] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[520] = {[1]="Schwarze Springmaus";[2]=""}
+_PETSTRINGS[521] = {[1]="Heller Corgi";[2]=""}
+_PETSTRINGS[522] = {[1]="Weinrote Schlange";[2]=""}
+_PETSTRINGS[523] = {[1]="Gefleckte Jadeschlange";[2]=""}
+_PETSTRINGS[524] = {[1]="Türkise Schlange";[2]="";}
+_PETSTRINGS[525] = {[1]="Gefleckte Schlange";[2]="";}
+_PETSTRINGS[526] = {[1]="Blattgrüne Schlange";[2]="";}
+_PETSTRINGS[527] = {[1]="Smaragdgrüne Schlange";[2]=""}
+_PETSTRINGS[528] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[529] = {[1]="Rubinroter Sandwurm";[2]=""}
+_PETSTRINGS[530] = {[1]="Kastanienfarbener Sandwurm";[2]=""}

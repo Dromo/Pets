@@ -1,5 +1,6 @@
 Change log:
-* 2024-01-15 - U38.2 - 3 new + 9 future
-  * Ill Omened Jackal, Ill Omened Snake, Ill Omened Crab
-  *  Vivid Green Snake, Wine-red Snake, Jade Speckled Snake, Turquoise Snake, Pebbled Snake, Leafy Green Snake, Deep Emerald Snake, Grabby Crab, Fiery Desert Snake
+* 2024-01-15 - U39 4 newly available, 2 new and 2 feature
+  * Curious Slug, Vivid Green Snake, Wily Macaque, Grabby Crab
+  * Adorable Sand Worm, Perfect Curl Garden Snail
+  * Ruby Sand Worm, Chestnut Sand Worm
 [Full changelog](Changelog.md)

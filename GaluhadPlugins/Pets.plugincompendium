@@ -2,7 +2,7 @@
 <PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>1021</Id>
   <Name>Pets</Name>
-  <Version>38.2</Version>
+  <Version>39</Version>
   <Author>Drono</Author>
   <InfoUrl>http://www.lotrointerface.com/downloads/info1021</InfoUrl>
   <DownloadUrl>http://www.lotrointerface.com/downloads/download1021</DownloadUrl>

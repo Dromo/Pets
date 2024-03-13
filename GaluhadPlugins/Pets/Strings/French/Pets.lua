@@ -458,6 +458,13 @@ _PETSTRINGS[376] = {[1]="Sanglier sublime";[2]="Obtenu dans le Coffre luxuriant 
 _PETSTRINGS[377] = {[1]="Chacal de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 _PETSTRINGS[378] = {[1]="Serpent de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
 _PETSTRINGS[379] = {[1]="Crabe de mauvais augure";[2]="Disponible dans les escarmouches - Événement Mauvais présages."}
+_PETSTRINGS[380] = {[1]="Limace curieuse";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 9."}
+_PETSTRINGS[381] = {[1]="Serpent vert vif";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 9."}
+
+_PETSTRINGS[382] = {[1]="Adorable ver des sables";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[383] = {[1]="Petit-gris de la courbe parfaite";[2]="Disponible par échange au cours du Festival du printemps."}
+_PETSTRINGS[384] = {[1]="Crabe";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[385] = {[1]="Macaque rusé";[2]="Disponible dans l'Instance L'île des tempêtes."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -474,21 +481,19 @@ _PETSTRINGS[511] = {[1]="Auroch du Rohan";[2]=""}
 _PETSTRINGS[512] = {[1]="Jeune griffefosse";[2]=""}
 _PETSTRINGS[513] = {[1]="Mouche faucheuse tenace";[2]=""}
 _PETSTRINGS[514] = {[1]="Aurochs automnal";[2]="";}
-_PETSTRINGS[515] = {[1]="Limace curieuse";[2]="";}
-_PETSTRINGS[516] = {[1]="Aurochs fauve";[2]="";}
-_PETSTRINGS[517] = {[1]="Gerboise";[2]=""}
-_PETSTRINGS[518] = {[1]="Gerboise à rayures";[2]=""}
-_PETSTRINGS[519] = {[1]="Gerboise blanche";[2]=""}
-_PETSTRINGS[520] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[521] = {[1]="Gerboise noire";[2]=""}
-_PETSTRINGS[522] = {[1]="Corgi blond";[2]=""}
-_PETSTRINGS[523] = {[1]="Macaque rusé";[2]=""}
-_PETSTRINGS[524] = {[1]="Serpent vert vif";[2]="";}
-_PETSTRINGS[525] = {[1]="Serpent bordeaux";[2]="";}
-_PETSTRINGS[526] = {[1]="Serpent moucheté de jade";[2]="";}
-_PETSTRINGS[527] = {[1]="Serpent turquoise";[2]=""}
-_PETSTRINGS[528] = {[1]="Serpent tacheté";[2]=""}
-_PETSTRINGS[529] = {[1]="Serpent vert forêt";[2]=""}
-_PETSTRINGS[530] = {[1]="Serpent vert émeraude";[2]=""}
-_PETSTRINGS[531] = {[1]="Crabe";[2]=""}
-_PETSTRINGS[532] = {[1]="Serpent ardent du désert";[2]=""}
+_PETSTRINGS[515] = {[1]="Aurochs fauve";[2]="";}
+_PETSTRINGS[516] = {[1]="Gerboise";[2]="";}
+_PETSTRINGS[517] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[518] = {[1]="Gerboise blanche";[2]=""}
+_PETSTRINGS[519] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[520] = {[1]="Gerboise noire";[2]=""}
+_PETSTRINGS[521] = {[1]="Corgi blond";[2]=""}
+_PETSTRINGS[522] = {[1]="Serpent bordeaux";[2]=""}
+_PETSTRINGS[523] = {[1]="Serpent moucheté de jade";[2]=""}
+_PETSTRINGS[524] = {[1]="Serpent turquoise";[2]="";}
+_PETSTRINGS[525] = {[1]="Serpent tacheté";[2]="";}
+_PETSTRINGS[526] = {[1]="Serpent vert forêt";[2]="";}
+_PETSTRINGS[527] = {[1]="Serpent vert émeraude";[2]=""}
+_PETSTRINGS[528] = {[1]="Serpent ardent du désert";[2]=""}
+_PETSTRINGS[529] = {[1]="Ver des sables vermeil";[2]=""}
+_PETSTRINGS[530] = {[1]="Ver des sables châtain";[2]=""}
