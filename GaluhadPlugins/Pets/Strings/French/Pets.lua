@@ -465,6 +465,7 @@ _PETSTRINGS[382] = {[1]="Adorable ver des sables";[2]="Disponible par échange e
 _PETSTRINGS[383] = {[1]="Petit-gris de la courbe parfaite";[2]="Disponible par échange au cours du Festival du printemps."}
 _PETSTRINGS[384] = {[1]="Crabe";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[385] = {[1]="Macaque rusé";[2]="Disponible dans l'Instance L'île des tempêtes."}
+_PETSTRINGS[386] = {[1]="null";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}

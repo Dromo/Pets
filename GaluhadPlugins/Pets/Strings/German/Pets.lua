@@ -461,6 +461,7 @@ _PETSTRINGS[382] = {[1]="Bezaubernder Sandwurm";[2]="Durch Tauschhandel bei Teil
 _PETSTRINGS[383] = {[1]="Perfekt gekringelte Gartenschnecke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
 _PETSTRINGS[384] = {[1]="Gierige Krabbe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[385] = {[1]="Listiger Makake";[2]="Verfügbar in der Instanz \"Die Insel der Stürme\""}
+_PETSTRINGS[386] = {[1]="null";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}

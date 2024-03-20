@@ -466,6 +466,7 @@ _PETSTRINGS[382] = {[1]="Adorable Sand Worm";[2]="Available through barter by pa
 _PETSTRINGS[383] = {[1]="Perfect Curl Garden Snail";[2]="Available through barter during the Spring Festival."}
 _PETSTRINGS[384] = {[1]="Grabby Crab";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[385] = {[1]="Wily Macaque";[2]="Available in the Isle of Storms Instance."}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
