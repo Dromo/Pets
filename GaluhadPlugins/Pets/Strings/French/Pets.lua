@@ -433,7 +433,7 @@ _PETSTRINGS[354] = {[1]="Bandit renard de feu";[2]="Disponible par échange au c
 _PETSTRINGS[355] = {[1]="Glouton fougueux";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 _PETSTRINGS[356] = {[1]="Cerf-volant de l'érable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 7."}
 
-_PETSTRINGS[357] = {[1]="Papillons";[2]="Obtenu dans le pack Pack Hobbit des rivières supérieur."}
+_PETSTRINGS[357] = {[1]="Papillons";[2]="Obtenu dans le pack Hobbit des rivières supérieur."}
 _PETSTRINGS[358] = {[1]="Chèvre de l'Esprit de la forêt";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[359] = {[1]="Perroquet";[2]="Disponible dans le Pack Fan ultime Corsaires d'Umbar."}
 _PETSTRINGS[360] = {[1]="Fennec";[2]="Disponible dans l'Édition Collector de Corsaires d'Umbar ou le Pack de Fan ultime."}
@@ -465,7 +465,10 @@ _PETSTRINGS[382] = {[1]="Adorable ver des sables";[2]="Disponible par échange e
 _PETSTRINGS[383] = {[1]="Petit-gris de la courbe parfaite";[2]="Disponible par échange au cours du Festival du printemps."}
 _PETSTRINGS[384] = {[1]="Crabe";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[385] = {[1]="Macaque rusé";[2]="Disponible dans l'Instance L'île des tempêtes."}
-_PETSTRINGS[386] = {[1]="null";[2]=""}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[387] = {[1]="Créatures fantaisistes de la forêt";[2]="Obtenu dans le Coffre luxuriant du client fantaisiste."}
+_PETSTRINGS[388] = {[1]="Hamster brun";[2]="Disponible par échange au cours du Festival d'anniversaire."}
+_PETSTRINGS[389] = {[1]="Hamster jovial";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -498,3 +501,7 @@ _PETSTRINGS[527] = {[1]="Serpent vert émeraude";[2]=""}
 _PETSTRINGS[528] = {[1]="Serpent ardent du désert";[2]=""}
 _PETSTRINGS[529] = {[1]="Ver des sables vermeil";[2]=""}
 _PETSTRINGS[530] = {[1]="Ver des sables châtain";[2]=""}
+_PETSTRINGS[531] = {[1]="Hamster moucheté";[2]=""}
+_PETSTRINGS[532] = {[1]="Hamster blanc";[2]=""}
+_PETSTRINGS[533] = {[1]="Hamster taupe";[2]=""}
+_PETSTRINGS[534] = {[1]="Hamster mauve";[2]=""}

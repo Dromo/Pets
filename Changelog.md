@@ -1,4 +1,8 @@
 Change log:
+* 2024-04-22 - U39.2 new pet 3 new + 4 future
+  * Whimsical Woodland Critters, Sienna Hamster, Merrymaking Hamster
+  * Spotted Hamster, White Hamster, Taupe Hamster, Heather Hamster
+  * Fennec Fox - corrected item
 * 2024-03-20 - U39.1 1 new pet: Sitaka
 * 2024-03-13 - U39 4 newly available, 2 new and 2 feature
   * Curious Slug, Vivid Green Snake, Wily Macaque, Grabby Crab

@@ -466,6 +466,9 @@ _PETSTRINGS[383] = {[1]="Perfect Curl Garden Snail";[2]="Available through barte
 _PETSTRINGS[384] = {[1]="Grabby Crab";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[385] = {[1]="Wily Macaque";[2]="Available in the Isle of Storms Instance."}
 _PETSTRINGS[386] = {[1]="Sitaka";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[387] = {[1]="Whimsical Woodland Critters";[2]="Acquired from the Whimsical Patron's Luxuriant Coffer."}
+_PETSTRINGS[388] = {[1]="Sienna Hamster";[2]="Available through barter during the Anniversary Festival."}
+_PETSTRINGS[389] = {[1]="Merrymaking Hamster";[2]="Available through barter during the Anniversary Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -498,3 +501,7 @@ _PETSTRINGS[527] = {[1]="Deep Emerald Snake";[2]=""}
 _PETSTRINGS[528] = {[1]="Fiery Desert Snake";[2]=""}
 _PETSTRINGS[529] = {[1]="Ruby Sand Worm";[2]=""}
 _PETSTRINGS[530] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[531] = {[1]="Spotted Hamster";[2]=""}
+_PETSTRINGS[532] = {[1]="White Hamster";[2]=""}
+_PETSTRINGS[533] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[534] = {[1]="Heather Hamster";[2]=""}

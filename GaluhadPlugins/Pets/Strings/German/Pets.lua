@@ -461,7 +461,10 @@ _PETSTRINGS[382] = {[1]="Bezaubernder Sandwurm";[2]="Durch Tauschhandel bei Teil
 _PETSTRINGS[383] = {[1]="Perfekt gekringelte Gartenschnecke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
 _PETSTRINGS[384] = {[1]="Gierige Krabbe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[385] = {[1]="Listiger Makake";[2]="Verfügbar in der Instanz \"Die Insel der Stürme\""}
-_PETSTRINGS[386] = {[1]="null";[2]=""}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[387] = {[1]="Wunderliche Waldtiere";[2]="Aus einer luxuriösen Truhe des wunderlichen Gasts erhalten."}
+_PETSTRINGS[388] = {[1]="Sienafarbener Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[389] = {[1]="Fröhlicher Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
@@ -494,3 +497,7 @@ _PETSTRINGS[527] = {[1]="Smaragdgrüne Schlange";[2]=""}
 _PETSTRINGS[528] = {[1]="Feurige Wüstenschlange";[2]=""}
 _PETSTRINGS[529] = {[1]="Rubinroter Sandwurm";[2]=""}
 _PETSTRINGS[530] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[531] = {[1]="Gefleckter Hamster";[2]=""}
+_PETSTRINGS[532] = {[1]="Weißer Hamster";[2]=""}
+_PETSTRINGS[533] = {[1]="Graubrauner Hamster";[2]=""}
+_PETSTRINGS[534] = {[1]="Heidehamster";[2]=""}
