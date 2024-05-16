@@ -470,6 +470,12 @@ _PETSTRINGS[387] = {[1]="Whimsical Woodland Critters";[2]="Acquired from the Whi
 _PETSTRINGS[388] = {[1]="Sienna Hamster";[2]="Available through barter during the Anniversary Festival."}
 _PETSTRINGS[389] = {[1]="Merrymaking Hamster";[2]="Available through barter during the Anniversary Festival."}
 
+_PETSTRINGS[390] = {[1]="Albino Jerboa";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
+_PETSTRINGS[391] = {[1]="Slate Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 10."}
+_PETSTRINGS[392] = {[1]="Parrot of Umbar Baharbêl";[2]="Available through completing deeds in Umbar Baharbêl."}
+_PETSTRINGS[393] = {[1]="Proud Lioness";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
+_PETSTRINGS[394] = {[1]="Maned Lion";[2]="Limited time availability: Legendary Item Reward Track Season 10."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Tan Bat";[2]=""}
@@ -488,20 +494,26 @@ _PETSTRINGS[514] = {[1]="Autumn Aurochs";[2]="";}
 _PETSTRINGS[515] = {[1]="Tawny Aurochs";[2]="";}
 _PETSTRINGS[516] = {[1]="Jerboa";[2]="";}
 _PETSTRINGS[517] = {[1]="Striped Jerboa";[2]=""}
-_PETSTRINGS[518] = {[1]="White Jerboa";[2]=""}
-_PETSTRINGS[519] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[520] = {[1]="Black Jerboa";[2]=""}
-_PETSTRINGS[521] = {[1]="Blonde Corgi";[2]=""}
-_PETSTRINGS[522] = {[1]="Wine-red Snake";[2]=""}
-_PETSTRINGS[523] = {[1]="Jade Speckled Snake";[2]=""}
-_PETSTRINGS[524] = {[1]="Turquoise Snake";[2]="";}
-_PETSTRINGS[525] = {[1]="Pebbled Snake";[2]="";}
-_PETSTRINGS[526] = {[1]="Leafy Green Snake";[2]="";}
-_PETSTRINGS[527] = {[1]="Deep Emerald Snake";[2]=""}
-_PETSTRINGS[528] = {[1]="Fiery Desert Snake";[2]=""}
-_PETSTRINGS[529] = {[1]="Ruby Sand Worm";[2]=""}
-_PETSTRINGS[530] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[531] = {[1]="Spotted Hamster";[2]=""}
-_PETSTRINGS[532] = {[1]="White Hamster";[2]=""}
-_PETSTRINGS[533] = {[1]="Taupe Hamster";[2]=""}
-_PETSTRINGS[534] = {[1]="Heather Hamster";[2]=""}
+_PETSTRINGS[518] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[519] = {[1]="Blonde Corgi";[2]=""}
+_PETSTRINGS[520] = {[1]="Wine-red Snake";[2]=""}
+_PETSTRINGS[521] = {[1]="Jade Speckled Snake";[2]=""}
+_PETSTRINGS[522] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[523] = {[1]="Pebbled Snake";[2]=""}
+_PETSTRINGS[524] = {[1]="Leafy Green Snake";[2]="";}
+_PETSTRINGS[525] = {[1]="Deep Emerald Snake";[2]="";}
+_PETSTRINGS[526] = {[1]="Fiery Desert Snake";[2]="";}
+_PETSTRINGS[527] = {[1]="Ruby Sand Worm";[2]=""}
+_PETSTRINGS[528] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[529] = {[1]="Spotted Hamster";[2]=""}
+_PETSTRINGS[530] = {[1]="White Hamster";[2]=""}
+_PETSTRINGS[531] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[532] = {[1]="Heather Hamster";[2]=""}
+_PETSTRINGS[533] = {[1]="Parrot of the Fiery Sands";[2]=""}
+_PETSTRINGS[534] = {[1]="Water Buffalo Calf";[2]=""}
+_PETSTRINGS[535] = {[1]="Water Buffalo Cow";[2]=""}
+_PETSTRINGS[536] = {[1]="Parrot of Light";[2]=""}
+_PETSTRINGS[537] = {[1]="Water Buffalo Bull";[2]=""}
+_PETSTRINGS[538] = {[1]="Parrot of Darkness";[2]=""}
+_PETSTRINGS[539] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[540] = {[1]="Dashing Dusky Parrot";[2]=""}
