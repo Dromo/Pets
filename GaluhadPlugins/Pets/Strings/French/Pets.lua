@@ -290,7 +290,7 @@ _PETSTRINGS[223] = {[1]="Cochon festif d'anniversaire";[2]="Offre anniversaire e
 _PETSTRINGS[224] = {[1]="Mystérieux cochon festif";[2]="Disponible comme 13e cadeau d'anniversaire."}
 
 _PETSTRINGS[225] = {[1]="Grand cerf-volant gondorien";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
-_PETSTRINGS[226] = {[1]="Poney de fête de mariage";[2]="Disponible précédemment dans les cadeaux de Hobbits comme cadeau spécial de mariage du Solstice d’été."}
+_PETSTRINGS[226] = {[1]="Poney de fête de mariage";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
 _PETSTRINGS[227] = {[1]="Oie décorée";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[228] = {[1]="Cerf-volant gondorien du Solstice d'été";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
 _PETSTRINGS[229] = {[1]="Luciole verte";[2]="Disponible précédemment dans les cadeaux de Hobbits comme cadeau spécial de mariage du Solstice d’été."}
@@ -475,6 +475,8 @@ _PETSTRINGS[391] = {[1]="Gerboise gris ardoise";[2]="Offre à durée limitée :
 _PETSTRINGS[392] = {[1]="Perroquet d'Umbar Baharbêl";[2]="S'obtient en accomplissant des missions à Umbar Baharbêl."}
 _PETSTRINGS[393] = {[1]="Lionne altière";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
 _PETSTRINGS[394] = {[1]="Lion à crinière";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 10."}
+_PETSTRINGS[395] = {[1]="Âne chocolat sauvage";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[396] = {[1]="Serpent bordeaux";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}
@@ -496,24 +498,23 @@ _PETSTRINGS[516] = {[1]="Gerboise";[2]="";}
 _PETSTRINGS[517] = {[1]="Gerboise à rayures";[2]=""}
 _PETSTRINGS[518] = {[1]="Gerboise brune";[2]=""}
 _PETSTRINGS[519] = {[1]="Corgi blond";[2]=""}
-_PETSTRINGS[520] = {[1]="Serpent bordeaux";[2]=""}
-_PETSTRINGS[521] = {[1]="Serpent moucheté de jade";[2]=""}
-_PETSTRINGS[522] = {[1]="Serpent turquoise";[2]=""}
-_PETSTRINGS[523] = {[1]="Serpent tacheté";[2]=""}
-_PETSTRINGS[524] = {[1]="Serpent vert forêt";[2]="";}
-_PETSTRINGS[525] = {[1]="Serpent vert émeraude";[2]="";}
-_PETSTRINGS[526] = {[1]="Serpent ardent du désert";[2]="";}
-_PETSTRINGS[527] = {[1]="Ver des sables vermeil";[2]=""}
-_PETSTRINGS[528] = {[1]="Ver des sables châtain";[2]=""}
-_PETSTRINGS[529] = {[1]="Hamster moucheté";[2]=""}
-_PETSTRINGS[530] = {[1]="Hamster blanc";[2]=""}
-_PETSTRINGS[531] = {[1]="Hamster taupe";[2]=""}
-_PETSTRINGS[532] = {[1]="Hamster mauve";[2]=""}
-_PETSTRINGS[533] = {[1]="Perroquet des sables ardents";[2]=""}
-_PETSTRINGS[534] = {[1]="Bufflon d'eau";[2]=""}
-_PETSTRINGS[535] = {[1]="Bufflonne d'eau";[2]=""}
-_PETSTRINGS[536] = {[1]="Perroquet de lumière";[2]=""}
-_PETSTRINGS[537] = {[1]="Buffle d'eau";[2]=""}
-_PETSTRINGS[538] = {[1]="Perroquet des ténèbres";[2]=""}
-_PETSTRINGS[539] = {[1]="Perroquet mat";[2]=""}
-_PETSTRINGS[540] = {[1]="Perroquet mat fringant";[2]=""}
+_PETSTRINGS[520] = {[1]="Serpent moucheté de jade";[2]=""}
+_PETSTRINGS[521] = {[1]="Serpent turquoise";[2]=""}
+_PETSTRINGS[522] = {[1]="Serpent tacheté";[2]=""}
+_PETSTRINGS[523] = {[1]="Serpent vert forêt";[2]=""}
+_PETSTRINGS[524] = {[1]="Serpent vert émeraude";[2]="";}
+_PETSTRINGS[525] = {[1]="Serpent ardent du désert";[2]="";}
+_PETSTRINGS[526] = {[1]="Ver des sables vermeil";[2]="";}
+_PETSTRINGS[527] = {[1]="Ver des sables châtain";[2]=""}
+_PETSTRINGS[528] = {[1]="Hamster moucheté";[2]=""}
+_PETSTRINGS[529] = {[1]="Hamster blanc";[2]=""}
+_PETSTRINGS[530] = {[1]="Hamster taupe";[2]=""}
+_PETSTRINGS[531] = {[1]="Hamster mauve";[2]=""}
+_PETSTRINGS[532] = {[1]="Perroquet des sables ardents";[2]=""}
+_PETSTRINGS[533] = {[1]="Bufflon d'eau";[2]=""}
+_PETSTRINGS[534] = {[1]="Bufflonne d'eau";[2]=""}
+_PETSTRINGS[535] = {[1]="Perroquet de lumière";[2]=""}
+_PETSTRINGS[536] = {[1]="Buffle d'eau";[2]=""}
+_PETSTRINGS[537] = {[1]="Perroquet des ténèbres";[2]=""}
+_PETSTRINGS[538] = {[1]="Perroquet mat";[2]=""}
+_PETSTRINGS[539] = {[1]="Perroquet mat fringant";[2]=""}

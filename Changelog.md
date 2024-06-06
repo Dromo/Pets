@@ -1,4 +1,7 @@
 Change log:
+* 2024-06-05 - U40.1 - 1 new, 1 newly available
+  * Wild Chocolate Donkey
+  * Wine-red Snake
 * 2024-05-16 - U40 - 3 new, 2 newly available, 8 future pets
   * Parrot of Umbar Baharbêl, Proud Lioness, Maned Lion
   * Albino Jerboa, Slate Jerboa

@@ -1,6 +1,5 @@
 Change log:
-* 2024-05-16 - U40 - 3 new, 2 newly available, 8 future pets
-  * Parrot of Umbar Baharbêl, Proud Lioness, Maned Lion
-  * Albino Jerboa, Slate Jerboa
-  * Parrot of the Fiery Sands, Water Buffalo Calf, Water Buffalo Cow, Parrot of Light, Water Buffalo Bull, Parrot of Darkness, Dusky Parrot, Dashing Dusky Parrot
+* 2024-06-05 - U40.1 - 1 new, 1 newly available
+  * Wild Chocolate Donkey
+  * Wine-red Snake
 [Full changelog](Changelog.md)

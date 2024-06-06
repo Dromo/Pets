@@ -290,7 +290,7 @@ _PETSTRINGS[223] = {[1]="Anniversary Celebration Pig";[2]="Limited time annivers
 _PETSTRINGS[224] = {[1]="Mysterious Celebration Pig";[2]="Available as a 13th Anniversary Gift."}
 
 _PETSTRINGS[225] = {[1]="Large Gondorian Kite";[2]="Available for barter during the Midsummer Festival."}
-_PETSTRINGS[226] = {[1]="Wedding Celebration Pony";[2]="Previously available from Hobbit Presents as a special Midsummer Wedding Gift."}
+_PETSTRINGS[226] = {[1]="Wedding Celebration Pony";[2]="Available for barter during the Midsummer Festival."}
 _PETSTRINGS[227] = {[1]="Decorated Goose";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[228] = {[1]="Gondor Midsummer Kite";[2]="Available for barter during the Midsummer Festival."}
 _PETSTRINGS[229] = {[1]="Green Firefly";[2]="Previously available from Hobbit Presents as a special Midsummer Wedding Gift."}
@@ -475,6 +475,8 @@ _PETSTRINGS[391] = {[1]="Slate Jerboa";[2]="Limited time availability: Legendary
 _PETSTRINGS[392] = {[1]="Parrot of Umbar Baharbêl";[2]="Available through completing deeds in Umbar Baharbêl."}
 _PETSTRINGS[393] = {[1]="Proud Lioness";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
 _PETSTRINGS[394] = {[1]="Maned Lion";[2]="Limited time availability: Legendary Item Reward Track Season 10."}
+_PETSTRINGS[395] = {[1]="Wild Chocolate Donkey";[2]="Available for barter during the Midsummer Festival."}
+_PETSTRINGS[396] = {[1]="Wine-red Snake";[2]="Available for barter during the Midsummer Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
@@ -496,24 +498,23 @@ _PETSTRINGS[516] = {[1]="Jerboa";[2]="";}
 _PETSTRINGS[517] = {[1]="Striped Jerboa";[2]=""}
 _PETSTRINGS[518] = {[1]="Brown Jerboa";[2]=""}
 _PETSTRINGS[519] = {[1]="Blonde Corgi";[2]=""}
-_PETSTRINGS[520] = {[1]="Wine-red Snake";[2]=""}
-_PETSTRINGS[521] = {[1]="Jade Speckled Snake";[2]=""}
-_PETSTRINGS[522] = {[1]="Turquoise Snake";[2]=""}
-_PETSTRINGS[523] = {[1]="Pebbled Snake";[2]=""}
-_PETSTRINGS[524] = {[1]="Leafy Green Snake";[2]="";}
-_PETSTRINGS[525] = {[1]="Deep Emerald Snake";[2]="";}
-_PETSTRINGS[526] = {[1]="Fiery Desert Snake";[2]="";}
-_PETSTRINGS[527] = {[1]="Ruby Sand Worm";[2]=""}
-_PETSTRINGS[528] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[529] = {[1]="Spotted Hamster";[2]=""}
-_PETSTRINGS[530] = {[1]="White Hamster";[2]=""}
-_PETSTRINGS[531] = {[1]="Taupe Hamster";[2]=""}
-_PETSTRINGS[532] = {[1]="Heather Hamster";[2]=""}
-_PETSTRINGS[533] = {[1]="Parrot of the Fiery Sands";[2]=""}
-_PETSTRINGS[534] = {[1]="Water Buffalo Calf";[2]=""}
-_PETSTRINGS[535] = {[1]="Water Buffalo Cow";[2]=""}
-_PETSTRINGS[536] = {[1]="Parrot of Light";[2]=""}
-_PETSTRINGS[537] = {[1]="Water Buffalo Bull";[2]=""}
-_PETSTRINGS[538] = {[1]="Parrot of Darkness";[2]=""}
-_PETSTRINGS[539] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[540] = {[1]="Dashing Dusky Parrot";[2]=""}
+_PETSTRINGS[520] = {[1]="Jade Speckled Snake";[2]=""}
+_PETSTRINGS[521] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[522] = {[1]="Pebbled Snake";[2]=""}
+_PETSTRINGS[523] = {[1]="Leafy Green Snake";[2]=""}
+_PETSTRINGS[524] = {[1]="Deep Emerald Snake";[2]="";}
+_PETSTRINGS[525] = {[1]="Fiery Desert Snake";[2]="";}
+_PETSTRINGS[526] = {[1]="Ruby Sand Worm";[2]="";}
+_PETSTRINGS[527] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[528] = {[1]="Spotted Hamster";[2]=""}
+_PETSTRINGS[529] = {[1]="White Hamster";[2]=""}
+_PETSTRINGS[530] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[531] = {[1]="Heather Hamster";[2]=""}
+_PETSTRINGS[532] = {[1]="Parrot of the Fiery Sands";[2]=""}
+_PETSTRINGS[533] = {[1]="Water Buffalo Calf";[2]=""}
+_PETSTRINGS[534] = {[1]="Water Buffalo Cow";[2]=""}
+_PETSTRINGS[535] = {[1]="Parrot of Light";[2]=""}
+_PETSTRINGS[536] = {[1]="Water Buffalo Bull";[2]=""}
+_PETSTRINGS[537] = {[1]="Parrot of Darkness";[2]=""}
+_PETSTRINGS[538] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[539] = {[1]="Dashing Dusky Parrot";[2]=""}
