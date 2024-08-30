@@ -492,10 +492,10 @@ _PETSTRINGS[408] = {[1]="Jeune griffefosse";[2]="Offre à durée limitée : sui
 _PETSTRINGS[409] = {[1]="Perroquet des ténèbres";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 11."}
 _PETSTRINGS[410] = {[1]="Pie sophistiquée";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
 _PETSTRINGS[411] = {[1]="Pinson des arbres sophistiqué";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
-_PETSTRINGS[413] = {[1]="Auroch du Rohan";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
-_PETSTRINGS[414] = {[1]="Hamster mauve";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
-_PETSTRINGS[415] = {[1]="Petit drake de pierre de lune";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
-_PETSTRINGS[416] = {[1]="Petit drake de rubis";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
+_PETSTRINGS[412] = {[1]="Auroch du Rohan";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
+_PETSTRINGS[413] = {[1]="Hamster mauve";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[414] = {[1]="Petit drake de pierre de lune";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
+_PETSTRINGS[415] = {[1]="Petit drake de rubis";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}

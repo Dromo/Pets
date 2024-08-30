@@ -488,10 +488,10 @@ _PETSTRINGS[408] = {[1]="Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar
 _PETSTRINGS[409] = {[1]="Papagei der Dunkelheit";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
 _PETSTRINGS[410] = {[1]="Edle Elster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
 _PETSTRINGS[411] = {[1]="Edler Buchfink";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
-_PETSTRINGS[413] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
-_PETSTRINGS[414] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
-_PETSTRINGS[415] = {[1]="Mondsteinfarbenes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
-_PETSTRINGS[416] = {[1]="Rubinrotes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
+_PETSTRINGS[412] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[413] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[414] = {[1]="Mondsteinfarbenes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
+_PETSTRINGS[415] = {[1]="Rubinrotes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}

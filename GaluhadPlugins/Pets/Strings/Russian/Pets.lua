@@ -493,10 +493,10 @@ _PETSTRINGS[408] = {[1]="Детеныш подземного когтероя";[
 _PETSTRINGS[409] = {[1]="Попугай тьмы";[2]="Наградная шкала легендарных предметов, сезон 11. Доступно в течение ограниченного времени."}
 _PETSTRINGS[410] = {[1]="Sophisticated Magpie";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[411] = {[1]="Sophisticated Chaffinch";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
-_PETSTRINGS[413] = {[1]="Роханский тур";[2]=""}
-_PETSTRINGS[414] = {[1]="Вересковый хомячок";[2]="Доступно для обмена во время Фермерской ярмарки."}
-_PETSTRINGS[415] = {[1]="Дракончик лунного камня";[2]=""}
-_PETSTRINGS[416] = {[1]="Рубиновый дракончик";[2]=""}
+_PETSTRINGS[412] = {[1]="Роханский тур";[2]=""}
+_PETSTRINGS[413] = {[1]="Вересковый хомячок";[2]="Доступно для обмена во время Фермерской ярмарки."}
+_PETSTRINGS[414] = {[1]="Дракончик лунного камня";[2]=""}
+_PETSTRINGS[415] = {[1]="Рубиновый дракончик";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Полосатая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
 _PETSTRINGS[501] = {[1]="Раненая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
