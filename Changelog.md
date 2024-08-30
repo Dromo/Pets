@@ -1,4 +1,7 @@
 Change log:
+* 2024-08-30 - U41.2 - 2 new, 4 newly available
+  * Sophisticated Magpie,Sophisticated Chaffinch
+  * Rohan Aurochs, Heather Hamster, Moonstone Drakeling, Ruby Drakeling
 * 2024-08-01 - U41 - 10 new, 3 newly available, 7 future
   * Shadow Hedgehog, Shadow Cat, Shadow Raven, Shadow Lion, Fierce Hedgehog, Shadow Nether-hound, Shadow Spider, Mirkwood Sabre-cat, Potato Farmer's Fine Cow, Golden Drakeling
   * Umber Nether-hound, Deep-claw Whelp, Parrot of Darkness
