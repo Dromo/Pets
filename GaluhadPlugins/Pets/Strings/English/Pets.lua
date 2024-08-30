@@ -250,7 +250,7 @@ _PETSTRINGS[190] = {[1]="Night Squirrel";[2]="Available by aiding Radagast at Rh
 _PETSTRINGS[191] = {[1]="Tan Fox";[2]="Available by aiding Radagast at Rhosgobel."}
 _PETSTRINGS[192] = {[1]="Golden Sheep";[2]="Available by aiding Radagast at Rhosgobel."}
 _PETSTRINGS[193] = {[1]="Brown Pig";[2]="Available by aiding Radagast at Rhosgobel."}
-_PETSTRINGS[194] = {[1]="Brown Pig";[2]="Available by aiding Radagast at Rhosgobel."}
+_PETSTRINGS[194] = {[1]="Golden Bat";[2]="Available by aiding Radagast at Rhosgobel."}
 
 _PETSTRINGS[195] = {[1]="Big Honey Bee";[2]="Available in the Vales of Anduin."}
 _PETSTRINGS[196] = {[1]="Silverback Badger";[2]="Available in the LOTRO Store."}

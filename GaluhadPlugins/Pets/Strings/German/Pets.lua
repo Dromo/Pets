@@ -248,7 +248,7 @@ _PETSTRINGS[190] = {[1]="Nachteichhörnchen";[2]="Verfügbar, wenn Ihr Radagast 
 _PETSTRINGS[191] = {[1]="Hellbrauner Fuchs";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
 _PETSTRINGS[192] = {[1]="Goldenes Schaf";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
 _PETSTRINGS[193] = {[1]="Braunes Schwein";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
-_PETSTRINGS[194] = {[1]="Braunes Schwein";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[194] = {[1]="Goldene Fledermaus";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
 
 _PETSTRINGS[195] = {[1]="Große Honigbiene";[2]="Verfügbar in den Tälern des Anduin"}
 _PETSTRINGS[196] = {[1]="Silberrückendachs";[2]="Im HdRO-Shop erhältlich."}

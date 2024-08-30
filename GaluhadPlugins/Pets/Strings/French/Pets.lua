@@ -250,7 +250,7 @@ _PETSTRINGS[190] = {[1]="Écureuil nocturne";[2]="Disponible en aidant Radagast 
 _PETSTRINGS[191] = {[1]="Renard brun clair";[2]="Disponible en aidant Radagast à Rhosgobel."}
 _PETSTRINGS[192] = {[1]="Mouton doré";[2]="Disponible en aidant Radagast à Rhosgobel."}
 _PETSTRINGS[193] = {[1]="Cochon brun";[2]="Disponible en aidant Radagast à Rhosgobel."}
-_PETSTRINGS[194] = {[1]="Cochon brun";[2]="Disponible en aidant Radagast à Rhosgobel."}
+_PETSTRINGS[194] = {[1]="Chauve-souris dorée";[2]="Disponible en aidant Radagast à Rhosgobel."}
 
 _PETSTRINGS[195] = {[1]="Grosse abeille à miel";[2]="Disponible au Val d'Anduin."}
 _PETSTRINGS[196] = {[1]="Blaireau à dos argenté";[2]="Disponible au magasin SdAO."}
