@@ -1,4 +1,6 @@
 Change log:
+* 2024-10-03 - U41.3 - 4 new
+  * Ghostly Cat, Treasured Jackal, Windfell Owl, Cobra
 * 2024-08-30 - U41.2 - 2 new, 4 newly available
   * Sophisticated Magpie,Sophisticated Chaffinch
   * Rohan Aurochs, Heather Hamster, Moonstone Drakeling, Ruby Drakeling

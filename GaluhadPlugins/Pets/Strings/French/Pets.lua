@@ -496,6 +496,10 @@ _PETSTRINGS[412] = {[1]="Auroch du Rohan";[2]="Disponible auprès de Théodore L
 _PETSTRINGS[413] = {[1]="Hamster mauve";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
 _PETSTRINGS[414] = {[1]="Petit drake de pierre de lune";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
 _PETSTRINGS[415] = {[1]="Petit drake de rubis";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
+_PETSTRINGS[416] = {[1]="Chat fantomatique";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[417] = {[1]="Chacal précieux";[2]="Disponible dans le Pack Fan ultime de L'héritage de Morgoth."}
+_PETSTRINGS[418] = {[1]="Hibou des Chutebrises";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[419] = {[1]="Cobra";[2]="Disponible dans l'Édition Collector ou le Pack Fan ultime de L'héritage de Morgoth."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris blessée";[2]=""}

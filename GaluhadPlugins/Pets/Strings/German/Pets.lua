@@ -492,6 +492,10 @@ _PETSTRINGS[412] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster w
 _PETSTRINGS[413] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
 _PETSTRINGS[414] = {[1]="Mondsteinfarbenes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
 _PETSTRINGS[415] = {[1]="Rubinrotes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
+_PETSTRINGS[416] = {[1]="Geisterkatze";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[417] = {[1]="Kostbarer Schakal";[2]="Erhältlich im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
+_PETSTRINGS[418] = {[1]="Windfelseneule";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[419] = {[1]="Kobra";[2]="Erhältlich in der Sammleredition oder im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}

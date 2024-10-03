@@ -496,6 +496,10 @@ _PETSTRINGS[412] = {[1]="Rohan Aurochs";[2]="Available from Theodore Gorse durin
 _PETSTRINGS[413] = {[1]="Heather Hamster";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[414] = {[1]="Moonstone Drakeling";[2]="Available from the Dragon and the Storm Instance."}
 _PETSTRINGS[415] = {[1]="Ruby Drakeling";[2]="Available from the Dragon and the Storm Instance."}
+_PETSTRINGS[416] = {[1]="Ghostly Cat";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[417] = {[1]="Treasured Jackal";[2]="Available in the Legacy of Morgoth Ultimate Fan Bundle."}
+_PETSTRINGS[418] = {[1]="Windfell Owl";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[419] = {[1]="Cobra";[2]="Available in the Legacy of Morgoth Collector's Edition or Ultimate Fan Bundle."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Injured Bat";[2]=""}
