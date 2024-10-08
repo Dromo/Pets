@@ -1,11 +1,11 @@
 
-_FAMILY[1] = "All";
-_FAMILY[2] = "Huorn";
-_FAMILY[3] = "Bird";
-_FAMILY[4] = "Reptile";
-_FAMILY[5] = "Amphibian";
-_FAMILY[6] = "Mammal";
-_FAMILY[7] = "Insect";
-_FAMILY[8] = "Element";
-_FAMILY[9] = "Human";
-_FAMILY[10] = "Kite";
+_FAMILY[1] = "Все";
+_FAMILY[2] = "Гворны";
+_FAMILY[3] = "Птицы";
+_FAMILY[4] = "Рептилии";
+_FAMILY[5] = "Земноводные";
+_FAMILY[6] = "Млекопитающие";
+_FAMILY[7] = "Насекомые";
+_FAMILY[8] = "Элементали";
+_FAMILY[9] = "Люди";
+_FAMILY[10] = "Воздушные змеи";

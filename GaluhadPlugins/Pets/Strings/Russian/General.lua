@@ -1,17 +1,16 @@
 
-
-_STRINGS[1]	= "Error loading saved settings";
-_STRINGS[2]	= "Please report this error at lotrointerface.com";
-_STRINGS[3]	= "usage: /pets opens/closes the main window";
-_STRINGS[4] = "Name";
-_STRINGS[5] = "Family";
-_STRINGS[6] = "Search";
-_STRINGS[7] = "Rename";
+_STRINGS[1]	= "Ошибка при загрузке настроек";
+_STRINGS[2]	= "Пожалуйста сообщите об ошибка на lotrointerface.com";
+_STRINGS[3]	= "Использование: /pets откроет/закроет окно плагина";
+_STRINGS[4] = "Имя";
+_STRINGS[5] = "Семейство";
+_STRINGS[6] = "Поиск";
+_STRINGS[7] = "Наречь";
 _STRINGS[8] = "/cpet rename"; -- slash command used for renaming pets
-_STRINGS[9] = "Show Quickslots Bar";
-_STRINGS[10] = "Enter a new name for your current pet";
-_STRINGS[11] = "When checked this pet will be added to the shortcut bar";
-_STRINGS[12] = "Results:";
-_STRINGS[13] = "Use command /pets to show or hide the main window";
-_STRINGS[14] = "All";
-_STRINGS[15] = "Update";
+_STRINGS[9] = "Показать панель быстрого доступа";
+_STRINGS[10] = "Введите новое имя для вашего текущего питомца";
+_STRINGS[11] = "После применения, это домашнее животное будет добавлено в панель быстрого доступа";
+_STRINGS[12] = "Результат:";
+_STRINGS[13] = "Наберите: /pets команда для показа или скрытия окна плагина";
+_STRINGS[14] = "Все";
+_STRINGS[15] = "Обновление";
