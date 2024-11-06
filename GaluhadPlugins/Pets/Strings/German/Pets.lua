@@ -497,43 +497,45 @@ _PETSTRINGS[417] = {[1]="Kostbarer Schakal";[2]="Erhältlich im Ultimativen Fanp
 _PETSTRINGS[418] = {[1]="Windfelseneule";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
 _PETSTRINGS[419] = {[1]="Kobra";[2]="Erhältlich in der Sammleredition oder im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
 
+_PETSTRINGS[420] = {[1]="Schwarzer Wildesel";[2]=""}
+_PETSTRINGS[421] = {[1]="Verletzte Fledermaus";[2]=""}
+_PETSTRINGS[422] = {[1]="Springmaus";[2]=""}
+
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
-_PETSTRINGS[501] = {[1]="Verletzte Fledermaus";[2]=""}
-_PETSTRINGS[502] = {[1]="Hellbraune Fledermaus";[2]=""}
-_PETSTRINGS[503] = {[1]="Schwarzschwingendrachen";[2]=""}
-_PETSTRINGS[504] = {[1]="Dämmerschwingendrachen";[2]=""}
-_PETSTRINGS[505] = {[1]="Hellbrauner Wolfshund";[2]=""}
-_PETSTRINGS[506] = {[1]="Cremefarbener Corgi";[2]=""}
-_PETSTRINGS[507] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[508] = {[1]="Bibliothekscorgi";[2]=""}
-_PETSTRINGS[509] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[510] = {[1]="Immergrüne Sichelfliege";[2]=""}
-_PETSTRINGS[511] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[512] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[513] = {[1]="Springmaus";[2]=""}
-_PETSTRINGS[514] = {[1]="Gestreifte Springmaus";[2]="";}
-_PETSTRINGS[515] = {[1]="Braune Springmaus";[2]="";}
-_PETSTRINGS[516] = {[1]="Heller Corgi";[2]="";}
-_PETSTRINGS[517] = {[1]="Gefleckte Jadeschlange";[2]=""}
-_PETSTRINGS[518] = {[1]="Türkise Schlange";[2]=""}
-_PETSTRINGS[519] = {[1]="Gefleckte Schlange";[2]=""}
-_PETSTRINGS[520] = {[1]="Blattgrüne Schlange";[2]=""}
-_PETSTRINGS[521] = {[1]="Smaragdgrüne Schlange";[2]=""}
-_PETSTRINGS[522] = {[1]="Feurige Wüstenschlange";[2]=""}
-_PETSTRINGS[523] = {[1]="Rubinroter Sandwurm";[2]=""}
-_PETSTRINGS[524] = {[1]="Kastanienfarbener Sandwurm";[2]="";}
-_PETSTRINGS[525] = {[1]="Gefleckter Hamster";[2]="";}
-_PETSTRINGS[526] = {[1]="Weißer Hamster";[2]="";}
-_PETSTRINGS[527] = {[1]="Graubrauner Hamster";[2]=""}
-_PETSTRINGS[528] = {[1]="Papagei der feurigen Sande";[2]=""}
-_PETSTRINGS[529] = {[1]="Wasserbüffelkalb";[2]=""}
-_PETSTRINGS[530] = {[1]="Wasserbüffelkuh";[2]=""}
-_PETSTRINGS[531] = {[1]="Papagei des Lichts";[2]=""}
-_PETSTRINGS[532] = {[1]="Wasserbüffelochse";[2]=""}
-_PETSTRINGS[533] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[534] = {[1]="Eleganter dunkler Papagei";[2]=""}
-_PETSTRINGS[535] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[536] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[537] = {[1]="Saphirblaues Drachenjunges";[2]=""}
-_PETSTRINGS[538] = {[1]="Ametrinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[539] = {[1]="Smaragdgrünes Drachenjunges";[2]=""}
+_PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
+_PETSTRINGS[502] = {[1]="Schwarzschwingendrachen";[2]=""}
+_PETSTRINGS[503] = {[1]="Dämmerschwingendrachen";[2]=""}
+_PETSTRINGS[504] = {[1]="Hellbrauner Wolfshund";[2]=""}
+_PETSTRINGS[505] = {[1]="Cremefarbener Corgi";[2]=""}
+_PETSTRINGS[506] = {[1]="Rostbrauner Corgi";[2]=""}
+_PETSTRINGS[507] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[508] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[509] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[510] = {[1]="Herbstroter Auerochse";[2]=""}
+_PETSTRINGS[511] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[512] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[513] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[514] = {[1]="Heller Corgi";[2]="";}
+_PETSTRINGS[515] = {[1]="Gefleckte Jadeschlange";[2]="";}
+_PETSTRINGS[516] = {[1]="Türkise Schlange";[2]="";}
+_PETSTRINGS[517] = {[1]="Gefleckte Schlange";[2]=""}
+_PETSTRINGS[518] = {[1]="Blattgrüne Schlange";[2]=""}
+_PETSTRINGS[519] = {[1]="Smaragdgrüne Schlange";[2]=""}
+_PETSTRINGS[520] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[521] = {[1]="Rubinroter Sandwurm";[2]=""}
+_PETSTRINGS[522] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[523] = {[1]="Gefleckter Hamster";[2]=""}
+_PETSTRINGS[524] = {[1]="Weißer Hamster";[2]="";}
+_PETSTRINGS[525] = {[1]="Graubrauner Hamster";[2]="";}
+_PETSTRINGS[526] = {[1]="Papagei der feurigen Sande";[2]="";}
+_PETSTRINGS[527] = {[1]="Wasserbüffelkalb";[2]=""}
+_PETSTRINGS[528] = {[1]="Wasserbüffelkuh";[2]=""}
+_PETSTRINGS[529] = {[1]="Papagei des Lichts";[2]=""}
+_PETSTRINGS[530] = {[1]="Wasserbüffelochse";[2]=""}
+_PETSTRINGS[531] = {[1]="Dunkler Papagei";[2]=""}
+_PETSTRINGS[532] = {[1]="Eleganter dunkler Papagei";[2]=""}
+_PETSTRINGS[533] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[534] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[535] = {[1]="Saphirblaues Drachenjunges";[2]=""}
+_PETSTRINGS[536] = {[1]="Ametrinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[537] = {[1]="Smaragdgrünes Drachenjunges";[2]=""}

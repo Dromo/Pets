@@ -1,4 +1,7 @@
 Change log:
+* 2024-11-06 - U42 - 1 new + 2 newly available
+  * Wild Black Donkey
+  * Injured Bat, Jerboa
 * 2024-10-03 - U41.3 - 4 new
   * Ghostly Cat, Treasured Jackal, Windfell Owl, Cobra
 * 2024-08-30 - U41.2 - 2 new, 4 newly available
