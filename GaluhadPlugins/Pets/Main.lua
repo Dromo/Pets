@@ -105,8 +105,6 @@ end
 function LoadSequence()
 	LoadStrings();
 	loadData();
-	--VerifyData();
-	--Utils.InitiateChatLogger();
 	Windows.DrawWindows();
 	RegisterCommands();
 	Turbine.Plugin.Unload = function ()

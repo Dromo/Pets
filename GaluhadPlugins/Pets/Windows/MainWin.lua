@@ -44,7 +44,6 @@ function DrawMainWin()
 	imgListBack:SetPosition(24,136);
 	imgListBack:SetSize(511,wMainWin:GetHeight()-170);
 	imgListBack:SetBlendMode(4);
-	--imgListBack:SetBackground(_IMAGES[3]);
 
 	trvPets = Turbine.UI.TreeView();
     trvPets:SetParent(wMainWin);
@@ -216,7 +215,7 @@ function DisplayResults(searchResults)
 			for k,v in pairs(_families[i]) do
 				table.insert(petNames,{["id"]=v;["name"]=_PETSTRINGS[v][1];});
 			end
-
+            
 			table.sort	(petNames,
 							function (v1, v2)
 								return v1.name < v2.name;
