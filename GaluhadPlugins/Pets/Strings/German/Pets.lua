@@ -497,11 +497,15 @@ _PETSTRINGS[417] = {[1]="Kostbarer Schakal";[2]="Erhältlich im Ultimativen Fanp
 _PETSTRINGS[418] = {[1]="Windfelseneule";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
 _PETSTRINGS[419] = {[1]="Kobra";[2]="Erhältlich in der Sammleredition oder im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
 
-_PETSTRINGS[420] = {[1]="Schwarzer Wildesel";[2]=""}
-_PETSTRINGS[421] = {[1]="Verletzte Fledermaus";[2]=""}
-_PETSTRINGS[422] = {[1]="Springmaus";[2]=""}
-_PETSTRINGS[423] = {[1]="Heller Corgi";[2]=""}
-_PETSTRINGS[424] = {[1]="Papagei der feurigen Sande";[2]=""}
+_PETSTRINGS[420] = {[1]="Schwarzer Wildesel";[2]="Kann bei Ikorbâni-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[421] = {[1]="Verletzte Fledermaus";[2]="Kann bei Adúrhid-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[422] = {[1]="Springmaus";[2]="Kann bei Phetekâri-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[423] = {[1]="Heller Corgi";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 12"}
+_PETSTRINGS[424] = {[1]="Papagei der feurigen Sande";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 12"}
+_PETSTRINGS[425] = {[1]="Hütehund der Rohirrim";[2]="Aus einer Luxuriösen Truhe des Rohirrim-Gasts erhalten."}
+_PETSTRINGS[426] = {[1]="Winterabend-Schwein";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
+_PETSTRINGS[427] = {[1]="Papagei des Lichts";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -530,12 +534,10 @@ _PETSTRINGS[523] = {[1]="Weißer Hamster";[2]=""}
 _PETSTRINGS[524] = {[1]="Graubrauner Hamster";[2]="";}
 _PETSTRINGS[525] = {[1]="Wasserbüffelkalb";[2]="";}
 _PETSTRINGS[526] = {[1]="Wasserbüffelkuh";[2]="";}
-_PETSTRINGS[527] = {[1]="Papagei des Lichts";[2]=""}
-_PETSTRINGS[528] = {[1]="Wasserbüffelochse";[2]=""}
-_PETSTRINGS[529] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[530] = {[1]="Eleganter dunkler Papagei";[2]=""}
-_PETSTRINGS[531] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[532] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[533] = {[1]="Saphirblaues Drachenjunges";[2]=""}
-_PETSTRINGS[534] = {[1]="Ametrinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[535] = {[1]="Smaragdgrünes Drachenjunges";[2]=""}
+_PETSTRINGS[527] = {[1]="Wasserbüffelochse";[2]=""}
+_PETSTRINGS[528] = {[1]="Dunkler Papagei";[2]=""}
+_PETSTRINGS[529] = {[1]="Eleganter dunkler Papagei";[2]=""}
+_PETSTRINGS[530] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[531] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[532] = {[1]="Saphirblaues Drachenjunges";[2]=""}
+_PETSTRINGS[533] = {[1]="Smaragdgrünes Drachenjunges";[2]=""}

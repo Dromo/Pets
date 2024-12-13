@@ -501,11 +501,15 @@ _PETSTRINGS[417] = {[1]="Chacal précieux";[2]="Disponible dans le Pack Fan ulti
 _PETSTRINGS[418] = {[1]="Hibou des Chutebrises";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[419] = {[1]="Cobra";[2]="Disponible dans l'Édition Collector ou le Pack Fan ultime de L'héritage de Morgoth."}
 
-_PETSTRINGS[420] = {[1]="Âne noir sauvage";[2]=""}
-_PETSTRINGS[421] = {[1]="Chauve-souris blessée";[2]=""}
-_PETSTRINGS[422] = {[1]="Gerboise";[2]=""}
-_PETSTRINGS[423] = {[1]="Corgi blond";[2]=""}
-_PETSTRINGS[424] = {[1]="Perroquet des sables ardents";[2]=""}
+_PETSTRINGS[420] = {[1]="Âne noir sauvage";[2]="Disponible par échange auprès des intendants des Ikorbâni."}
+_PETSTRINGS[421] = {[1]="Chauve-souris blessée";[2]="Disponible par échange auprès des intendants des Adurhid."}
+_PETSTRINGS[422] = {[1]="Gerboise";[2]="Disponible par échange auprès des intendants des Phetekâri."}
+_PETSTRINGS[423] = {[1]="Corgi blond";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 12."}
+_PETSTRINGS[424] = {[1]="Perroquet des sables ardents";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 12."}
+_PETSTRINGS[425] = {[1]="Chien de berger des Rohirrim";[2]="Obtenu dans le Coffre luxuriant du client des Rohirrim."}
+_PETSTRINGS[426] = {[1]="Cochon de soirée enneigée";[2]="Peut être échangé au Festival de Yule."}
+_PETSTRINGS[427] = {[1]="Perroquet de lumière";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
+_PETSTRINGS[428] = {[1]="Petit drake d'amétrine";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en or."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
@@ -534,12 +538,10 @@ _PETSTRINGS[523] = {[1]="Hamster blanc";[2]=""}
 _PETSTRINGS[524] = {[1]="Hamster taupe";[2]="";}
 _PETSTRINGS[525] = {[1]="Bufflon d'eau";[2]="";}
 _PETSTRINGS[526] = {[1]="Bufflonne d'eau";[2]="";}
-_PETSTRINGS[527] = {[1]="Perroquet de lumière";[2]=""}
-_PETSTRINGS[528] = {[1]="Buffle d'eau";[2]=""}
-_PETSTRINGS[529] = {[1]="Perroquet mat";[2]=""}
-_PETSTRINGS[530] = {[1]="Perroquet mat fringant";[2]=""}
-_PETSTRINGS[531] = {[1]="Petit drake de pierre de soleil";[2]=""}
-_PETSTRINGS[532] = {[1]="Petit drake d'améthyste";[2]=""}
-_PETSTRINGS[533] = {[1]="Petit drake de saphir";[2]=""}
-_PETSTRINGS[534] = {[1]="Petit drake d'amétrine";[2]=""}
-_PETSTRINGS[535] = {[1]="Petit drake d'émeraude";[2]=""}
+_PETSTRINGS[527] = {[1]="Buffle d'eau";[2]=""}
+_PETSTRINGS[528] = {[1]="Perroquet mat";[2]=""}
+_PETSTRINGS[529] = {[1]="Perroquet mat fringant";[2]=""}
+_PETSTRINGS[530] = {[1]="Petit drake de pierre de soleil";[2]=""}
+_PETSTRINGS[531] = {[1]="Petit drake d'améthyste";[2]=""}
+_PETSTRINGS[532] = {[1]="Petit drake de saphir";[2]=""}
+_PETSTRINGS[533] = {[1]="Petit drake d'émeraude";[2]=""}

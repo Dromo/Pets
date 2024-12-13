@@ -506,6 +506,10 @@ _PETSTRINGS[421] = {[1]="Injured Bat";[2]="Available to barter from Adúrhid Qua
 _PETSTRINGS[422] = {[1]="Jerboa";[2]="Available to barter from Phetekâri Quartermasters"}
 _PETSTRINGS[423] = {[1]="Blonde Corgi";[2]="Limited time availability: Legendary Item Reward Track Season 12."}
 _PETSTRINGS[424] = {[1]="Parrot of the Fiery Sands";[2]="Limited time availability: Legendary Item Reward Track Season 12."}
+_PETSTRINGS[425] = {[1]="Herding Dog of the Rohirrim";[2]="Acquired from the Patron's Luxuriant Coffer of the Rohirrim."}
+_PETSTRINGS[426] = {[1]="Snowy Evening Pig";[2]="Available for barter in the Yule Festival."}
+_PETSTRINGS[427] = {[1]="Parrot of Light";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
+_PETSTRINGS[428] = {[1]="Ametrine Drakeling";[2]="Available from Hobbit Presents as a special Gold Winter Gift."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
@@ -534,12 +538,10 @@ _PETSTRINGS[523] = {[1]="White Hamster";[2]=""}
 _PETSTRINGS[524] = {[1]="Taupe Hamster";[2]="";}
 _PETSTRINGS[525] = {[1]="Water Buffalo Calf";[2]="";}
 _PETSTRINGS[526] = {[1]="Water Buffalo Cow";[2]="";}
-_PETSTRINGS[527] = {[1]="Parrot of Light";[2]=""}
-_PETSTRINGS[528] = {[1]="Water Buffalo Bull";[2]=""}
-_PETSTRINGS[529] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[530] = {[1]="Dashing Dusky Parrot";[2]=""}
-_PETSTRINGS[531] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[532] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[533] = {[1]="Sapphire Drakeling";[2]=""}
-_PETSTRINGS[534] = {[1]="Ametrine Drakeling";[2]=""}
-_PETSTRINGS[535] = {[1]="Emerald Drakeling";[2]=""}
+_PETSTRINGS[527] = {[1]="Water Buffalo Bull";[2]=""}
+_PETSTRINGS[528] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[529] = {[1]="Dashing Dusky Parrot";[2]=""}
+_PETSTRINGS[530] = {[1]="Sunstone Drakeling";[2]=""}
+_PETSTRINGS[531] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[532] = {[1]="Sapphire Drakeling";[2]=""}
+_PETSTRINGS[533] = {[1]="Emerald Drakeling";[2]=""}

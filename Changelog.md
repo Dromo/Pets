@@ -1,5 +1,8 @@
 Change log:
-* 2024-11-14 - U41 - 2 newly available from Reward track 12
+* 2024-12-13 - U42.3 - 2 new + 2 newly available from hobbit presents
+  * Herding Dog of the Rohirrim,Snowy Evening Pig
+  * Parrot of Light, Ametrine Drakeling
+* 2024-11-14 - U42.1 - 2 newly available from Reward track 12
   * Blonde Corgi, Parrot of the Fiery Sands
 * 2024-11-06 - U42 - 1 new + 2 newly available
   * Wild Black Donkey
