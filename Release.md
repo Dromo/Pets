@@ -1,6 +1,5 @@
 Change log:
-* 2024-12-13 - U42.3 - 2 new + 2 newly available from hobbit presents
-  * Herding Dog of the Rohirrim,Snowy Evening Pig
-  * Parrot of Light, Ametrine Drakeling
+* 2025-01-29 - U42.4 - 2 new
+  * Mushroom Hunter's Corgi, Mushroom Hunter's Frog
 
 [Full changelog](Changelog.md)

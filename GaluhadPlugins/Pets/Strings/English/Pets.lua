@@ -443,7 +443,7 @@ _PETSTRINGS[362] = {[1]="Lion Cub";[2]="Available for barter from The Order of t
 _PETSTRINGS[363] = {[1]="Crocodile Hatchling";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
 _PETSTRINGS[364] = {[1]="Ferocious Battle-kitten";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
 _PETSTRINGS[365] = {[1]="Harmonious Falcon";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
-_PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[367] = {[1]="Frost-tusk Youngling";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
 _PETSTRINGS[368] = {[1]="Young Moose";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
 
@@ -510,6 +510,9 @@ _PETSTRINGS[425] = {[1]="Herding Dog of the Rohirrim";[2]="Acquired from the Pat
 _PETSTRINGS[426] = {[1]="Snowy Evening Pig";[2]="Available for barter in the Yule Festival."}
 _PETSTRINGS[427] = {[1]="Parrot of Light";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
 _PETSTRINGS[428] = {[1]="Ametrine Drakeling";[2]="Available from Hobbit Presents as a special Gold Winter Gift."}
+_PETSTRINGS[429] = {[1]="Mushroom Hunter's Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[430] = {[1]="Mushroom Hunter's Frog";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}

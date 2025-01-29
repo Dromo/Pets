@@ -439,7 +439,7 @@ _PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbe
 _PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
 _PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
 _PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
-_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
 _PETSTRINGS[367] = {[1]="Frosthauer-Junges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
 _PETSTRINGS[368] = {[1]="Junger Elch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
 
@@ -506,6 +506,8 @@ _PETSTRINGS[425] = {[1]="Hütehund der Rohirrim";[2]="Aus einer Luxuriösen Truh
 _PETSTRINGS[426] = {[1]="Winterabend-Schwein";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
 _PETSTRINGS[427] = {[1]="Papagei des Lichts";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
 _PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
+_PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}

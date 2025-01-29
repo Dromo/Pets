@@ -443,7 +443,7 @@ _PETSTRINGS[362] = {[1]="Lionceau";[2]="Peut être échangé à Umbar auprès de
 _PETSTRINGS[363] = {[1]="Bébé crocodile";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
 _PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
 _PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
-_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
+_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 _PETSTRINGS[367] = {[1]="Jeune défense-de-givre";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
 _PETSTRINGS[368] = {[1]="Jeune élan";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
 
@@ -510,6 +510,8 @@ _PETSTRINGS[425] = {[1]="Chien de berger des Rohirrim";[2]="Obtenu dans le Coffr
 _PETSTRINGS[426] = {[1]="Cochon de soirée enneigée";[2]="Peut être échangé au Festival de Yule."}
 _PETSTRINGS[427] = {[1]="Perroquet de lumière";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
 _PETSTRINGS[428] = {[1]="Petit drake d'amétrine";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en or."}
+_PETSTRINGS[429] = {[1]="Corgi du chasseur de champignons";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
+_PETSTRINGS[430] = {[1]="Grenouille du chasseur de champignons";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
