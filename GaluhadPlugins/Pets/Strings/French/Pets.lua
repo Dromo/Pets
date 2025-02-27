@@ -513,6 +513,13 @@ _PETSTRINGS[428] = {[1]="Petit drake d'amétrine";[2]="Disponible dans les cadea
 _PETSTRINGS[429] = {[1]="Corgi du chasseur de champignons";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
 _PETSTRINGS[430] = {[1]="Grenouille du chasseur de champignons";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 
+_PETSTRINGS[431] = {[1]="Ver des sables vermeil";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[432] = {[1]="Hamster blanc";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[433] = {[1]="Bufflon d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
+_PETSTRINGS[434] = {[1]="Bufflonne d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
+_PETSTRINGS[435] = {[1]="Buffle d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
+_PETSTRINGS[436] = {[1]="Petit drake d'émeraude";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
+
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
 _PETSTRINGS[502] = {[1]="Cerf-volant des ailes noires";[2]=""}
@@ -533,17 +540,11 @@ _PETSTRINGS[516] = {[1]="Serpent tacheté";[2]="";}
 _PETSTRINGS[517] = {[1]="Serpent vert forêt";[2]=""}
 _PETSTRINGS[518] = {[1]="Serpent vert émeraude";[2]=""}
 _PETSTRINGS[519] = {[1]="Serpent ardent du désert";[2]=""}
-_PETSTRINGS[520] = {[1]="Ver des sables vermeil";[2]=""}
-_PETSTRINGS[521] = {[1]="Ver des sables châtain";[2]=""}
-_PETSTRINGS[522] = {[1]="Hamster moucheté";[2]=""}
-_PETSTRINGS[523] = {[1]="Hamster blanc";[2]=""}
-_PETSTRINGS[524] = {[1]="Hamster taupe";[2]="";}
-_PETSTRINGS[525] = {[1]="Bufflon d'eau";[2]="";}
-_PETSTRINGS[526] = {[1]="Bufflonne d'eau";[2]="";}
-_PETSTRINGS[527] = {[1]="Buffle d'eau";[2]=""}
-_PETSTRINGS[528] = {[1]="Perroquet mat";[2]=""}
-_PETSTRINGS[529] = {[1]="Perroquet mat fringant";[2]=""}
-_PETSTRINGS[530] = {[1]="Petit drake de pierre de soleil";[2]=""}
-_PETSTRINGS[531] = {[1]="Petit drake d'améthyste";[2]=""}
-_PETSTRINGS[532] = {[1]="Petit drake de saphir";[2]=""}
-_PETSTRINGS[533] = {[1]="Petit drake d'émeraude";[2]=""}
+_PETSTRINGS[520] = {[1]="Ver des sables châtain";[2]=""}
+_PETSTRINGS[521] = {[1]="Hamster moucheté";[2]=""}
+_PETSTRINGS[522] = {[1]="Hamster taupe";[2]=""}
+_PETSTRINGS[523] = {[1]="Perroquet mat";[2]=""}
+_PETSTRINGS[524] = {[1]="Perroquet mat fringant";[2]="";}
+_PETSTRINGS[525] = {[1]="Petit drake de pierre de soleil";[2]="";}
+_PETSTRINGS[526] = {[1]="Petit drake d'améthyste";[2]="";}
+_PETSTRINGS[527] = {[1]="Petit drake de saphir";[2]=""}

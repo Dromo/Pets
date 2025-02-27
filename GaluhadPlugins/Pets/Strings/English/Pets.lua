@@ -513,6 +513,12 @@ _PETSTRINGS[428] = {[1]="Ametrine Drakeling";[2]="Available from Hobbit Presents
 _PETSTRINGS[429] = {[1]="Mushroom Hunter's Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
 _PETSTRINGS[430] = {[1]="Mushroom Hunter's Frog";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 
+_PETSTRINGS[431] = {[1]="Ruby Sand Worm";[2]="Available through barter by participating in Delvings."}
+_PETSTRINGS[432] = {[1]="White Hamster";[2]="Available through barter by participating in Delvings."}
+_PETSTRINGS[433] = {[1]="Water Buffalo Calf";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
+_PETSTRINGS[434] = {[1]="Water Buffalo Cow";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
+_PETSTRINGS[435] = {[1]="Water Buffalo Bull";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
+_PETSTRINGS[436] = {[1]="Emerald Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
@@ -534,17 +540,11 @@ _PETSTRINGS[516] = {[1]="Pebbled Snake";[2]="";}
 _PETSTRINGS[517] = {[1]="Leafy Green Snake";[2]=""}
 _PETSTRINGS[518] = {[1]="Deep Emerald Snake";[2]=""}
 _PETSTRINGS[519] = {[1]="Fiery Desert Snake";[2]=""}
-_PETSTRINGS[520] = {[1]="Ruby Sand Worm";[2]=""}
-_PETSTRINGS[521] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[522] = {[1]="Spotted Hamster";[2]=""}
-_PETSTRINGS[523] = {[1]="White Hamster";[2]=""}
-_PETSTRINGS[524] = {[1]="Taupe Hamster";[2]="";}
-_PETSTRINGS[525] = {[1]="Water Buffalo Calf";[2]="";}
-_PETSTRINGS[526] = {[1]="Water Buffalo Cow";[2]="";}
-_PETSTRINGS[527] = {[1]="Water Buffalo Bull";[2]=""}
-_PETSTRINGS[528] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[529] = {[1]="Dashing Dusky Parrot";[2]=""}
-_PETSTRINGS[530] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[531] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[532] = {[1]="Sapphire Drakeling";[2]=""}
-_PETSTRINGS[533] = {[1]="Emerald Drakeling";[2]=""}
+_PETSTRINGS[520] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[521] = {[1]="Spotted Hamster";[2]=""}
+_PETSTRINGS[522] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[523] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[524] = {[1]="Dashing Dusky Parrot";[2]="";}
+_PETSTRINGS[525] = {[1]="Sunstone Drakeling";[2]="";}
+_PETSTRINGS[526] = {[1]="Amethyst Drakeling";[2]="";}
+_PETSTRINGS[527] = {[1]="Sapphire Drakeling";[2]=""}

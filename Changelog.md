@@ -1,5 +1,6 @@
 Change log:
-Change log:
+* 2025-02-27 - U43 - 6 new
+  * Ruby Sand Worm, White Hamster, Water Buffalo Calf, Water Buffalo Cow, Water Buffalo Bull, Emerald Drakeling
 * 2025-01-29 - U42.4 - 2 new
   * Mushroom Hunter's Corgi, Mushroom Hunter's Frog
 * 2024-12-13 - U42.3 - 2 new + 2 newly available from hobbit presents

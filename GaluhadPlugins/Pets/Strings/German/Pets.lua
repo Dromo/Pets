@@ -509,6 +509,13 @@ _PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch H
 _PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
 _PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
 
+_PETSTRINGS[431] = {[1]="Rubinroter Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[432] = {[1]="Weißer Hamster";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[433] = {[1]="Wasserbüffelkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[434] = {[1]="Wasserbüffelkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[435] = {[1]="Wasserbüffelochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[436] = {[1]="Smaragdgrünes Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
 _PETSTRINGS[502] = {[1]="Schwarzschwingendrachen";[2]=""}
@@ -529,17 +536,11 @@ _PETSTRINGS[516] = {[1]="Gefleckte Schlange";[2]="";}
 _PETSTRINGS[517] = {[1]="Blattgrüne Schlange";[2]=""}
 _PETSTRINGS[518] = {[1]="Smaragdgrüne Schlange";[2]=""}
 _PETSTRINGS[519] = {[1]="Feurige Wüstenschlange";[2]=""}
-_PETSTRINGS[520] = {[1]="Rubinroter Sandwurm";[2]=""}
-_PETSTRINGS[521] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
-_PETSTRINGS[522] = {[1]="Gefleckter Hamster";[2]=""}
-_PETSTRINGS[523] = {[1]="Weißer Hamster";[2]=""}
-_PETSTRINGS[524] = {[1]="Graubrauner Hamster";[2]="";}
-_PETSTRINGS[525] = {[1]="Wasserbüffelkalb";[2]="";}
-_PETSTRINGS[526] = {[1]="Wasserbüffelkuh";[2]="";}
-_PETSTRINGS[527] = {[1]="Wasserbüffelochse";[2]=""}
-_PETSTRINGS[528] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[529] = {[1]="Eleganter dunkler Papagei";[2]=""}
-_PETSTRINGS[530] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[531] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[532] = {[1]="Saphirblaues Drachenjunges";[2]=""}
-_PETSTRINGS[533] = {[1]="Smaragdgrünes Drachenjunges";[2]=""}
+_PETSTRINGS[520] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[521] = {[1]="Gefleckter Hamster";[2]=""}
+_PETSTRINGS[522] = {[1]="Graubrauner Hamster";[2]=""}
+_PETSTRINGS[523] = {[1]="Dunkler Papagei";[2]=""}
+_PETSTRINGS[524] = {[1]="Eleganter dunkler Papagei";[2]="";}
+_PETSTRINGS[525] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]="";}
+_PETSTRINGS[526] = {[1]="Amethystfarbenes Drachenjunges";[2]="";}
+_PETSTRINGS[527] = {[1]="Saphirblaues Drachenjunges";[2]=""}
