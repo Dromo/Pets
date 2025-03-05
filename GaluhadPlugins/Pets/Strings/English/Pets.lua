@@ -519,6 +519,7 @@ _PETSTRINGS[433] = {[1]="Water Buffalo Calf";[2]="Limited time availability: Leg
 _PETSTRINGS[434] = {[1]="Water Buffalo Cow";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
 _PETSTRINGS[435] = {[1]="Water Buffalo Bull";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
 _PETSTRINGS[436] = {[1]="Emerald Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
+_PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}

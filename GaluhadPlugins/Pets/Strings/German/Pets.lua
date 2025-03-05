@@ -515,6 +515,7 @@ _PETSTRINGS[433] = {[1]="Wasserbüffelkalb";[2]="Nur für kurze Zeit verfügbar:
 _PETSTRINGS[434] = {[1]="Wasserbüffelkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
 _PETSTRINGS[435] = {[1]="Wasserbüffelochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
 _PETSTRINGS[436] = {[1]="Smaragdgrünes Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}

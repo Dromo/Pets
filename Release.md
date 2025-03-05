@@ -1,5 +1,5 @@
 Change log:
-* 2025-02-27 - U43 - 6 new
-  * Ruby Sand Worm, White Hamster, Water Buffalo Calf, Water Buffalo Cow, Water Buffalo Bull, Emerald Drakeling
+* 2025-03-05 - U43.0.1 - 1 new
+  * Hedgehog and Hare Parade
 
 [Full changelog](Changelog.md)

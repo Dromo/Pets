@@ -519,6 +519,7 @@ _PETSTRINGS[433] = {[1]="Bufflon d'eau";[2]="Offre à durée limitée : suivi d
 _PETSTRINGS[434] = {[1]="Bufflonne d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
 _PETSTRINGS[435] = {[1]="Buffle d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
 _PETSTRINGS[436] = {[1]="Petit drake d'émeraude";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
+_PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
