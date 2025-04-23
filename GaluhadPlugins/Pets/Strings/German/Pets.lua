@@ -387,7 +387,7 @@ _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetausc
 _PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 4"}
 _PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
 
-_PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[316] = {[1]="Schwarzer Marmor Wolfshund";[2]="Beim Herbstfest erhältlich"}
 _PETSTRINGS[317] = {[1]="Weiße Gans";[2]="In den Fernen Auen erhältlich.";}
 _PETSTRINGS[318] = {[1]="Warmes Winter-Zicklein";[2]="In Saison 4 der Belohnungsleiste für legendäre Gegenstände erhältlich.";}
 _PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
@@ -515,7 +515,11 @@ _PETSTRINGS[433] = {[1]="Wasserbüffelkalb";[2]="Nur für kurze Zeit verfügbar:
 _PETSTRINGS[434] = {[1]="Wasserbüffelkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
 _PETSTRINGS[435] = {[1]="Wasserbüffelochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
 _PETSTRINGS[436] = {[1]="Smaragdgrünes Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
-_PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
+_PETSTRINGS[437] = {[1]="Parade von Igel und Hase";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+
+_PETSTRINGS[438] = {[1]="Schrecken der Sande";[2]="Aus der luxuriösen, verbesserten und einfachen Truhe des Gasts der Sande erhalten."}
+_PETSTRINGS[439] = {[1]="Schwarze Kobra";[2]="In Dun Shûma gefunden, der Festung des Königs."}
+_PETSTRINGS[440] = {[1]="Bärenjunges des Bäckervergnügens";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -529,9 +533,9 @@ _PETSTRINGS[508] = {[1]="Winterwind";[2]=""}
 _PETSTRINGS[509] = {[1]="Immergrüne Sichelfliege";[2]=""}
 _PETSTRINGS[510] = {[1]="Herbstroter Auerochse";[2]=""}
 _PETSTRINGS[511] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[512] = {[1]="Gestreifte Springmaus";[2]=""}
+_PETSTRINGS[512] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
 _PETSTRINGS[513] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[514] = {[1]="Gefleckte Jadeschlange";[2]="";}
+_PETSTRINGS[514] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14";}
 _PETSTRINGS[515] = {[1]="Türkise Schlange";[2]="";}
 _PETSTRINGS[516] = {[1]="Gefleckte Schlange";[2]="";}
 _PETSTRINGS[517] = {[1]="Blattgrüne Schlange";[2]=""}

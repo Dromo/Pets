@@ -521,6 +521,10 @@ _PETSTRINGS[435] = {[1]="Water Buffalo Bull";[2]="Limited time availability: Leg
 _PETSTRINGS[436] = {[1]="Emerald Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 13."}
 _PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
 
+_PETSTRINGS[438] = {[1]="Terror of the Sands";[2]="Acquired from Luxuriant, Enhanced, and Simple Patron's Coffers of the Sands."}
+_PETSTRINGS[439] = {[1]="Black Cobra";[2]="Found in Dun Shûma, The King's Fortress."}
+_PETSTRINGS[440] = {[1]="Baker's Delight Cub";[2]="Available through barter during the Anniversary Festival."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Black-wing Kite";[2]=""}
@@ -533,9 +537,9 @@ _PETSTRINGS[508] = {[1]="Winter's Wind";[2]=""}
 _PETSTRINGS[509] = {[1]="Evergreen Sickle-fly";[2]=""}
 _PETSTRINGS[510] = {[1]="Autumn Aurochs";[2]=""}
 _PETSTRINGS[511] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[512] = {[1]="Striped Jerboa";[2]=""}
+_PETSTRINGS[512] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 _PETSTRINGS[513] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[514] = {[1]="Jade Speckled Snake";[2]="";}
+_PETSTRINGS[514] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14.";}
 _PETSTRINGS[515] = {[1]="Turquoise Snake";[2]="";}
 _PETSTRINGS[516] = {[1]="Pebbled Snake";[2]="";}
 _PETSTRINGS[517] = {[1]="Leafy Green Snake";[2]=""}

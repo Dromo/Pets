@@ -519,7 +519,10 @@ _PETSTRINGS[433] = {[1]="Bufflon d'eau";[2]="Offre à durée limitée : suivi d
 _PETSTRINGS[434] = {[1]="Bufflonne d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
 _PETSTRINGS[435] = {[1]="Buffle d'eau";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
 _PETSTRINGS[436] = {[1]="Petit drake d'émeraude";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 13."}
-_PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter during the Spring Festival."}
+
+_PETSTRINGS[438] = {[1]="Terreur des étendues sableuses";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client des étendues sableuses."}
+_PETSTRINGS[439] = {[1]="Cobra noir";[2]="Se trouve à Dun Shûma, la forteresse du roi."}
+_PETSTRINGS[440] = {[1]="Ourson du régal du boulanger";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
@@ -533,9 +536,9 @@ _PETSTRINGS[508] = {[1]="Vent d'hiver";[2]=""}
 _PETSTRINGS[509] = {[1]="Mouche faucheuse tenace";[2]=""}
 _PETSTRINGS[510] = {[1]="Aurochs automnal";[2]=""}
 _PETSTRINGS[511] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[512] = {[1]="Gerboise à rayures";[2]=""}
+_PETSTRINGS[512] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 _PETSTRINGS[513] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[514] = {[1]="Serpent moucheté de jade";[2]="";}
+_PETSTRINGS[514] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14.";}
 _PETSTRINGS[515] = {[1]="Serpent turquoise";[2]="";}
 _PETSTRINGS[516] = {[1]="Serpent tacheté";[2]="";}
 _PETSTRINGS[517] = {[1]="Serpent vert forêt";[2]=""}

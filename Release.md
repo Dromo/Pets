@@ -1,5 +1,6 @@
 Change log:
-* 2025-03-05 - U43.0.1 - 1 new
-  * Hedgehog and Hare Parade
+* 2025-04-23 - U44 - 3 new
+  * Terror of the Sands, Black Cobra, Baker's Delight Cub
+
 
 [Full changelog](Changelog.md)
