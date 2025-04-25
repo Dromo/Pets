@@ -520,6 +520,8 @@ _PETSTRINGS[437] = {[1]="Parade von Igel und Hase";[2]="Durch Tauschhandel währ
 _PETSTRINGS[438] = {[1]="Schrecken der Sande";[2]="Aus der luxuriösen, verbesserten und einfachen Truhe des Gasts der Sande erhalten."}
 _PETSTRINGS[439] = {[1]="Schwarze Kobra";[2]="In Dun Shûma gefunden, der Festung des Königs."}
 _PETSTRINGS[440] = {[1]="Bärenjunges des Bäckervergnügens";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[441] = {[1]="Rostbrauner Corgi";[2]="";}
+_PETSTRINGS[442] = {[1]="Immergrüne Sichelfliege";[2]=""}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -527,25 +529,23 @@ _PETSTRINGS[502] = {[1]="Schwarzschwingendrachen";[2]=""}
 _PETSTRINGS[503] = {[1]="Dämmerschwingendrachen";[2]=""}
 _PETSTRINGS[504] = {[1]="Hellbrauner Wolfshund";[2]=""}
 _PETSTRINGS[505] = {[1]="Cremefarbener Corgi";[2]=""}
-_PETSTRINGS[506] = {[1]="Rostbrauner Corgi";[2]=""}
-_PETSTRINGS[507] = {[1]="Bibliothekscorgi";[2]=""}
-_PETSTRINGS[508] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[509] = {[1]="Immergrüne Sichelfliege";[2]=""}
-_PETSTRINGS[510] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[511] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[512] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
-_PETSTRINGS[513] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[514] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14";}
-_PETSTRINGS[515] = {[1]="Türkise Schlange";[2]="";}
-_PETSTRINGS[516] = {[1]="Gefleckte Schlange";[2]="";}
-_PETSTRINGS[517] = {[1]="Blattgrüne Schlange";[2]=""}
-_PETSTRINGS[518] = {[1]="Smaragdgrüne Schlange";[2]=""}
-_PETSTRINGS[519] = {[1]="Feurige Wüstenschlange";[2]=""}
-_PETSTRINGS[520] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
-_PETSTRINGS[521] = {[1]="Gefleckter Hamster";[2]=""}
-_PETSTRINGS[522] = {[1]="Graubrauner Hamster";[2]=""}
-_PETSTRINGS[523] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[524] = {[1]="Eleganter dunkler Papagei";[2]="";}
-_PETSTRINGS[525] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]="";}
-_PETSTRINGS[526] = {[1]="Amethystfarbenes Drachenjunges";[2]="";}
-_PETSTRINGS[527] = {[1]="Saphirblaues Drachenjunges";[2]=""}
+_PETSTRINGS[506] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[507] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[508] = {[1]="Herbstroter Auerochse";[2]=""}
+_PETSTRINGS[509] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[510] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
+_PETSTRINGS[511] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[512] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
+_PETSTRINGS[513] = {[1]="Türkise Schlange";[2]=""}
+_PETSTRINGS[514] = {[1]="Gefleckte Schlange";[2]="";}
+_PETSTRINGS[515] = {[1]="Blattgrüne Schlange";[2]="";}
+_PETSTRINGS[516] = {[1]="Smaragdgrüne Schlange";[2]="";}
+_PETSTRINGS[517] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[518] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[519] = {[1]="Gefleckter Hamster";[2]=""}
+_PETSTRINGS[520] = {[1]="Graubrauner Hamster";[2]=""}
+_PETSTRINGS[521] = {[1]="Dunkler Papagei";[2]=""}
+_PETSTRINGS[522] = {[1]="Eleganter dunkler Papagei";[2]=""}
+_PETSTRINGS[523] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[524] = {[1]="Amethystfarbenes Drachenjunges";[2]="";}
+_PETSTRINGS[525] = {[1]="Saphirblaues Drachenjunges";[2]="";}
