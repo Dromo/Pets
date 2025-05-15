@@ -526,6 +526,9 @@ _PETSTRINGS[439] = {[1]="Black Cobra";[2]="Found in Dun Shûma, The King's Fortr
 _PETSTRINGS[440] = {[1]="Baker's Delight Cub";[2]="Available through barter during the Anniversary Festival."}
 _PETSTRINGS[441] = {[1]="Russet Corgi";[2]="";}
 _PETSTRINGS[442] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[443] = {[1]="Pebbled Snake";[2]="Found in Dun Shûma, The King's Fortress."}
+_PETSTRINGS[444] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
+_PETSTRINGS[445] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
@@ -537,19 +540,16 @@ _PETSTRINGS[506] = {[1]="Library Corgi";[2]=""}
 _PETSTRINGS[507] = {[1]="Winter's Wind";[2]=""}
 _PETSTRINGS[508] = {[1]="Autumn Aurochs";[2]=""}
 _PETSTRINGS[509] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[510] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
-_PETSTRINGS[511] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[512] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
-_PETSTRINGS[513] = {[1]="Turquoise Snake";[2]=""}
-_PETSTRINGS[514] = {[1]="Pebbled Snake";[2]="";}
-_PETSTRINGS[515] = {[1]="Leafy Green Snake";[2]="";}
-_PETSTRINGS[516] = {[1]="Deep Emerald Snake";[2]="";}
-_PETSTRINGS[517] = {[1]="Fiery Desert Snake";[2]=""}
-_PETSTRINGS[518] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[519] = {[1]="Spotted Hamster";[2]=""}
-_PETSTRINGS[520] = {[1]="Taupe Hamster";[2]=""}
-_PETSTRINGS[521] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[522] = {[1]="Dashing Dusky Parrot";[2]=""}
-_PETSTRINGS[523] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[524] = {[1]="Amethyst Drakeling";[2]="";}
-_PETSTRINGS[525] = {[1]="Sapphire Drakeling";[2]="";}
+_PETSTRINGS[510] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[511] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[512] = {[1]="Leafy Green Snake";[2]=""}
+_PETSTRINGS[513] = {[1]="Deep Emerald Snake";[2]=""}
+_PETSTRINGS[514] = {[1]="Fiery Desert Snake";[2]="";}
+_PETSTRINGS[515] = {[1]="Chestnut Sand Worm";[2]="";}
+_PETSTRINGS[516] = {[1]="Spotted Hamster";[2]="";}
+_PETSTRINGS[517] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[518] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[519] = {[1]="Dashing Dusky Parrot";[2]=""}
+_PETSTRINGS[520] = {[1]="Sunstone Drakeling";[2]=""}
+_PETSTRINGS[521] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[522] = {[1]="Sapphire Drakeling";[2]=""}

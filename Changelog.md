@@ -1,4 +1,6 @@
 Change log:
+* 2025-05-15 - U44.1 - 3 new
+  * Pebbled Snake, Striped Jerboa, Jade Speckled Snake
 * 2025-04-25 - U44a - 2 new
   * Russet Corgi, Evergreen Sickle-fly
 * 2025-04-23 - U44 - 3 new

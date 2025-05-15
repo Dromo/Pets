@@ -525,6 +525,9 @@ _PETSTRINGS[439] = {[1]="Cobra noir";[2]="Se trouve à Dun Shûma, la forteresse
 _PETSTRINGS[440] = {[1]="Ourson du régal du boulanger";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 _PETSTRINGS[441] = {[1]="Corgi brun-roux";[2]="";}
 _PETSTRINGS[442] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[443] = {[1]="Serpent tacheté";[2]=""}
+_PETSTRINGS[444] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
+_PETSTRINGS[445] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
@@ -536,19 +539,16 @@ _PETSTRINGS[506] = {[1]="Corgi de bibliothèque";[2]=""}
 _PETSTRINGS[507] = {[1]="Vent d'hiver";[2]=""}
 _PETSTRINGS[508] = {[1]="Aurochs automnal";[2]=""}
 _PETSTRINGS[509] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[510] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
-_PETSTRINGS[511] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[512] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
-_PETSTRINGS[513] = {[1]="Serpent turquoise";[2]=""}
-_PETSTRINGS[514] = {[1]="Serpent tacheté";[2]="";}
-_PETSTRINGS[515] = {[1]="Serpent vert forêt";[2]="";}
-_PETSTRINGS[516] = {[1]="Serpent vert émeraude";[2]="";}
-_PETSTRINGS[517] = {[1]="Serpent ardent du désert";[2]=""}
-_PETSTRINGS[518] = {[1]="Ver des sables châtain";[2]=""}
-_PETSTRINGS[519] = {[1]="Hamster moucheté";[2]=""}
-_PETSTRINGS[520] = {[1]="Hamster taupe";[2]=""}
-_PETSTRINGS[521] = {[1]="Perroquet mat";[2]=""}
-_PETSTRINGS[522] = {[1]="Perroquet mat fringant";[2]=""}
-_PETSTRINGS[523] = {[1]="Petit drake de pierre de soleil";[2]=""}
-_PETSTRINGS[524] = {[1]="Petit drake d'améthyste";[2]="";}
-_PETSTRINGS[525] = {[1]="Petit drake de saphir";[2]="";}
+_PETSTRINGS[510] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[511] = {[1]="Serpent turquoise";[2]=""}
+_PETSTRINGS[512] = {[1]="Serpent vert forêt";[2]=""}
+_PETSTRINGS[513] = {[1]="Serpent vert émeraude";[2]=""}
+_PETSTRINGS[514] = {[1]="Serpent ardent du désert";[2]="";}
+_PETSTRINGS[515] = {[1]="Ver des sables châtain";[2]="";}
+_PETSTRINGS[516] = {[1]="Hamster moucheté";[2]="";}
+_PETSTRINGS[517] = {[1]="Hamster taupe";[2]=""}
+_PETSTRINGS[518] = {[1]="Perroquet mat";[2]=""}
+_PETSTRINGS[519] = {[1]="Perroquet mat fringant";[2]=""}
+_PETSTRINGS[520] = {[1]="Petit drake de pierre de soleil";[2]=""}
+_PETSTRINGS[521] = {[1]="Petit drake d'améthyste";[2]=""}
+_PETSTRINGS[522] = {[1]="Petit drake de saphir";[2]=""}
