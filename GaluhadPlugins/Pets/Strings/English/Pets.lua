@@ -529,6 +529,7 @@ _PETSTRINGS[442] = {[1]="Evergreen Sickle-fly";[2]=""}
 _PETSTRINGS[443] = {[1]="Pebbled Snake";[2]="Found in Dun Shûma, The King's Fortress."}
 _PETSTRINGS[444] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 _PETSTRINGS[445] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
+_PETSTRINGS[446] = {[1]="Able Ice-shore Fisher";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}

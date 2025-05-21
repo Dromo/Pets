@@ -525,9 +525,10 @@ _PETSTRINGS[439] = {[1]="Cobra noir";[2]="Se trouve à Dun Shûma, la forteresse
 _PETSTRINGS[440] = {[1]="Ourson du régal du boulanger";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 _PETSTRINGS[441] = {[1]="Corgi brun-roux";[2]="";}
 _PETSTRINGS[442] = {[1]="Mouche faucheuse tenace";[2]=""}
-_PETSTRINGS[443] = {[1]="Serpent tacheté";[2]=""}
+_PETSTRINGS[443] = {[1]="Serpent tacheté";[2]="Se trouve à Dun Shûma, la forteresse du roi."}
 _PETSTRINGS[444] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 _PETSTRINGS[445] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
+_PETSTRINGS[446] = {[1]="Ours pêcheur de riveglace talentueux";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
