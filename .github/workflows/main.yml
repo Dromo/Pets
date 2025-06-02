@@ -15,7 +15,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'Pets_${{ github.event.inputs.tag }}.zip'
-        exclusions: '*.git* *.md'
+        exclusions: '*.git* *.md *.py *.txt'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
