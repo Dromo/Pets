@@ -50,7 +50,7 @@ jobs:
         if: ${{ steps.version_change.outputs.version_changed == 'false' }}
         run: |
           echo "Version did not change. Exiting workflow."
-          exit 0  # Fail the step to stop the workflow
+          exit 1  # Fail the step to stop the workflow
 
       - name: Archive Release
         uses: thedoctor0/zip-release@master
