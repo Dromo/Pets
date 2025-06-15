@@ -28,10 +28,10 @@ jobs:
       - name: Fetch previous version from last commit
         id: previous_version
         run: |
-          git show HEAD~1:GaluhadPlugins/Pets.plugin > PetsOld.plugin || echo "no previous file"
+          git show HEAD~1:GaluhadPlugins/Pets.plugin > PetsOld.txt || echo "no previous file"
 
-          if [ -f PetsOld.plugin ]; then
-            prev_version=$(xmlstarlet sel -T -t -v "//Plugin/Information/Version" PetsOld.plugin)
+          if [ -f PetsOld.txt ]; then
+            prev_version=$(xmlstarlet sel -T -t -v "//Plugin/Information/Version" PetsOld.txt)
             echo "previous_version=U$prev_version" >> $GITHUB_OUTPUT
           else
             echo "previous_version=" >> $GITHUB_OUTPUT
