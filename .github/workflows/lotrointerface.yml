@@ -1,4 +1,4 @@
-name: run update_lotro_interface.py
+name: new version
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
       - name: Extract current version from Pets.plugin
         id: current_version
         run: |
-          version=$(xmlstarlet sel -T -t -v "//PluginConfig/Version" "GaluhadPlugins/Pets.plugin")
+          version=$(xmlstarlet sel -T -t -v "//Plugin/Version" "GaluhadPlugins/Pets.plugin")
           echo "current_version=U$version" >> $GITHUB_OUTPUT
 
       - name: Fetch previous version from last commit
@@ -28,7 +28,7 @@ jobs:
           git show HEAD~1:GaluhadPlugins/Pets.plugin > PetsOld.plugin || echo "no previous file"
 
           if [ -f PetsOld.plugin ]; then
-            prev_version=$(xmlstarlet sel -T -t -v "//PluginConfig/Version" PetsOld.plugin)
+            prev_version=$(xmlstarlet sel -T -t -v "//Plugin/Version" PetsOld.plugin)
             echo "previous_version=U$prev_version" >> $GITHUB_OUTPUT
           else
             echo "previous_version=" >> $GITHUB_OUTPUT
@@ -47,7 +47,7 @@ jobs:
         if: ${{ steps.version_change.outputs.version_changed == 'false' }}
         run: |
           echo "Version did not change. Exiting workflow."
-          exit 1  # Fail the step to stop the workflow
+          exit 0  # Fail the step to stop the workflow
 
       - name: Archive Release
         uses: thedoctor0/zip-release@master
