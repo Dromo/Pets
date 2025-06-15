@@ -7,6 +7,11 @@ try:
 except KeyError:
     raise Exception("Secret password not available!")
 
+try:
+    update = os.environ['UPDATE']
+except KeyError:
+    raise Exception("Update variable not available!")
+
 with httpx.Client() as client:
     post_data = {
         "vb_login_username": "drono",
@@ -17,14 +22,14 @@ with httpx.Client() as client:
 
     if login_response.status_code == 200:
         files = {
-            'replacementfile': ('Pets_U44.2.zip', open('./Pets_U44.2.zip', 'rb'), 'application/zip')
+            'replacementfile': ('Pets_'+update+'.zip', open('./Pets_'+update+'.zip', 'rb'), 'application/zip')
         }
         data = {
             'id': '1021',
             'op': 'editfile',
             'type': '1',
-            'ftitle': 'Pets U44.2',
-            'version': '44.2',
+            'ftitle': 'Pets '+update,
+            'version': update[1:],
             'fileaction': 'keep',
 #            'fileaction': 'replace',
         }

@@ -2,6 +2,9 @@ name: run update_lotro_interface.py
 
 on:
   workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Update'
 
 jobs:
   build:
@@ -24,4 +27,4 @@ jobs:
       - name: execute py script # run main.py
         env:
           MD5PASSWORD: ${{ secrets.MD5PASSWORD }}
-        run: python update_lotro_interface.py
+        run: UPDATE=${{ github.event.inputs.tag }} python update_lotro_interface.py
