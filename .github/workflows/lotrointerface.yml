@@ -19,7 +19,7 @@ jobs:
       - name: Extract current version from Pets.plugin
         id: current_version
         run: |
-          version=$(xmlstarlet sel -T -t -v "//Plugin/Version" "GaluhadPlugins/Pets.plugin")
+          version=$(xmlstarlet sel -T -t -v "//Plugin/Information/Version" "GaluhadPlugins/Pets.plugin")
           echo "current_version=U$version" >> $GITHUB_OUTPUT
 
       - name: Fetch previous version from last commit
@@ -28,7 +28,7 @@ jobs:
           git show HEAD~1:GaluhadPlugins/Pets.plugin > PetsOld.plugin || echo "no previous file"
 
           if [ -f PetsOld.plugin ]; then
-            prev_version=$(xmlstarlet sel -T -t -v "//Plugin/Version" PetsOld.plugin)
+            prev_version=$(xmlstarlet sel -T -t -v "//Plugin/Information/Version" PetsOld.plugin)
             echo "previous_version=U$prev_version" >> $GITHUB_OUTPUT
           else
             echo "previous_version=" >> $GITHUB_OUTPUT
