@@ -21,8 +21,12 @@ with httpx.Client() as client:
     login_response = client.post('https://www.lotrointerface.com/forums/login.php', data=post_data)
 
     if login_response.status_code == 200:
+        zip_url = 'https://github.com/Dromo/Pets/releases/download/'+update+'/Pets_'+update+'.zip'
+        response = requests.get(zip_url)
+        if response.status_code != 200:
+            raise Exception("Failed to fetch zip")
         files = {
-            'replacementfile': ('Pets_'+update+'.zip', open('./Pets_'+update+'.zip', 'rb'), 'application/zip')
+            'replacementfile': ('Pets_'+update+'.zip', response.content, 'application/zip')
         }
         data = {
             'id': '1021',

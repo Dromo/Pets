@@ -14,6 +14,21 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v2
 
+      - name: Archive Release
+        uses: thedoctor0/zip-release@master
+        with:
+          filename: 'Pets_${{ github.event.inputs.tag }}.zip'
+          exclusions: '*.git* *.md *.py *.txt'
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: 'Pets_${{ github.event.inputs.tag }}.zip'
+          commit: master
+          bodyFile: Release.md
+          tag: ${{ github.event.inputs.tag }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: setup python
         uses: actions/setup-python@v4
         with:
