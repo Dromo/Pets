@@ -1,32 +1,67 @@
 name: run update_lotro_interface.py
 
 on:
-  workflow_dispatch:
-    inputs:
-      tag:
-        description: 'Update'
+  push:
+    paths:
+      - 'GaluhadPlugins/Pets.plugin'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
+      - name: Checkout repo content
         uses: actions/checkout@v2
+
+      - name: Install xmlstarlet
+        run: sudo apt-get install -y xmlstarlet
+
+      - name: Extract current version from Pets.plugin
+        id: current_version
+        run: |
+          version=$(xmlstarlet sel -T -t -v "//PluginConfig/Version" "GaluhadPlugins/Pets.plugin")
+          echo "current_version=U$version" >> $GITHUB_OUTPUT
+
+      - name: Fetch previous version from last commit
+        id: previous_version
+        run: |
+          git show HEAD~1:GaluhadPlugins/Pets.plugin > PetsOld.plugin || echo "no previous file"
+
+          if [ -f PetsOld.plugin ]; then
+            prev_version=$(xmlstarlet sel -T -t -v "//PluginConfig/Version" PetsOld.plugin)
+            echo "previous_version=U$prev_version" >> $GITHUB_OUTPUT
+          else
+            echo "previous_version=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check if version changed
+        id: version_change
+        run: |
+          if [ "${{ steps.current_version.outputs.current_version }}" != "${{ steps.previous_version.outputs.previous_version }}" ]; then
+            echo "version_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "version_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fail if version did not change
+        if: ${{ steps.version_change.outputs.version_changed == 'false' }}
+        run: |
+          echo "Version did not change. Exiting workflow."
+          exit 1  # Fail the step to stop the workflow
 
       - name: Archive Release
         uses: thedoctor0/zip-release@master
         with:
-          filename: 'Pets_${{ github.event.inputs.tag }}.zip'
+          filename: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           exclusions: '*.git* *.md *.py *.txt'
 
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: 'Pets_${{ github.event.inputs.tag }}.zip'
+          artifacts: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           commit: master
           bodyFile: Release.md
-          tag: ${{ github.event.inputs.tag }}
+          tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: setup python
@@ -42,4 +77,4 @@ jobs:
       - name: execute py script # run main.py
         env:
           MD5PASSWORD: ${{ secrets.MD5PASSWORD }}
-        run: UPDATE=${{ github.event.inputs.tag }} python update_lotro_interface.py
+        run: UPDATE=${{ steps.current_version.outputs.current_version }} python update_lotro_interface.py
