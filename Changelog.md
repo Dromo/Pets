@@ -1,4 +1,6 @@
 Change log:
+* 2025-06-18 - U44.3 - 2 new
+  * Sea-side Kite, Loyal Goose of Gondor
 * 2025-05-21 - U44.2 - 1 new
   * Able Ice-shore Fisher
 * 2025-05-15 - U44.1 - 3 new

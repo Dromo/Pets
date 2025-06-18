@@ -532,6 +532,8 @@ _PETSTRINGS[443] = {[1]="Галечная змея";[2]=""}
 _PETSTRINGS[444] = {[1]="Полосатый тушканчик";[2]="Наградная шкала легендарных предметов, сезон 14. Доступно в течение ограниченного времени."}
 _PETSTRINGS[445] = {[1]="Нефритовая пятнистая змея";[2]="Наградная шкала легендарных предметов, сезон 14. Доступно в течение ограниченного времени."}
 _PETSTRINGS[446] = {[1]="Able Ice-shore Fisher";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[447] = {[1]="Sea-side Kite";[2]="Available for barter during the Midsummer Festival."}
+_PETSTRINGS[448] = {[1]="Loyal Goose of Gondor";[2]="Acquired from Loyal Knight Patron's Simple, Enhanced, or Luxuriant Coffers."}
 
 _PETSTRINGS[500] = {[1]="Полосатая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
 _PETSTRINGS[501] = {[1]="Палевая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}

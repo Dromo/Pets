@@ -529,6 +529,8 @@ _PETSTRINGS[443] = {[1]="Serpent tacheté";[2]="Se trouve à Dun Shûma, la fort
 _PETSTRINGS[444] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 _PETSTRINGS[445] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 _PETSTRINGS[446] = {[1]="Ours pêcheur de riveglace talentueux";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[447] = {[1]="Cerf-volant du littoral";[2]="Disponible par échange au cours du Festival du Solstice d'été."}
+_PETSTRINGS[448] = {[1]="Oie loyale du Gondor";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client chevalier loyal."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}

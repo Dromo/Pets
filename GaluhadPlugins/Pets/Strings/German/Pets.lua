@@ -526,6 +526,8 @@ _PETSTRINGS[443] = {[1]="Gefleckte Schlange";[2]="In Dun Shûma gefunden, der Fe
 _PETSTRINGS[444] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
 _PETSTRINGS[445] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
 _PETSTRINGS[446] = {[1]="Fähiger Eisufer-Fischer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[447] = {[1]="Meeresküstendrachen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[448] = {[1]="Treue Gans von Gondor";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des treuen Rittergasts."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}

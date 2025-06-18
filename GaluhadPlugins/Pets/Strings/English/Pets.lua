@@ -530,6 +530,8 @@ _PETSTRINGS[443] = {[1]="Pebbled Snake";[2]="Found in Dun Shûma, The King's For
 _PETSTRINGS[444] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 _PETSTRINGS[445] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 _PETSTRINGS[446] = {[1]="Able Ice-shore Fisher";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[447] = {[1]="Sea-side Kite";[2]="Available for barter during the Midsummer Festival."}
+_PETSTRINGS[448] = {[1]="Loyal Goose of Gondor";[2]="Acquired from Loyal Knight Patron's Simple, Enhanced, or Luxuriant Coffers."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
