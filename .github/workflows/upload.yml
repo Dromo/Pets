@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Install xmlstarlet
         run: sudo apt-get install -y xmlstarlet
+
+      - name: Checkout code
+        uses: actions/checkout@v3
         
       - name: Extract current version from Pets.plugin
         id: current_version
