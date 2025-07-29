@@ -7,6 +7,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install xmlstarlet
+        run: sudo apt-get install -y xmlstarlet
+        
       - name: Extract current version from Pets.plugin
         id: current_version
         run: |
