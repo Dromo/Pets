@@ -2,6 +2,8 @@ name: manual upload
 
 on:
   workflow_dispatch:
+    paths:
+      - 'GaluhadPlugins/Pets.plugin'
 
 jobs:
   build:
