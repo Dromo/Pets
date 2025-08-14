@@ -531,6 +531,8 @@ _PETSTRINGS[448] = {[1]="Treue Gans von Gondor";[2]="Aus einer einfachen, verbes
 _PETSTRINGS[449] = {[1]="Gestreifter Oryx";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
 _PETSTRINGS[450] = {[1]="Junger gestreifter Oryx";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
 _PETSTRINGS[451] = {[1]="Sumpfskorpion";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
+_PETSTRINGS[452] = {[1]="Smaragdgrüne Schlange";[2]="Während des Bauernfestes im Höhlenklauenbau erhältlich."}
+_PETSTRINGS[453] = {[1]="Dunkelgraue Ziege";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -545,43 +547,41 @@ _PETSTRINGS[509] = {[1]="Lohfarbener Auerochse";[2]=""}
 _PETSTRINGS[510] = {[1]="Braune Springmaus";[2]=""}
 _PETSTRINGS[511] = {[1]="Türkise Schlange";[2]=""}
 _PETSTRINGS[512] = {[1]="Blattgrüne Schlange";[2]=""}
-_PETSTRINGS[513] = {[1]="Smaragdgrüne Schlange";[2]=""}
-_PETSTRINGS[514] = {[1]="Feurige Wüstenschlange";[2]="";}
-_PETSTRINGS[515] = {[1]="Kastanienfarbener Sandwurm";[2]="";}
-_PETSTRINGS[516] = {[1]="Gefleckter Hamster";[2]="";}
-_PETSTRINGS[517] = {[1]="Graubrauner Hamster";[2]=""}
-_PETSTRINGS[518] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[519] = {[1]="Eleganter dunkler Papagei";[2]=""}
-_PETSTRINGS[520] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[521] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[522] = {[1]="Saphirblaues Drachenjunges";[2]=""}
-_PETSTRINGS[523] = {[1]="Silberfarbener Skorpion";[2]=""}
-_PETSTRINGS[524] = {[1]="Brauner Oryx";[2]="";}
-_PETSTRINGS[525] = {[1]="Gepanzerter Skorpion";[2]="";}
-_PETSTRINGS[526] = {[1]="Grüne Grodbog-Königin";[2]="";}
-_PETSTRINGS[527] = {[1]="Junger brauner Oryx";[2]=""}
-_PETSTRINGS[528] = {[1]="Höhlenschrecken";[2]=""}
-_PETSTRINGS[529] = {[1]="Kobaltfarbene Grodbog-Königin";[2]=""}
-_PETSTRINGS[530] = {[1]="Obsidian-Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[531] = {[1]="Umbar-Pony";[2]=""}
-_PETSTRINGS[532] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[533] = {[1]="Freundliche Grodbog-Königin";[2]=""}
-_PETSTRINGS[534] = {[1]="Giftiger Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[535] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[536] = {[1]="Junger lohfarbener Oryx";[2]="";}
-_PETSTRINGS[537] = {[1]="Aggressive Grodbog-Königin";[2]=""}
-_PETSTRINGS[538] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[539] = {[1]="Blutroter Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[540] = {[1]="Zahme Hyäne";[2]=""}
-_PETSTRINGS[541] = {[1]="Blutskorpion";[2]=""}
-_PETSTRINGS[542] = {[1]="Pechschwarzer Skorpion";[2]=""}
-_PETSTRINGS[543] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[544] = {[1]="Dunkle Grodbog-Königin";[2]="";}
-_PETSTRINGS[545] = {[1]="Bleicher Skorpion";[2]="";}
-_PETSTRINGS[546] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[547] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[548] = {[1]="Schwarze Grodbog-Königin";[2]=""}
-_PETSTRINGS[549] = {[1]="Meeresskorpion";[2]=""}
-_PETSTRINGS[550] = {[1]="Kupferfarbener Skorpion";[2]=""}
-_PETSTRINGS[551] = {[1]="Lohfarbener Oryx";[2]=""}
-_PETSTRINGS[552] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[513] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[514] = {[1]="Kastanienfarbener Sandwurm";[2]="";}
+_PETSTRINGS[515] = {[1]="Gefleckter Hamster";[2]="";}
+_PETSTRINGS[516] = {[1]="Graubrauner Hamster";[2]="";}
+_PETSTRINGS[517] = {[1]="Dunkler Papagei";[2]=""}
+_PETSTRINGS[518] = {[1]="Eleganter dunkler Papagei";[2]=""}
+_PETSTRINGS[519] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[520] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[521] = {[1]="Saphirblaues Drachenjunges";[2]=""}
+_PETSTRINGS[522] = {[1]="Silberfarbener Skorpion";[2]=""}
+_PETSTRINGS[523] = {[1]="Brauner Oryx";[2]=""}
+_PETSTRINGS[524] = {[1]="Gepanzerter Skorpion";[2]="";}
+_PETSTRINGS[525] = {[1]="Grüne Grodbog-Königin";[2]="";}
+_PETSTRINGS[526] = {[1]="Junger brauner Oryx";[2]="";}
+_PETSTRINGS[527] = {[1]="Höhlenschrecken";[2]=""}
+_PETSTRINGS[528] = {[1]="Kobaltfarbene Grodbog-Königin";[2]=""}
+_PETSTRINGS[529] = {[1]="Zahme Hyäne";[2]=""}
+_PETSTRINGS[530] = {[1]="Umbar-Pony";[2]=""}
+_PETSTRINGS[531] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[532] = {[1]="Freundliche Grodbog-Königin";[2]=""}
+_PETSTRINGS[533] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[534] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[535] = {[1]="Junger lohfarbener Oryx";[2]="";}
+_PETSTRINGS[536] = {[1]="Aggressive Grodbog-Königin";[2]="";}
+_PETSTRINGS[537] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[538] = {[1]="Blutroter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[540] = {[1]="Blutskorpion";[2]=""}
+_PETSTRINGS[541] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[542] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[543] = {[1]="Dunkle Grodbog-Königin";[2]=""}
+_PETSTRINGS[544] = {[1]="Bleicher Skorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[546] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[547] = {[1]="Schwarze Grodbog-Königin";[2]=""}
+_PETSTRINGS[548] = {[1]="Meeresskorpion";[2]=""}
+_PETSTRINGS[549] = {[1]="Kupferfarbener Skorpion";[2]=""}
+_PETSTRINGS[550] = {[1]="Lohfarbener Oryx";[2]=""}
+_PETSTRINGS[551] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}

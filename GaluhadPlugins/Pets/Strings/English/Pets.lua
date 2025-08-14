@@ -535,6 +535,8 @@ _PETSTRINGS[448] = {[1]="Loyal Goose of Gondor";[2]="Acquired from Loyal Knight 
 _PETSTRINGS[449] = {[1]="Striped Oryx";[2]="Limited time availability: Legendary Item Reward Track Season 15."}
 _PETSTRINGS[450] = {[1]="Young Striped Oryx";[2]="Limited time availability: Legendary Item Reward Track Season 15."}
 _PETSTRINGS[451] = {[1]="Marsh Scorpion";[2]="Limited time availability: Legendary Item Reward Track Season 15."}
+_PETSTRINGS[452] = {[1]="Deep Emerald Snake";[2]="Available from the Cave-claw Den during the Farmers Faire Festival."}
+_PETSTRINGS[453] = {[1]="Dark Grey Goat";[2]="Available through barter during the Farmers Faire Festival."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
@@ -549,43 +551,41 @@ _PETSTRINGS[509] = {[1]="Tawny Aurochs";[2]=""}
 _PETSTRINGS[510] = {[1]="Brown Jerboa";[2]=""}
 _PETSTRINGS[511] = {[1]="Turquoise Snake";[2]=""}
 _PETSTRINGS[512] = {[1]="Leafy Green Snake";[2]=""}
-_PETSTRINGS[513] = {[1]="Deep Emerald Snake";[2]=""}
-_PETSTRINGS[514] = {[1]="Fiery Desert Snake";[2]="";}
-_PETSTRINGS[515] = {[1]="Chestnut Sand Worm";[2]="";}
-_PETSTRINGS[516] = {[1]="Spotted Hamster";[2]="";}
-_PETSTRINGS[517] = {[1]="Taupe Hamster";[2]=""}
-_PETSTRINGS[518] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[519] = {[1]="Dashing Dusky Parrot";[2]=""}
-_PETSTRINGS[520] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[521] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[522] = {[1]="Sapphire Drakeling";[2]=""}
-_PETSTRINGS[523] = {[1]="Silver Scorpion";[2]=""}
-_PETSTRINGS[524] = {[1]="Brown Oryx";[2]="";}
-_PETSTRINGS[525] = {[1]="Armoured Scorpion";[2]="";}
-_PETSTRINGS[526] = {[1]="Verdant Grodbog Queen";[2]="";}
-_PETSTRINGS[527] = {[1]="Young Brown Oryx";[2]=""}
-_PETSTRINGS[528] = {[1]="Terror of the Caverns";[2]=""}
-_PETSTRINGS[529] = {[1]="Cobalt Grodbog Protector";[2]=""}
-_PETSTRINGS[530] = {[1]="Obsidian Deep-claw Whelp";[2]=""}
-_PETSTRINGS[531] = {[1]="Pony of Umbar";[2]=""}
-_PETSTRINGS[532] = {[1]="Verdant Deep-claw Whelp";[2]=""}
-_PETSTRINGS[533] = {[1]="Affable Grodbog Queen";[2]=""}
-_PETSTRINGS[534] = {[1]="Poisonous Grodbog Protector";[2]="";}
-_PETSTRINGS[535] = {[1]="Helpful Deep-claw Whelp";[2]="";}
-_PETSTRINGS[536] = {[1]="Young Tawny Oryx";[2]="";}
-_PETSTRINGS[537] = {[1]="Aggressive Grodbog Queen";[2]=""}
-_PETSTRINGS[538] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[539] = {[1]="Crimson Deep-claw Whelp";[2]=""}
-_PETSTRINGS[540] = {[1]="Tame Hyena";[2]=""}
-_PETSTRINGS[541] = {[1]="Blood Scorpion";[2]=""}
-_PETSTRINGS[542] = {[1]="Pitch-dark Scorpion";[2]=""}
-_PETSTRINGS[543] = {[1]="Pale Deep-claw Whelp";[2]=""}
-_PETSTRINGS[544] = {[1]="Dusky Grodbog Queen";[2]="";}
-_PETSTRINGS[545] = {[1]="Pale Scorpion";[2]="";}
-_PETSTRINGS[546] = {[1]="Bright Grodbog Protector";[2]="";}
-_PETSTRINGS[547] = {[1]="Striped Grodbog Protector";[2]=""}
-_PETSTRINGS[548] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[549] = {[1]="Marine Scorpion";[2]=""}
-_PETSTRINGS[550] = {[1]="Copper Scorpion";[2]=""}
-_PETSTRINGS[551] = {[1]="Tawny Oryx";[2]=""}
-_PETSTRINGS[552] = {[1]="Striped Deep-claw Whelp";[2]=""}
+_PETSTRINGS[513] = {[1]="Fiery Desert Snake";[2]=""}
+_PETSTRINGS[514] = {[1]="Chestnut Sand Worm";[2]="";}
+_PETSTRINGS[515] = {[1]="Spotted Hamster";[2]="";}
+_PETSTRINGS[516] = {[1]="Taupe Hamster";[2]="";}
+_PETSTRINGS[517] = {[1]="Dusky Parrot";[2]=""}
+_PETSTRINGS[518] = {[1]="Dashing Dusky Parrot";[2]=""}
+_PETSTRINGS[519] = {[1]="Sunstone Drakeling";[2]=""}
+_PETSTRINGS[520] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[521] = {[1]="Sapphire Drakeling";[2]=""}
+_PETSTRINGS[522] = {[1]="Silver Scorpion";[2]=""}
+_PETSTRINGS[523] = {[1]="Brown Oryx";[2]=""}
+_PETSTRINGS[524] = {[1]="Armoured Scorpion";[2]="";}
+_PETSTRINGS[525] = {[1]="Verdant Grodbog Queen";[2]="";}
+_PETSTRINGS[526] = {[1]="Young Brown Oryx";[2]="";}
+_PETSTRINGS[527] = {[1]="Terror of the Caverns";[2]=""}
+_PETSTRINGS[528] = {[1]="Cobalt Grodbog Protector";[2]=""}
+_PETSTRINGS[529] = {[1]="Tame Hyena";[2]=""}
+_PETSTRINGS[530] = {[1]="Pony of Umbar";[2]=""}
+_PETSTRINGS[531] = {[1]="Verdant Deep-claw Whelp";[2]=""}
+_PETSTRINGS[532] = {[1]="Affable Grodbog Queen";[2]=""}
+_PETSTRINGS[533] = {[1]="Poisonous Grodbog Protector";[2]=""}
+_PETSTRINGS[534] = {[1]="Helpful Deep-claw Whelp";[2]="";}
+_PETSTRINGS[535] = {[1]="Young Tawny Oryx";[2]="";}
+_PETSTRINGS[536] = {[1]="Aggressive Grodbog Queen";[2]="";}
+_PETSTRINGS[537] = {[1]="Lush Grodbog Protector";[2]=""}
+_PETSTRINGS[538] = {[1]="Crimson Deep-claw Whelp";[2]=""}
+_PETSTRINGS[540] = {[1]="Blood Scorpion";[2]=""}
+_PETSTRINGS[541] = {[1]="Pitch-dark Scorpion";[2]=""}
+_PETSTRINGS[542] = {[1]="Pale Deep-claw Whelp";[2]=""}
+_PETSTRINGS[543] = {[1]="Dusky Grodbog Queen";[2]=""}
+_PETSTRINGS[544] = {[1]="Pale Scorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Bright Grodbog Protector";[2]="";}
+_PETSTRINGS[546] = {[1]="Striped Grodbog Protector";[2]="";}
+_PETSTRINGS[547] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[548] = {[1]="Marine Scorpion";[2]=""}
+_PETSTRINGS[549] = {[1]="Copper Scorpion";[2]=""}
+_PETSTRINGS[550] = {[1]="Tawny Oryx";[2]=""}
+_PETSTRINGS[551] = {[1]="Striped Deep-claw Whelp";[2]=""}
