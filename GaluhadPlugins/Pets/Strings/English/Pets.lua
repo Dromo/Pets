@@ -442,8 +442,8 @@ _PETSTRINGS[361] = {[1]="Silver Donkey";[2]="Available for barter from the Ledge
 _PETSTRINGS[362] = {[1]="Lion Cub";[2]="Available for barter from The Order of the Eagle Allegiance Rewards Quartermaster in Umbar."}
 _PETSTRINGS[363] = {[1]="Crocodile Hatchling";[2]="Available for barter from The City of Umbar Rewards Quartermaster in Umbar."}
 _PETSTRINGS[364] = {[1]="Ferocious Battle-kitten";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
-_PETSTRINGS[365] = {[1]="Harmonious Falcon";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
-_PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[365] = {[1]="Harmonious Falcon";[2]="Limited time availability for Figments of Splendour."}
+_PETSTRINGS[366] = {[1]="Sea-side Sand-lurker";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[367] = {[1]="Frost-tusk Youngling";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
 _PETSTRINGS[368] = {[1]="Young Moose";[2]="Limited time availability: Legendary Item Reward Track Season 8."}
 
@@ -465,7 +465,7 @@ _PETSTRINGS[382] = {[1]="Adorable Sand Worm";[2]="Available through barter by pa
 _PETSTRINGS[383] = {[1]="Perfect Curl Garden Snail";[2]="Available through barter during the Spring Festival."}
 _PETSTRINGS[384] = {[1]="Grabby Crab";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[385] = {[1]="Wily Macaque";[2]="Available in the Isle of Storms Instance."}
-_PETSTRINGS[386] = {[1]="Sitaka";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[387] = {[1]="Whimsical Woodland Critters";[2]="Acquired from the Whimsical Patron's Luxuriant Coffer."}
 _PETSTRINGS[388] = {[1]="Sienna Hamster";[2]="Available through barter during the Anniversary Festival."}
 _PETSTRINGS[389] = {[1]="Merrymaking Hamster";[2]="Available through barter during the Anniversary Festival."}
@@ -491,7 +491,7 @@ _PETSTRINGS[407] = {[1]="Umber Nether-hound";[2]="Available during the Veil of t
 _PETSTRINGS[408] = {[1]="Deep-claw Whelp";[2]="Limited time availability: Legendary Item Reward Track Season 11."}
 _PETSTRINGS[409] = {[1]="Parrot of Darkness";[2]="Limited time availability: Legendary Item Reward Track Season 11."}
 _PETSTRINGS[410] = {[1]="Sophisticated Magpie";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
-_PETSTRINGS[411] = {[1]="Sophisticated Chaffinch";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[411] = {[1]="Sophisticated Chaffinch";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[412] = {[1]="Rohan Aurochs";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
 _PETSTRINGS[413] = {[1]="Heather Hamster";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[414] = {[1]="Moonstone Drakeling";[2]="Available from the Dragon and the Storm Instance."}
@@ -511,7 +511,7 @@ _PETSTRINGS[426] = {[1]="Snowy Evening Pig";[2]="Available for barter in the Yul
 _PETSTRINGS[427] = {[1]="Parrot of Light";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
 _PETSTRINGS[428] = {[1]="Ametrine Drakeling";[2]="Available from Hobbit Presents as a special Gold Winter Gift."}
 _PETSTRINGS[429] = {[1]="Mushroom Hunter's Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
-_PETSTRINGS[430] = {[1]="Mushroom Hunter's Frog";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[430] = {[1]="Mushroom Hunter's Frog";[2]="Limited time availability for Figments of Splendour."}
 
 _PETSTRINGS[431] = {[1]="Ruby Sand Worm";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[432] = {[1]="White Hamster";[2]="Available through barter by participating in Delvings."}
@@ -524,8 +524,8 @@ _PETSTRINGS[437] = {[1]="Hedgehog and Hare Parade";[2]="Available through barter
 _PETSTRINGS[438] = {[1]="Terror of the Sands";[2]="Acquired from Luxuriant, Enhanced, and Simple Patron's Coffers of the Sands."}
 _PETSTRINGS[439] = {[1]="Black Cobra";[2]="Found in Dun Shûma, The King's Fortress."}
 _PETSTRINGS[440] = {[1]="Baker's Delight Cub";[2]="Available through barter during the Anniversary Festival."}
-_PETSTRINGS[441] = {[1]="Russet Corgi";[2]="";}
-_PETSTRINGS[442] = {[1]="Evergreen Sickle-fly";[2]=""}
+_PETSTRINGS[441] = {[1]="Russet Corgi";[2]="Available for barter from the Hamâti Quartermaster in Iridír.";}
+_PETSTRINGS[442] = {[1]="Evergreen Sickle-fly";[2]="Available for barter from the Hamâti Quartermaster in Iridír."}
 _PETSTRINGS[443] = {[1]="Pebbled Snake";[2]="Found in Dun Shûma, The King's Fortress."}
 _PETSTRINGS[444] = {[1]="Striped Jerboa";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
 _PETSTRINGS[445] = {[1]="Jade Speckled Snake";[2]="Limited time availability: Legendary Item Reward Track Season 14."}
@@ -537,6 +537,14 @@ _PETSTRINGS[450] = {[1]="Young Striped Oryx";[2]="Limited time availability: Leg
 _PETSTRINGS[451] = {[1]="Marsh Scorpion";[2]="Limited time availability: Legendary Item Reward Track Season 15."}
 _PETSTRINGS[452] = {[1]="Deep Emerald Snake";[2]="Available from the Cave-claw Den during the Farmers Faire Festival."}
 _PETSTRINGS[453] = {[1]="Dark Grey Goat";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[454] = {[1]="Jaunty Monkey";[2]="Acquired from Jaunty Patron's Simple, Enhanced, or Luxuriant Coffers."}
+_PETSTRINGS[455] = {[1]="Baby Camel";[2]="Available in the Kingdoms of Harad Ultimate Fan Bundle."}
+_PETSTRINGS[456] = {[1]="Vigilant Cobra";[2]="Available in the Kingdoms of Harad Collector's Edition or Ultimate Fan Bundle."}
+_PETSTRINGS[457] = {[1]="Sandpiper";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[458] = {[1]="Pumpkin Huorn";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[459] = {[1]="Leaping Fish Kite";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[460] = {[1]="Autumn Aurochs";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[461] = {[1]="Dashing Dusky Parrot";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
@@ -546,46 +554,45 @@ _PETSTRINGS[504] = {[1]="Tan Wolf-dog";[2]=""}
 _PETSTRINGS[505] = {[1]="Cream Corgi";[2]=""}
 _PETSTRINGS[506] = {[1]="Library Corgi";[2]=""}
 _PETSTRINGS[507] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[508] = {[1]="Autumn Aurochs";[2]=""}
-_PETSTRINGS[509] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[510] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[511] = {[1]="Turquoise Snake";[2]=""}
-_PETSTRINGS[512] = {[1]="Leafy Green Snake";[2]=""}
-_PETSTRINGS[513] = {[1]="Fiery Desert Snake";[2]=""}
-_PETSTRINGS[514] = {[1]="Chestnut Sand Worm";[2]="";}
-_PETSTRINGS[515] = {[1]="Spotted Hamster";[2]="";}
-_PETSTRINGS[516] = {[1]="Taupe Hamster";[2]="";}
-_PETSTRINGS[517] = {[1]="Dusky Parrot";[2]=""}
-_PETSTRINGS[518] = {[1]="Dashing Dusky Parrot";[2]=""}
-_PETSTRINGS[519] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[520] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[521] = {[1]="Sapphire Drakeling";[2]=""}
-_PETSTRINGS[522] = {[1]="Silver Scorpion";[2]=""}
-_PETSTRINGS[523] = {[1]="Brown Oryx";[2]=""}
-_PETSTRINGS[524] = {[1]="Armoured Scorpion";[2]="";}
-_PETSTRINGS[525] = {[1]="Verdant Grodbog Queen";[2]="";}
-_PETSTRINGS[526] = {[1]="Young Brown Oryx";[2]="";}
-_PETSTRINGS[527] = {[1]="Terror of the Caverns";[2]=""}
-_PETSTRINGS[528] = {[1]="Cobalt Grodbog Protector";[2]=""}
-_PETSTRINGS[529] = {[1]="Tame Hyena";[2]=""}
-_PETSTRINGS[530] = {[1]="Pony of Umbar";[2]=""}
-_PETSTRINGS[531] = {[1]="Verdant Deep-claw Whelp";[2]=""}
-_PETSTRINGS[532] = {[1]="Affable Grodbog Queen";[2]=""}
-_PETSTRINGS[533] = {[1]="Poisonous Grodbog Protector";[2]=""}
-_PETSTRINGS[534] = {[1]="Helpful Deep-claw Whelp";[2]="";}
-_PETSTRINGS[535] = {[1]="Young Tawny Oryx";[2]="";}
-_PETSTRINGS[536] = {[1]="Aggressive Grodbog Queen";[2]="";}
-_PETSTRINGS[537] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[538] = {[1]="Crimson Deep-claw Whelp";[2]=""}
-_PETSTRINGS[540] = {[1]="Blood Scorpion";[2]=""}
-_PETSTRINGS[541] = {[1]="Pitch-dark Scorpion";[2]=""}
-_PETSTRINGS[542] = {[1]="Pale Deep-claw Whelp";[2]=""}
-_PETSTRINGS[543] = {[1]="Dusky Grodbog Queen";[2]=""}
-_PETSTRINGS[544] = {[1]="Pale Scorpion";[2]="";}
-_PETSTRINGS[545] = {[1]="Bright Grodbog Protector";[2]="";}
-_PETSTRINGS[546] = {[1]="Striped Grodbog Protector";[2]="";}
-_PETSTRINGS[547] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[548] = {[1]="Marine Scorpion";[2]=""}
-_PETSTRINGS[549] = {[1]="Copper Scorpion";[2]=""}
-_PETSTRINGS[550] = {[1]="Tawny Oryx";[2]=""}
-_PETSTRINGS[551] = {[1]="Striped Deep-claw Whelp";[2]=""}
+_PETSTRINGS[508] = {[1]="Tawny Aurochs";[2]=""}
+_PETSTRINGS[509] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[510] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[511] = {[1]="Leafy Green Snake";[2]=""}
+_PETSTRINGS[512] = {[1]="Fiery Desert Snake";[2]=""}
+_PETSTRINGS[513] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[514] = {[1]="Spotted Hamster";[2]="";}
+_PETSTRINGS[515] = {[1]="Taupe Hamster";[2]="";}
+_PETSTRINGS[516] = {[1]="Dusky Parrot";[2]="";}
+_PETSTRINGS[517] = {[1]="Sunstone Drakeling";[2]=""}
+_PETSTRINGS[518] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[519] = {[1]="Silver Scorpion";[2]=""}
+_PETSTRINGS[520] = {[1]="Brown Oryx";[2]=""}
+_PETSTRINGS[521] = {[1]="Armoured Scorpion";[2]=""}
+_PETSTRINGS[522] = {[1]="Verdant Grodbog Queen";[2]=""}
+_PETSTRINGS[523] = {[1]="Young Brown Oryx";[2]=""}
+_PETSTRINGS[524] = {[1]="Terror of the Caverns";[2]="";}
+_PETSTRINGS[525] = {[1]="Cobalt Grodbog Protector";[2]="";}
+_PETSTRINGS[526] = {[1]="Obsidian Deep-claw Whelp";[2]="";}
+_PETSTRINGS[527] = {[1]="Pony of Umbar";[2]="";}
+_PETSTRINGS[528] = {[1]="Verdant Deep-claw Whelp";[2]=""}
+_PETSTRINGS[529] = {[1]="Affable Grodbog Queen";[2]=""}
+_PETSTRINGS[530] = {[1]="Poisonous Grodbog Protector";[2]=""}
+_PETSTRINGS[531] = {[1]="Young Tawny Oryx";[2]=""}
+_PETSTRINGS[532] = {[1]="Aggressive Grodbog Queen";[2]=""}
+_PETSTRINGS[533] = {[1]="Lush Grodbog Protector";[2]=""}
+_PETSTRINGS[534] = {[1]="Crimson Deep-claw Whelp";[2]="";}
+_PETSTRINGS[535] = {[1]="Tame Hyena";[2]="";}
+_PETSTRINGS[536] = {[1]="Blood Scorpion";[2]="";}
+_PETSTRINGS[537] = {[1]="Pitch-dark Scorpion";[2]=""}
+_PETSTRINGS[538] = {[1]="Pale Deep-claw Whelp";[2]=""}
+_PETSTRINGS[539] = {[1]="Dusky Grodbog Queen";[2]=""}
+_PETSTRINGS[540] = {[1]="Pale Scorpion";[2]=""}
+_PETSTRINGS[541] = {[1]="Bright Grodbog Protector";[2]=""}
+_PETSTRINGS[542] = {[1]="Striped Grodbog Protector";[2]=""}
+_PETSTRINGS[543] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[544] = {[1]="Marine Scorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Copper Scorpion";[2]="";}
+_PETSTRINGS[546] = {[1]="Tawny Oryx";[2]="";}
+_PETSTRINGS[547] = {[1]="Striped Deep-claw Whelp";[2]=""}
+_PETSTRINGS[548] = {[1]="Sapphire Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 16."}
+_PETSTRINGS[549] = {[1]="Helpful Deep-claw Whelp";[2]="Limited time availability: Legendary Item Reward Track Season 16."}

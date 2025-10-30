@@ -215,7 +215,7 @@ function DisplayResults(searchResults)
 			for k,v in pairs(_families[i]) do
 				table.insert(petNames,{["id"]=v;["name"]=_PETSTRINGS[v][1];});
 			end
-            
+
 			table.sort	(petNames,
 							function (v1, v2)
 								return v1.name < v2.name;

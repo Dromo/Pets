@@ -442,8 +442,8 @@ _PETSTRINGS[361] = {[1]="Âne argenté";[2]="Peut être échangé à Umbar aupr�
 _PETSTRINGS[362] = {[1]="Lionceau";[2]="Peut être échangé à Umbar auprès de l'intendant des récompenses d'allégeance à l'Ordre de l'Aigle."}
 _PETSTRINGS[363] = {[1]="Bébé crocodile";[2]="Peut être échangé auprès de l'intendant des récompenses de la cité d'Umbar."}
 _PETSTRINGS[364] = {[1]="Chaton de combat féroce";[2]="Disponible au troc auprès de l'intendant des récompenses du Gondor renaissant à Pelargir (Gondor royal)."}
-_PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
-_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[365] = {[1]="Faucon harmonieux";[2]="Disponibilité limitée pour les Mirages de splendeur."}
+_PETSTRINGS[366] = {[1]="Rôdesable maritime";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[367] = {[1]="Jeune défense-de-givre";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
 _PETSTRINGS[368] = {[1]="Jeune élan";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 8."}
 
@@ -465,7 +465,7 @@ _PETSTRINGS[382] = {[1]="Adorable ver des sables";[2]="Disponible par échange e
 _PETSTRINGS[383] = {[1]="Petit-gris de la courbe parfaite";[2]="Disponible par échange au cours du Festival du printemps."}
 _PETSTRINGS[384] = {[1]="Crabe";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[385] = {[1]="Macaque rusé";[2]="Disponible dans l'Instance Île des tempêtes."}
-_PETSTRINGS[386] = {[1]="Sitaka";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[387] = {[1]="Créatures fantaisistes de la forêt";[2]="Obtenu dans le Coffre luxuriant du client fantaisiste."}
 _PETSTRINGS[388] = {[1]="Hamster brun";[2]="Disponible par échange au cours du Festival d'anniversaire."}
 _PETSTRINGS[389] = {[1]="Hamster jovial";[2]="Disponible par échange au cours du Festival d'anniversaire."}
@@ -491,7 +491,7 @@ _PETSTRINGS[407] = {[1]="Chien couleur terre du tréfonds";[2]="Disponible penda
 _PETSTRINGS[408] = {[1]="Jeune griffefosse";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 11."}
 _PETSTRINGS[409] = {[1]="Perroquet des ténèbres";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 11."}
 _PETSTRINGS[410] = {[1]="Pie sophistiquée";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
-_PETSTRINGS[411] = {[1]="Pinson des arbres sophistiqué";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[411] = {[1]="Pinson des arbres sophistiqué";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 _PETSTRINGS[412] = {[1]="Auroch du Rohan";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan."}
 _PETSTRINGS[413] = {[1]="Hamster mauve";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
 _PETSTRINGS[414] = {[1]="Petit drake de pierre de lune";[2]="Disponible dans l’instance /qLe Dragon et le Tempêtueux/q"}
@@ -511,7 +511,7 @@ _PETSTRINGS[426] = {[1]="Cochon de soirée enneigée";[2]="Peut être échangé 
 _PETSTRINGS[427] = {[1]="Perroquet de lumière";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
 _PETSTRINGS[428] = {[1]="Petit drake d'amétrine";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en or."}
 _PETSTRINGS[429] = {[1]="Corgi du chasseur de champignons";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
-_PETSTRINGS[430] = {[1]="Grenouille du chasseur de champignons";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[430] = {[1]="Grenouille du chasseur de champignons";[2]="Disponibilité limitée pour les Mirages de splendeur."}
 
 _PETSTRINGS[431] = {[1]="Ver des sables vermeil";[2]="Disponible par échange en participant à des excavations."}
 _PETSTRINGS[432] = {[1]="Hamster blanc";[2]="Disponible par échange en participant à des excavations."}
@@ -523,8 +523,8 @@ _PETSTRINGS[436] = {[1]="Petit drake d'émeraude";[2]="Offre à durée limitée�
 _PETSTRINGS[438] = {[1]="Terreur des étendues sableuses";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client des étendues sableuses."}
 _PETSTRINGS[439] = {[1]="Cobra noir";[2]="Se trouve à Dun Shûma, la forteresse du roi."}
 _PETSTRINGS[440] = {[1]="Ourson du régal du boulanger";[2]="Disponible par échange au cours du Festival d'anniversaire."}
-_PETSTRINGS[441] = {[1]="Corgi brun-roux";[2]="";}
-_PETSTRINGS[442] = {[1]="Mouche faucheuse tenace";[2]=""}
+_PETSTRINGS[441] = {[1]="Corgi brun-roux";[2]="Peut être échangé auprès de l'intendant hamâti d'Iridir.";}
+_PETSTRINGS[442] = {[1]="Mouche faucheuse tenace";[2]="Peut être échangé auprès de l'intendant hamâti d'Iridir."}
 _PETSTRINGS[443] = {[1]="Serpent tacheté";[2]="Se trouve à Dun Shûma, la forteresse du roi."}
 _PETSTRINGS[444] = {[1]="Gerboise à rayures";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
 _PETSTRINGS[445] = {[1]="Serpent moucheté de jade";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 14."}
@@ -536,6 +536,14 @@ _PETSTRINGS[450] = {[1]="Jeune oryx rayé";[2]="Offre à durée limitée : suiv
 _PETSTRINGS[451] = {[1]="Scorpion des marais";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 15."}
 _PETSTRINGS[452] = {[1]="Serpent vert émeraude";[2]="Disponible dans le terrier de grifferoche au cours du Festival de la Foire des fermiers."}
 _PETSTRINGS[453] = {[1]="Chèvre gris foncé";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[454] = {[1]="Singe enjoué";[2]="S'obtient dans les coffres simples, améliorés et luxuriants du client enjoué."}
+_PETSTRINGS[455] = {[1]="Bébé chameau";[2]="Disponible dans le Pack Fan ultime des Royaumes du Harad."}
+_PETSTRINGS[456] = {[1]="Cobra vigilant";[2]="Disponible dans l'Édition Collector ou le Pack Fan ultime des Royaumes du Harad."}
+_PETSTRINGS[457] = {[1]="Bécassine";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
+_PETSTRINGS[458] = {[1]="Huorn-citrouille";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[459] = {[1]="Cerf-volant poisson sauteur";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
+_PETSTRINGS[460] = {[1]="Aurochs automnal";[2]="Disponible par échange au cours du Festival d'automne."}
+_PETSTRINGS[461] = {[1]="Perroquet mat fringant";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
@@ -545,46 +553,45 @@ _PETSTRINGS[504] = {[1]="Chien-loup en brun claire";[2]=""}
 _PETSTRINGS[505] = {[1]="Corgi crème";[2]=""}
 _PETSTRINGS[506] = {[1]="Corgi de bibliothèque";[2]=""}
 _PETSTRINGS[507] = {[1]="Vent d'hiver";[2]=""}
-_PETSTRINGS[508] = {[1]="Aurochs automnal";[2]=""}
-_PETSTRINGS[509] = {[1]="Aurochs fauve";[2]=""}
-_PETSTRINGS[510] = {[1]="Gerboise brune";[2]=""}
-_PETSTRINGS[511] = {[1]="Serpent turquoise";[2]=""}
-_PETSTRINGS[512] = {[1]="Serpent vert forêt";[2]=""}
-_PETSTRINGS[513] = {[1]="Serpent ardent du désert";[2]=""}
-_PETSTRINGS[514] = {[1]="Ver des sables châtain";[2]="";}
-_PETSTRINGS[515] = {[1]="Hamster moucheté";[2]="";}
-_PETSTRINGS[516] = {[1]="Hamster taupe";[2]="";}
-_PETSTRINGS[517] = {[1]="Perroquet mat";[2]=""}
-_PETSTRINGS[518] = {[1]="Perroquet mat fringant";[2]=""}
-_PETSTRINGS[519] = {[1]="Petit drake de pierre de soleil";[2]=""}
-_PETSTRINGS[520] = {[1]="Petit drake d'améthyste";[2]=""}
-_PETSTRINGS[521] = {[1]="Petit drake de saphir";[2]=""}
-_PETSTRINGS[522] = {[1]="Scorpion argenté";[2]=""}
-_PETSTRINGS[523] = {[1]="Oryx brun";[2]=""}
-_PETSTRINGS[524] = {[1]="Scorpion en armure";[2]="";}
-_PETSTRINGS[525] = {[1]="Reine des grodbogs verdoyante";[2]="";}
-_PETSTRINGS[526] = {[1]="Jeune oryx brun";[2]="";}
-_PETSTRINGS[527] = {[1]="Terreur des cavernes";[2]=""}
-_PETSTRINGS[528] = {[1]="Protecteur grodbog cobalt";[2]=""}
-_PETSTRINGS[529] = {[1]="Hyène docile";[2]=""}
-_PETSTRINGS[530] = {[1]="Poney d'Umbar";[2]=""}
-_PETSTRINGS[531] = {[1]="Jeune griffefosse verdoyant";[2]=""}
-_PETSTRINGS[532] = {[1]="Reine des grodbogs affable";[2]=""}
-_PETSTRINGS[533] = {[1]="Protecteur grodbog venimeux";[2]=""}
-_PETSTRINGS[534] = {[1]="Jeune griffefosse serviable";[2]="";}
-_PETSTRINGS[535] = {[1]="Jeune oryx fauve";[2]="";}
-_PETSTRINGS[536] = {[1]="Reine des grodbogs agressive";[2]="";}
-_PETSTRINGS[537] = {[1]="Protecteur grodbog luxuriant";[2]=""}
-_PETSTRINGS[538] = {[1]="Jeune griffefosse écarlate";[2]=""}
-_PETSTRINGS[540] = {[1]="Scorpion sanglant";[2]=""}
-_PETSTRINGS[541] = {[1]="Scorpion noir comme la nuit";[2]=""}
-_PETSTRINGS[542] = {[1]="Jeune griffefosse pâle";[2]=""}
-_PETSTRINGS[543] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
-_PETSTRINGS[544] = {[1]="Scorpion pâle";[2]="";}
-_PETSTRINGS[545] = {[1]="Protecteur grodbog lumineux";[2]="";}
-_PETSTRINGS[546] = {[1]="Protecteur grodbog rayé";[2]="";}
-_PETSTRINGS[547] = {[1]="Reine des grodbogs sombre";[2]=""}
-_PETSTRINGS[548] = {[1]="Scorpion marin";[2]=""}
-_PETSTRINGS[549] = {[1]="Scorpion cuivré";[2]=""}
-_PETSTRINGS[550] = {[1]="Oryx fauve";[2]=""}
-_PETSTRINGS[551] = {[1]="Jeune griffefosse rayé";[2]=""}
+_PETSTRINGS[508] = {[1]="Aurochs fauve";[2]=""}
+_PETSTRINGS[509] = {[1]="Gerboise brune";[2]=""}
+_PETSTRINGS[510] = {[1]="Serpent turquoise";[2]=""}
+_PETSTRINGS[511] = {[1]="Serpent vert forêt";[2]=""}
+_PETSTRINGS[512] = {[1]="Serpent ardent du désert";[2]=""}
+_PETSTRINGS[513] = {[1]="Ver des sables châtain";[2]=""}
+_PETSTRINGS[514] = {[1]="Hamster moucheté";[2]="";}
+_PETSTRINGS[515] = {[1]="Hamster taupe";[2]="";}
+_PETSTRINGS[516] = {[1]="Perroquet mat";[2]="";}
+_PETSTRINGS[517] = {[1]="Petit drake de pierre de soleil";[2]=""}
+_PETSTRINGS[518] = {[1]="Petit drake d'améthyste";[2]=""}
+_PETSTRINGS[519] = {[1]="Scorpion argenté";[2]=""}
+_PETSTRINGS[520] = {[1]="Oryx brun";[2]=""}
+_PETSTRINGS[521] = {[1]="Scorpion en armure";[2]=""}
+_PETSTRINGS[522] = {[1]="Reine des grodbogs verdoyante";[2]=""}
+_PETSTRINGS[523] = {[1]="Jeune oryx brun";[2]=""}
+_PETSTRINGS[524] = {[1]="Terreur des cavernes";[2]="";}
+_PETSTRINGS[525] = {[1]="Protecteur grodbog cobalt";[2]="";}
+_PETSTRINGS[526] = {[1]="Jeune griffefosse obsidienne";[2]="";}
+_PETSTRINGS[527] = {[1]="Poney d'Umbar";[2]="";}
+_PETSTRINGS[528] = {[1]="Jeune griffefosse verdoyant";[2]=""}
+_PETSTRINGS[529] = {[1]="Reine des grodbogs affable";[2]=""}
+_PETSTRINGS[530] = {[1]="Protecteur grodbog venimeux";[2]=""}
+_PETSTRINGS[531] = {[1]="Jeune oryx fauve";[2]=""}
+_PETSTRINGS[532] = {[1]="Reine des grodbogs agressive";[2]=""}
+_PETSTRINGS[533] = {[1]="Protecteur grodbog luxuriant";[2]=""}
+_PETSTRINGS[534] = {[1]="Jeune griffefosse écarlate";[2]="";}
+_PETSTRINGS[535] = {[1]="Hyène docile";[2]="";}
+_PETSTRINGS[536] = {[1]="Scorpion sanglant";[2]="";}
+_PETSTRINGS[537] = {[1]="Scorpion noir comme la nuit";[2]=""}
+_PETSTRINGS[538] = {[1]="Jeune griffefosse pâle";[2]=""}
+_PETSTRINGS[539] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
+_PETSTRINGS[540] = {[1]="Scorpion pâle";[2]=""}
+_PETSTRINGS[541] = {[1]="Protecteur grodbog lumineux";[2]=""}
+_PETSTRINGS[542] = {[1]="Protecteur grodbog rayé";[2]=""}
+_PETSTRINGS[543] = {[1]="Reine des grodbogs sombre";[2]=""}
+_PETSTRINGS[544] = {[1]="Scorpion marin";[2]="";}
+_PETSTRINGS[545] = {[1]="Scorpion cuivré";[2]="";}
+_PETSTRINGS[546] = {[1]="Oryx fauve";[2]="";}
+_PETSTRINGS[547] = {[1]="Jeune griffefosse rayé";[2]=""}
+_PETSTRINGS[548] = {[1]="Petit drake de saphir";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}
+_PETSTRINGS[549] = {[1]="Jeune griffefosse serviable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}

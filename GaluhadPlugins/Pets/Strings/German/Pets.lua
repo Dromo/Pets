@@ -438,8 +438,8 @@ _PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]="Zum Tausch verfügbar beim Bün
 _PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
 _PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
 _PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
-_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
-_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[367] = {[1]="Frosthauer-Junges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
 _PETSTRINGS[368] = {[1]="Junger Elch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
 
@@ -461,7 +461,7 @@ _PETSTRINGS[382] = {[1]="Bezaubernder Sandwurm";[2]="Durch Tauschhandel bei Teil
 _PETSTRINGS[383] = {[1]="Perfekt gekringelte Gartenschnecke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
 _PETSTRINGS[384] = {[1]="Gierige Krabbe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[385] = {[1]="Listiger Makake";[2]="Verfügbar in der Instanz \"Die Insel der Stürme\""}
-_PETSTRINGS[386] = {[1]="Sitaka";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[387] = {[1]="Wunderliche Waldtiere";[2]="Aus einer luxuriösen Truhe des wunderlichen Gasts erhalten."}
 _PETSTRINGS[388] = {[1]="Sienafarbener Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
 _PETSTRINGS[389] = {[1]="Fröhlicher Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
@@ -487,7 +487,7 @@ _PETSTRINGS[407] = {[1]="Umbrafarbener Niederhund";[2]="Während des Ereignisses
 _PETSTRINGS[408] = {[1]="Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
 _PETSTRINGS[409] = {[1]="Papagei der Dunkelheit";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
 _PETSTRINGS[410] = {[1]="Edle Elster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
-_PETSTRINGS[411] = {[1]="Edler Buchfink";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[411] = {[1]="Edler Buchfink";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[412] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
 _PETSTRINGS[413] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
 _PETSTRINGS[414] = {[1]="Mondsteinfarbenes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
@@ -507,7 +507,7 @@ _PETSTRINGS[426] = {[1]="Winterabend-Schwein";[2]="Während des Julfests bei Tau
 _PETSTRINGS[427] = {[1]="Papagei des Lichts";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
 _PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
 _PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
-_PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 
 _PETSTRINGS[431] = {[1]="Rubinroter Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[432] = {[1]="Weißer Hamster";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
@@ -520,8 +520,8 @@ _PETSTRINGS[437] = {[1]="Parade von Igel und Hase";[2]="Durch Tauschhandel währ
 _PETSTRINGS[438] = {[1]="Schrecken der Sande";[2]="Aus der luxuriösen, verbesserten und einfachen Truhe des Gasts der Sande erhalten."}
 _PETSTRINGS[439] = {[1]="Schwarze Kobra";[2]="In Dun Shûma gefunden, der Festung des Königs."}
 _PETSTRINGS[440] = {[1]="Bärenjunges des Bäckervergnügens";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
-_PETSTRINGS[441] = {[1]="Rostbrauner Corgi";[2]="";}
-_PETSTRINGS[442] = {[1]="Immergrüne Sichelfliege";[2]=""}
+_PETSTRINGS[441] = {[1]="Rostbrauner Corgi";[2]="Zum Tausch verfügbar beim Quartiermeister der Hamâti in Iridír.";}
+_PETSTRINGS[442] = {[1]="Immergrüne Sichelfliege";[2]="Zum Tausch verfügbar beim Quartiermeister der Hamâti in Iridír."}
 _PETSTRINGS[443] = {[1]="Gefleckte Schlange";[2]="In Dun Shûma gefunden, der Festung des Königs."}
 _PETSTRINGS[444] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
 _PETSTRINGS[445] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
@@ -533,6 +533,14 @@ _PETSTRINGS[450] = {[1]="Junger gestreifter Oryx";[2]="Nur für kurze Zeit verf�
 _PETSTRINGS[451] = {[1]="Sumpfskorpion";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
 _PETSTRINGS[452] = {[1]="Smaragdgrüne Schlange";[2]="Während des Bauernfestes im Höhlenklauenbau erhältlich."}
 _PETSTRINGS[453] = {[1]="Dunkelgraue Ziege";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[454] = {[1]="Fröhlicher Affe";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des fröhlichen Gasts."}
+_PETSTRINGS[455] = {[1]="Kameljunges";[2]="Erhältlich im Ultimativen Fanpaket von 'Die Königreiche von Harad'."}
+_PETSTRINGS[456] = {[1]="Aufmerksame Kobra";[2]="Erhältlich in der Sammleredition oder dem Ultimativen Fanpaket von 'Die Königreiche von Harad'."}
+_PETSTRINGS[457] = {[1]="Wasserläufer";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[458] = {[1]="Kürbis-Huorn";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[459] = {[1]="Springender-Fisch-Drachen";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[460] = {[1]="Herbstroter Auerochse";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[461] = {[1]="Eleganter dunkler Papagei";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
 
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -542,46 +550,45 @@ _PETSTRINGS[504] = {[1]="Hellbrauner Wolfshund";[2]=""}
 _PETSTRINGS[505] = {[1]="Cremefarbener Corgi";[2]=""}
 _PETSTRINGS[506] = {[1]="Bibliothekscorgi";[2]=""}
 _PETSTRINGS[507] = {[1]="Winterwind";[2]=""}
-_PETSTRINGS[508] = {[1]="Herbstroter Auerochse";[2]=""}
-_PETSTRINGS[509] = {[1]="Lohfarbener Auerochse";[2]=""}
-_PETSTRINGS[510] = {[1]="Braune Springmaus";[2]=""}
-_PETSTRINGS[511] = {[1]="Türkise Schlange";[2]=""}
-_PETSTRINGS[512] = {[1]="Blattgrüne Schlange";[2]=""}
-_PETSTRINGS[513] = {[1]="Feurige Wüstenschlange";[2]=""}
-_PETSTRINGS[514] = {[1]="Kastanienfarbener Sandwurm";[2]="";}
-_PETSTRINGS[515] = {[1]="Gefleckter Hamster";[2]="";}
-_PETSTRINGS[516] = {[1]="Graubrauner Hamster";[2]="";}
-_PETSTRINGS[517] = {[1]="Dunkler Papagei";[2]=""}
-_PETSTRINGS[518] = {[1]="Eleganter dunkler Papagei";[2]=""}
-_PETSTRINGS[519] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[520] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[521] = {[1]="Saphirblaues Drachenjunges";[2]=""}
-_PETSTRINGS[522] = {[1]="Silberfarbener Skorpion";[2]=""}
-_PETSTRINGS[523] = {[1]="Brauner Oryx";[2]=""}
-_PETSTRINGS[524] = {[1]="Gepanzerter Skorpion";[2]="";}
-_PETSTRINGS[525] = {[1]="Grüne Grodbog-Königin";[2]="";}
-_PETSTRINGS[526] = {[1]="Junger brauner Oryx";[2]="";}
-_PETSTRINGS[527] = {[1]="Höhlenschrecken";[2]=""}
-_PETSTRINGS[528] = {[1]="Kobaltfarbene Grodbog-Königin";[2]=""}
-_PETSTRINGS[529] = {[1]="Zahme Hyäne";[2]=""}
-_PETSTRINGS[530] = {[1]="Umbar-Pony";[2]=""}
-_PETSTRINGS[531] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[532] = {[1]="Freundliche Grodbog-Königin";[2]=""}
-_PETSTRINGS[533] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[534] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[535] = {[1]="Junger lohfarbener Oryx";[2]="";}
-_PETSTRINGS[536] = {[1]="Aggressive Grodbog-Königin";[2]="";}
-_PETSTRINGS[537] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[538] = {[1]="Blutroter Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[540] = {[1]="Blutskorpion";[2]=""}
-_PETSTRINGS[541] = {[1]="Pechschwarzer Skorpion";[2]=""}
-_PETSTRINGS[542] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[543] = {[1]="Dunkle Grodbog-Königin";[2]=""}
-_PETSTRINGS[544] = {[1]="Bleicher Skorpion";[2]="";}
-_PETSTRINGS[545] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[546] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[547] = {[1]="Schwarze Grodbog-Königin";[2]=""}
-_PETSTRINGS[548] = {[1]="Meeresskorpion";[2]=""}
-_PETSTRINGS[549] = {[1]="Kupferfarbener Skorpion";[2]=""}
-_PETSTRINGS[550] = {[1]="Lohfarbener Oryx";[2]=""}
-_PETSTRINGS[551] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[508] = {[1]="Lohfarbener Auerochse";[2]=""}
+_PETSTRINGS[509] = {[1]="Braune Springmaus";[2]=""}
+_PETSTRINGS[510] = {[1]="Türkise Schlange";[2]=""}
+_PETSTRINGS[511] = {[1]="Blattgrüne Schlange";[2]=""}
+_PETSTRINGS[512] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[513] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[514] = {[1]="Gefleckter Hamster";[2]="";}
+_PETSTRINGS[515] = {[1]="Graubrauner Hamster";[2]="";}
+_PETSTRINGS[516] = {[1]="Dunkler Papagei";[2]="";}
+_PETSTRINGS[517] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[518] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[519] = {[1]="Silberfarbener Skorpion";[2]=""}
+_PETSTRINGS[520] = {[1]="Brauner Oryx";[2]=""}
+_PETSTRINGS[521] = {[1]="Gepanzerter Skorpion";[2]=""}
+_PETSTRINGS[522] = {[1]="Grüne Grodbog-Königin";[2]=""}
+_PETSTRINGS[523] = {[1]="Junger brauner Oryx";[2]=""}
+_PETSTRINGS[524] = {[1]="Höhlenschrecken";[2]="";}
+_PETSTRINGS[525] = {[1]="Kobaltfarbene Grodbog-Königin";[2]="";}
+_PETSTRINGS[526] = {[1]="Obsidian-Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[527] = {[1]="Umbar-Pony";[2]="";}
+_PETSTRINGS[528] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[529] = {[1]="Freundliche Grodbog-Königin";[2]=""}
+_PETSTRINGS[530] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[531] = {[1]="Junger lohfarbener Oryx";[2]=""}
+_PETSTRINGS[532] = {[1]="Aggressive Grodbog-Königin";[2]=""}
+_PETSTRINGS[533] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[534] = {[1]="Blutroter Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[535] = {[1]="Zahme Hyäne";[2]="";}
+_PETSTRINGS[536] = {[1]="Blutskorpion";[2]="";}
+_PETSTRINGS[537] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[538] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[539] = {[1]="Dunkle Grodbog-Königin";[2]=""}
+_PETSTRINGS[540] = {[1]="Bleicher Skorpion";[2]=""}
+_PETSTRINGS[541] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[542] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[543] = {[1]="Schwarze Grodbog-Königin";[2]=""}
+_PETSTRINGS[544] = {[1]="Meeresskorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Kupferfarbener Skorpion";[2]="";}
+_PETSTRINGS[546] = {[1]="Lohfarbener Oryx";[2]="";}
+_PETSTRINGS[547] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[548] = {[1]="Saphirblaues Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+_PETSTRINGS[549] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
