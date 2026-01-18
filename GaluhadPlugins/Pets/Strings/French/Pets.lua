@@ -545,6 +545,15 @@ _PETSTRINGS[459] = {[1]="Cerf-volant poisson sauteur";[2]="Disponibilité limit�
 _PETSTRINGS[460] = {[1]="Aurochs automnal";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[461] = {[1]="Perroquet mat fringant";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 
+_PETSTRINGS[462] = {[1]="Chameau de la caravane marchande";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client de la caravane dorée."}
+_PETSTRINGS[463] = {[1]="Chien de berger de la Mûr";[2]="Disponible après avoir terminé la quête 'Chef du troupeau'."}
+_PETSTRINGS[464] = {[1]="Chien de berger ivoire de la Mûr";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en or."}
+_PETSTRINGS[465] = {[1]="Cheval de ferme couvert de neige";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
+_PETSTRINGS[466] = {[1]="Tortue festive";[2]="Disponible par échange au cours du festival de Yule."}
+_PETSTRINGS[467] = {[1]="Jeune griffefosse écarlate";[2]="Disponible dans les cadeaux de Hobbits comme cadeau spécial d'hiver en argent."}
+_PETSTRINGS[468] = {[1]="Petit drake de saphir";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}
+_PETSTRINGS[469] = {[1]="Jeune griffefosse serviable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}
+
 _PETSTRINGS[500] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[501] = {[1]="Chauve-souris brunie";[2]=""}
 _PETSTRINGS[502] = {[1]="Cerf-volant des ailes noires";[2]=""}
@@ -579,19 +588,19 @@ _PETSTRINGS[530] = {[1]="Protecteur grodbog venimeux";[2]=""}
 _PETSTRINGS[531] = {[1]="Jeune oryx fauve";[2]=""}
 _PETSTRINGS[532] = {[1]="Reine des grodbogs agressive";[2]=""}
 _PETSTRINGS[533] = {[1]="Protecteur grodbog luxuriant";[2]=""}
-_PETSTRINGS[534] = {[1]="Jeune griffefosse écarlate";[2]="";}
-_PETSTRINGS[535] = {[1]="Hyène docile";[2]="";}
-_PETSTRINGS[536] = {[1]="Scorpion sanglant";[2]="";}
-_PETSTRINGS[537] = {[1]="Scorpion noir comme la nuit";[2]=""}
-_PETSTRINGS[538] = {[1]="Jeune griffefosse pâle";[2]=""}
-_PETSTRINGS[539] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
-_PETSTRINGS[540] = {[1]="Scorpion pâle";[2]=""}
-_PETSTRINGS[541] = {[1]="Protecteur grodbog lumineux";[2]=""}
-_PETSTRINGS[542] = {[1]="Protecteur grodbog rayé";[2]=""}
-_PETSTRINGS[543] = {[1]="Reine des grodbogs sombre";[2]=""}
-_PETSTRINGS[544] = {[1]="Scorpion marin";[2]="";}
-_PETSTRINGS[545] = {[1]="Scorpion cuivré";[2]="";}
-_PETSTRINGS[546] = {[1]="Oryx fauve";[2]="";}
-_PETSTRINGS[547] = {[1]="Jeune griffefosse rayé";[2]=""}
-_PETSTRINGS[548] = {[1]="Petit drake de saphir";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}
-_PETSTRINGS[549] = {[1]="Jeune griffefosse serviable";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 16."}
+_PETSTRINGS[534] = {[1]="Hyène docile";[2]="";}
+_PETSTRINGS[535] = {[1]="Scorpion sanglant";[2]="";}
+_PETSTRINGS[536] = {[1]="Scorpion noir comme la nuit";[2]="";}
+_PETSTRINGS[537] = {[1]="Jeune griffefosse pâle";[2]=""}
+_PETSTRINGS[538] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
+_PETSTRINGS[539] = {[1]="Scorpion pâle";[2]=""}
+_PETSTRINGS[540] = {[1]="Protecteur grodbog lumineux";[2]=""}
+_PETSTRINGS[541] = {[1]="Protecteur grodbog rayé";[2]=""}
+_PETSTRINGS[542] = {[1]="Reine des grodbogs sombre";[2]=""}
+_PETSTRINGS[543] = {[1]="Scorpion marin";[2]=""}
+_PETSTRINGS[544] = {[1]="Scorpion cuivré";[2]="";}
+_PETSTRINGS[545] = {[1]="Oryx fauve";[2]="";}
+_PETSTRINGS[546] = {[1]="Jeune griffefosse rayé";[2]="";}
+_PETSTRINGS[547] = {[1]="Chien de berger auburn de la Mûr";[2]=""}
+_PETSTRINGS[548] = {[1]="Chien de berger caramel de la Mûr";[2]=""}
+_PETSTRINGS[549] = {[1]="Chien de berger roux de la Mûr";[2]=""}

@@ -121,7 +121,7 @@ _PETSTRINGS[92] = {[1]="Frosty Kite";[2]="Available in the LOTRO Store.";};
 _PETSTRINGS[93] = {[1]="Winter Dove Kite";[2]="Available in the LOTRO Store.";};
 
 -- u20
-_PETSTRINGS[94] = {[1]="Faroth";[2]="Available by completing the quest 'A New Friend'";};
+_PETSTRINGS[94] = {[1]="Faroth";[2]="Available by completing the quest 'A New Friend'.";};
 _PETSTRINGS[95] = {[1]="Helpful Hound";[2]="Available through barter in The Wastes.";};
 _PETSTRINGS[96] = {[1]="Well-supplied Hound";[2]="Available through barter in The Wastes.";};
 _PETSTRINGS[97] = {[1]="Moth Kite";[2]="Available through barter during the Spring Festival.";};
@@ -546,6 +546,15 @@ _PETSTRINGS[459] = {[1]="Leaping Fish Kite";[2]="Limited time availability for F
 _PETSTRINGS[460] = {[1]="Autumn Aurochs";[2]="Available through barter during the Fall Festival."}
 _PETSTRINGS[461] = {[1]="Dashing Dusky Parrot";[2]="Limited time availability for Figments of Splendour and in Traveller's and Adventurer's Lootboxes."}
 
+_PETSTRINGS[462] = {[1]="Caravan Trade Goods Camel";[2]="Available in the Patron's Simple, Enhanced, or Luxuriant Coffers of the Gilded Caravan."}
+_PETSTRINGS[463] = {[1]="Mûrai Herding Dog";[2]="Available by completing the quest 'Head of the Herd'."}
+_PETSTRINGS[464] = {[1]="Ivory Mûrai Herding Dog";[2]="Available from Hobbit Presents as a special Gold Winter Gift."}
+_PETSTRINGS[465] = {[1]="Snow-dusted Farm-yard Horse";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
+_PETSTRINGS[466] = {[1]="Jingle Turtle";[2]="Available for barter during the Yule Festival."}
+_PETSTRINGS[467] = {[1]="Crimson Deep-claw Whelp";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
+_PETSTRINGS[468] = {[1]="Sapphire Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 16."}
+_PETSTRINGS[469] = {[1]="Helpful Deep-claw Whelp";[2]="Limited time availability: Legendary Item Reward Track Season 16."}
+
 _PETSTRINGS[500] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[501] = {[1]="Tan Bat";[2]=""}
 _PETSTRINGS[502] = {[1]="Black-wing Kite";[2]=""}
@@ -580,19 +589,19 @@ _PETSTRINGS[530] = {[1]="Poisonous Grodbog Protector";[2]=""}
 _PETSTRINGS[531] = {[1]="Young Tawny Oryx";[2]=""}
 _PETSTRINGS[532] = {[1]="Aggressive Grodbog Queen";[2]=""}
 _PETSTRINGS[533] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[534] = {[1]="Crimson Deep-claw Whelp";[2]="";}
-_PETSTRINGS[535] = {[1]="Tame Hyena";[2]="";}
-_PETSTRINGS[536] = {[1]="Blood Scorpion";[2]="";}
-_PETSTRINGS[537] = {[1]="Pitch-dark Scorpion";[2]=""}
-_PETSTRINGS[538] = {[1]="Pale Deep-claw Whelp";[2]=""}
-_PETSTRINGS[539] = {[1]="Dusky Grodbog Queen";[2]=""}
-_PETSTRINGS[540] = {[1]="Pale Scorpion";[2]=""}
-_PETSTRINGS[541] = {[1]="Bright Grodbog Protector";[2]=""}
-_PETSTRINGS[542] = {[1]="Striped Grodbog Protector";[2]=""}
-_PETSTRINGS[543] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[544] = {[1]="Marine Scorpion";[2]="";}
-_PETSTRINGS[545] = {[1]="Copper Scorpion";[2]="";}
-_PETSTRINGS[546] = {[1]="Tawny Oryx";[2]="";}
-_PETSTRINGS[547] = {[1]="Striped Deep-claw Whelp";[2]=""}
-_PETSTRINGS[548] = {[1]="Sapphire Drakeling";[2]="Limited time availability: Legendary Item Reward Track Season 16."}
-_PETSTRINGS[549] = {[1]="Helpful Deep-claw Whelp";[2]="Limited time availability: Legendary Item Reward Track Season 16."}
+_PETSTRINGS[534] = {[1]="Tame Hyena";[2]="";}
+_PETSTRINGS[535] = {[1]="Blood Scorpion";[2]="";}
+_PETSTRINGS[536] = {[1]="Pitch-dark Scorpion";[2]="";}
+_PETSTRINGS[537] = {[1]="Pale Deep-claw Whelp";[2]=""}
+_PETSTRINGS[538] = {[1]="Dusky Grodbog Queen";[2]=""}
+_PETSTRINGS[539] = {[1]="Pale Scorpion";[2]=""}
+_PETSTRINGS[540] = {[1]="Bright Grodbog Protector";[2]=""}
+_PETSTRINGS[541] = {[1]="Striped Grodbog Protector";[2]=""}
+_PETSTRINGS[542] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[543] = {[1]="Marine Scorpion";[2]=""}
+_PETSTRINGS[544] = {[1]="Copper Scorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Tawny Oryx";[2]="";}
+_PETSTRINGS[546] = {[1]="Striped Deep-claw Whelp";[2]="";}
+_PETSTRINGS[547] = {[1]="Rusty Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[548] = {[1]="Toffee Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[549] = {[1]="Ginger Mûrai Herding Dog";[2]=""}

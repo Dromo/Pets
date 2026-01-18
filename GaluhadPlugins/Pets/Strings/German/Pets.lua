@@ -542,6 +542,15 @@ _PETSTRINGS[459] = {[1]="Springender-Fisch-Drachen";[2]="Prachtstücke des Glanz
 _PETSTRINGS[460] = {[1]="Herbstroter Auerochse";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
 _PETSTRINGS[461] = {[1]="Eleganter dunkler Papagei";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
 
+_PETSTRINGS[462] = {[1]="Karawanenwarenkamel";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der goldenen Karawane."}
+_PETSTRINGS[463] = {[1]="Mûrischer Hütehund";[2]="Durch Abschluss der Aufgabe \"Hüterin der Herde\" erhältlich."}
+_PETSTRINGS[464] = {[1]="Elfenbeinfarbener mûrischer Hütehund";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
+_PETSTRINGS[465] = {[1]="Schneebedecktes Bauernhofpferd";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[466] = {[1]="Glöckchen-Schildkröte";[2]="Während des Julfests per Tauschhandel erhältlich."}
+_PETSTRINGS[467] = {[1]="Blutroter Tiefenklauen-Welpe";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[468] = {[1]="Saphirblaues Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+_PETSTRINGS[469] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+
 _PETSTRINGS[500] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[501] = {[1]="Hellbraune Fledermaus";[2]=""}
 _PETSTRINGS[502] = {[1]="Schwarzschwingendrachen";[2]=""}
@@ -576,19 +585,19 @@ _PETSTRINGS[530] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
 _PETSTRINGS[531] = {[1]="Junger lohfarbener Oryx";[2]=""}
 _PETSTRINGS[532] = {[1]="Aggressive Grodbog-Königin";[2]=""}
 _PETSTRINGS[533] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[534] = {[1]="Blutroter Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[535] = {[1]="Zahme Hyäne";[2]="";}
-_PETSTRINGS[536] = {[1]="Blutskorpion";[2]="";}
-_PETSTRINGS[537] = {[1]="Pechschwarzer Skorpion";[2]=""}
-_PETSTRINGS[538] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[539] = {[1]="Dunkle Grodbog-Königin";[2]=""}
-_PETSTRINGS[540] = {[1]="Bleicher Skorpion";[2]=""}
-_PETSTRINGS[541] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[542] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[543] = {[1]="Schwarze Grodbog-Königin";[2]=""}
-_PETSTRINGS[544] = {[1]="Meeresskorpion";[2]="";}
-_PETSTRINGS[545] = {[1]="Kupferfarbener Skorpion";[2]="";}
-_PETSTRINGS[546] = {[1]="Lohfarbener Oryx";[2]="";}
-_PETSTRINGS[547] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[548] = {[1]="Saphirblaues Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
-_PETSTRINGS[549] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+_PETSTRINGS[534] = {[1]="Zahme Hyäne";[2]="";}
+_PETSTRINGS[535] = {[1]="Blutskorpion";[2]="";}
+_PETSTRINGS[536] = {[1]="Pechschwarzer Skorpion";[2]="";}
+_PETSTRINGS[537] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[538] = {[1]="Dunkle Grodbog-Königin";[2]=""}
+_PETSTRINGS[539] = {[1]="Bleicher Skorpion";[2]=""}
+_PETSTRINGS[540] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[541] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[542] = {[1]="Schwarze Grodbog-Königin";[2]=""}
+_PETSTRINGS[543] = {[1]="Meeresskorpion";[2]=""}
+_PETSTRINGS[544] = {[1]="Kupferfarbener Skorpion";[2]="";}
+_PETSTRINGS[545] = {[1]="Lohfarbener Oryx";[2]="";}
+_PETSTRINGS[546] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[547] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[548] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[549] = {[1]="Fuchsroter mûrischer Hütehund";[2]=""}
