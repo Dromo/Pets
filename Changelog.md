@@ -1,5 +1,12 @@
 Change log:
-* 2026-01-18 - U46.0.1 - 5 new +3 newly availble + 3 future available
+* 2026-03-05 - U47 - 6 new + 26 future available
+  * Gold Zizanu, Dusty Worm, Vibrant Spotted Boglurker, Well-laden Mûmak Calf, Redstone Mûmak Calf, Rose-coloured Mûmak Calf
+  * Armoured Desert Wasp, Mottled Vulture, Marsh Crocodile Hatchling, Overgrown Boglurker, Humming Sunbird,
+  * Copper Zizanu, Shade-born Zizanu, Pale Zizanu,
+  * Brown Mûmak Calf, Diligent Mûmak Calf, Industrious Mûmak Calf, Marble Mûmak Calf, Sun-laden Mûmak Calf, Twilight Mûmak Calf, Burdened Mûmak Calf, Stone Mûmak Calf,
+  * Desert Slime, Sea-borne Slime, Night-born Slime, Rust Slime, Emerald Slime, Raspberry Slime,
+  * Battle-worn Worm, Crafty Worm, Skulking Worm, Ruby Worm
+* 2026-01-18 - U46.0.1 - 5 new + 3 newly availble + 3 future available
   * Caravan Trade Goods Camel, Mûrai Herding Dog, Ivory Mûrai Herding Dog, Snow-dusted Farm-yard Horse, Jingle Turtle
   * Crimson Deep-claw Whelp, Sapphire Drakeling, Helpful Deep-claw Whelp
   * Rusty Mûrai Herding Dog, Toffee Mûrai Herding Dog, Ginger Mûrai Herding Dog
