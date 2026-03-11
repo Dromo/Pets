@@ -1,4 +1,6 @@
 Change log:
+* 2026-03-11 - U47.1 - 3 new
+  * Marine Scorpion, Daffodil Celebration Kid, Tawny Aurochs
 * 2026-03-05 - U47 - 6 new + 26 future available
   * Gold Zizanu, Dusty Worm, Vibrant Spotted Boglurker, Well-laden Mûmak Calf, Redstone Mûmak Calf, Rose-coloured Mûmak Calf
   * Armoured Desert Wasp, Mottled Vulture, Marsh Crocodile Hatchling, Overgrown Boglurker, Humming Sunbird,

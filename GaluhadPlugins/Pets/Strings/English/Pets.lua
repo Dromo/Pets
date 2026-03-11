@@ -561,6 +561,9 @@ _PETSTRINGS[472] = {[1]="Well-laden Mûmak Calf";[2]=""}
 _PETSTRINGS[473] = {[1]="Redstone Mûmak Calf";[2]=""}
 _PETSTRINGS[474] = {[1]="Vibrant Spotted Boglurker";[2]="Limited time availability: Legendary Item Reward Track Season 17."}
 _PETSTRINGS[475] = {[1]="Rose-coloured Mûmak Calf";[2]="Limited time availability: Legendary Item Reward Track Season 17."}
+_PETSTRINGS[476] = {[1]="Marine Scorpion";[2]=""}
+_PETSTRINGS[477] = {[1]="Daffodil Celebration Kid";[2]="Available through barter during the Spring Festival."}
+_PETSTRINGS[478] = {[1]="Tawny Aurochs";[2]="Available through barter during the Spring Festival."}
 
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}
@@ -570,71 +573,69 @@ _PETSTRINGS[1004] = {[1]="Tan Wolf-dog";[2]=""}
 _PETSTRINGS[1005] = {[1]="Cream Corgi";[2]=""}
 _PETSTRINGS[1006] = {[1]="Library Corgi";[2]=""}
 _PETSTRINGS[1007] = {[1]="Winter's Wind";[2]=""}
-_PETSTRINGS[1008] = {[1]="Tawny Aurochs";[2]=""}
-_PETSTRINGS[1009] = {[1]="Brown Jerboa";[2]=""}
-_PETSTRINGS[1010] = {[1]="Turquoise Snake";[2]=""}
-_PETSTRINGS[1011] = {[1]="Leafy Green Snake";[2]=""}
-_PETSTRINGS[1012] = {[1]="Fiery Desert Snake";[2]=""}
-_PETSTRINGS[1013] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[1014] = {[1]="Spotted Hamster";[2]="";}
-_PETSTRINGS[1015] = {[1]="Taupe Hamster";[2]="";}
-_PETSTRINGS[1016] = {[1]="Dusky Parrot";[2]="";}
-_PETSTRINGS[1017] = {[1]="Sunstone Drakeling";[2]=""}
-_PETSTRINGS[1018] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[1019] = {[1]="Silver Scorpion";[2]=""}
-_PETSTRINGS[1020] = {[1]="Brown Oryx";[2]=""}
-_PETSTRINGS[1021] = {[1]="Armoured Scorpion";[2]=""}
-_PETSTRINGS[1022] = {[1]="Verdant Grodbog Queen";[2]=""}
-_PETSTRINGS[1023] = {[1]="Young Brown Oryx";[2]=""}
-_PETSTRINGS[1024] = {[1]="Terror of the Caverns";[2]="";}
-_PETSTRINGS[1025] = {[1]="Cobalt Grodbog Protector";[2]="";}
-_PETSTRINGS[1026] = {[1]="Obsidian Deep-claw Whelp";[2]="";}
-_PETSTRINGS[1027] = {[1]="Pony of Umbar";[2]="";}
-_PETSTRINGS[1028] = {[1]="Verdant Deep-claw Whelp";[2]=""}
-_PETSTRINGS[1029] = {[1]="Affable Grodbog Queen";[2]=""}
-_PETSTRINGS[1030] = {[1]="Poisonous Grodbog Protector";[2]=""}
-_PETSTRINGS[1031] = {[1]="Young Tawny Oryx";[2]=""}
-_PETSTRINGS[1032] = {[1]="Aggressive Grodbog Queen";[2]=""}
-_PETSTRINGS[1033] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[1034] = {[1]="Tame Hyena";[2]="";}
-_PETSTRINGS[1035] = {[1]="Blood Scorpion";[2]="";}
-_PETSTRINGS[1036] = {[1]="Pitch-dark Scorpion";[2]="";}
-_PETSTRINGS[1037] = {[1]="Pale Deep-claw Whelp";[2]=""}
-_PETSTRINGS[1038] = {[1]="Dusky Grodbog Queen";[2]=""}
-_PETSTRINGS[1039] = {[1]="Pale Scorpion";[2]=""}
-_PETSTRINGS[1040] = {[1]="Bright Grodbog Protector";[2]=""}
-_PETSTRINGS[1041] = {[1]="Striped Grodbog Protector";[2]=""}
-_PETSTRINGS[1042] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[1043] = {[1]="Marine Scorpion";[2]=""}
-_PETSTRINGS[1044] = {[1]="Copper Scorpion";[2]="";}
-_PETSTRINGS[1045] = {[1]="Tawny Oryx";[2]="";}
-_PETSTRINGS[1046] = {[1]="Striped Deep-claw Whelp";[2]="";}
-_PETSTRINGS[1047] = {[1]="Rusty Mûrai Herding Dog";[2]=""}
-_PETSTRINGS[1048] = {[1]="Toffee Mûrai Herding Dog";[2]=""}
-_PETSTRINGS[1049] = {[1]="Ginger Mûrai Herding Dog";[2]=""}
-_PETSTRINGS[1050] = {[1]="Desert Slime";[2]=""}
-_PETSTRINGS[1051] = {[1]="Armoured Desert Wasp";[2]=""}
-_PETSTRINGS[1052] = {[1]="Battle-worn Worm";[2]=""}
-_PETSTRINGS[1053] = {[1]="Brown Mûmak Calf";[2]=""}
-_PETSTRINGS[1054] = {[1]="Diligent Mûmak Calf";[2]="";}
-_PETSTRINGS[1055] = {[1]="Shade-born Zizanu";[2]="";}
-_PETSTRINGS[1056] = {[1]="Crafty Worm";[2]="";}
-_PETSTRINGS[1057] = {[1]="Industrious Mûmak Calf";[2]=""}
-_PETSTRINGS[1058] = {[1]="Mottled Vulture";[2]=""}
-_PETSTRINGS[1059] = {[1]="Marble Mûmak Calf";[2]=""}
-_PETSTRINGS[1060] = {[1]="Sun-laden Mûmak Calf";[2]=""}
-_PETSTRINGS[1061] = {[1]="Skulking Worm";[2]=""}
-_PETSTRINGS[1062] = {[1]="Sea-borne Slime";[2]=""}
-_PETSTRINGS[1063] = {[1]="Copper Zizanu";[2]=""}
-_PETSTRINGS[1064] = {[1]="Twilight Mûmak Calf";[2]="";}
-_PETSTRINGS[1065] = {[1]="Night-born Slime";[2]="";}
-_PETSTRINGS[1066] = {[1]="Rust Slime";[2]="";}
-_PETSTRINGS[1067] = {[1]="Burdened Mûmak Calf";[2]=""}
-_PETSTRINGS[1068] = {[1]="Marsh Crocodile Hatchling";[2]=""}
-_PETSTRINGS[1069] = {[1]="Stone Mûmak Calf";[2]=""}
-_PETSTRINGS[1070] = {[1]="Emerald Slime";[2]=""}
-_PETSTRINGS[1071] = {[1]="Overgrown Boglurker";[2]=""}
-_PETSTRINGS[1072] = {[1]="Ruby Worm";[2]=""}
-_PETSTRINGS[1073] = {[1]="Pale Zizanu";[2]=""}
-_PETSTRINGS[1074] = {[1]="Humming Sunbird";[2]="";}
-_PETSTRINGS[1075] = {[1]="Raspberry Slime";[2]="";}
+_PETSTRINGS[1008] = {[1]="Brown Jerboa";[2]=""}
+_PETSTRINGS[1009] = {[1]="Turquoise Snake";[2]=""}
+_PETSTRINGS[1010] = {[1]="Leafy Green Snake";[2]=""}
+_PETSTRINGS[1011] = {[1]="Fiery Desert Snake";[2]=""}
+_PETSTRINGS[1012] = {[1]="Chestnut Sand Worm";[2]=""}
+_PETSTRINGS[1013] = {[1]="Spotted Hamster";[2]=""}
+_PETSTRINGS[1014] = {[1]="Taupe Hamster";[2]="";}
+_PETSTRINGS[1015] = {[1]="Dusky Parrot";[2]="";}
+_PETSTRINGS[1016] = {[1]="Sunstone Drakeling";[2]="";}
+_PETSTRINGS[1017] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[1018] = {[1]="Silver Scorpion";[2]=""}
+_PETSTRINGS[1019] = {[1]="Brown Oryx";[2]=""}
+_PETSTRINGS[1020] = {[1]="Armoured Scorpion";[2]=""}
+_PETSTRINGS[1021] = {[1]="Verdant Grodbog Queen";[2]=""}
+_PETSTRINGS[1022] = {[1]="Young Brown Oryx";[2]=""}
+_PETSTRINGS[1023] = {[1]="Terror of the Caverns";[2]=""}
+_PETSTRINGS[1024] = {[1]="Cobalt Grodbog Protector";[2]="";}
+_PETSTRINGS[1025] = {[1]="Obsidian Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1026] = {[1]="Pony of Umbar";[2]="";}
+_PETSTRINGS[1027] = {[1]="Verdant Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1028] = {[1]="Affable Grodbog Queen";[2]=""}
+_PETSTRINGS[1029] = {[1]="Poisonous Grodbog Protector";[2]=""}
+_PETSTRINGS[1030] = {[1]="Young Tawny Oryx";[2]=""}
+_PETSTRINGS[1031] = {[1]="Aggressive Grodbog Queen";[2]=""}
+_PETSTRINGS[1032] = {[1]="Lush Grodbog Protector";[2]=""}
+_PETSTRINGS[1033] = {[1]="Tame Hyena";[2]=""}
+_PETSTRINGS[1034] = {[1]="Blood Scorpion";[2]="";}
+_PETSTRINGS[1035] = {[1]="Pitch-dark Scorpion";[2]="";}
+_PETSTRINGS[1036] = {[1]="Pale Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1037] = {[1]="Dusky Grodbog Queen";[2]=""}
+_PETSTRINGS[1038] = {[1]="Pale Scorpion";[2]=""}
+_PETSTRINGS[1039] = {[1]="Bright Grodbog Protector";[2]=""}
+_PETSTRINGS[1040] = {[1]="Striped Grodbog Protector";[2]=""}
+_PETSTRINGS[1041] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[1042] = {[1]="Copper Scorpion";[2]=""}
+_PETSTRINGS[1043] = {[1]="Tawny Oryx";[2]=""}
+_PETSTRINGS[1044] = {[1]="Striped Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1045] = {[1]="Rusty Mûrai Herding Dog";[2]="";}
+_PETSTRINGS[1046] = {[1]="Toffee Mûrai Herding Dog";[2]="";}
+_PETSTRINGS[1047] = {[1]="Ginger Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[1048] = {[1]="Desert Slime";[2]=""}
+_PETSTRINGS[1049] = {[1]="Armoured Desert Wasp";[2]=""}
+_PETSTRINGS[1050] = {[1]="Battle-worn Worm";[2]=""}
+_PETSTRINGS[1051] = {[1]="Brown Mûmak Calf";[2]=""}
+_PETSTRINGS[1052] = {[1]="Diligent Mûmak Calf";[2]=""}
+_PETSTRINGS[1053] = {[1]="Shade-born Zizanu";[2]=""}
+_PETSTRINGS[1054] = {[1]="Crafty Worm";[2]="";}
+_PETSTRINGS[1055] = {[1]="Industrious Mûmak Calf";[2]="";}
+_PETSTRINGS[1056] = {[1]="Mottled Vulture";[2]="";}
+_PETSTRINGS[1057] = {[1]="Marble Mûmak Calf";[2]=""}
+_PETSTRINGS[1058] = {[1]="Sun-laden Mûmak Calf";[2]=""}
+_PETSTRINGS[1059] = {[1]="Skulking Worm";[2]=""}
+_PETSTRINGS[1060] = {[1]="Sea-borne Slime";[2]=""}
+_PETSTRINGS[1061] = {[1]="Copper Zizanu";[2]=""}
+_PETSTRINGS[1062] = {[1]="Twilight Mûmak Calf";[2]=""}
+_PETSTRINGS[1063] = {[1]="Night-born Slime";[2]=""}
+_PETSTRINGS[1064] = {[1]="Rust Slime";[2]="";}
+_PETSTRINGS[1065] = {[1]="Burdened Mûmak Calf";[2]="";}
+_PETSTRINGS[1066] = {[1]="Marsh Crocodile Hatchling";[2]="";}
+_PETSTRINGS[1067] = {[1]="Stone Mûmak Calf";[2]=""}
+_PETSTRINGS[1068] = {[1]="Emerald Slime";[2]=""}
+_PETSTRINGS[1069] = {[1]="Overgrown Boglurker";[2]=""}
+_PETSTRINGS[1070] = {[1]="Ruby Worm";[2]=""}
+_PETSTRINGS[1071] = {[1]="Pale Zizanu";[2]=""}
+_PETSTRINGS[1072] = {[1]="Humming Sunbird";[2]=""}
+_PETSTRINGS[1073] = {[1]="Raspberry Slime";[2]=""}
