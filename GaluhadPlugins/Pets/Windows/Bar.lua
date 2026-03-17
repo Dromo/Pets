@@ -137,6 +137,11 @@ function LayoutBar()
             if orientation == 2 or orientation == 4 then
                 colIndex = (cols - 1) - colIndex
             end
+
+            -- side -> up variants: first row should be next to icon, additional rows go further up
+            if orientation == 3 or orientation == 4 then
+                rowIndex = (rows - 1) - rowIndex
+            end
         else
             -- new: fill vertically (one column) first, then next column
             colIndex = math.floor(zeroBased / rows)   -- 0..cols-1
