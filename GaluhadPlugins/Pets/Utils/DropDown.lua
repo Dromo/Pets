@@ -251,8 +251,19 @@ function DropDown.Constructor(sender,_list,defaultLabel)
 	AddCallback(ddLabelContainer,"MouseLeave",controlLeave);
 
 	local controlDown = function ()
-		ddListContainer:SetPosition(ddLabelContainer:PointToScreen(0,ddLabelContainer:GetHeight()-2));
 		ddLabelContainer:RescaleList();
+		
+		local listHeight = ddListContainer:GetHeight();
+		local screenLeft, screenTop = ddLabelContainer:PointToScreen(0, 0);
+		local screenHeight = Turbine.UI.Display:GetHeight();	
+		local spaceBelow = screenHeight - (screenTop + ddLabelContainer:GetHeight());
+		
+		if spaceBelow < listHeight then
+			ddListContainer:SetPosition(screenLeft, screenTop - listHeight);
+		else
+			ddListContainer:SetPosition(ddLabelContainer:PointToScreen(0, ddLabelContainer:GetHeight() - 2));
+		end
+		
 		ddListContainer:SetVisible(true);
 		ddListContainer:Activate();
 		ddListContainer:Focus();
