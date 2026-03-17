@@ -1,119 +1,134 @@
+----------------------------------------------------------------
+-- Pets
+-- Main entry point: loads data, windows, commands and patches
+----------------------------------------------------------------
 
-PLUGINDIR = "GaluhadPlugins.Pets";
-RESOURCEDIR = "GaluhadPlugins/Pets/Resources/";
-PLUGINNAME = "Pets";
+PLUGINDIR   = "GaluhadPlugins.Pets"
+RESOURCEDIR = "GaluhadPlugins/Pets/Resources/"
+PLUGINNAME  = "Pets"
 
--- Turbine Imports..
-import "Turbine";
-import "Turbine.Gameplay";
-import "Turbine.UI";
-import "Turbine.UI.Lotro";
+----------------------------------------------------------------
+-- Turbine imports
+----------------------------------------------------------------
+import "Turbine"
+import "Turbine.Gameplay"
+import "Turbine.UI"
+import "Turbine.UI.Lotro"
 
--- Plugin Imports..
-import (PLUGINDIR..".Globals");
-import (PLUGINDIR..".Images");
-import (PLUGINDIR..".Data");
-import (PLUGINDIR..".AddCallBack");
-import (PLUGINDIR..".Functions");
-import (PLUGINDIR..".Commands");
-import (PLUGINDIR..".VindarPatch");
-import (PLUGINDIR..".Images");
+----------------------------------------------------------------
+-- Plugin imports
+----------------------------------------------------------------
+import (PLUGINDIR .. ".Globals")
+import (PLUGINDIR .. ".Images")
+import (PLUGINDIR .. ".Data")
+import (PLUGINDIR .. ".AddCallBack")
+import (PLUGINDIR .. ".Functions")
+import (PLUGINDIR .. ".Commands")
+import (PLUGINDIR .. ".VindarPatch")
+import (PLUGINDIR .. ".Images")
 
--- Utils Imports..
-import (PLUGINDIR..".Utils");
+-- Utils
+import (PLUGINDIR .. ".Utils")
 
--- Windows..
-import (PLUGINDIR..".Windows");
+-- Windows
+import (PLUGINDIR .. ".Windows")
 
-
------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------
+-- Data save / load
+----------------------------------------------------------------
 function saveData()
-	PatchDataSave(Turbine.DataScope.Character, "Pets_Settings", SETTINGS);
-	PatchDataSave(Turbine.DataScope.Character, "Pets_Selected", _BARPETS);
+    PatchDataSave(Turbine.DataScope.Character, "Pets_Settings", SETTINGS)
+    PatchDataSave(Turbine.DataScope.Character, "Pets_Selected", _BARPETS)
 end
-
 
 function loadData()
-	---------------------------------------------------------------------------------------------------------------------------------
-	-- SAVED SETTINGS --
-	local SavedSettings = {};
+    ----------------------------------------------------------------
+    -- Settings
+    ----------------------------------------------------------------
+    local okSettings, savedSettings = pcall(
+        PatchDataLoad,
+        Turbine.DataScope.Character,
+        "Pets_Settings"
+    )
 
-	function GetSavedSettings()
-		SavedSettings = PatchDataLoad(Turbine.DataScope.Character, "Pets_Settings");
-	end
+    if not okSettings then
+        savedSettings = nil
+        printError(GetString(1))
+    end
 
-	if pcall(GetSavedSettings) then
-		GetSavedSettings();
-	else -- Loaded with errors
-		SavedSettings = nil;
-		printError(GetString(1));
-	end
+    if type(savedSettings) == "table" then
+        -- Start from defaults and merge user settings on top
+        local temp = Utils.deepcopy(DEFAULT_SETTINGS)
+        SETTINGS = Utils.mergeTables(temp, savedSettings)
+    else
+        -- Fallback to defaults
+        SETTINGS = Utils.deepcopy(DEFAULT_SETTINGS)
+    end
 
-	-- Check the saved settings to make sure it is still compatible with newer updates, add in any missing default settings
-	if type(SavedSettings) == 'table' then
-		local tempSETTINGS = {};
-		tempSETTINGS = Utils.deepcopy(DEFAULT_SETTINGS);
-		SETTINGS = Utils.mergeTables(tempSETTINGS,SavedSettings);
-	else
-		SETTINGS = Utils.deepcopy(DEFAULT_SETTINGS);
-	end
+    ----------------------------------------------------------------
+    -- Selected pets / quickslot layout
+    ----------------------------------------------------------------
+    local okPets, savedPets = pcall(
+        PatchDataLoad,
+        Turbine.DataScope.Character,
+        "Pets_Selected"
+    )
 
-	---------------------------------------------------------------------------------------------------------------------------------
-	-- SELECTED PETS --
-	local SavedPets = {};
+    if not okPets then
+        savedPets = nil
+        printError(GetString(1))
+    end
 
-	function GetSavedPets()
-		SavedPets = PatchDataLoad(Turbine.DataScope.Character, "Pets_Selected");
-	end
-
-	if pcall(GetSavedPets) then
-		GetSavedPets();
-	else -- Loaded with errors
-		SavedPets = nil;
-		printError(GetString(1));
-	end
-
-	-- Check the saved settings to make sure it is still compatible with newer updates, add in any missing default settings
-	if type(SavedPets) == 'table' then
-		_BARPETS = Utils.deepcopy(SavedPets);
-	end
-
-	----------------------------------------------------------------------------------------------------------------------------------
+    if type(savedPets) == "table" then
+        _BARPETS = Utils.deepcopy(savedPets)
+    end
 end
 
-
-function print(MESSAGE)
-	if MESSAGE == nil then return end;
-	Turbine.Shell.WriteLine("<rgb=#FF6666>" .. tostring(MESSAGE) .. "</rgb>");
+----------------------------------------------------------------
+-- Shell output helpers
+----------------------------------------------------------------
+function print(message)
+    if message == nil then
+        return
+    end
+    Turbine.Shell.WriteLine("<rgb=#FF6666>" .. tostring(message) .. "</rgb>")
 end
 
-
-function printError(STRING)
-	if STRING == nil or STRING == "" then return end;
-	Turbine.Shell.WriteLine("<rgb=#FF3333>"..PLUGINNAME..": " .. tostring(STRING) .. "\n" .. GetString(2) .. "</rgb>");
+function printError(text)
+    if text == nil or text == "" then
+        return
+    end
+    Turbine.Shell.WriteLine("<rgb=#FF3333>" .. PLUGINNAME .. ": " .. tostring(text) .. "\n" .. GetString(2) .. "</rgb>")
 end
 
-
+----------------------------------------------------------------
+-- Localization
+----------------------------------------------------------------
 function LoadStrings()
-	LANGID = Utils.GetClientLanguage();
-	_STRINGS = {};
-	import (PLUGINDIR..".Strings");
+    LANGID = Utils.GetClientLanguage()
+    _STRINGS = {}
+    import (PLUGINDIR .. ".Strings")
 end
 
-
+----------------------------------------------------------------
+-- Main load sequence
+----------------------------------------------------------------
 function LoadSequence()
-	LoadStrings();
-	loadData();
-	Windows.DrawWindows();
-	RegisterCommands();
-	Turbine.Plugin.Unload = function ()
-		saveData();
-	end
-	print("Loaded '" .. PLUGINNAME .. "' by Galuhad [Evernight], patched by Drono");
-	print(GetString(13));
+    LoadStrings()
+    loadData()
+    Windows.DrawWindows()
+    RegisterCommands()
+
+    -- Save on plugin unload
+    Turbine.Plugin.Unload = function()
+        saveData()
+    end
+
+    print("Loaded '" .. PLUGINNAME .. "' by Galuhad [Evernight], patched by Drono and DaBear78")
+    print(GetString(13))
 end
 
-
--- Initiate load sequence
-LoadSequence();
+----------------------------------------------------------------
+-- Start plugin
+----------------------------------------------------------------
+LoadSequence()

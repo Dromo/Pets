@@ -28,7 +28,9 @@ function DrawDesktopIcon()
 
 	-- WINDOW MOUSE EVENTS ---------------------------------------------------------------------------------------------------
 	wIcon.MouseDown = function (sender, args)
-		blDragging = true;
+        if wIcon:IsShiftKeyDown() then
+            blDragging = true;
+        end
 		relX = args.X;
 		relY = args.Y;
 	end
@@ -45,23 +47,23 @@ function DrawDesktopIcon()
 			SETTINGS.ICON.Y = scY - relY;
 
 			if SETTINGS.ICON.X < 0 then SETTINGS.ICON.X = 0 end
-			if SETTINGS.ICON.X > (SCREENWIDTH-lstShortcuts:GetWidth()-wIcon:GetWidth()) then SETTINGS.ICON.X = (SCREENWIDTH-lstShortcuts:GetWidth()-wIcon:GetWidth()) end
+			if SETTINGS.ICON.X > (SCREENWIDTH-wIcon:GetWidth()) then SETTINGS.ICON.X = (SCREENWIDTH-wIcon:GetWidth()) end
 			if SETTINGS.ICON.Y < 0 then SETTINGS.ICON.Y = 0 end
-			if SETTINGS.ICON.Y > (SCREENHEIGHT-lstShortcuts:GetHeight()) then SETTINGS.ICON.Y = (SCREENHEIGHT-lstShortcuts:GetHeight()) end
+			if SETTINGS.ICON.Y > (SCREENHEIGHT) then SETTINGS.ICON.Y = (SCREENHEIGHT) end
 
 			wIcon:SetPosition(SETTINGS.ICON.X,SETTINGS.ICON.Y);
-			HandleBarMove(SETTINGS.ICON.X+wIcon:GetWidth(),SETTINGS.ICON.Y);
-		end
-	end
-
-	wIcon.MouseDoubleClick = function (sender, args)
-		if (args.Button == Turbine.UI.MouseButton.Left) then
-			wMainWin:SetVisible(true);
-			wMainWin:Activate();
+			HandleBarMove(SETTINGS.ICON.X,SETTINGS.ICON.Y);
 		end
 	end
 
 	wIcon.MouseClick = function (sender,args)
-		wQSBarOverlay:SetVisible(not wQSBarOverlay:IsVisible());
+        if (args.Button == Turbine.UI.MouseButton.Left) then
+            if not wIcon:IsShiftKeyDown() then
+                wQSBarOverlay:SetVisible(not wQSBarOverlay:IsVisible());
+            end
+        elseif (args.Button == Turbine.UI.MouseButton.Right) then
+            wMainWin:SetVisible(true);
+            wMainWin:Activate();
+        end
 	end
 end

@@ -1,5 +1,3 @@
-
-
 _STRINGS[1]	= "Error loading saved settings";
 _STRINGS[2]	= "Please report this error at lotrointerface.com";
 _STRINGS[3]	= "usage: /pets opens/closes the main window";
@@ -15,3 +13,20 @@ _STRINGS[12] = "Results:";
 _STRINGS[13] = "Use command /pets to show or hide the main window";
 _STRINGS[14] = "All";
 _STRINGS[15] = "Update";
+_STRINGS[16] = "Show only known pets";
+_STRINGS[17] = "All available";
+_STRINGS[18] = "Pets per row";
+_STRINGS[19] = "Right > Down";
+_STRINGS[20] = "Left > Down";
+_STRINGS[21] = "Right > Up";
+_STRINGS[22] = "Left > Up";
+_STRINGS[23] = "Quickslot bar orientation";
+_STRINGS[24] = "Fill quickslots with:";
+_STRINGS[25] = "No change";
+_STRINGS[26] = "All known pets";
+_STRINGS[27] = "All pets";
+_STRINGS[28] = "No pets";
+_STRINGS[29] = "Up > Left"
+_STRINGS[30] = "Up > Right"
+_STRINGS[31] = "Down > Left"
+_STRINGS[32] = "Down > Right"

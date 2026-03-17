@@ -7,5 +7,5 @@ _FAMILY[5] = "Amphibien";
 _FAMILY[6] = "S\195\164ugetiere";
 _FAMILY[7] = "Insekten";
 _FAMILY[8] = "Elemente";
-_FAMILY[9] = "Human";
-_FAMILY[10] = "Kite";
+_FAMILY[9] = "Humanoid";
+_FAMILY[10] = "Drachen";

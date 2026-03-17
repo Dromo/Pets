@@ -1,5 +1,3 @@
-
-
 _STRINGS[1]	= "Error loading saved settings";
 _STRINGS[2]	= "Please report this error at lotrointerface.com";
 _STRINGS[3]	= "usage: /pets opens/closes the main window";
@@ -15,3 +13,20 @@ _STRINGS[12] = "Results:";
 _STRINGS[13] = "Use command /pets to show or hide the main window";
 _STRINGS[14] = "All";
 _STRINGS[15] = "Update";
+_STRINGS[16] = "Afficher uniquement les familiers connus";
+_STRINGS[17] = "Tous disponibles";
+_STRINGS[18] = "Familier par rangée";
+_STRINGS[19] = "Droite > Bas";
+_STRINGS[20] = "Gauche > Bas";
+_STRINGS[21] = "Droite > Haut";
+_STRINGS[22] = "Gauche > Haut";
+_STRINGS[23] = "Orientation de la barre de raccourcis";
+_STRINGS[24] = "Remplir les raccourcis avec :";
+_STRINGS[25] = "Aucun changement";
+_STRINGS[26] = "Tous les familiers connus";
+_STRINGS[27] = "Tous les familiers";
+_STRINGS[28] = "Aucun familier";
+_STRINGS[29] = "Haut > Gauche"
+_STRINGS[30] = "Haut > Droite"
+_STRINGS[31] = "Bas > Gauche"
+_STRINGS[32] = "Bas > Droite"
