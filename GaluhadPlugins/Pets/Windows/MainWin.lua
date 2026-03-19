@@ -173,7 +173,7 @@ function DrawMainWin()
     ResetPetsReloader()
 
     wMainWin = Turbine.UI.Lotro.Window()
-    wMainWin:SetSize(640, 820)
+    wMainWin:SetSize(640, 790)
     wMainWin:SetPosition(SETTINGS.MAINWIN.X, SETTINGS.MAINWIN.Y)
     wMainWin:SetText(PLUGINNAME)
     wMainWin:SetHideF12(true)
@@ -185,7 +185,7 @@ function DrawMainWin()
     ----------------------------------------------------------------
     -- Layout anchors for list area and lower controls
     ----------------------------------------------------------------
-    local renameTop  = wMainWin:GetHeight() - 120   -- first config row
+    local renameTop  = wMainWin:GetHeight() - 105   -- first config row
     local listBottom = renameTop - 10               -- bottom of list area
 
     ----------------------------------------------------------------
@@ -296,7 +296,7 @@ function DrawMainWin()
     local lblMaxRows = NewWindowLabel(
         wMainWin,
         200, 18,
-        340,
+        chkKnownLeft,
         row2Top,
         GetString(18)          -- localized "Slots per row"
     )
@@ -305,7 +305,7 @@ function DrawMainWin()
     sliderMaxRows:SetParent(wMainWin)
     sliderMaxRows:SetOrientation(Turbine.UI.Orientation.Horizontal)
 
-    local sliderLeft  = 340
+    local sliderLeft  = chkKnownLeft
     local sliderWidth = 180
 
     sliderMaxRows:SetSize(sliderWidth, 10)
@@ -346,7 +346,7 @@ function DrawMainWin()
         200, 18,
         30,
         row3Top,
-        GetString(23)  -- "Quickslot bar orientation"
+        GetString(27)  -- "Quickslot bar orientation"
     )
 
     -- Ensure BARORIENTATION is valid (1..8)
@@ -361,10 +361,10 @@ function DrawMainWin()
         GetString(20), -- 2
         GetString(21), -- 3
         GetString(22), -- 4
-        GetString(29), -- 5
-        GetString(30), -- 6
-        GetString(31), -- 7
-        GetString(32)  -- 8
+        GetString(23), -- 5
+        GetString(24), -- 6
+        GetString(25), -- 7
+        GetString(26)  -- 8
     }
 
     -- aktuelle Einstellung als Default-Text
@@ -376,35 +376,7 @@ function DrawMainWin()
     -- Feste Reihenfolge, aber vorausgewählt über defaultLabel
     ddOrientation = Utils.DropDown(orientationLabels, orientationLabels[currentIndex])
     ddOrientation:SetParent(wMainWin)
-    ddOrientation:SetPosition(260, row3Top)
-
-    ----------------------------------------------------------------
-    -- Row 4: Quickslot fill mode (action drop-down)
-    ----------------------------------------------------------------
-    local row4Top = row3Top + 26
-
-    local lblFillMode = NewWindowLabel(
-        wMainWin,
-        200, 18,
-        30,
-        row4Top,
-        GetString(24)  -- "Quickslots füllen mit:"
-    )
-
-    local fillOptions = {
-        GetString(25), -- "Keine Änderung"
-        GetString(26), -- "Allen bekannten Begleitern"
-        GetString(27), -- "Allen Begleitern"
-        GetString(28)  -- "Keinen Begleitern"
-    }
-
-    ddFillSlots = Utils.DropDown(fillOptions)
-    ddFillSlots:SetParent(wMainWin)
-    ddFillSlots:SetPosition(260, row4Top)
-    -- Standard: erster Eintrag = "Keine Änderung"
-    if ddFillSlots.SetWidth ~= nil then
-        ddFillSlots:SetWidth(220)  -- oder 240, wenn du mehr Platz willst
-    end
+    ddOrientation:SetPosition(chkKnownLeft, row3Top)
 
     ----------------------------------------------------------------
     -- Single OK button for both slots-per-row, orientation, and fill-mode
@@ -413,7 +385,7 @@ function DrawMainWin()
         wMainWin,
         60,
         wMainWin:GetWidth() - 90,   -- right aligned
-        row4Top - 2,                -- same row as orientation
+        row3Top - 2,                -- same row as orientation
         "OK"
     )
 
@@ -433,69 +405,14 @@ function DrawMainWin()
                 SETTINGS.BARORIENTATION = 3  -- Up -> Right
             elseif txt == GetString(22) then
                 SETTINGS.BARORIENTATION = 4  -- Up -> Left
-            elseif txt == GetString(29) then
+            elseif txt == GetString(23) then
                 SETTINGS.BARORIENTATION = 5  -- Up -> Left (vertical first)
-            elseif txt == GetString(30) then
+            elseif txt == GetString(24) then
                 SETTINGS.BARORIENTATION = 6  -- Up -> Right (vertical first)
-            elseif txt == GetString(31) then
+            elseif txt == GetString(25) then
                 SETTINGS.BARORIENTATION = 7  -- Down -> Left (vertical first)
-            elseif txt == GetString(32) then
+            elseif txt == GetString(26) then
                 SETTINGS.BARORIENTATION = 8  -- Down -> Right (vertical first)
-            end
-        end
-
-        -- 3) Apply quickslot fill mode (optional action)
-        if type(_BARPETS) ~= "table" then
-            _BARPETS = {}
-        end
-
-        if ddFillSlots ~= nil and ddFillSlots.GetText ~= nil then
-            local txt = ddFillSlots:GetText()
-
-            -- determine mode:
-            -- 0 = no change
-            -- 1 = all known pets
-            -- 2 = all pets
-            -- 3 = no pets
-            local mode = 0
-
-            if txt == GetString(25) then           -- "Keine Änderung"
-                mode = 0
-            elseif txt == GetString(26) then       -- "Allen bekannten Begleitern"
-                mode = 1
-            elseif txt == GetString(27) then       -- "Allen Begleitern"
-                mode = 2
-            elseif txt == GetString(28) then       -- "Keinen Begleitern"
-                mode = 3
-            end
-
-            if mode ~= 0 then
-                -- clear current bar config
-                for k in pairs(_BARPETS) do
-                    _BARPETS[k] = nil
-                end
-
-                if mode == 1 or mode == 2 then
-                    -- need futureMin to skip "future" pets
-                    local lastUpdateIndex = #_UPDATES
-                    local futureMin = _UPDATES[lastUpdateIndex][2]
-
-                    for id, petData in pairs(_PETS) do
-                        if id < futureMin then
-                            if mode == 2 then
-                                -- all pets
-                                _BARPETS[id] = 1
-                            else
-                                -- known pets only
-                                if IsPetOwned(id) then
-                                    _BARPETS[id] = 1
-                                end
-                            end
-                        end
-                    end
-                else
-                    -- mode == 3: no pets -> just keep _BARPETS cleared
-                end
             end
         end
 
