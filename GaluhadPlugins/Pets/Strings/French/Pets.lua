@@ -574,11 +574,15 @@ _PETSTRINGS[485] = {[1]="Oryx brun";[2]="Disponibilité limitée pour les Mirage
 _PETSTRINGS[486] = {[1]="Jeune oryx brun";[2]="Disponibilité limitée pour les Mirages de splendeur et dans les coffres à butin de voyageur et d'aventurier."}
 _PETSTRINGS[487] = {[1]="Arachnothère gazouillant";[2]="Disponibilité limitée dans les Coffres à butin de voyageur et d'aventurier"}
 _PETSTRINGS[488] = {[1]="Protecteur grodbog cobalt";[2]="Disponible par échange en participant à des excavations."}
-_PETSTRINGS[489] = {[1]="Jeune griffefosse obsidienne";[2]=""}
-_PETSTRINGS[490] = {[1]="Chien-loup en brun claire";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[489] = {[1]="Jeune griffefosse obsidienne";[2]="Disponible par échange en participant à des excavations."}
+_PETSTRINGS[490] = {[1]="Chien-loup en brun claire";[2]="Disponible en aidant la Shâra Mizâdi dans sa glorieuse chasse à travers les Monts de l'Hatokali, dans Mûr Ghala."}
 _PETSTRINGS[491] = {[1]="Jeune oryx fauve";[2]="Disponible par échange auprès des intendants de récompenses du Nouveau Hamât dans Idagâl et Pahar Hatokali."}
 _PETSTRINGS[492] = {[1]="Scorpion cuivré";[2]="Disponible par échange auprès des intendants de récompenses du Nouveau Hamât dans Idagâl et Pahar Hatokali."}
 _PETSTRINGS[493] = {[1]="Oryx fauve";[2]="Disponible par échange auprès des intendants de récompenses du Nouveau Hamât dans Idagâl et Pahar Hatokali."}
+
+_PETSTRINGS[494] = {[1]="Poney d'Umbar";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 18."}
+_PETSTRINGS[495] = {[1]="Hyène docile";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 18."}
+_PETSTRINGS[496] = {[1]="Faucon elfique intemporel";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client intemporel des Noldor."}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}
@@ -598,45 +602,42 @@ _PETSTRINGS[1014] = {[1]="Scorpion argenté";[2]="";}
 _PETSTRINGS[1015] = {[1]="Scorpion en armure";[2]="";}
 _PETSTRINGS[1016] = {[1]="Reine des grodbogs verdoyante";[2]="";}
 _PETSTRINGS[1017] = {[1]="Terreur des cavernes";[2]=""}
-_PETSTRINGS[1018] = {[1]="Poney d'Umbar";[2]=""}
-_PETSTRINGS[1019] = {[1]="Jeune griffefosse verdoyant";[2]=""}
-_PETSTRINGS[1020] = {[1]="Reine des grodbogs affable";[2]=""}
-_PETSTRINGS[1021] = {[1]="Protecteur grodbog venimeux";[2]=""}
-_PETSTRINGS[1022] = {[1]="Reine des grodbogs agressive";[2]=""}
-_PETSTRINGS[1023] = {[1]="Protecteur grodbog luxuriant";[2]=""}
-_PETSTRINGS[1024] = {[1]="Hyène docile";[2]="";}
-_PETSTRINGS[1025] = {[1]="Scorpion sanglant";[2]="";}
-_PETSTRINGS[1026] = {[1]="Scorpion noir comme la nuit";[2]="";}
-_PETSTRINGS[1027] = {[1]="Jeune griffefosse pâle";[2]="";}
-_PETSTRINGS[1028] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
-_PETSTRINGS[1029] = {[1]="Scorpion pâle";[2]=""}
-_PETSTRINGS[1030] = {[1]="Protecteur grodbog lumineux";[2]=""}
-_PETSTRINGS[1031] = {[1]="Protecteur grodbog rayé";[2]=""}
-_PETSTRINGS[1032] = {[1]="Reine des grodbogs sombre";[2]=""}
-_PETSTRINGS[1033] = {[1]="Jeune griffefosse rayé";[2]=""}
-_PETSTRINGS[1034] = {[1]="Chien de berger auburn de la Mûr";[2]="";}
-_PETSTRINGS[1035] = {[1]="Chien de berger caramel de la Mûr";[2]="";}
-_PETSTRINGS[1036] = {[1]="Limace du désert";[2]="";}
-_PETSTRINGS[1037] = {[1]="Guêpe du désert en armure";[2]=""}
-_PETSTRINGS[1038] = {[1]="Ver endurci par les combats";[2]=""}
-_PETSTRINGS[1039] = {[1]="Bébé mûmak brun";[2]=""}
-_PETSTRINGS[1040] = {[1]="Bébé mûmak assidu";[2]=""}
-_PETSTRINGS[1041] = {[1]="Zizanu ombré";[2]=""}
-_PETSTRINGS[1042] = {[1]="Ver rusé";[2]=""}
-_PETSTRINGS[1043] = {[1]="Bébé mûmak travailleur";[2]=""}
-_PETSTRINGS[1044] = {[1]="Vautour tacheté";[2]="";}
-_PETSTRINGS[1045] = {[1]="Bébé mûmak marbré";[2]="";}
-_PETSTRINGS[1046] = {[1]="Bébé mûmak illuminé";[2]="";}
-_PETSTRINGS[1047] = {[1]="Ver rôdeur";[2]=""}
-_PETSTRINGS[1048] = {[1]="Limace maritime";[2]=""}
-_PETSTRINGS[1049] = {[1]="Zizanu cuivré";[2]=""}
-_PETSTRINGS[1050] = {[1]="Bébé mûmak du crépuscule";[2]=""}
-_PETSTRINGS[1051] = {[1]="Limace nocturne";[2]=""}
-_PETSTRINGS[1052] = {[1]="Limace rouille";[2]=""}
-_PETSTRINGS[1053] = {[1]="Bébé mûmak surchargé";[2]=""}
-_PETSTRINGS[1054] = {[1]="Jeune crocodile des marais";[2]="";}
-_PETSTRINGS[1055] = {[1]="Bébé mûmak pierreux";[2]="";}
-_PETSTRINGS[1056] = {[1]="Limace émeraude";[2]="";}
-_PETSTRINGS[1057] = {[1]="Ver rubis";[2]=""}
-_PETSTRINGS[1058] = {[1]="Zizanu pâle";[2]=""}
-_PETSTRINGS[1059] = {[1]="Limace framboise";[2]=""}
+_PETSTRINGS[1019] = {[1]="Reine des grodbogs affable";[2]=""}
+_PETSTRINGS[1020] = {[1]="Protecteur grodbog venimeux";[2]=""}
+_PETSTRINGS[1021] = {[1]="Reine des grodbogs agressive";[2]=""}
+_PETSTRINGS[1022] = {[1]="Protecteur grodbog luxuriant";[2]=""}
+_PETSTRINGS[1023] = {[1]="Scorpion sanglant";[2]=""}
+_PETSTRINGS[1024] = {[1]="Scorpion noir comme la nuit";[2]="";}
+_PETSTRINGS[1025] = {[1]="Jeune griffefosse pâle";[2]="";}
+_PETSTRINGS[1026] = {[1]="Reine des grodbogs crépusculaire";[2]="";}
+_PETSTRINGS[1027] = {[1]="Scorpion pâle";[2]="";}
+_PETSTRINGS[1028] = {[1]="Protecteur grodbog lumineux";[2]=""}
+_PETSTRINGS[1029] = {[1]="Protecteur grodbog rayé";[2]=""}
+_PETSTRINGS[1030] = {[1]="Reine des grodbogs sombre";[2]=""}
+_PETSTRINGS[1031] = {[1]="Jeune griffefosse rayé";[2]=""}
+_PETSTRINGS[1032] = {[1]="Chien de berger auburn de la Mûr";[2]=""}
+_PETSTRINGS[1033] = {[1]="Chien de berger caramel de la Mûr";[2]=""}
+_PETSTRINGS[1034] = {[1]="Limace du désert";[2]="";}
+_PETSTRINGS[1035] = {[1]="Guêpe du désert en armure";[2]="";}
+_PETSTRINGS[1036] = {[1]="Ver endurci par les combats";[2]="";}
+_PETSTRINGS[1037] = {[1]="Bébé mûmak brun";[2]=""}
+_PETSTRINGS[1038] = {[1]="Bébé mûmak assidu";[2]=""}
+_PETSTRINGS[1039] = {[1]="Zizanu ombré";[2]=""}
+_PETSTRINGS[1040] = {[1]="Ver rusé";[2]=""}
+_PETSTRINGS[1041] = {[1]="Bébé mûmak travailleur";[2]=""}
+_PETSTRINGS[1042] = {[1]="Vautour tacheté";[2]=""}
+_PETSTRINGS[1043] = {[1]="Bébé mûmak marbré";[2]=""}
+_PETSTRINGS[1044] = {[1]="Bébé mûmak illuminé";[2]="";}
+_PETSTRINGS[1045] = {[1]="Ver rôdeur";[2]="";}
+_PETSTRINGS[1046] = {[1]="Limace maritime";[2]="";}
+_PETSTRINGS[1047] = {[1]="Zizanu cuivré";[2]=""}
+_PETSTRINGS[1048] = {[1]="Bébé mûmak du crépuscule";[2]=""}
+_PETSTRINGS[1049] = {[1]="Limace nocturne";[2]=""}
+_PETSTRINGS[1050] = {[1]="Limace rouille";[2]=""}
+_PETSTRINGS[1051] = {[1]="Bébé mûmak surchargé";[2]=""}
+_PETSTRINGS[1052] = {[1]="Jeune crocodile des marais";[2]=""}
+_PETSTRINGS[1053] = {[1]="Bébé mûmak pierreux";[2]=""}
+_PETSTRINGS[1054] = {[1]="Limace émeraude";[2]="";}
+_PETSTRINGS[1055] = {[1]="Ver rubis";[2]="";}
+_PETSTRINGS[1056] = {[1]="Zizanu pâle";[2]="";}
+_PETSTRINGS[1057] = {[1]="Limace framboise";[2]=""}

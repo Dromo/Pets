@@ -581,6 +581,10 @@ _PETSTRINGS[491] = {[1]="Young Tawny Oryx";[2]="Available through barter from Ha
 _PETSTRINGS[492] = {[1]="Copper Scorpion";[2]="Available through barter from Hamât Renewed Rewards Quartermasters in Idagâl and Pahar Hatokáli."}
 _PETSTRINGS[493] = {[1]="Tawny Oryx";[2]="Available through barter from Hamât Renewed Rewards Quartermasters in Idagâl and Pahar Hatokáli."}
 
+_PETSTRINGS[494] = {[1]="Pony of Umbar";[2]="Limited time availability: Legendary Item Reward Track Season 18."}
+_PETSTRINGS[495] = {[1]="Tame Hyena";[2]="Limited time availability: Legendary Item Reward Track Season 18."}
+_PETSTRINGS[496] = {[1]="Timeless Elf-hawk";[2]="Available in the Timeless Patron's Simple, Enhanced, or Luxuriant Coffers of the Noldor."}
+
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}
 _PETSTRINGS[1002] = {[1]="Black-wing Kite";[2]=""}
@@ -599,45 +603,42 @@ _PETSTRINGS[1014] = {[1]="Silver Scorpion";[2]="";}
 _PETSTRINGS[1015] = {[1]="Armoured Scorpion";[2]="";}
 _PETSTRINGS[1016] = {[1]="Verdant Grodbog Queen";[2]="";}
 _PETSTRINGS[1017] = {[1]="Terror of the Caverns";[2]=""}
-_PETSTRINGS[1018] = {[1]="Pony of Umbar";[2]=""}
-_PETSTRINGS[1019] = {[1]="Verdant Deep-claw Whelp";[2]=""}
-_PETSTRINGS[1020] = {[1]="Affable Grodbog Queen";[2]=""}
-_PETSTRINGS[1021] = {[1]="Poisonous Grodbog Protector";[2]=""}
-_PETSTRINGS[1022] = {[1]="Aggressive Grodbog Queen";[2]=""}
-_PETSTRINGS[1023] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[1024] = {[1]="Tame Hyena";[2]="";}
-_PETSTRINGS[1025] = {[1]="Blood Scorpion";[2]="";}
-_PETSTRINGS[1026] = {[1]="Pitch-dark Scorpion";[2]="";}
-_PETSTRINGS[1027] = {[1]="Pale Deep-claw Whelp";[2]="";}
-_PETSTRINGS[1028] = {[1]="Dusky Grodbog Queen";[2]=""}
-_PETSTRINGS[1029] = {[1]="Pale Scorpion";[2]=""}
-_PETSTRINGS[1030] = {[1]="Bright Grodbog Protector";[2]=""}
-_PETSTRINGS[1031] = {[1]="Striped Grodbog Protector";[2]=""}
-_PETSTRINGS[1032] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[1033] = {[1]="Striped Deep-claw Whelp";[2]=""}
-_PETSTRINGS[1034] = {[1]="Rusty Mûrai Herding Dog";[2]="";}
-_PETSTRINGS[1035] = {[1]="Toffee Mûrai Herding Dog";[2]="";}
-_PETSTRINGS[1036] = {[1]="Desert Slime";[2]="";}
-_PETSTRINGS[1037] = {[1]="Armoured Desert Wasp";[2]=""}
-_PETSTRINGS[1038] = {[1]="Battle-worn Worm";[2]=""}
-_PETSTRINGS[1039] = {[1]="Brown Mûmak Calf";[2]=""}
-_PETSTRINGS[1040] = {[1]="Diligent Mûmak Calf";[2]=""}
-_PETSTRINGS[1041] = {[1]="Shade-born Zizanu";[2]=""}
-_PETSTRINGS[1042] = {[1]="Crafty Worm";[2]=""}
-_PETSTRINGS[1043] = {[1]="Industrious Mûmak Calf";[2]=""}
-_PETSTRINGS[1044] = {[1]="Mottled Vulture";[2]="";}
-_PETSTRINGS[1045] = {[1]="Marble Mûmak Calf";[2]="";}
-_PETSTRINGS[1046] = {[1]="Sun-laden Mûmak Calf";[2]="";}
-_PETSTRINGS[1047] = {[1]="Skulking Worm";[2]=""}
-_PETSTRINGS[1048] = {[1]="Sea-borne Slime";[2]=""}
-_PETSTRINGS[1049] = {[1]="Copper Zizanu";[2]=""}
-_PETSTRINGS[1050] = {[1]="Twilight Mûmak Calf";[2]=""}
-_PETSTRINGS[1051] = {[1]="Night-born Slime";[2]=""}
-_PETSTRINGS[1052] = {[1]="Rust Slime";[2]=""}
-_PETSTRINGS[1053] = {[1]="Burdened Mûmak Calf";[2]=""}
-_PETSTRINGS[1054] = {[1]="Marsh Crocodile Hatchling";[2]="";}
-_PETSTRINGS[1055] = {[1]="Stone Mûmak Calf";[2]="";}
-_PETSTRINGS[1056] = {[1]="Emerald Slime";[2]="";}
-_PETSTRINGS[1057] = {[1]="Ruby Worm";[2]=""}
-_PETSTRINGS[1058] = {[1]="Pale Zizanu";[2]=""}
-_PETSTRINGS[1059] = {[1]="Raspberry Slime";[2]=""}
+_PETSTRINGS[1019] = {[1]="Affable Grodbog Queen";[2]=""}
+_PETSTRINGS[1020] = {[1]="Poisonous Grodbog Protector";[2]=""}
+_PETSTRINGS[1021] = {[1]="Aggressive Grodbog Queen";[2]=""}
+_PETSTRINGS[1022] = {[1]="Lush Grodbog Protector";[2]=""}
+_PETSTRINGS[1023] = {[1]="Blood Scorpion";[2]=""}
+_PETSTRINGS[1024] = {[1]="Pitch-dark Scorpion";[2]="";}
+_PETSTRINGS[1025] = {[1]="Pale Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1026] = {[1]="Dusky Grodbog Queen";[2]="";}
+_PETSTRINGS[1027] = {[1]="Pale Scorpion";[2]="";}
+_PETSTRINGS[1028] = {[1]="Bright Grodbog Protector";[2]=""}
+_PETSTRINGS[1029] = {[1]="Striped Grodbog Protector";[2]=""}
+_PETSTRINGS[1030] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[1031] = {[1]="Striped Deep-claw Whelp";[2]=""}
+_PETSTRINGS[1032] = {[1]="Rusty Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[1033] = {[1]="Toffee Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[1034] = {[1]="Desert Slime";[2]="";}
+_PETSTRINGS[1035] = {[1]="Armoured Desert Wasp";[2]="";}
+_PETSTRINGS[1036] = {[1]="Battle-worn Worm";[2]="";}
+_PETSTRINGS[1037] = {[1]="Brown Mûmak Calf";[2]=""}
+_PETSTRINGS[1038] = {[1]="Diligent Mûmak Calf";[2]=""}
+_PETSTRINGS[1039] = {[1]="Shade-born Zizanu";[2]=""}
+_PETSTRINGS[1040] = {[1]="Crafty Worm";[2]=""}
+_PETSTRINGS[1041] = {[1]="Industrious Mûmak Calf";[2]=""}
+_PETSTRINGS[1042] = {[1]="Mottled Vulture";[2]=""}
+_PETSTRINGS[1043] = {[1]="Marble Mûmak Calf";[2]=""}
+_PETSTRINGS[1044] = {[1]="Sun-laden Mûmak Calf";[2]="";}
+_PETSTRINGS[1045] = {[1]="Skulking Worm";[2]="";}
+_PETSTRINGS[1046] = {[1]="Sea-borne Slime";[2]="";}
+_PETSTRINGS[1047] = {[1]="Copper Zizanu";[2]=""}
+_PETSTRINGS[1048] = {[1]="Twilight Mûmak Calf";[2]=""}
+_PETSTRINGS[1049] = {[1]="Night-born Slime";[2]=""}
+_PETSTRINGS[1050] = {[1]="Rust Slime";[2]=""}
+_PETSTRINGS[1051] = {[1]="Burdened Mûmak Calf";[2]=""}
+_PETSTRINGS[1052] = {[1]="Marsh Crocodile Hatchling";[2]=""}
+_PETSTRINGS[1053] = {[1]="Stone Mûmak Calf";[2]=""}
+_PETSTRINGS[1054] = {[1]="Emerald Slime";[2]="";}
+_PETSTRINGS[1055] = {[1]="Ruby Worm";[2]="";}
+_PETSTRINGS[1056] = {[1]="Pale Zizanu";[2]="";}
+_PETSTRINGS[1057] = {[1]="Raspberry Slime";[2]=""}
