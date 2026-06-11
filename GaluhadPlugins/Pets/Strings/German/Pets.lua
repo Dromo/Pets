@@ -580,6 +580,7 @@ _PETSTRINGS[493] = {[1]="Lohfarbener Oryx";[2]="Durch Tauschhandel bei den Beloh
 _PETSTRINGS[494] = {[1]="Umbar-Pony";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
 _PETSTRINGS[495] = {[1]="Zahme Hyäne";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
 _PETSTRINGS[496] = {[1]="Zeitloser Elbenfalke";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des zeitlosen Noldor-Gasts."}
+_PETSTRINGS[497] = {[1]="Eagle-Owl of the Flowering Sun";[2]="Available for barter during the Midsummer Festival."}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}

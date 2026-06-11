@@ -583,6 +583,7 @@ _PETSTRINGS[493] = {[1]="Oryx fauve";[2]="Disponible par échange auprès des in
 _PETSTRINGS[494] = {[1]="Poney d'Umbar";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 18."}
 _PETSTRINGS[495] = {[1]="Hyène docile";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 18."}
 _PETSTRINGS[496] = {[1]="Faucon elfique intemporel";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client intemporel des Noldor."}
+_PETSTRINGS[497] = {[1]="Eagle-Owl of the Flowering Sun";[2]="Available for barter during the Midsummer Festival."}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}

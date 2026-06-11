@@ -1,7 +1,6 @@
 Change log:
-* 2026-04-28 - U48.1 - 1 new + 2 newly available
- * Timeless Elf-hawk
- * Pony of Umbar, Tame Hyena
+* 2026-06-11 - U48.5 - 1 new
+ * Eagle-Owl of the Flowering Sun
 
 
 [Full changelog](Changelog.md)

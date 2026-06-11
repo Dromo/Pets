@@ -584,6 +584,7 @@ _PETSTRINGS[493] = {[1]="Tawny Oryx";[2]="Available through barter from Hamât R
 _PETSTRINGS[494] = {[1]="Pony of Umbar";[2]="Limited time availability: Legendary Item Reward Track Season 18."}
 _PETSTRINGS[495] = {[1]="Tame Hyena";[2]="Limited time availability: Legendary Item Reward Track Season 18."}
 _PETSTRINGS[496] = {[1]="Timeless Elf-hawk";[2]="Available in the Timeless Patron's Simple, Enhanced, or Luxuriant Coffers of the Noldor."}
+_PETSTRINGS[497] = {[1]="Eagle-Owl of the Flowering Sun";[2]="Available for barter during the Midsummer Festival."}
 
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}
