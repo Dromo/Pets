@@ -371,7 +371,7 @@ _PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Per Tauschhandel bei Theodor Gin
 _PETSTRINGS[300] = {[1]="Freundliches Bärenjunges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[301] = {[1]="Schwarzbären-Junges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
 _PETSTRINGS[302] = {[1]="Nobler Star";[2]="Erworben, indem Ihr Euch als verbesserter oder luxuriöser Unterstützer von Bruchtal gezeigt habt."}
-_PETSTRINGS[303] = {[1]="Bergesel";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 2";}
+_PETSTRINGS[303] = {[1]="Bergesel";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 2 verfügbar";}
 _PETSTRINGS[304] = {[1]="Futterbeladener Esel";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
 _PETSTRINGS[305] = {[1]="Pilz-Niederhund";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
 _PETSTRINGS[306] = {[1]="Schwarze Fledermaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 3"}
@@ -384,7 +384,7 @@ _PETSTRINGS[311] = {[1]="Gesprenkelter Crebain";[2]="Wird mit einem Rezept herge
 _PETSTRINGS[312] = {[1]="Goldene Fledermaus";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
 
 _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetauscht werden."}
-_PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 4"}
+_PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 4 verfügbar"}
 _PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
 
 _PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
@@ -414,13 +414,13 @@ _PETSTRINGS[339] = {[1]="Geflecktes graues Zwergzugpferd";[2]="Aus verbesserten 
 _PETSTRINGS[340] = {[1]="Schwarzes Zwergzugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
 _PETSTRINGS[341] = {[1]="Jubiläumsfestziege";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
 _PETSTRINGS[342] = {[1]="Reine Möwe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 6"}
-_PETSTRINGS[343] = {[1]="Höhlenschnecke";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 6"}
+_PETSTRINGS[343] = {[1]="Höhlenschnecke";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 6 verfügbar"}
 _PETSTRINGS[344] = {[1]="Siedler-Zugpferd";[2]="Aus der luxuriösen Siedlungs- und Erntetruhe."}
 _PETSTRINGS[345] = {[1]="Geflecktes Graues Zugpferd";[2]="Aus verbesserten oder luxuriösen Siedlungs- und Erntetruhen."}
 _PETSTRINGS[346] = {[1]="Schwarzes Zugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
 _PETSTRINGS[347] = {[1]="Das Pony des Königs";[2]="Erhältlich nach Abschluss der Aufgabe \"Kapitel 1.10: In allen Schatten\"."}
 _PETSTRINGS[348] = {[1]="Sommerkonzert-Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
-_PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[350] = {[1]="Stacheliger Avanc";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[351] = {[1]="Schiefergrauer Auerochse";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
 _PETSTRINGS[352] = {[1]="Braune Kuh";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
@@ -486,7 +486,7 @@ _PETSTRINGS[406] = {[1]="Goldenes Drachenjunges";[2]="Erhältlich während der T
 _PETSTRINGS[407] = {[1]="Umbrafarbener Niederhund";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
 _PETSTRINGS[408] = {[1]="Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
 _PETSTRINGS[409] = {[1]="Papagei der Dunkelheit";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
-_PETSTRINGS[410] = {[1]="Edle Elster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[410] = {[1]="Edle Elster";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[411] = {[1]="Edler Buchfink";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[412] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
 _PETSTRINGS[413] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
@@ -506,7 +506,7 @@ _PETSTRINGS[425] = {[1]="Hütehund der Rohirrim";[2]="Aus einer Luxuriösen Truh
 _PETSTRINGS[426] = {[1]="Winterabend-Schwein";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
 _PETSTRINGS[427] = {[1]="Papagei des Lichts";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
 _PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
-_PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 _PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
 
 _PETSTRINGS[431] = {[1]="Rubinroter Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
@@ -580,7 +580,10 @@ _PETSTRINGS[493] = {[1]="Lohfarbener Oryx";[2]="Durch Tauschhandel bei den Beloh
 _PETSTRINGS[494] = {[1]="Umbar-Pony";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
 _PETSTRINGS[495] = {[1]="Zahme Hyäne";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
 _PETSTRINGS[496] = {[1]="Zeitloser Elbenfalke";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des zeitlosen Noldor-Gasts."}
-_PETSTRINGS[497] = {[1]="Eagle-Owl of the Flowering Sun";[2]="Available for barter during the Midsummer Festival."}
+_PETSTRINGS[497] = {[1]="Streifenuhu der blühenden Sonne";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+
+_PETSTRINGS[498] = {[1]="Gefleckter Hamster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers.";}
+_PETSTRINGS[499] = {[1]="Gefleckter Geier";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19"}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -593,49 +596,47 @@ _PETSTRINGS[1007] = {[1]="Türkise Schlange";[2]=""}
 _PETSTRINGS[1008] = {[1]="Blattgrüne Schlange";[2]=""}
 _PETSTRINGS[1009] = {[1]="Feurige Wüstenschlange";[2]=""}
 _PETSTRINGS[1010] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
-_PETSTRINGS[1011] = {[1]="Gefleckter Hamster";[2]=""}
-_PETSTRINGS[1012] = {[1]="Graubrauner Hamster";[2]=""}
-_PETSTRINGS[1013] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[1014] = {[1]="Silberfarbener Skorpion";[2]="";}
-_PETSTRINGS[1015] = {[1]="Gepanzerter Skorpion";[2]="";}
-_PETSTRINGS[1016] = {[1]="Grüne Grodbog-Königin";[2]="";}
-_PETSTRINGS[1017] = {[1]="Höhlenschrecken";[2]=""}
-_PETSTRINGS[1019] = {[1]="Freundliche Grodbog-Königin";[2]=""}
-_PETSTRINGS[1020] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1021] = {[1]="Aggressive Grodbog-Königin";[2]=""}
-_PETSTRINGS[1022] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1023] = {[1]="Blutskorpion";[2]=""}
-_PETSTRINGS[1024] = {[1]="Pechschwarzer Skorpion";[2]="";}
-_PETSTRINGS[1025] = {[1]="Bleicher Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[1026] = {[1]="Dunkle Grodbog-Königin";[2]="";}
-_PETSTRINGS[1027] = {[1]="Bleicher Skorpion";[2]="";}
-_PETSTRINGS[1028] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1029] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1030] = {[1]="Schwarze Grodbog-Königin";[2]=""}
-_PETSTRINGS[1031] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[1032] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
-_PETSTRINGS[1033] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]=""}
-_PETSTRINGS[1034] = {[1]="Wüstenschleim";[2]="";}
-_PETSTRINGS[1035] = {[1]="Gepanzerte Wüstenwespe";[2]="";}
-_PETSTRINGS[1036] = {[1]="Kampfesmüder Wurm";[2]="";}
-_PETSTRINGS[1037] = {[1]="Braunes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1038] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1039] = {[1]="Schattengeborener Zizanu";[2]=""}
-_PETSTRINGS[1040] = {[1]="Listiger Wurm";[2]=""}
-_PETSTRINGS[1041] = {[1]="Tüchtiges Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1042] = {[1]="Gefleckter Geier";[2]=""}
-_PETSTRINGS[1043] = {[1]="Marmor-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1044] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]="";}
-_PETSTRINGS[1045] = {[1]="Lauernder Wurm";[2]="";}
-_PETSTRINGS[1046] = {[1]="Meeresschleim";[2]="";}
-_PETSTRINGS[1047] = {[1]="Kupferfarbener Zizanu";[2]=""}
-_PETSTRINGS[1048] = {[1]="Dämmerungs-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1049] = {[1]="Nachtgeborener Schleim";[2]=""}
-_PETSTRINGS[1050] = {[1]="Rostbrauner Schleim";[2]=""}
-_PETSTRINGS[1051] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1052] = {[1]="Sumpfkrokodiljunges";[2]=""}
-_PETSTRINGS[1053] = {[1]="Stein-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1054] = {[1]="Smaragdgrüner Schleim";[2]="";}
-_PETSTRINGS[1055] = {[1]="Rubinroter Wurm";[2]="";}
-_PETSTRINGS[1056] = {[1]="Bleicher Zizanu";[2]="";}
-_PETSTRINGS[1057] = {[1]="Himbeerfarbener Schleim";[2]=""}
+_PETSTRINGS[1011] = {[1]="Graubrauner Hamster";[2]=""}
+_PETSTRINGS[1012] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[1013] = {[1]="Silberfarbener Skorpion";[2]=""}
+_PETSTRINGS[1014] = {[1]="Gepanzerter Skorpion";[2]="";}
+_PETSTRINGS[1015] = {[1]="Grüne Grodbog-Königin";[2]="";}
+_PETSTRINGS[1016] = {[1]="Höhlenschrecken";[2]="";}
+_PETSTRINGS[1017] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1019] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[1020] = {[1]="Aggressive Grodbog-Königin";[2]=""}
+_PETSTRINGS[1021] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[1022] = {[1]="Blutskorpion";[2]=""}
+_PETSTRINGS[1023] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[1024] = {[1]="Bleicher Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[1025] = {[1]="Dunkle Grodbog-Königin";[2]="";}
+_PETSTRINGS[1026] = {[1]="Bleicher Skorpion";[2]="";}
+_PETSTRINGS[1027] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1028] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[1029] = {[1]="Schwarze Grodbog-Königin";[2]=""}
+_PETSTRINGS[1030] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1031] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[1032] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[1033] = {[1]="Wüstenschleim";[2]=""}
+_PETSTRINGS[1034] = {[1]="Gepanzerte Wüstenwespe";[2]="";}
+_PETSTRINGS[1035] = {[1]="Kampfesmüder Wurm";[2]="";}
+_PETSTRINGS[1036] = {[1]="Braunes Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1037] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1038] = {[1]="Schattengeborener Zizanu";[2]=""}
+_PETSTRINGS[1039] = {[1]="Listiger Wurm";[2]=""}
+_PETSTRINGS[1040] = {[1]="Tüchtiges Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1041] = {[1]="Marmor-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1042] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1043] = {[1]="Lauernder Wurm";[2]=""}
+_PETSTRINGS[1044] = {[1]="Meeresschleim";[2]="";}
+_PETSTRINGS[1045] = {[1]="Kupferfarbener Zizanu";[2]="";}
+_PETSTRINGS[1046] = {[1]="Dämmerungs-Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1047] = {[1]="Nachtgeborener Schleim";[2]=""}
+_PETSTRINGS[1048] = {[1]="Rostbrauner Schleim";[2]=""}
+_PETSTRINGS[1049] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1050] = {[1]="Sumpfkrokodiljunges";[2]=""}
+_PETSTRINGS[1051] = {[1]="Stein-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1052] = {[1]="Smaragdgrüner Schleim";[2]=""}
+_PETSTRINGS[1053] = {[1]="Rubinroter Wurm";[2]=""}
+_PETSTRINGS[1054] = {[1]="Bleicher Zizanu";[2]="";}
+_PETSTRINGS[1055] = {[1]="Himbeerfarbener Schleim";[2]="";}

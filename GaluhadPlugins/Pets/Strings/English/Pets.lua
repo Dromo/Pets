@@ -375,7 +375,7 @@ _PETSTRINGS[299] = {[1]="Formal Corgi";[2]="Available for barter from Theodore G
 _PETSTRINGS[300] = {[1]="Friendly Bear Cub";[2]="Available to barter from Celeblír in Rivendell."}
 _PETSTRINGS[301] = {[1]="Black Bear Cub";[2]="Available to barter from Celeblír in Rivendell."}
 _PETSTRINGS[302] = {[1]="Noble Starling";[2]="Acquired by being an enhanced or luxurious supporter of Rivendell."}
-_PETSTRINGS[303] = {[1]="Mountaineering Donkey";[2]="Limited time availability: Legendary Item Reward Track Season 2";}
+_PETSTRINGS[303] = {[1]="Mountaineering Donkey";[2]="Limited time availability for Figments of Splendour or in Legendary Item Reward Track Season 2";}
 _PETSTRINGS[304] = {[1]="Feed-laden Donkey";[2]="Available through barter during the Farmers Faire Festival.";}
 _PETSTRINGS[305] = {[1]="Mushroom Nether-hound";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[306] = {[1]="Black Bat";[2]="Limited time availability: Legendary Item Reward Track Season 3"}
@@ -388,7 +388,7 @@ _PETSTRINGS[311] = {[1]="Mottled Craban";[2]="Crafted from a recipe available fo
 _PETSTRINGS[312] = {[1]="Golden Bat";[2]="Available by aiding Radagast at Rhosgobel."}
 
 _PETSTRINGS[313] = {[1]="Cozy Tabby Cat";[2]="Available to barter in Cardolan."}
-_PETSTRINGS[314] = {[1]="Red Salamander";[2]="Limited time availability: Legendary Item Reward Track Season 4"}
+_PETSTRINGS[314] = {[1]="Red Salamander";[2]="Limited time availability for Figments of Splendour or in Legendary Item Reward Track Season 4"}
 _PETSTRINGS[315] = {[1]="Spooky Barrow-lurker";[2]="Available as a reward in Sarch Vorn, the Black Grave."}
 
 _PETSTRINGS[316] = {[1]="Black Marble Wolf-dog";[2]="Available from the Fall Festival."}
@@ -418,13 +418,13 @@ _PETSTRINGS[339] = {[1]="Dappled Grey Miniature Draught Horse";[2]="Acquired fro
 _PETSTRINGS[340] = {[1]="Black Miniature Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
 _PETSTRINGS[341] = {[1]="Anniversary Celebration Goat";[2]="Available through barter during the Anniversary Festival."}
 _PETSTRINGS[342] = {[1]="Pure Seagull";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
-_PETSTRINGS[343] = {[1]="Cave Slug";[2]="Limited time availability: Legendary Item Reward Track Season 6."}
+_PETSTRINGS[343] = {[1]="Cave Slug";[2]="Limited time availability for Figments of Splendour or in Legendary Item Reward Track Season 6."}
 _PETSTRINGS[344] = {[1]="Homesteader's Draught Horse";[2]="Acquired from the Homesteads and Harvests Luxuriant Coffer."}
 _PETSTRINGS[345] = {[1]="Dappled Grey Draught Horse";[2]="Acquired from Homesteads and Harvests Enhanced or Luxuriant Coffers."}
 _PETSTRINGS[346] = {[1]="Black Draught Horse";[2]="Acquired from Homesteads and Harvests Simple, Enhanced, or Luxuriant Coffers."}
 _PETSTRINGS[347] = {[1]="The King's Pony";[2]="Available by completing the quest 'The Song of Waves and Wind, Chapter 1.10: Inside Every Shadow'."}
 _PETSTRINGS[348] = {[1]="Summer Concert Firefly";[2]="Available for barter during the Midsummer Festival."}
-_PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[349] = {[1]="Spotted Jerboa";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[350] = {[1]="Spiky Avanc";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[351] = {[1]="Slate Aurochs";[2]="Available through barter by participating in Delvings."}
 _PETSTRINGS[352] = {[1]="Brown Cow";[2]="Available for barter from The Renewal of Gondor Rewards Quartermaster in Pelargir (King's Gondor)."}
@@ -490,7 +490,7 @@ _PETSTRINGS[406] = {[1]="Golden Drakeling";[2]="Available from participating in 
 _PETSTRINGS[407] = {[1]="Umber Nether-hound";[2]="Available during the Veil of the Nine event on Legendary Worlds."}
 _PETSTRINGS[408] = {[1]="Deep-claw Whelp";[2]="Limited time availability: Legendary Item Reward Track Season 11."}
 _PETSTRINGS[409] = {[1]="Parrot of Darkness";[2]="Limited time availability: Legendary Item Reward Track Season 11."}
-_PETSTRINGS[410] = {[1]="Sophisticated Magpie";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[410] = {[1]="Sophisticated Magpie";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[411] = {[1]="Sophisticated Chaffinch";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[412] = {[1]="Rohan Aurochs";[2]="Available from Theodore Gorse during the Treasure Bugan event."}
 _PETSTRINGS[413] = {[1]="Heather Hamster";[2]="Available through barter during the Farmers Faire Festival."}
@@ -510,7 +510,7 @@ _PETSTRINGS[425] = {[1]="Herding Dog of the Rohirrim";[2]="Acquired from the Pat
 _PETSTRINGS[426] = {[1]="Snowy Evening Pig";[2]="Available for barter in the Yule Festival."}
 _PETSTRINGS[427] = {[1]="Parrot of Light";[2]="Available from Hobbit Presents as a special Silver Winter Gift."}
 _PETSTRINGS[428] = {[1]="Ametrine Drakeling";[2]="Available from Hobbit Presents as a special Gold Winter Gift."}
-_PETSTRINGS[429] = {[1]="Mushroom Hunter's Corgi";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes."}
+_PETSTRINGS[429] = {[1]="Mushroom Hunter's Corgi";[2]="Limited time availability for Figments of Splendour."}
 _PETSTRINGS[430] = {[1]="Mushroom Hunter's Frog";[2]="Limited time availability for Figments of Splendour."}
 
 _PETSTRINGS[431] = {[1]="Ruby Sand Worm";[2]="Available through barter by participating in Delvings."}
@@ -586,6 +586,9 @@ _PETSTRINGS[495] = {[1]="Tame Hyena";[2]="Limited time availability: Legendary I
 _PETSTRINGS[496] = {[1]="Timeless Elf-hawk";[2]="Available in the Timeless Patron's Simple, Enhanced, or Luxuriant Coffers of the Noldor."}
 _PETSTRINGS[497] = {[1]="Eagle-Owl of the Flowering Sun";[2]="Available for barter during the Midsummer Festival."}
 
+_PETSTRINGS[498] = {[1]="Spotted Hamster";[2]="Limited time availability in Traveller's and Adventurer's Lootboxes.";}
+_PETSTRINGS[499] = {[1]="Mottled Vulture";[2]="Limited time availability: Legendary Item Reward Track Season 19."}
+
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}
 _PETSTRINGS[1002] = {[1]="Black-wing Kite";[2]=""}
@@ -597,49 +600,47 @@ _PETSTRINGS[1007] = {[1]="Turquoise Snake";[2]=""}
 _PETSTRINGS[1008] = {[1]="Leafy Green Snake";[2]=""}
 _PETSTRINGS[1009] = {[1]="Fiery Desert Snake";[2]=""}
 _PETSTRINGS[1010] = {[1]="Chestnut Sand Worm";[2]=""}
-_PETSTRINGS[1011] = {[1]="Spotted Hamster";[2]=""}
-_PETSTRINGS[1012] = {[1]="Taupe Hamster";[2]=""}
-_PETSTRINGS[1013] = {[1]="Amethyst Drakeling";[2]=""}
-_PETSTRINGS[1014] = {[1]="Silver Scorpion";[2]="";}
-_PETSTRINGS[1015] = {[1]="Armoured Scorpion";[2]="";}
-_PETSTRINGS[1016] = {[1]="Verdant Grodbog Queen";[2]="";}
-_PETSTRINGS[1017] = {[1]="Terror of the Caverns";[2]=""}
-_PETSTRINGS[1019] = {[1]="Affable Grodbog Queen";[2]=""}
-_PETSTRINGS[1020] = {[1]="Poisonous Grodbog Protector";[2]=""}
-_PETSTRINGS[1021] = {[1]="Aggressive Grodbog Queen";[2]=""}
-_PETSTRINGS[1022] = {[1]="Lush Grodbog Protector";[2]=""}
-_PETSTRINGS[1023] = {[1]="Blood Scorpion";[2]=""}
-_PETSTRINGS[1024] = {[1]="Pitch-dark Scorpion";[2]="";}
-_PETSTRINGS[1025] = {[1]="Pale Deep-claw Whelp";[2]="";}
-_PETSTRINGS[1026] = {[1]="Dusky Grodbog Queen";[2]="";}
-_PETSTRINGS[1027] = {[1]="Pale Scorpion";[2]="";}
-_PETSTRINGS[1028] = {[1]="Bright Grodbog Protector";[2]=""}
-_PETSTRINGS[1029] = {[1]="Striped Grodbog Protector";[2]=""}
-_PETSTRINGS[1030] = {[1]="Dark Grodbog Queen";[2]=""}
-_PETSTRINGS[1031] = {[1]="Striped Deep-claw Whelp";[2]=""}
-_PETSTRINGS[1032] = {[1]="Rusty Mûrai Herding Dog";[2]=""}
-_PETSTRINGS[1033] = {[1]="Toffee Mûrai Herding Dog";[2]=""}
-_PETSTRINGS[1034] = {[1]="Desert Slime";[2]="";}
-_PETSTRINGS[1035] = {[1]="Armoured Desert Wasp";[2]="";}
-_PETSTRINGS[1036] = {[1]="Battle-worn Worm";[2]="";}
-_PETSTRINGS[1037] = {[1]="Brown Mûmak Calf";[2]=""}
-_PETSTRINGS[1038] = {[1]="Diligent Mûmak Calf";[2]=""}
-_PETSTRINGS[1039] = {[1]="Shade-born Zizanu";[2]=""}
-_PETSTRINGS[1040] = {[1]="Crafty Worm";[2]=""}
-_PETSTRINGS[1041] = {[1]="Industrious Mûmak Calf";[2]=""}
-_PETSTRINGS[1042] = {[1]="Mottled Vulture";[2]=""}
-_PETSTRINGS[1043] = {[1]="Marble Mûmak Calf";[2]=""}
-_PETSTRINGS[1044] = {[1]="Sun-laden Mûmak Calf";[2]="";}
-_PETSTRINGS[1045] = {[1]="Skulking Worm";[2]="";}
-_PETSTRINGS[1046] = {[1]="Sea-borne Slime";[2]="";}
-_PETSTRINGS[1047] = {[1]="Copper Zizanu";[2]=""}
-_PETSTRINGS[1048] = {[1]="Twilight Mûmak Calf";[2]=""}
-_PETSTRINGS[1049] = {[1]="Night-born Slime";[2]=""}
-_PETSTRINGS[1050] = {[1]="Rust Slime";[2]=""}
-_PETSTRINGS[1051] = {[1]="Burdened Mûmak Calf";[2]=""}
-_PETSTRINGS[1052] = {[1]="Marsh Crocodile Hatchling";[2]=""}
-_PETSTRINGS[1053] = {[1]="Stone Mûmak Calf";[2]=""}
-_PETSTRINGS[1054] = {[1]="Emerald Slime";[2]="";}
-_PETSTRINGS[1055] = {[1]="Ruby Worm";[2]="";}
-_PETSTRINGS[1056] = {[1]="Pale Zizanu";[2]="";}
-_PETSTRINGS[1057] = {[1]="Raspberry Slime";[2]=""}
+_PETSTRINGS[1011] = {[1]="Taupe Hamster";[2]=""}
+_PETSTRINGS[1012] = {[1]="Amethyst Drakeling";[2]=""}
+_PETSTRINGS[1013] = {[1]="Silver Scorpion";[2]=""}
+_PETSTRINGS[1014] = {[1]="Armoured Scorpion";[2]="";}
+_PETSTRINGS[1015] = {[1]="Verdant Grodbog Queen";[2]="";}
+_PETSTRINGS[1016] = {[1]="Terror of the Caverns";[2]="";}
+_PETSTRINGS[1017] = {[1]="Verdant Deep-claw Whelp";[2]=""}
+_PETSTRINGS[1019] = {[1]="Poisonous Grodbog Protector";[2]=""}
+_PETSTRINGS[1020] = {[1]="Aggressive Grodbog Queen";[2]=""}
+_PETSTRINGS[1021] = {[1]="Lush Grodbog Protector";[2]=""}
+_PETSTRINGS[1022] = {[1]="Blood Scorpion";[2]=""}
+_PETSTRINGS[1023] = {[1]="Pitch-dark Scorpion";[2]=""}
+_PETSTRINGS[1024] = {[1]="Pale Deep-claw Whelp";[2]="";}
+_PETSTRINGS[1025] = {[1]="Dusky Grodbog Queen";[2]="";}
+_PETSTRINGS[1026] = {[1]="Pale Scorpion";[2]="";}
+_PETSTRINGS[1027] = {[1]="Bright Grodbog Protector";[2]="";}
+_PETSTRINGS[1028] = {[1]="Striped Grodbog Protector";[2]=""}
+_PETSTRINGS[1029] = {[1]="Dark Grodbog Queen";[2]=""}
+_PETSTRINGS[1030] = {[1]="Striped Deep-claw Whelp";[2]=""}
+_PETSTRINGS[1031] = {[1]="Rusty Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[1032] = {[1]="Toffee Mûrai Herding Dog";[2]=""}
+_PETSTRINGS[1033] = {[1]="Desert Slime";[2]=""}
+_PETSTRINGS[1034] = {[1]="Armoured Desert Wasp";[2]="";}
+_PETSTRINGS[1035] = {[1]="Battle-worn Worm";[2]="";}
+_PETSTRINGS[1036] = {[1]="Brown Mûmak Calf";[2]="";}
+_PETSTRINGS[1037] = {[1]="Diligent Mûmak Calf";[2]=""}
+_PETSTRINGS[1038] = {[1]="Shade-born Zizanu";[2]=""}
+_PETSTRINGS[1039] = {[1]="Crafty Worm";[2]=""}
+_PETSTRINGS[1040] = {[1]="Industrious Mûmak Calf";[2]=""}
+_PETSTRINGS[1041] = {[1]="Marble Mûmak Calf";[2]=""}
+_PETSTRINGS[1042] = {[1]="Sun-laden Mûmak Calf";[2]=""}
+_PETSTRINGS[1043] = {[1]="Skulking Worm";[2]=""}
+_PETSTRINGS[1044] = {[1]="Sea-borne Slime";[2]="";}
+_PETSTRINGS[1045] = {[1]="Copper Zizanu";[2]="";}
+_PETSTRINGS[1046] = {[1]="Twilight Mûmak Calf";[2]="";}
+_PETSTRINGS[1047] = {[1]="Night-born Slime";[2]=""}
+_PETSTRINGS[1048] = {[1]="Rust Slime";[2]=""}
+_PETSTRINGS[1049] = {[1]="Burdened Mûmak Calf";[2]=""}
+_PETSTRINGS[1050] = {[1]="Marsh Crocodile Hatchling";[2]=""}
+_PETSTRINGS[1051] = {[1]="Stone Mûmak Calf";[2]=""}
+_PETSTRINGS[1052] = {[1]="Emerald Slime";[2]=""}
+_PETSTRINGS[1053] = {[1]="Ruby Worm";[2]=""}
+_PETSTRINGS[1054] = {[1]="Pale Zizanu";[2]="";}
+_PETSTRINGS[1055] = {[1]="Raspberry Slime";[2]="";}

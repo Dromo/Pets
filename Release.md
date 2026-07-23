@@ -1,6 +1,6 @@
 Change log:
-* 2026-06-11 - U48.5 - 1 new
- * Eagle-Owl of the Flowering Sun
+* 2026-06-11 - U49 - 2 new
+ * Spotted Hamster, Mottled Vulture
 
 
 [Full changelog](Changelog.md)
