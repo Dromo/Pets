@@ -1,4 +1,6 @@
 Change log:
+* 2026-06-11 - U49.1 - 4 new
+ *  Rust Slime, Night-born Slime, Calf of High-land Pastures, Lush Grodbog Protector
 * 2026-06-11 - U49 - 2 new
  * Spotted Hamster, Mottled Vulture
 * 2026-06-11 - U48.5 - 1 new

@@ -584,6 +584,10 @@ _PETSTRINGS[497] = {[1]="Streifenuhu der blühenden Sonne";[2]="Während des Mit
 
 _PETSTRINGS[498] = {[1]="Gefleckter Hamster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers.";}
 _PETSTRINGS[499] = {[1]="Gefleckter Geier";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19"}
+_PETSTRINGS[500] = {[1]="Rostbrauner Schleim";[2]="";}
+_PETSTRINGS[501] = {[1]="Nachtgeborener Schleim";[2]="";}
+_PETSTRINGS[502] = {[1]="Calf of High-land Pastures";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[503] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -605,38 +609,35 @@ _PETSTRINGS[1016] = {[1]="Höhlenschrecken";[2]="";}
 _PETSTRINGS[1017] = {[1]="Grüner Tiefenklauen-Welpe";[2]=""}
 _PETSTRINGS[1019] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
 _PETSTRINGS[1020] = {[1]="Aggressive Grodbog-Königin";[2]=""}
-_PETSTRINGS[1021] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1022] = {[1]="Blutskorpion";[2]=""}
-_PETSTRINGS[1023] = {[1]="Pechschwarzer Skorpion";[2]=""}
-_PETSTRINGS[1024] = {[1]="Bleicher Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[1025] = {[1]="Dunkle Grodbog-Königin";[2]="";}
-_PETSTRINGS[1026] = {[1]="Bleicher Skorpion";[2]="";}
-_PETSTRINGS[1027] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[1028] = {[1]="Gestreifter Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1029] = {[1]="Schwarze Grodbog-Königin";[2]=""}
-_PETSTRINGS[1030] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[1031] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
-_PETSTRINGS[1032] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]=""}
-_PETSTRINGS[1033] = {[1]="Wüstenschleim";[2]=""}
-_PETSTRINGS[1034] = {[1]="Gepanzerte Wüstenwespe";[2]="";}
-_PETSTRINGS[1035] = {[1]="Kampfesmüder Wurm";[2]="";}
-_PETSTRINGS[1036] = {[1]="Braunes Mûmak-Kalb";[2]="";}
-_PETSTRINGS[1037] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1038] = {[1]="Schattengeborener Zizanu";[2]=""}
-_PETSTRINGS[1039] = {[1]="Listiger Wurm";[2]=""}
-_PETSTRINGS[1040] = {[1]="Tüchtiges Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1041] = {[1]="Marmor-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1042] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1043] = {[1]="Lauernder Wurm";[2]=""}
-_PETSTRINGS[1044] = {[1]="Meeresschleim";[2]="";}
-_PETSTRINGS[1045] = {[1]="Kupferfarbener Zizanu";[2]="";}
-_PETSTRINGS[1046] = {[1]="Dämmerungs-Mûmak-Kalb";[2]="";}
-_PETSTRINGS[1047] = {[1]="Nachtgeborener Schleim";[2]=""}
-_PETSTRINGS[1048] = {[1]="Rostbrauner Schleim";[2]=""}
-_PETSTRINGS[1049] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1050] = {[1]="Sumpfkrokodiljunges";[2]=""}
-_PETSTRINGS[1051] = {[1]="Stein-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1052] = {[1]="Smaragdgrüner Schleim";[2]=""}
-_PETSTRINGS[1053] = {[1]="Rubinroter Wurm";[2]=""}
-_PETSTRINGS[1054] = {[1]="Bleicher Zizanu";[2]="";}
-_PETSTRINGS[1055] = {[1]="Himbeerfarbener Schleim";[2]="";}
+_PETSTRINGS[1021] = {[1]="Blutskorpion";[2]=""}
+_PETSTRINGS[1022] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[1023] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1024] = {[1]="Dunkle Grodbog-Königin";[2]="";}
+_PETSTRINGS[1025] = {[1]="Bleicher Skorpion";[2]="";}
+_PETSTRINGS[1026] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1027] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1028] = {[1]="Schwarze Grodbog-Königin";[2]=""}
+_PETSTRINGS[1029] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1030] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[1031] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]=""}
+_PETSTRINGS[1032] = {[1]="Wüstenschleim";[2]=""}
+_PETSTRINGS[1033] = {[1]="Gepanzerte Wüstenwespe";[2]=""}
+_PETSTRINGS[1034] = {[1]="Kampfesmüder Wurm";[2]="";}
+_PETSTRINGS[1035] = {[1]="Braunes Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1036] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1037] = {[1]="Schattengeborener Zizanu";[2]=""}
+_PETSTRINGS[1038] = {[1]="Listiger Wurm";[2]=""}
+_PETSTRINGS[1039] = {[1]="Tüchtiges Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1040] = {[1]="Marmor-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1041] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1042] = {[1]="Lauernder Wurm";[2]=""}
+_PETSTRINGS[1043] = {[1]="Meeresschleim";[2]=""}
+_PETSTRINGS[1044] = {[1]="Kupferfarbener Zizanu";[2]="";}
+_PETSTRINGS[1045] = {[1]="Dämmerungs-Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1046] = {[1]="Belastetes Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1047] = {[1]="Sumpfkrokodiljunges";[2]=""}
+_PETSTRINGS[1048] = {[1]="Stein-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1049] = {[1]="Smaragdgrüner Schleim";[2]=""}
+_PETSTRINGS[1050] = {[1]="Rubinroter Wurm";[2]=""}
+_PETSTRINGS[1051] = {[1]="Bleicher Zizanu";[2]=""}
+_PETSTRINGS[1052] = {[1]="Himbeerfarbener Schleim";[2]=""}
