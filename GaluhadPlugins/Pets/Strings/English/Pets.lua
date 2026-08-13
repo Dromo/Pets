@@ -592,6 +592,10 @@ _PETSTRINGS[500] = {[1]="Rust Slime";[2]="";}
 _PETSTRINGS[501] = {[1]="Night-born Slime";[2]="";}
 _PETSTRINGS[502] = {[1]="Calf of High-land Pastures";[2]="Available through barter during the Farmers Faire Festival."}
 _PETSTRINGS[503] = {[1]="Lush Grodbog Protector";[2]="Available through barter during the Farmers Faire Festival."}
+_PETSTRINGS[504] = {[1]="Golden Stag";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
+_PETSTRINGS[505] = {[1]="Golden Doe";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
+_PETSTRINGS[506] = {[1]="Golden Fawn";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
+_PETSTRINGS[507] = {[1]="Hound of Promised Allies";[2]="Available in the Patron's Simple, Enhanced, or Luxuriant Coffers of Promised Allies.";}
 
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}

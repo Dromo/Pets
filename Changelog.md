@@ -1,7 +1,9 @@
 Change log:
-* 2026-06-11 - U49.1 - 4 new
+* 2026-08-13 - U49.3 - 4 new pets
+ *  Golden Stag, Golden Doe, Golden Fawn, Hound of Promised Allie
+* 2026-07-30 - U49.1 - 4 new
  *  Rust Slime, Night-born Slime, Calf of High-land Pastures, Lush Grodbog Protector
-* 2026-06-11 - U49 - 2 new
+* 2026-07-23 - U49 - 2 new
  * Spotted Hamster, Mottled Vulture
 * 2026-06-11 - U48.5 - 1 new
  * Eagle-Owl of the Flowering Sun

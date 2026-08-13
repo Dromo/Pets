@@ -589,8 +589,12 @@ _PETSTRINGS[498] = {[1]="Hamster moucheté";[2]="Disponibilité limitée dans le
 _PETSTRINGS[499] = {[1]="Vautour tacheté";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19."}
 _PETSTRINGS[500] = {[1]="Limace rouille";[2]="";}
 _PETSTRINGS[501] = {[1]="Limace nocturne";[2]="";}
-_PETSTRINGS[502] = {[1]="Calf of High-land Pastures";[2]="Available through barter during the Farmers Faire Festival."}
-_PETSTRINGS[503] = {[1]="Protecteur grodbog luxuriant";[2]=""}
+_PETSTRINGS[502] = {[1]="Veau des alpages";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[503] = {[1]="Protecteur grodbog luxuriant";[2]="Disponible par échange au cours du Festival de la Foire des fermiers."}
+_PETSTRINGS[504] = {[1]="Cerf doré";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
+_PETSTRINGS[505] = {[1]="Biche dorée";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
+_PETSTRINGS[506] = {[1]="Faon doré";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
+_PETSTRINGS[507] = {[1]="Chien des alliés promis";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client des alliés promis.";}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}

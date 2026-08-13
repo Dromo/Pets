@@ -387,7 +387,7 @@ _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetausc
 _PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 4 verfügbar"}
 _PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
 
-_PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[316] = {[1]="Schwarzer Marmor Wolfshund";[2]="Beim Herbstfest erhältlich"}
 _PETSTRINGS[317] = {[1]="Weiße Gans";[2]="In den Fernen Auen erhältlich.";}
 _PETSTRINGS[318] = {[1]="Warmes Winter-Zicklein";[2]="In Saison 4 der Belohnungsleiste für legendäre Gegenstände erhältlich.";}
 _PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
@@ -586,8 +586,12 @@ _PETSTRINGS[498] = {[1]="Gefleckter Hamster";[2]="Zeitlich begrenzte Verfügbark
 _PETSTRINGS[499] = {[1]="Gefleckter Geier";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19"}
 _PETSTRINGS[500] = {[1]="Rostbrauner Schleim";[2]="";}
 _PETSTRINGS[501] = {[1]="Nachtgeborener Schleim";[2]="";}
-_PETSTRINGS[502] = {[1]="Calf of High-land Pastures";[2]="Available through barter during the Farmers Faire Festival."}
-_PETSTRINGS[503] = {[1]="Üppiger Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[502] = {[1]="Kalb der Hochlandweiden";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[503] = {[1]="Üppiger Grodbog-Beschützer";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[504] = {[1]="Goldener Hirsch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[505] = {[1]="Goldene Hirschkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[506] = {[1]="Goldenes Hirschkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[507] = {[1]="Hund der versprochenen Verbündeten";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der versprochenen Verbündeten.";}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}

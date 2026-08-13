@@ -1,6 +1,6 @@
 Change log:
-* 2026-06-11 - U49.1 - 4 new
- *  Rust Slime, Night-born Slime, Calf of High-land Pastures, Lush Grodbog Protector
+* 2026-08-13 - U49.3 - 4 new pets
+ *  Golden Stag, Golden Doe, Golden Fawn, Hound of Promised Allie
 
 
 [Full changelog](Changelog.md)
