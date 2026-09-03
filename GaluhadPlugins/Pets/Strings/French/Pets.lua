@@ -595,6 +595,7 @@ _PETSTRINGS[504] = {[1]="Cerf doré";[2]="Offre à durée limitée : suivi de r
 _PETSTRINGS[505] = {[1]="Biche dorée";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
 _PETSTRINGS[506] = {[1]="Faon doré";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
 _PETSTRINGS[507] = {[1]="Chien des alliés promis";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client des alliés promis.";}
+_PETSTRINGS[508] = {[1]="Macabras au trésor";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}
@@ -648,3 +649,13 @@ _PETSTRINGS[1049] = {[1]="Limace émeraude";[2]=""}
 _PETSTRINGS[1050] = {[1]="Ver rubis";[2]=""}
 _PETSTRINGS[1051] = {[1]="Zizanu pâle";[2]=""}
 _PETSTRINGS[1052] = {[1]="Limace framboise";[2]=""}
+_PETSTRINGS[1053] = {[1]="Faon tacheté de la Forêt Noire";[2]=""}
+_PETSTRINGS[1054] = {[1]="Cerf des taillis printaniers";[2]="";}
+_PETSTRINGS[1055] = {[1]="Cerf tacheté de la Forêt Noire";[2]="";}
+_PETSTRINGS[1056] = {[1]="Biche au cou blanc";[2]="";}
+_PETSTRINGS[1057] = {[1]="Biche des bosquets majestueuse";[2]=""}
+_PETSTRINGS[1058] = {[1]="Cerf des bosquets majestueux";[2]=""}
+_PETSTRINGS[1059] = {[1]="Biche tachetée de la Forêt Noire";[2]=""}
+_PETSTRINGS[1060] = {[1]="Faon au cou blanc";[2]=""}
+_PETSTRINGS[1061] = {[1]="Cerf au cou blanc";[2]=""}
+_PETSTRINGS[1062] = {[1]="Faon des bosquets majestueux";[2]=""}

@@ -387,7 +387,7 @@ _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetausc
 _PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 4 verfügbar"}
 _PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
 
-_PETSTRINGS[316] = {[1]="Schwarzer Marmor Wolfshund";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
 _PETSTRINGS[317] = {[1]="Weiße Gans";[2]="In den Fernen Auen erhältlich.";}
 _PETSTRINGS[318] = {[1]="Warmes Winter-Zicklein";[2]="In Saison 4 der Belohnungsleiste für legendäre Gegenstände erhältlich.";}
 _PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
@@ -592,6 +592,7 @@ _PETSTRINGS[504] = {[1]="Goldener Hirsch";[2]="Nur für kurze Zeit verfügbar: B
 _PETSTRINGS[505] = {[1]="Goldene Hirschkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
 _PETSTRINGS[506] = {[1]="Goldenes Hirschkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
 _PETSTRINGS[507] = {[1]="Hund der versprochenen Verbündeten";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der versprochenen Verbündeten.";}
+_PETSTRINGS[508] = {[1]="Schatz-Grimmiger";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -645,3 +646,13 @@ _PETSTRINGS[1049] = {[1]="Smaragdgrüner Schleim";[2]=""}
 _PETSTRINGS[1050] = {[1]="Rubinroter Wurm";[2]=""}
 _PETSTRINGS[1051] = {[1]="Bleicher Zizanu";[2]=""}
 _PETSTRINGS[1052] = {[1]="Himbeerfarbener Schleim";[2]=""}
+_PETSTRINGS[1053] = {[1]="Geflecktes Düsterwald-Kitz";[2]=""}
+_PETSTRINGS[1054] = {[1]="Frühlingswäldchen-Hirsch";[2]="";}
+_PETSTRINGS[1055] = {[1]="Gefleckter Düsterwald-Hirsch";[2]="";}
+_PETSTRINGS[1056] = {[1]="Weißhals-Hirschkuh";[2]="";}
+_PETSTRINGS[1057] = {[1]="Königliche Hainhirschkuh";[2]=""}
+_PETSTRINGS[1058] = {[1]="Königlicher Hainhirsch";[2]=""}
+_PETSTRINGS[1059] = {[1]="Gefleckte Düsterwald-Hirschkuh";[2]=""}
+_PETSTRINGS[1060] = {[1]="Weißhals-Kitz";[2]=""}
+_PETSTRINGS[1061] = {[1]="Weißhals-Hirsch";[2]=""}
+_PETSTRINGS[1062] = {[1]="Königliches Hainkitz";[2]=""}

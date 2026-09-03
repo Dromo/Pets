@@ -596,6 +596,7 @@ _PETSTRINGS[504] = {[1]="Golden Stag";[2]="Limited time availability: Legendary 
 _PETSTRINGS[505] = {[1]="Golden Doe";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
 _PETSTRINGS[506] = {[1]="Golden Fawn";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
 _PETSTRINGS[507] = {[1]="Hound of Promised Allies";[2]="Available in the Patron's Simple, Enhanced, or Luxuriant Coffers of Promised Allies.";}
+_PETSTRINGS[508] = {[1]="Treasure Grim";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
 
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}
@@ -649,3 +650,13 @@ _PETSTRINGS[1049] = {[1]="Emerald Slime";[2]=""}
 _PETSTRINGS[1050] = {[1]="Ruby Worm";[2]=""}
 _PETSTRINGS[1051] = {[1]="Pale Zizanu";[2]=""}
 _PETSTRINGS[1052] = {[1]="Raspberry Slime";[2]=""}
+_PETSTRINGS[1053] = {[1]="Mottled Mirkwood Fawn";[2]=""}
+_PETSTRINGS[1054] = {[1]="Spring Copse Stag";[2]="";}
+_PETSTRINGS[1055] = {[1]="Mottled Mirkwood Stag";[2]="";}
+_PETSTRINGS[1056] = {[1]="White-necked Doe";[2]="";}
+_PETSTRINGS[1057] = {[1]="Regal Grove Doe";[2]=""}
+_PETSTRINGS[1058] = {[1]="Regal Grove Stag";[2]=""}
+_PETSTRINGS[1059] = {[1]="Mottled Mirkwood Doe";[2]=""}
+_PETSTRINGS[1060] = {[1]="White-necked Fawn";[2]=""}
+_PETSTRINGS[1061] = {[1]="White-necked Stag";[2]=""}
+_PETSTRINGS[1062] = {[1]="Regal Grove Fawn";[2]=""}
