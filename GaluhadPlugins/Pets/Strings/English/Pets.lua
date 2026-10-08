@@ -597,6 +597,8 @@ _PETSTRINGS[505] = {[1]="Golden Doe";[2]="Limited time availability: Legendary I
 _PETSTRINGS[506] = {[1]="Golden Fawn";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
 _PETSTRINGS[507] = {[1]="Hound of Promised Allies";[2]="Available in the Patron's Simple, Enhanced, or Luxuriant Coffers of Promised Allies.";}
 _PETSTRINGS[508] = {[1]="Treasure Grim";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
+_PETSTRINGS[509] = {[1]="Midnight Raven";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[510] = {[1]="The Hunter's Hound";[2]="Available in the Wolves of Mordor Ultimate Fan Bundle."}
 
 _PETSTRINGS[1000] = {[1]="Stripey Bat";[2]=""}
 _PETSTRINGS[1001] = {[1]="Tan Bat";[2]=""}

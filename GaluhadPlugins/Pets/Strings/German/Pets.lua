@@ -387,7 +387,7 @@ _PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetausc
 _PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 4 verfügbar"}
 _PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
 
-_PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[316] = {[1]="Schwarzer Marmor Wolfshund";[2]="Beim Herbstfest erhältlich"}
 _PETSTRINGS[317] = {[1]="Weiße Gans";[2]="In den Fernen Auen erhältlich.";}
 _PETSTRINGS[318] = {[1]="Warmes Winter-Zicklein";[2]="In Saison 4 der Belohnungsleiste für legendäre Gegenstände erhältlich.";}
 _PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
@@ -593,6 +593,8 @@ _PETSTRINGS[505] = {[1]="Goldene Hirschkuh";[2]="Nur für kurze Zeit verfügbar:
 _PETSTRINGS[506] = {[1]="Goldenes Hirschkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
 _PETSTRINGS[507] = {[1]="Hund der versprochenen Verbündeten";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der versprochenen Verbündeten.";}
 _PETSTRINGS[508] = {[1]="Schatz-Grimmiger";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
+_PETSTRINGS[509] = {[1]="Mitternachtsrabe";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[510] = {[1]="Der Hund des Jägers";[2]="Erhältlich im Ultimativen Fanpaket von 'Die Wölfe von Mordor'."}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}

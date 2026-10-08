@@ -376,7 +376,7 @@ _PETSTRINGS[299] = {[1]="Обычный корги";[2]="Доступно к о�
 _PETSTRINGS[300] = {[1]="Дружелюбный медвежонок";[2]="Доступно к обмену у Келеблира в Ривенделле."}
 _PETSTRINGS[301] = {[1]="Черный медвежонок";[2]="Доступно к обмену у Келеблира в Ривенделле."}
 _PETSTRINGS[302] = {[1]="Благородный скворец";[2]="Доступно к получению в улучшенном или роскошном ривенделлском пакете поддержки."}
-_PETSTRINGS[303] = {[1]="Горная ослица";[2]="Наградная шкала легендарных предметов, сезон 2. Доступно в течение ограниченного времени.";}
+_PETSTRINGS[303] = {[1]="Горная ослица";[2]="Доступно к обмену в течение ограниченного времени за осколки великолепия или за заполнение наградной шкалы легендарных предметов, сезон 2";}
 _PETSTRINGS[304] = {[1]="Навьюченная провиантом ослица";[2]="Доступно для обмена во время Фермерской ярмарки.";}
 _PETSTRINGS[305] = {[1]="Низкорослая гончая для грибной охоты";[2]="Доступно для обмена во время Фермерской ярмарки."}
 _PETSTRINGS[306] = {[1]="Черная летучая мышь";[2]="Наградная шкала легендарных предметов, сезон 3. Доступно в течение ограниченного времени."}
@@ -599,6 +599,8 @@ _PETSTRINGS[505] = {[1]="Golden Doe";[2]="Limited time availability: Legendary I
 _PETSTRINGS[506] = {[1]="Golden Fawn";[2]="Limited time availability: Legendary Item Reward Track Season 19.";}
 _PETSTRINGS[507] = {[1]="Hound of Promised Allies";[2]="Available in the Patron's Simple, Enhanced, or Luxuriant Coffers of Promised Allies.";}
 _PETSTRINGS[508] = {[1]="Treasure Grim";[2]="Available from Theodore Gorse during the Treasure Bugan event.";}
+_PETSTRINGS[509] = {[1]="Midnight Raven";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[510] = {[1]="The Hunter's Hound";[2]="Available in the Wolves of Mordor Ultimate Fan Bundle."}
 
 _PETSTRINGS[1000] = {[1]="Полосатая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
 _PETSTRINGS[1001] = {[1]="Палевая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}

@@ -596,6 +596,8 @@ _PETSTRINGS[505] = {[1]="Biche dorée";[2]="Offre à durée limitée : suivi de
 _PETSTRINGS[506] = {[1]="Faon doré";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
 _PETSTRINGS[507] = {[1]="Chien des alliés promis";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client des alliés promis.";}
 _PETSTRINGS[508] = {[1]="Macabras au trésor";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
+_PETSTRINGS[509] = {[1]="Midnight Raven";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[510] = {[1]="Le chien de chasse";[2]="Disponible dans le Pack Fan ultime des Loups du Mordor."}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}
