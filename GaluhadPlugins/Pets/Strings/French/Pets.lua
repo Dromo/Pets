@@ -596,8 +596,28 @@ _PETSTRINGS[505] = {[1]="Biche dorée";[2]="Offre à durée limitée : suivi de
 _PETSTRINGS[506] = {[1]="Faon doré";[2]="Offre à durée limitée : suivi de récompense d’objets légendaires de la saison 19.";}
 _PETSTRINGS[507] = {[1]="Chien des alliés promis";[2]="Disponible dans le Coffre simple, amélioré ou luxuriant du client des alliés promis.";}
 _PETSTRINGS[508] = {[1]="Macabras au trésor";[2]="Disponible auprès de Théodore Lajonc dans l'événement du Trésor bugan.";}
-_PETSTRINGS[509] = {[1]="Midnight Raven";[2]="Available through barter during the Fall Festival."}
+_PETSTRINGS[509] = {[1]="Corbeau de minuit";[2]="Disponible par échange au cours du Festival d'automne."}
 _PETSTRINGS[510] = {[1]="Le chien de chasse";[2]="Disponible dans le Pack Fan ultime des Loups du Mordor."}
+
+_PETSTRINGS[511] = {[1]="Grenouille caméléon tachetée";[2]="Disponible à l'échange auprès de l'intendant des Têtikirs."}
+_PETSTRINGS[512] = {[1]="Garaferien cendré";[2]="Disponible à l'échange auprès de l'intendant des Têtikirs."}
+_PETSTRINGS[513] = {[1]="Kalorkhûn";[2]="Disponible en utilisant l'Instinct de survie Appâter l'ennemi."}
+_PETSTRINGS[514] = {[1]="Frétillask précieux";[2]="Disponible en utilisant l'Instinct de survie Trésor caché."}
+_PETSTRINGS[515] = {[1]="Frétillask gloire-du-matin";[2]="Disponible à l'échange auprès de l'intendant des Khemozêl."}
+_PETSTRINGS[516] = {[1]="Cliquebourbier primitif";[2]="Disponible à l'échange auprès de l'intendant des éclaireurs de Draugardh."}
+_PETSTRINGS[517] = {[1]="Lapin cornu";[2]="Disponible à l'échange auprès de l'intendant des éclaireurs de Draugardh."}
+_PETSTRINGS[518] = {[1]="Grenouille caméléon primitive";[2]="Disponible à l'échange auprès de l'intendant des Khemozêl."}
+_PETSTRINGS[519] = {[1]="Échinoisel doré";[2]="Disponible en terminant la quête 'La chance me sourit, partie 4' ou à l'échange auprès de l'intendant des éclaireurs de Draugardh."}
+_PETSTRINGS[520] = {[1]="Guêpe cendrée";[2]="Disponible à l'échange auprès de l'intendant des Têtikirs."}
+_PETSTRINGS[521] = {[1]="Fouisseur de moisissures primitif";[2]="Disponible à l'échange auprès de l'intendant des Khemozêl."}
+_PETSTRINGS[522] = {[1]="Oryx primitif";[2]="Disponible à l'échange auprès de l'intendant des Khemozêl."}
+_PETSTRINGS[523] = {[1]="Grenouille caméléon cobalt";[2]="Disponible à l'échange auprès de l'intendant des éclaireurs de Draugardh."}
+_PETSTRINGS[524] = {[1]="Chien-loup d'obsidienne";[2]="Disponible en utilisant l'Instinct de survie Appâter l'ennemi."}
+_PETSTRINGS[525] = {[1]="Jeune sûlok dressé";[2]="Disponible en terminant la quête 'Un repas digne d'un sûlok' ou à l'échange auprès de l'intendant des Têtikirs."}
+_PETSTRINGS[526] = {[1]="Jeune griffefosse verdoyant";[2]="Disponible comme récompense auprès de Brutha la Rebelle."}
+_PETSTRINGS[527] = {[1]="Chien de berger caramel de la Mûr";[2]="Disponible comme récompense auprès de Golwen."}
+_PETSTRINGS[528] = {[1]="Faon des bosquets majestueux";[2]=""}
+_PETSTRINGS[529] = {[1]="Hamster taupe";[2]="Disponible comme récompense auprès de Haldo."}
 
 _PETSTRINGS[1000] = {[1]="Chauve-souris rayée";[2]=""}
 _PETSTRINGS[1001] = {[1]="Chauve-souris brunie";[2]=""}
@@ -610,54 +630,91 @@ _PETSTRINGS[1007] = {[1]="Serpent turquoise";[2]=""}
 _PETSTRINGS[1008] = {[1]="Serpent vert forêt";[2]=""}
 _PETSTRINGS[1009] = {[1]="Serpent ardent du désert";[2]=""}
 _PETSTRINGS[1010] = {[1]="Ver des sables châtain";[2]=""}
-_PETSTRINGS[1011] = {[1]="Hamster taupe";[2]=""}
-_PETSTRINGS[1012] = {[1]="Petit drake d'améthyste";[2]=""}
-_PETSTRINGS[1013] = {[1]="Scorpion argenté";[2]=""}
-_PETSTRINGS[1014] = {[1]="Scorpion en armure";[2]="";}
-_PETSTRINGS[1015] = {[1]="Reine des grodbogs verdoyante";[2]="";}
-_PETSTRINGS[1016] = {[1]="Terreur des cavernes";[2]="";}
-_PETSTRINGS[1017] = {[1]="Jeune griffefosse verdoyant";[2]=""}
-_PETSTRINGS[1019] = {[1]="Protecteur grodbog venimeux";[2]=""}
-_PETSTRINGS[1020] = {[1]="Reine des grodbogs agressive";[2]=""}
-_PETSTRINGS[1021] = {[1]="Scorpion sanglant";[2]=""}
-_PETSTRINGS[1022] = {[1]="Scorpion noir comme la nuit";[2]=""}
-_PETSTRINGS[1023] = {[1]="Jeune griffefosse pâle";[2]=""}
-_PETSTRINGS[1024] = {[1]="Reine des grodbogs crépusculaire";[2]="";}
-_PETSTRINGS[1025] = {[1]="Scorpion pâle";[2]="";}
-_PETSTRINGS[1026] = {[1]="Protecteur grodbog lumineux";[2]="";}
-_PETSTRINGS[1027] = {[1]="Protecteur grodbog rayé";[2]="";}
-_PETSTRINGS[1028] = {[1]="Reine des grodbogs sombre";[2]=""}
-_PETSTRINGS[1029] = {[1]="Jeune griffefosse rayé";[2]=""}
-_PETSTRINGS[1030] = {[1]="Chien de berger auburn de la Mûr";[2]=""}
-_PETSTRINGS[1031] = {[1]="Chien de berger caramel de la Mûr";[2]=""}
-_PETSTRINGS[1032] = {[1]="Limace du désert";[2]=""}
-_PETSTRINGS[1033] = {[1]="Guêpe du désert en armure";[2]=""}
-_PETSTRINGS[1034] = {[1]="Ver endurci par les combats";[2]="";}
-_PETSTRINGS[1035] = {[1]="Bébé mûmak brun";[2]="";}
-_PETSTRINGS[1036] = {[1]="Bébé mûmak assidu";[2]="";}
-_PETSTRINGS[1037] = {[1]="Zizanu ombré";[2]=""}
-_PETSTRINGS[1038] = {[1]="Ver rusé";[2]=""}
-_PETSTRINGS[1039] = {[1]="Bébé mûmak travailleur";[2]=""}
-_PETSTRINGS[1040] = {[1]="Bébé mûmak marbré";[2]=""}
-_PETSTRINGS[1041] = {[1]="Bébé mûmak illuminé";[2]=""}
-_PETSTRINGS[1042] = {[1]="Ver rôdeur";[2]=""}
-_PETSTRINGS[1043] = {[1]="Limace maritime";[2]=""}
-_PETSTRINGS[1044] = {[1]="Zizanu cuivré";[2]="";}
-_PETSTRINGS[1045] = {[1]="Bébé mûmak du crépuscule";[2]="";}
-_PETSTRINGS[1046] = {[1]="Bébé mûmak surchargé";[2]="";}
-_PETSTRINGS[1047] = {[1]="Jeune crocodile des marais";[2]=""}
-_PETSTRINGS[1048] = {[1]="Bébé mûmak pierreux";[2]=""}
-_PETSTRINGS[1049] = {[1]="Limace émeraude";[2]=""}
-_PETSTRINGS[1050] = {[1]="Ver rubis";[2]=""}
-_PETSTRINGS[1051] = {[1]="Zizanu pâle";[2]=""}
-_PETSTRINGS[1052] = {[1]="Limace framboise";[2]=""}
-_PETSTRINGS[1053] = {[1]="Faon tacheté de la Forêt Noire";[2]=""}
-_PETSTRINGS[1054] = {[1]="Cerf des taillis printaniers";[2]="";}
-_PETSTRINGS[1055] = {[1]="Cerf tacheté de la Forêt Noire";[2]="";}
-_PETSTRINGS[1056] = {[1]="Biche au cou blanc";[2]="";}
-_PETSTRINGS[1057] = {[1]="Biche des bosquets majestueuse";[2]=""}
-_PETSTRINGS[1058] = {[1]="Cerf des bosquets majestueux";[2]=""}
-_PETSTRINGS[1059] = {[1]="Biche tachetée de la Forêt Noire";[2]=""}
-_PETSTRINGS[1060] = {[1]="Faon au cou blanc";[2]=""}
-_PETSTRINGS[1061] = {[1]="Cerf au cou blanc";[2]=""}
-_PETSTRINGS[1062] = {[1]="Faon des bosquets majestueux";[2]=""}
+_PETSTRINGS[1011] = {[1]="Petit drake d'améthyste";[2]=""}
+_PETSTRINGS[1012] = {[1]="Scorpion argenté";[2]=""}
+_PETSTRINGS[1013] = {[1]="Scorpion en armure";[2]=""}
+_PETSTRINGS[1014] = {[1]="Reine des grodbogs verdoyante";[2]="";}
+_PETSTRINGS[1015] = {[1]="Terreur des cavernes";[2]="";}
+_PETSTRINGS[1016] = {[1]="Reine des grodbogs affable";[2]="";}
+_PETSTRINGS[1017] = {[1]="Protecteur grodbog venimeux";[2]=""}
+_PETSTRINGS[1019] = {[1]="Scorpion sanglant";[2]=""}
+_PETSTRINGS[1020] = {[1]="Scorpion noir comme la nuit";[2]=""}
+_PETSTRINGS[1021] = {[1]="Jeune griffefosse pâle";[2]=""}
+_PETSTRINGS[1022] = {[1]="Reine des grodbogs crépusculaire";[2]=""}
+_PETSTRINGS[1023] = {[1]="Scorpion pâle";[2]=""}
+_PETSTRINGS[1024] = {[1]="Protecteur grodbog lumineux";[2]="";}
+_PETSTRINGS[1025] = {[1]="Protecteur grodbog rayé";[2]="";}
+_PETSTRINGS[1026] = {[1]="Reine des grodbogs sombre";[2]="";}
+_PETSTRINGS[1027] = {[1]="Jeune griffefosse rayé";[2]="";}
+_PETSTRINGS[1028] = {[1]="Chien de berger auburn de la Mûr";[2]=""}
+_PETSTRINGS[1029] = {[1]="Limace du désert";[2]=""}
+_PETSTRINGS[1030] = {[1]="Guêpe du désert en armure";[2]=""}
+_PETSTRINGS[1031] = {[1]="Ver endurci par les combats";[2]=""}
+_PETSTRINGS[1032] = {[1]="Bébé mûmak brun";[2]=""}
+_PETSTRINGS[1033] = {[1]="Bébé mûmak assidu";[2]=""}
+_PETSTRINGS[1034] = {[1]="Zizanu ombré";[2]="";}
+_PETSTRINGS[1035] = {[1]="Ver rusé";[2]="";}
+_PETSTRINGS[1036] = {[1]="Bébé mûmak travailleur";[2]="";}
+_PETSTRINGS[1037] = {[1]="Bébé mûmak marbré";[2]=""}
+_PETSTRINGS[1038] = {[1]="Bébé mûmak illuminé";[2]=""}
+_PETSTRINGS[1039] = {[1]="Ver rôdeur";[2]=""}
+_PETSTRINGS[1040] = {[1]="Limace maritime";[2]=""}
+_PETSTRINGS[1041] = {[1]="Zizanu cuivré";[2]=""}
+_PETSTRINGS[1042] = {[1]="Bébé mûmak du crépuscule";[2]=""}
+_PETSTRINGS[1043] = {[1]="Bébé mûmak surchargé";[2]=""}
+_PETSTRINGS[1044] = {[1]="Jeune crocodile des marais";[2]="";}
+_PETSTRINGS[1045] = {[1]="Bébé mûmak pierreux";[2]="";}
+_PETSTRINGS[1046] = {[1]="Limace émeraude";[2]="";}
+_PETSTRINGS[1047] = {[1]="Ver rubis";[2]=""}
+_PETSTRINGS[1048] = {[1]="Zizanu pâle";[2]=""}
+_PETSTRINGS[1049] = {[1]="Limace framboise";[2]=""}
+_PETSTRINGS[1050] = {[1]="Faon tacheté de la Forêt Noire";[2]=""}
+_PETSTRINGS[1051] = {[1]="Cerf des taillis printaniers";[2]=""}
+_PETSTRINGS[1052] = {[1]="Cerf tacheté de la Forêt Noire";[2]=""}
+_PETSTRINGS[1053] = {[1]="Biche au cou blanc";[2]=""}
+_PETSTRINGS[1054] = {[1]="Biche des bosquets majestueuse";[2]="Disponible comme récompense auprès d'Emmathron.";}
+_PETSTRINGS[1055] = {[1]="Cerf des bosquets majestueux";[2]="";}
+_PETSTRINGS[1056] = {[1]="Biche tachetée de la Forêt Noire";[2]="";}
+_PETSTRINGS[1057] = {[1]="Faon au cou blanc";[2]=""}
+_PETSTRINGS[1058] = {[1]="Cerf au cou blanc";[2]=""}
+_PETSTRINGS[1059] = {[1]="Fouisseur de moisissures du coucher de soleil";[2]=""}
+_PETSTRINGS[1060] = {[1]="Chien de braque de minuit à poil long";[2]=""}
+_PETSTRINGS[1061] = {[1]="Frétillask pomme-de-pin";[2]=""}
+_PETSTRINGS[1062] = {[1]="Frétillask primitif";[2]=""}
+_PETSTRINGS[1063] = {[1]="Garaferien acajou";[2]=""}
+_PETSTRINGS[1064] = {[1]="Échinoisel primitif";[2]=""}
+_PETSTRINGS[1065] = {[1]="Chien-loup acajou";[2]=""}
+_PETSTRINGS[1066] = {[1]="Chien de braque châtain";[2]=""}
+_PETSTRINGS[1067] = {[1]="Chien de braque pommelé à poil long";[2]=""}
+_PETSTRINGS[1068] = {[1]="Fouisseur de moisissures en fusion";[2]=""}
+_PETSTRINGS[1069] = {[1]="Frétillask volcanique";[2]=""}
+_PETSTRINGS[1070] = {[1]="Cliquebourbier simple";[2]=""}
+_PETSTRINGS[1071] = {[1]="Chien de braque bringué";[2]=""}
+_PETSTRINGS[1072] = {[1]="Renard d'hiver";[2]=""}
+_PETSTRINGS[1073] = {[1]="Chien de braque pie à poil long";[2]=""}
+_PETSTRINGS[1074] = {[1]="Échinoisel des forêts";[2]=""}
+_PETSTRINGS[1075] = {[1]="Chien de braque pie";[2]=""}
+_PETSTRINGS[1076] = {[1]="Frétillask cœur-sanglant";[2]=""}
+_PETSTRINGS[1077] = {[1]="Garaferien ivoire";[2]=""}
+_PETSTRINGS[1078] = {[1]="Fouisseur de moisissures magenta";[2]=""}
+_PETSTRINGS[1079] = {[1]="Garaferien d'obsidienne";[2]=""}
+_PETSTRINGS[1080] = {[1]="Frétillask volcanique éteint";[2]=""}
+_PETSTRINGS[1081] = {[1]="Garaferien fauve";[2]=""}
+_PETSTRINGS[1082] = {[1]="Chien de braque noir et brun clair";[2]=""}
+_PETSTRINGS[1083] = {[1]="Grenouille caméléon à dos rouge";[2]=""}
+_PETSTRINGS[1084] = {[1]="Frétillask cobalt en fusion";[2]=""}
+_PETSTRINGS[1085] = {[1]="Chien-loup ivoire";[2]=""}
+_PETSTRINGS[1086] = {[1]="Cliquebourbier moussu";[2]=""}
+_PETSTRINGS[1087] = {[1]="Scarabée primitif";[2]=""}
+_PETSTRINGS[1088] = {[1]="Chien de braque bringué à poil long";[2]=""}
+_PETSTRINGS[1089] = {[1]="Renard argenté";[2]=""}
+_PETSTRINGS[1090] = {[1]="Échinoisel subtil";[2]=""}
+_PETSTRINGS[1091] = {[1]="Chien de braque de minuit";[2]=""}
+_PETSTRINGS[1092] = {[1]="Chien de braque chocolat à poil long";[2]=""}
+_PETSTRINGS[1093] = {[1]="Fouisseur de moisissures feuille-morte";[2]=""}
+_PETSTRINGS[1094] = {[1]="Fouisseur de moisissures du crépuscule";[2]=""}
+_PETSTRINGS[1095] = {[1]="Chien-loup fauve";[2]=""}
+_PETSTRINGS[1096] = {[1]="Échinoisel moussu";[2]=""}
+_PETSTRINGS[1097] = {[1]="Échinoisel rose";[2]=""}
+_PETSTRINGS[1098] = {[1]="Chien-loup cendré";[2]=""}
+_PETSTRINGS[1099] = {[1]="Jeune sûlok primitif";[2]=""}
