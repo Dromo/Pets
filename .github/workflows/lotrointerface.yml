@@ -91,4 +91,5 @@ jobs:
       - name: execute py script # run main.py
         env:
           MD5PASSWORD: ${{ secrets.MD5PASSWORD }}
+          REPO_URL: ${{ secrets.REPO_URL }}
         run: UPDATE=${{ steps.current_version.outputs.current_version }} python update_lotro_interface.py
