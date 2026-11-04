@@ -65,7 +65,7 @@ jobs:
         run: |
           echo "Workspace: $GITHUB_WORKSPACE"
           find "$GITHUB_WORKSPACE" -maxdepth 4 -type f -name '*.zip' -print
-          test -s "$GITHUB_WORKSPACE/release.zip"
+          test -s "$GITHUB_WORKSPACE/Pets_${{ steps.current_version.outputs.current_version }}.zip"
 
       - name: Upload Release
         uses: akkuman/gitea-release-action@v1
