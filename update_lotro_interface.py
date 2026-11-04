@@ -60,7 +60,6 @@ with httpx.Client() as client:
             data['message'] = content
         else:
             raise Exception("Failed to fetch Release.md")
-        raise Exception("Upload OK")
         edit_url = 'https://www.lotrointerface.com/downloads/editfile.php'
 
         # attempt to edit description and uplaod to lotrointerface
