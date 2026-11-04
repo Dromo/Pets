@@ -60,16 +60,21 @@ jobs:
           filename: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           exclusions: '*.git* *.md *.py *.txt'
 
-      - name: Verify ZIP exists
-        run: ls -lh "$GITHUB_WORKSPACE/Pets_${{ steps.current_version.outputs.current_version }}.zip"
+      - name: Verify ZIP location
+        shell: bash
+        run: |
+          echo "Workspace: $GITHUB_WORKSPACE"
+          find "$GITHUB_WORKSPACE" -maxdepth 4 -type f -name '*.zip' -print
+          test -s "$GITHUB_WORKSPACE/release.zip"
 
       - name: Upload Release
         uses: akkuman/gitea-release-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          name: ${{ steps.current_version.outputs.current_version }}test
           tag_name: ${{ steps.current_version.outputs.current_version }}test
           body_path: Release.md
-          prerelease: true
+          draft: true
           files: |
             '${{ github.workspace }}/Pets_${{ steps.current_version.outputs.current_version }}.zip'
 
