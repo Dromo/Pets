@@ -55,8 +55,13 @@ jobs:
       - name: Archive Release
         uses: thedoctor0/zip-release@master
         with:
+          directory: ${{ github.workspace }}
+          path: .
           filename: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           exclusions: '*.git* *.md *.py *.txt'
+
+      - name: Verify ZIP exists
+        run: ls -lh "$GITHUB_WORKSPACE/Pets_${{ steps.current_version.outputs.current_version }}.zip"
 
       - name: Upload Release
         uses: akkuman/gitea-release-action@v1
