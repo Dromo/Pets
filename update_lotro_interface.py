@@ -8,6 +8,11 @@ try:
 except KeyError:
     raise Exception("Secret password not available!")
 
+try:
+    REPO_URL = os.environ["REPO_URL"]
+except KeyError:
+    REPO_URL = "https://github.com/Dromo"
+
 # Get the update version
 try:
     update = os.environ['UPDATE']
@@ -26,7 +31,7 @@ with httpx.Client() as client:
     # Succesfully logged in lotrointerface
     if login_response.status_code == 200:
         # get the zip file from the newly created release
-        zip_url = 'https://github.com/Dromo/Pets/releases/download/'+update+'/Pets_'+update+'.zip'
+        zip_url = REPO_URL+'/Pets/releases/download/'+update+'/Pets_'+update+'.zip'
         response = requests.get(zip_url)
         if response.status_code != 200:
             raise Exception("Failed to fetch zip")
@@ -43,7 +48,7 @@ with httpx.Client() as client:
             'fileaction': 'replace', # or 'keep'
         }
         # get and convert Release.md from github syntax to lotrointerface syntax
-        raw_url = "https://raw.githubusercontent.com/Dromo/Pets/refs/heads/master/Release.md"
+        raw_url = REPO_URL+'/Pets/raw/master/Release.md'
         response = requests.get(raw_url)
         if response.status_code == 200:
             content = response.text
@@ -53,7 +58,8 @@ with httpx.Client() as client:
             content = content.replace("* ","")
             content = content.replace("[Full changelog](Changelog.md)", '[URL="https://github.com/Dromo/Pets"]github[/URL] [URL="https://github.com/Dromo/Pets/blob/master/Changelog.md"]full changelog[/URL]')
             data['message'] = content
-
+        else:
+            raise Exception("Failed to fetch Release.md")
         edit_url = 'https://www.lotrointerface.com/downloads/editfile.php'
 
         # attempt to edit description and uplaod to lotrointerface

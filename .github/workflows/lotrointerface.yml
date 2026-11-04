@@ -55,17 +55,28 @@ jobs:
       - name: Archive Release
         uses: thedoctor0/zip-release@master
         with:
+          directory: ${{ github.workspace }}
+          path: .
           filename: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           exclusions: '*.git* *.md *.py *.txt'
 
+      #Gitea was not inlcuding the zip in the release. Adding this is step fixes it
+      - name: Stage release asset
+        shell: bash
+        run: |
+          mkdir -p release-assets
+          cp "$GITHUB_WORKSPACE/Pets_${{ steps.current_version.outputs.current_version }}.zip" 'release-assets/Pets_${{ steps.current_version.outputs.current_version }}.zip'
+          ls -lh release-assets/
+
       - name: Upload Release
-        uses: ncipollo/release-action@v1
+        uses: akkuman/gitea-release-action@v1
         with:
-          artifacts: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
-          commit: master
-          bodyFile: Release.md
-          tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          name: ${{ steps.current_version.outputs.current_version }}
+          tag_name: ${{ steps.current_version.outputs.current_version }}
+          body_path: Release.md
+          files: |
+            release-assets/**
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -80,4 +91,5 @@ jobs:
       - name: execute py script # run main.py
         env:
           MD5PASSWORD: ${{ secrets.MD5PASSWORD }}
+          REPO_URL: ${{ secrets.REPO_URL }}
         run: UPDATE=${{ steps.current_version.outputs.current_version }} python update_lotro_interface.py
