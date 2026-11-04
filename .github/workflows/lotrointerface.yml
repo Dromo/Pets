@@ -50,7 +50,7 @@ jobs:
         if: ${{ steps.version_change.outputs.version_changed == 'false' }}
         run: |
           echo "Version did not change. Exiting workflow."
-         # exit 1  # Fail the step to stop the workflow
+          exit 1  # Fail the step to stop the workflow
 
       - name: Archive Release
         uses: thedoctor0/zip-release@master
@@ -69,15 +69,14 @@ jobs:
           ls -lh release-assets/
 
       - name: Upload Release
-        uses: ncipollo/release-action@v1
+        uses: akkuman/gitea-release-action@v1
         with:
-          commit: master
-          bodyFile: Release.md
-          tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: "release-assets/Pets_${{ steps.current_version.outputs.current_version }}.zip"
-          allowUpdates: true
-          artifactErrorsFailBuild: true
+          name: ${{ steps.current_version.outputs.current_version }}
+          tag_name: ${{ steps.current_version.outputs.current_version }}
+          body_path: Release.md
+          files: |
+            release-assets/**
 
       - name: setup python
         uses: actions/setup-python@v4
