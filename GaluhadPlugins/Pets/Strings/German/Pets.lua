@@ -615,6 +615,11 @@ _PETSTRINGS[526] = {[1]="Grüner Tiefenklauen-Welpe";[2]="Erhältlich als Belohn
 _PETSTRINGS[527] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]="Erhältlich als Belohnung von Golwen."}
 _PETSTRINGS[528] = {[1]="Königliches Hainkitz";[2]=""}
 _PETSTRINGS[529] = {[1]="Graubrauner Hamster";[2]="Erhältlich als Belohnung von Haldo."}
+_PETSTRINGS[530] = {[1]="Schwarzbrauner Langhaarbrockhund";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[531] = {[1]="Silberfarbener Skorpion";[2]=""}
+_PETSTRINGS[532] = {[1]="Dämmerungs-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[533] = {[1]="Urzeitlicher Käfer";[2]=""}
+_PETSTRINGS[534] = {[1]="Langmoos-Sumpfgänger";[2]=""}
 
 _PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
 _PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}
@@ -628,90 +633,86 @@ _PETSTRINGS[1008] = {[1]="Blattgrüne Schlange";[2]=""}
 _PETSTRINGS[1009] = {[1]="Feurige Wüstenschlange";[2]=""}
 _PETSTRINGS[1010] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
 _PETSTRINGS[1011] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
-_PETSTRINGS[1012] = {[1]="Silberfarbener Skorpion";[2]=""}
-_PETSTRINGS[1013] = {[1]="Gepanzerter Skorpion";[2]=""}
-_PETSTRINGS[1014] = {[1]="Grüne Grodbog-Königin";[2]="";}
-_PETSTRINGS[1015] = {[1]="Höhlenschrecken";[2]="";}
-_PETSTRINGS[1016] = {[1]="Freundliche Grodbog-Königin";[2]="";}
-_PETSTRINGS[1017] = {[1]="Giftiger Grodbog-Beschützer";[2]=""}
-_PETSTRINGS[1019] = {[1]="Blutskorpion";[2]=""}
-_PETSTRINGS[1020] = {[1]="Pechschwarzer Skorpion";[2]=""}
-_PETSTRINGS[1021] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
-_PETSTRINGS[1022] = {[1]="Dunkle Grodbog-Königin";[2]=""}
-_PETSTRINGS[1023] = {[1]="Bleicher Skorpion";[2]=""}
-_PETSTRINGS[1024] = {[1]="Strahlender Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[1025] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
-_PETSTRINGS[1026] = {[1]="Schwarze Grodbog-Königin";[2]="";}
-_PETSTRINGS[1027] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]="";}
-_PETSTRINGS[1028] = {[1]="Rostbrauner mûrischer Hütehund";[2]=""}
-_PETSTRINGS[1029] = {[1]="Wüstenschleim";[2]=""}
-_PETSTRINGS[1030] = {[1]="Gepanzerte Wüstenwespe";[2]=""}
-_PETSTRINGS[1031] = {[1]="Kampfesmüder Wurm";[2]=""}
-_PETSTRINGS[1032] = {[1]="Braunes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1033] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1034] = {[1]="Schattengeborener Zizanu";[2]="";}
-_PETSTRINGS[1035] = {[1]="Listiger Wurm";[2]="";}
-_PETSTRINGS[1036] = {[1]="Tüchtiges Mûmak-Kalb";[2]="";}
-_PETSTRINGS[1037] = {[1]="Marmor-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1038] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1039] = {[1]="Lauernder Wurm";[2]=""}
-_PETSTRINGS[1040] = {[1]="Meeresschleim";[2]=""}
-_PETSTRINGS[1041] = {[1]="Kupferfarbener Zizanu";[2]=""}
-_PETSTRINGS[1042] = {[1]="Dämmerungs-Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1043] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
-_PETSTRINGS[1044] = {[1]="Sumpfkrokodiljunges";[2]="";}
-_PETSTRINGS[1045] = {[1]="Stein-Mûmak-Kalb";[2]="";}
-_PETSTRINGS[1046] = {[1]="Smaragdgrüner Schleim";[2]="";}
-_PETSTRINGS[1047] = {[1]="Rubinroter Wurm";[2]=""}
-_PETSTRINGS[1048] = {[1]="Bleicher Zizanu";[2]=""}
-_PETSTRINGS[1049] = {[1]="Himbeerfarbener Schleim";[2]=""}
-_PETSTRINGS[1050] = {[1]="Geflecktes Düsterwald-Kitz";[2]=""}
-_PETSTRINGS[1051] = {[1]="Frühlingswäldchen-Hirsch";[2]=""}
-_PETSTRINGS[1052] = {[1]="Gefleckter Düsterwald-Hirsch";[2]=""}
-_PETSTRINGS[1053] = {[1]="Weißhals-Hirschkuh";[2]=""}
-_PETSTRINGS[1054] = {[1]="Königliche Hainhirschkuh";[2]="Erhältlich als Belohnung von Emmathron.";}
-_PETSTRINGS[1055] = {[1]="Königlicher Hainhirsch";[2]="";}
-_PETSTRINGS[1056] = {[1]="Gefleckte Düsterwald-Hirschkuh";[2]="";}
-_PETSTRINGS[1057] = {[1]="Weißhals-Kitz";[2]=""}
-_PETSTRINGS[1058] = {[1]="Weißhals-Hirsch";[2]=""}
-_PETSTRINGS[1059] = {[1]="Sonnenuntergangs-Modergräber";[2]=""}
-_PETSTRINGS[1060] = {[1]="Mitternachts–Langhaarbrockhund";[2]=""}
-_PETSTRINGS[1061] = {[1]="Zapfen-Schlängelgecko";[2]=""}
-_PETSTRINGS[1062] = {[1]="Urzeitlicher Schlängelgecko";[2]=""}
-_PETSTRINGS[1063] = {[1]="Mahagoni-Garaferon";[2]=""}
-_PETSTRINGS[1064] = {[1]="Urzeitlicher Byrdbuckel";[2]=""}
-_PETSTRINGS[1065] = {[1]="Mahagoni-Wulfhund";[2]=""}
-_PETSTRINGS[1066] = {[1]="Kastanienbrauner Brockhund";[2]=""}
-_PETSTRINGS[1067] = {[1]="Scheckiger Langhaarbrockhund";[2]=""}
-_PETSTRINGS[1068] = {[1]="Geschmolzener Modergräber";[2]=""}
-_PETSTRINGS[1069] = {[1]="Vulkan-Schlängelgecko";[2]=""}
-_PETSTRINGS[1070] = {[1]="Nackter Sumpfgänger";[2]=""}
-_PETSTRINGS[1071] = {[1]="Gestreifter Brockhund";[2]=""}
-_PETSTRINGS[1072] = {[1]="Winterfuchs";[2]=""}
-_PETSTRINGS[1073] = {[1]="Buntscheckiger Langhaarbrockhund";[2]=""}
-_PETSTRINGS[1074] = {[1]="Wald-Byrdbuckel";[2]=""}
-_PETSTRINGS[1075] = {[1]="Buntscheckiger Brockhund";[2]=""}
-_PETSTRINGS[1076] = {[1]="Herzblut-Schlängelgecko";[2]=""}
-_PETSTRINGS[1077] = {[1]="Elfenbein-Garaferon";[2]=""}
-_PETSTRINGS[1078] = {[1]="Purpur-Modergräber";[2]=""}
-_PETSTRINGS[1079] = {[1]="Obsidian-Garaferon";[2]=""}
-_PETSTRINGS[1080] = {[1]="Erloschener Vulkan-Schlängelgecko";[2]=""}
-_PETSTRINGS[1081] = {[1]="Lohfarbenes Garaferon";[2]=""}
-_PETSTRINGS[1082] = {[1]="Schwarzbrauner Brockhund";[2]=""}
-_PETSTRINGS[1083] = {[1]="Rotrücken-Nachahmerfrosch";[2]=""}
-_PETSTRINGS[1084] = {[1]="Geschmolzener Kobalt-Schlängelgecko";[2]=""}
-_PETSTRINGS[1085] = {[1]="Elfenbein-Wulfhund";[2]=""}
-_PETSTRINGS[1086] = {[1]="Langmoos-Sumpfgänger";[2]=""}
-_PETSTRINGS[1087] = {[1]="Urzeitlicher Käfer";[2]=""}
-_PETSTRINGS[1088] = {[1]="Gestreifter Langhaarbrockhund";[2]=""}
-_PETSTRINGS[1089] = {[1]="Silberfuchs";[2]=""}
-_PETSTRINGS[1090] = {[1]="Unauffälliger Byrdbuckel";[2]=""}
-_PETSTRINGS[1091] = {[1]="Mitternachts–Brockhund";[2]=""}
-_PETSTRINGS[1092] = {[1]="Schokoladenbrauner Langhaarbrockhund";[2]=""}
-_PETSTRINGS[1093] = {[1]="Laub-Modergräber";[2]=""}
-_PETSTRINGS[1094] = {[1]="Zwielicht-Modergräber";[2]=""}
-_PETSTRINGS[1095] = {[1]="Lohfarbener Wulfhund";[2]=""}
-_PETSTRINGS[1096] = {[1]="Moosrücken-Byrdbuckel";[2]=""}
-_PETSTRINGS[1097] = {[1]="Rosafarbener Byrdbuckel";[2]=""}
-_PETSTRINGS[1098] = {[1]="Asche-Wulfhund";[2]=""}
-_PETSTRINGS[1099] = {[1]="Urzeitliches Sûlok-Jungtier";[2]=""}
+_PETSTRINGS[1012] = {[1]="Gepanzerter Skorpion";[2]=""}
+_PETSTRINGS[1013] = {[1]="Grüne Grodbog-Königin";[2]=""}
+_PETSTRINGS[1014] = {[1]="Höhlenschrecken";[2]="";}
+_PETSTRINGS[1015] = {[1]="Freundliche Grodbog-Königin";[2]="";}
+_PETSTRINGS[1016] = {[1]="Giftiger Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1017] = {[1]="Aggressive Grodbog-Königin";[2]=""}
+_PETSTRINGS[1019] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[1020] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1021] = {[1]="Dunkle Grodbog-Königin";[2]=""}
+_PETSTRINGS[1022] = {[1]="Bleicher Skorpion";[2]=""}
+_PETSTRINGS[1023] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[1024] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1025] = {[1]="Schwarze Grodbog-Königin";[2]="";}
+_PETSTRINGS[1026] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[1027] = {[1]="Rostbrauner mûrischer Hütehund";[2]="";}
+_PETSTRINGS[1028] = {[1]="Wüstenschleim";[2]=""}
+_PETSTRINGS[1029] = {[1]="Gepanzerte Wüstenwespe";[2]=""}
+_PETSTRINGS[1030] = {[1]="Kampfesmüder Wurm";[2]=""}
+_PETSTRINGS[1031] = {[1]="Braunes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1032] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1033] = {[1]="Schattengeborener Zizanu";[2]=""}
+_PETSTRINGS[1034] = {[1]="Listiger Wurm";[2]="";}
+_PETSTRINGS[1035] = {[1]="Tüchtiges Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1036] = {[1]="Marmor-Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1037] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1038] = {[1]="Lauernder Wurm";[2]=""}
+_PETSTRINGS[1039] = {[1]="Meeresschleim";[2]=""}
+_PETSTRINGS[1040] = {[1]="Kupferfarbener Zizanu";[2]=""}
+_PETSTRINGS[1041] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1042] = {[1]="Sumpfkrokodiljunges";[2]=""}
+_PETSTRINGS[1043] = {[1]="Stein-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1044] = {[1]="Smaragdgrüner Schleim";[2]="";}
+_PETSTRINGS[1045] = {[1]="Rubinroter Wurm";[2]="";}
+_PETSTRINGS[1046] = {[1]="Bleicher Zizanu";[2]="";}
+_PETSTRINGS[1047] = {[1]="Himbeerfarbener Schleim";[2]=""}
+_PETSTRINGS[1048] = {[1]="Geflecktes Düsterwald-Kitz";[2]=""}
+_PETSTRINGS[1049] = {[1]="Frühlingswäldchen-Hirsch";[2]=""}
+_PETSTRINGS[1050] = {[1]="Gefleckter Düsterwald-Hirsch";[2]=""}
+_PETSTRINGS[1051] = {[1]="Weißhals-Hirschkuh";[2]=""}
+_PETSTRINGS[1052] = {[1]="Königliche Hainhirschkuh";[2]="Erhältlich als Belohnung von Emmathron."}
+_PETSTRINGS[1053] = {[1]="Königlicher Hainhirsch";[2]=""}
+_PETSTRINGS[1054] = {[1]="Gefleckte Düsterwald-Hirschkuh";[2]="";}
+_PETSTRINGS[1055] = {[1]="Weißhals-Kitz";[2]="";}
+_PETSTRINGS[1056] = {[1]="Weißhals-Hirsch";[2]="";}
+_PETSTRINGS[1057] = {[1]="Sonnenuntergangs-Modergräber";[2]=""}
+_PETSTRINGS[1058] = {[1]="Mitternachts–Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1059] = {[1]="Zapfen-Schlängelgecko";[2]=""}
+_PETSTRINGS[1060] = {[1]="Urzeitlicher Schlängelgecko";[2]=""}
+_PETSTRINGS[1061] = {[1]="Mahagoni-Garaferon";[2]=""}
+_PETSTRINGS[1062] = {[1]="Urzeitlicher Byrdbuckel";[2]=""}
+_PETSTRINGS[1063] = {[1]="Mahagoni-Wulfhund";[2]=""}
+_PETSTRINGS[1064] = {[1]="Kastanienbrauner Brockhund";[2]=""}
+_PETSTRINGS[1065] = {[1]="Scheckiger Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1066] = {[1]="Geschmolzener Modergräber";[2]=""}
+_PETSTRINGS[1067] = {[1]="Vulkan-Schlängelgecko";[2]=""}
+_PETSTRINGS[1068] = {[1]="Nackter Sumpfgänger";[2]=""}
+_PETSTRINGS[1069] = {[1]="Gestreifter Brockhund";[2]=""}
+_PETSTRINGS[1070] = {[1]="Winterfuchs";[2]=""}
+_PETSTRINGS[1071] = {[1]="Buntscheckiger Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1072] = {[1]="Wald-Byrdbuckel";[2]=""}
+_PETSTRINGS[1073] = {[1]="Buntscheckiger Brockhund";[2]=""}
+_PETSTRINGS[1074] = {[1]="Herzblut-Schlängelgecko";[2]=""}
+_PETSTRINGS[1075] = {[1]="Elfenbein-Garaferon";[2]=""}
+_PETSTRINGS[1076] = {[1]="Purpur-Modergräber";[2]=""}
+_PETSTRINGS[1077] = {[1]="Obsidian-Garaferon";[2]=""}
+_PETSTRINGS[1078] = {[1]="Erloschener Vulkan-Schlängelgecko";[2]=""}
+_PETSTRINGS[1079] = {[1]="Lohfarbenes Garaferon";[2]=""}
+_PETSTRINGS[1080] = {[1]="Schwarzbrauner Brockhund";[2]=""}
+_PETSTRINGS[1081] = {[1]="Rotrücken-Nachahmerfrosch";[2]=""}
+_PETSTRINGS[1082] = {[1]="Geschmolzener Kobalt-Schlängelgecko";[2]=""}
+_PETSTRINGS[1083] = {[1]="Elfenbein-Wulfhund";[2]=""}
+_PETSTRINGS[1084] = {[1]="Gestreifter Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1085] = {[1]="Silberfuchs";[2]=""}
+_PETSTRINGS[1086] = {[1]="Unauffälliger Byrdbuckel";[2]=""}
+_PETSTRINGS[1087] = {[1]="Mitternachts–Brockhund";[2]=""}
+_PETSTRINGS[1088] = {[1]="Schokoladenbrauner Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1089] = {[1]="Laub-Modergräber";[2]=""}
+_PETSTRINGS[1090] = {[1]="Zwielicht-Modergräber";[2]=""}
+_PETSTRINGS[1091] = {[1]="Lohfarbener Wulfhund";[2]=""}
+_PETSTRINGS[1092] = {[1]="Moosrücken-Byrdbuckel";[2]=""}
+_PETSTRINGS[1093] = {[1]="Rosafarbener Byrdbuckel";[2]=""}
+_PETSTRINGS[1094] = {[1]="Asche-Wulfhund";[2]=""}
+_PETSTRINGS[1095] = {[1]="Urzeitliches Sûlok-Jungtier";[2]=""}

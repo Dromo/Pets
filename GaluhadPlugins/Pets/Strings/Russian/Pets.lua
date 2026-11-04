@@ -621,6 +621,11 @@ _PETSTRINGS[526] = {[1]="Зеленый детеныш когтероя";[2]="Н
 _PETSTRINGS[527] = {[1]="Светло-коричневая мур-гальская пастушья собака";[2]="НЕ ОПУБЛИКОВАНО"}
 _PETSTRINGS[528] = {[1]="Regal Grove Fawn";[2]="Available as a reward from Emmathron."}
 _PETSTRINGS[529] = {[1]="Тауповый хомячок";[2]=""}
+_PETSTRINGS[530] = {[1]="null";[2]=""}
+_PETSTRINGS[531] = {[1]="Серебристый скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[532] = {[1]="Сумеречный слонёнок мумака";[2]=""}
+_PETSTRINGS[533] = {[1]="Primeval Beetle";[2]=""}
+_PETSTRINGS[534] = {[1]="Long-moss Slough-ganger";[2]=""}
 
 _PETSTRINGS[1000] = {[1]="Полосатая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
 _PETSTRINGS[1001] = {[1]="Палевая летучая мышь";[2]="НЕ ОПУБЛИКОВАНО"}
@@ -634,90 +639,86 @@ _PETSTRINGS[1008] = {[1]="Лиственно-зелёная змея";[2]=""}
 _PETSTRINGS[1009] = {[1]="Огненная пустынная змея";[2]=""}
 _PETSTRINGS[1010] = {[1]="Рыжий песчаный червь";[2]=""}
 _PETSTRINGS[1011] = {[1]="Аметистовый дракончик";[2]=""}
-_PETSTRINGS[1012] = {[1]="Серебристый скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1013] = {[1]="Бронированный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1014] = {[1]="Зеленая королева гродбогов";[2]="";}
-_PETSTRINGS[1015] = {[1]="Пещерный Ужас";[2]="НЕ ОПУБЛИКОВАНО";}
-_PETSTRINGS[1016] = {[1]="Дружелюбная королева гродбогов";[2]="";}
-_PETSTRINGS[1017] = {[1]="Ядовитый гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1019] = {[1]="Кроваво-красный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1020] = {[1]="Угольно-черный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1021] = {[1]="Бледный детеныш когтероя";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1022] = {[1]="Сумеречная королева гродбогов";[2]=""}
-_PETSTRINGS[1023] = {[1]="Бледный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1024] = {[1]="Яркий гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО";}
-_PETSTRINGS[1025] = {[1]="Полосатый гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО";}
-_PETSTRINGS[1026] = {[1]="Темная королева гродбогов";[2]="";}
-_PETSTRINGS[1027] = {[1]="Полосатый детеныш когтероя";[2]="НЕ ОПУБЛИКОВАНО";}
-_PETSTRINGS[1028] = {[1]="Красно-коричневая мур-гальская пастушья собака";[2]="НЕ ОПУБЛИКОВАНО"}
-_PETSTRINGS[1029] = {[1]="Пустынная слизь";[2]=""}
-_PETSTRINGS[1030] = {[1]="Панцирная пустынная оса";[2]=""}
-_PETSTRINGS[1031] = {[1]="Закалённый в боях ящер";[2]=""}
-_PETSTRINGS[1032] = {[1]="Бурый слонёнок мумака";[2]=""}
-_PETSTRINGS[1033] = {[1]="Прилежный слонёнок мумака";[2]=""}
-_PETSTRINGS[1034] = {[1]="Тенерождённый зизану";[2]="";}
-_PETSTRINGS[1035] = {[1]="Хитрый ящер";[2]="";}
-_PETSTRINGS[1036] = {[1]="Неутомимый слонёнок мумака";[2]="";}
-_PETSTRINGS[1037] = {[1]="Мраморный слонёнок мумака";[2]=""}
-_PETSTRINGS[1038] = {[1]="Озарённый солнцем слонёнок мумака";[2]=""}
-_PETSTRINGS[1039] = {[1]="Таящийся ящер";[2]=""}
-_PETSTRINGS[1040] = {[1]="Морская слизь";[2]=""}
-_PETSTRINGS[1041] = {[1]="Медно-рыжий зизану";[2]=""}
-_PETSTRINGS[1042] = {[1]="Сумеречный слонёнок мумака";[2]=""}
-_PETSTRINGS[1043] = {[1]="Отягощённый слонёнок мумака";[2]=""}
-_PETSTRINGS[1044] = {[1]="Болотный крокодильчик";[2]="";}
-_PETSTRINGS[1045] = {[1]="Каменный слонёнок мумака";[2]="";}
-_PETSTRINGS[1046] = {[1]="Изумрудная слизь";[2]="";}
-_PETSTRINGS[1047] = {[1]="Рубиновый ящер";[2]=""}
-_PETSTRINGS[1048] = {[1]="Бледный зизану";[2]=""}
-_PETSTRINGS[1049] = {[1]="Малиновая слизь";[2]=""}
-_PETSTRINGS[1050] = {[1]="Mottled Mirkwood Fawn";[2]=""}
-_PETSTRINGS[1051] = {[1]="Spring Copse Stag";[2]=""}
-_PETSTRINGS[1052] = {[1]="Mottled Mirkwood Stag";[2]=""}
-_PETSTRINGS[1053] = {[1]="White-necked Doe";[2]=""}
-_PETSTRINGS[1054] = {[1]="Regal Grove Doe";[2]="";}
-_PETSTRINGS[1055] = {[1]="Regal Grove Stag";[2]="";}
-_PETSTRINGS[1056] = {[1]="Mottled Mirkwood Doe";[2]="";}
-_PETSTRINGS[1057] = {[1]="White-necked Fawn";[2]=""}
-_PETSTRINGS[1058] = {[1]="White-necked Stag";[2]=""}
-_PETSTRINGS[1059] = {[1]="Sunset Mould-burrower";[2]=""}
-_PETSTRINGS[1060] = {[1]="Midnight Long-haired Brockhound";[2]=""}
-_PETSTRINGS[1061] = {[1]="Pine-cone Writheresk";[2]=""}
-_PETSTRINGS[1062] = {[1]="Primeval Writheresk";[2]=""}
-_PETSTRINGS[1063] = {[1]="Mahogany Garaferon";[2]=""}
-_PETSTRINGS[1064] = {[1]="Primeval Byrd-back";[2]=""}
-_PETSTRINGS[1065] = {[1]="Mahogany Wulf-hund";[2]=""}
-_PETSTRINGS[1066] = {[1]="Chestnut Brockhound";[2]=""}
-_PETSTRINGS[1067] = {[1]="Dappled Long-haired Brockhound";[2]=""}
-_PETSTRINGS[1068] = {[1]="Molten Mould-burrower";[2]=""}
-_PETSTRINGS[1069] = {[1]="Volcanic Writheresk";[2]=""}
-_PETSTRINGS[1070] = {[1]="Bare Slough-ganger";[2]=""}
-_PETSTRINGS[1071] = {[1]="Brindled Brockhound";[2]=""}
-_PETSTRINGS[1072] = {[1]="Winter Fox";[2]=""}
-_PETSTRINGS[1073] = {[1]="Piebald Long-haired Brockhound";[2]=""}
-_PETSTRINGS[1074] = {[1]="Forest Byrd-back";[2]=""}
-_PETSTRINGS[1075] = {[1]="Piebald Brockhound";[2]=""}
-_PETSTRINGS[1076] = {[1]="Heart's Blood Writheresk";[2]=""}
-_PETSTRINGS[1077] = {[1]="Ivory Garaferon";[2]=""}
-_PETSTRINGS[1078] = {[1]="Magenta Mould-burrower";[2]=""}
-_PETSTRINGS[1079] = {[1]="Obsidian Garaferon";[2]=""}
-_PETSTRINGS[1080] = {[1]="Quenched Volcanic Writheresk";[2]=""}
-_PETSTRINGS[1081] = {[1]="Tawny Garaferon";[2]=""}
-_PETSTRINGS[1082] = {[1]="Black and Tan Brockhound";[2]=""}
-_PETSTRINGS[1083] = {[1]="Red-backed Mimic Frog";[2]=""}
-_PETSTRINGS[1084] = {[1]="Molten Cobalt Writheresk";[2]=""}
-_PETSTRINGS[1085] = {[1]="Ivory Wulf-hund";[2]=""}
-_PETSTRINGS[1086] = {[1]="Long-moss Slough-ganger";[2]=""}
-_PETSTRINGS[1087] = {[1]="Primeval Beetle";[2]=""}
-_PETSTRINGS[1088] = {[1]="Brindled Long-haired Brockhound";[2]=""}
-_PETSTRINGS[1089] = {[1]="Silver Fox";[2]=""}
-_PETSTRINGS[1090] = {[1]="Subtle Byrd-back";[2]=""}
-_PETSTRINGS[1091] = {[1]="Midnight Brockhound";[2]=""}
-_PETSTRINGS[1092] = {[1]="Chocolate Long-haired Brockhound";[2]=""}
-_PETSTRINGS[1093] = {[1]="Fallen Leaf Mould-burrower";[2]=""}
-_PETSTRINGS[1094] = {[1]="Twilight Mould-burrower";[2]=""}
-_PETSTRINGS[1095] = {[1]="Tawny Wulf-hund";[2]=""}
-_PETSTRINGS[1096] = {[1]="Moss-back Byrd-back";[2]=""}
-_PETSTRINGS[1097] = {[1]="Rosy Byrd-back";[2]=""}
-_PETSTRINGS[1098] = {[1]="Cinder Wulf-hund";[2]=""}
-_PETSTRINGS[1099] = {[1]="Primeval Juvenile Sûlok";[2]=""}
+_PETSTRINGS[1012] = {[1]="Бронированный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[1013] = {[1]="Зеленая королева гродбогов";[2]=""}
+_PETSTRINGS[1014] = {[1]="Пещерный Ужас";[2]="НЕ ОПУБЛИКОВАНО";}
+_PETSTRINGS[1015] = {[1]="Дружелюбная королева гродбогов";[2]="";}
+_PETSTRINGS[1016] = {[1]="Ядовитый гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО";}
+_PETSTRINGS[1017] = {[1]="Агрессивная королева гродбогов";[2]=""}
+_PETSTRINGS[1019] = {[1]="Угольно-черный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[1020] = {[1]="Бледный детеныш когтероя";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[1021] = {[1]="Сумеречная королева гродбогов";[2]=""}
+_PETSTRINGS[1022] = {[1]="Бледный скорпион";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[1023] = {[1]="Яркий гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО"}
+_PETSTRINGS[1024] = {[1]="Полосатый гродбог-защитник";[2]="НЕ ОПУБЛИКОВАНО";}
+_PETSTRINGS[1025] = {[1]="Темная королева гродбогов";[2]="";}
+_PETSTRINGS[1026] = {[1]="Полосатый детеныш когтероя";[2]="НЕ ОПУБЛИКОВАНО";}
+_PETSTRINGS[1027] = {[1]="Красно-коричневая мур-гальская пастушья собака";[2]="НЕ ОПУБЛИКОВАНО";}
+_PETSTRINGS[1028] = {[1]="Пустынная слизь";[2]=""}
+_PETSTRINGS[1029] = {[1]="Панцирная пустынная оса";[2]=""}
+_PETSTRINGS[1030] = {[1]="Закалённый в боях ящер";[2]=""}
+_PETSTRINGS[1031] = {[1]="Бурый слонёнок мумака";[2]=""}
+_PETSTRINGS[1032] = {[1]="Прилежный слонёнок мумака";[2]=""}
+_PETSTRINGS[1033] = {[1]="Тенерождённый зизану";[2]=""}
+_PETSTRINGS[1034] = {[1]="Хитрый ящер";[2]="";}
+_PETSTRINGS[1035] = {[1]="Неутомимый слонёнок мумака";[2]="";}
+_PETSTRINGS[1036] = {[1]="Мраморный слонёнок мумака";[2]="";}
+_PETSTRINGS[1037] = {[1]="Озарённый солнцем слонёнок мумака";[2]=""}
+_PETSTRINGS[1038] = {[1]="Таящийся ящер";[2]=""}
+_PETSTRINGS[1039] = {[1]="Морская слизь";[2]=""}
+_PETSTRINGS[1040] = {[1]="Медно-рыжий зизану";[2]=""}
+_PETSTRINGS[1041] = {[1]="Отягощённый слонёнок мумака";[2]=""}
+_PETSTRINGS[1042] = {[1]="Болотный крокодильчик";[2]=""}
+_PETSTRINGS[1043] = {[1]="Каменный слонёнок мумака";[2]=""}
+_PETSTRINGS[1044] = {[1]="Изумрудная слизь";[2]="";}
+_PETSTRINGS[1045] = {[1]="Рубиновый ящер";[2]="";}
+_PETSTRINGS[1046] = {[1]="Бледный зизану";[2]="";}
+_PETSTRINGS[1047] = {[1]="Малиновая слизь";[2]=""}
+_PETSTRINGS[1048] = {[1]="Mottled Mirkwood Fawn";[2]=""}
+_PETSTRINGS[1049] = {[1]="Spring Copse Stag";[2]=""}
+_PETSTRINGS[1050] = {[1]="Mottled Mirkwood Stag";[2]=""}
+_PETSTRINGS[1051] = {[1]="White-necked Doe";[2]=""}
+_PETSTRINGS[1052] = {[1]="Regal Grove Doe";[2]=""}
+_PETSTRINGS[1053] = {[1]="Regal Grove Stag";[2]=""}
+_PETSTRINGS[1054] = {[1]="Mottled Mirkwood Doe";[2]="";}
+_PETSTRINGS[1055] = {[1]="White-necked Fawn";[2]="";}
+_PETSTRINGS[1056] = {[1]="White-necked Stag";[2]="";}
+_PETSTRINGS[1057] = {[1]="Sunset Mould-burrower";[2]=""}
+_PETSTRINGS[1058] = {[1]="Midnight Long-haired Brockhound";[2]=""}
+_PETSTRINGS[1059] = {[1]="Pine-cone Writheresk";[2]=""}
+_PETSTRINGS[1060] = {[1]="Primeval Writheresk";[2]=""}
+_PETSTRINGS[1061] = {[1]="Mahogany Garaferon";[2]=""}
+_PETSTRINGS[1062] = {[1]="Primeval Byrd-back";[2]=""}
+_PETSTRINGS[1063] = {[1]="Mahogany Wulf-hund";[2]=""}
+_PETSTRINGS[1064] = {[1]="Chestnut Brockhound";[2]=""}
+_PETSTRINGS[1065] = {[1]="Dappled Long-haired Brockhound";[2]=""}
+_PETSTRINGS[1066] = {[1]="Molten Mould-burrower";[2]=""}
+_PETSTRINGS[1067] = {[1]="Volcanic Writheresk";[2]=""}
+_PETSTRINGS[1068] = {[1]="Bare Slough-ganger";[2]=""}
+_PETSTRINGS[1069] = {[1]="Brindled Brockhound";[2]=""}
+_PETSTRINGS[1070] = {[1]="Winter Fox";[2]=""}
+_PETSTRINGS[1071] = {[1]="Piebald Long-haired Brockhound";[2]=""}
+_PETSTRINGS[1072] = {[1]="Forest Byrd-back";[2]=""}
+_PETSTRINGS[1073] = {[1]="Piebald Brockhound";[2]=""}
+_PETSTRINGS[1074] = {[1]="Heart's Blood Writheresk";[2]=""}
+_PETSTRINGS[1075] = {[1]="Ivory Garaferon";[2]=""}
+_PETSTRINGS[1076] = {[1]="Magenta Mould-burrower";[2]=""}
+_PETSTRINGS[1077] = {[1]="Obsidian Garaferon";[2]=""}
+_PETSTRINGS[1078] = {[1]="Quenched Volcanic Writheresk";[2]=""}
+_PETSTRINGS[1079] = {[1]="Tawny Garaferon";[2]=""}
+_PETSTRINGS[1080] = {[1]="Black and Tan Brockhound";[2]=""}
+_PETSTRINGS[1081] = {[1]="Red-backed Mimic Frog";[2]=""}
+_PETSTRINGS[1082] = {[1]="Molten Cobalt Writheresk";[2]=""}
+_PETSTRINGS[1083] = {[1]="Ivory Wulf-hund";[2]=""}
+_PETSTRINGS[1084] = {[1]="Brindled Long-haired Brockhound";[2]=""}
+_PETSTRINGS[1085] = {[1]="Silver Fox";[2]=""}
+_PETSTRINGS[1086] = {[1]="Subtle Byrd-back";[2]=""}
+_PETSTRINGS[1087] = {[1]="Midnight Brockhound";[2]=""}
+_PETSTRINGS[1088] = {[1]="Chocolate Long-haired Brockhound";[2]=""}
+_PETSTRINGS[1089] = {[1]="Fallen Leaf Mould-burrower";[2]=""}
+_PETSTRINGS[1090] = {[1]="Twilight Mould-burrower";[2]=""}
+_PETSTRINGS[1091] = {[1]="Tawny Wulf-hund";[2]=""}
+_PETSTRINGS[1092] = {[1]="Moss-back Byrd-back";[2]=""}
+_PETSTRINGS[1093] = {[1]="Rosy Byrd-back";[2]=""}
+_PETSTRINGS[1094] = {[1]="Cinder Wulf-hund";[2]=""}
+_PETSTRINGS[1095] = {[1]="Primeval Juvenile Sûlok";[2]=""}
