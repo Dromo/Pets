@@ -69,14 +69,15 @@ jobs:
           ls -lh release-assets/
 
       - name: Upload Release
-        uses: akkuman/gitea-release-action@v1
+        uses: ncipollo/release-action@v1
         with:
+          commit: master
+          bodyFile: Release.md
+          tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          name: ${{ steps.current_version.outputs.current_version }}
-          tag_name: ${{ steps.current_version.outputs.current_version }}
-          body_path: Release.md
-          files: |
-            release-assets/**
+          artifacts: "release-assets/**"
+          allowUpdates: true
+          artifactErrorsFailBuild: true
 
       - name: setup python
         uses: actions/setup-python@v4
