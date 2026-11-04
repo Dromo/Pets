@@ -70,7 +70,7 @@ jobs:
           tag_name: ${{ steps.current_version.outputs.current_version }}
           body_path: Release.md
           files: |
-            'Pets_${{ steps.current_version.outputs.current_version }}.zip'
+            '${{ github.workspace }}/Pets_${{ steps.current_version.outputs.current_version }}.zip'
 
       - name: setup python
         uses: actions/setup-python@v4
