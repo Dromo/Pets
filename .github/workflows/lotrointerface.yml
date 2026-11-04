@@ -67,8 +67,9 @@ jobs:
         uses: akkuman/gitea-release-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag_name: ${{ steps.current_version.outputs.current_version }}
+          tag_name: ${{ steps.current_version.outputs.current_version }}test
           body_path: Release.md
+          prerelease: true
           files: |
             '${{ github.workspace }}/Pets_${{ steps.current_version.outputs.current_version }}.zip'
 
