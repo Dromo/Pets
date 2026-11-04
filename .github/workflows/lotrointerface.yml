@@ -59,13 +59,13 @@ jobs:
           exclusions: '*.git* *.md *.py *.txt'
 
       - name: Upload Release
-        uses: ncipollo/release-action@v1
+        uses: akkuman/gitea-release-action@v1
         with:
-          artifacts: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
-          commit: master
-          bodyFile: Release.md
-          tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ steps.current_version.outputs.current_version }}
+          body_path: Release.md
+          files: |
+            'Pets_${{ steps.current_version.outputs.current_version }}.zip'
 
       - name: setup python
         uses: actions/setup-python@v4
