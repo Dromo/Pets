@@ -50,7 +50,7 @@ jobs:
         if: ${{ steps.version_change.outputs.version_changed == 'false' }}
         run: |
           echo "Version did not change. Exiting workflow."
-       #   exit 1  # Fail the step to stop the workflow
+          exit 1  # Fail the step to stop the workflow
 
       - name: Archive Release
         uses: thedoctor0/zip-release@master
@@ -60,6 +60,7 @@ jobs:
           filename: 'Pets_${{ steps.current_version.outputs.current_version }}.zip'
           exclusions: '*.git* *.md *.py *.txt'
 
+      #Gitea was not inlcuding the zip in the release. Adding this is step fixes it
       - name: Stage release asset
         shell: bash
         run: |
@@ -71,10 +72,9 @@ jobs:
         uses: akkuman/gitea-release-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          name: ${{ steps.current_version.outputs.current_version }}test
-          tag_name: ${{ steps.current_version.outputs.current_version }}test
+          name: ${{ steps.current_version.outputs.current_version }}
+          tag_name: ${{ steps.current_version.outputs.current_version }}
           body_path: Release.md
-          draft: true
           files: |
             release-assets/**
 
