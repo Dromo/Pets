@@ -75,7 +75,7 @@ jobs:
           bodyFile: Release.md
           tag: ${{ steps.current_version.outputs.current_version }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: "release-assets/**"
+          artifacts: "release-assets/Pets_${{ steps.current_version.outputs.current_version }}.zip"
           allowUpdates: true
           artifactErrorsFailBuild: true
 
