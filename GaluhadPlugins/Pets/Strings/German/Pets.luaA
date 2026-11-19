@@ -1,0 +1,718 @@
+-----------------------------------------------------------------------------------------------------
+--[[
+		Name & Descriptions for pets (where they are found etc.)
+		Note: Main table ID's must match those given in _PETS table
+		[1] = Pet Name
+		[2] = Description
+--]]
+-----------------------------------------------------------------------------------------------------
+
+_PETSTRINGS[1] = {[1]="Fangorn-Schneehuorn";[2]="Im westlichen Fangorn durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[2] = {[1]="Fangorn-Huorn";[2]="Im westlichen Fangorn durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[3] = {[1]="Schwarzer Huorn mit Honigwaben";[2]="Im westlichen Fangorn durch Zufall oder Tausch erhältlich!";};
+
+_PETSTRINGS[4] = {[1]="Kampfhuhn";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[5] = {[1]="Schwarzfuß-Huhn";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[6] = {[1]="Oranges Wyandotte-Huhn";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[7] = {[1]="Dorking-Hühnchen";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[8] = {[1]="Rotes Huhn";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+_PETSTRINGS[9] = {[1]="Weißes Huhn";[2]="Während des Events „Hobnanigans“ durch Zufall oder Tausch erhältlich!";};
+
+_PETSTRINGS[10] = {[1]="Staubige Spitzmaus";[2]="Seltene Belohnung in der Geschenkschachtel der Quest \"Furchtbare Tweens\" (Fr\195\188hlingsfest / Heckenlabyrinth).";};
+_PETSTRINGS[11] = {[1]="Gemeine Spitzmaus";[2]="Seltene Belohnung in der Geschenkschachtel der Quest \"Zerstampft ne Spitzmaus - Herausforderung\" (Fr\195\188hlingsfest / Festgarten von Du\195\173llont).";};
+_PETSTRINGS[12] = {[1]="Gefleckte Spitzmaus";[2]="Chance aus jedem Blumenbeet w\195\164hrend der Quest \"Eine handvoll Blumen\" zu droppen (Fr\195\188hlingsfest - Bree).";};
+_PETSTRINGS[13] = {[1]="Gro\195\159e Spitzmaus";[2]="Seltene Belohnung in der Geschenkschatel der Quest \"Zerstampft ne Spitzmaus - Eine riesige Spitzmaus\" (Fr\195\188hlingsfest / Festgarten von Du\195\173llont).";};
+
+_PETSTRINGS[14] = {[1]="Vogelsprache";[2]="Nur f\195\188r Kundige. Bei den Elben von Bruchtal ab der Rufstufe \"Verwandter\" erh\195\164ltlich.";};
+_PETSTRINGS[15] = {[1]="Katzensprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[16] = {[1]="Hundesprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[17] = {[1]="Fuchssprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[18] = {[1]="Froschsprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[19] = {[1]="Kaninchensprache";[2]="Nur f\195\188r Kundige. Available by completing the quest chain 'A Friend of the Wild' from Radagast in the Lone-lands.";};
+_PETSTRINGS[20] = {[1]="Schlangensprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[21] = {[1]="Eichh\195\182rnchensprache";[2]="Nur f\195\188r Kundige. Zuf\195\164lliger World-Drop.";};
+_PETSTRINGS[22] = {[1]="Schindkr\195\182tensprache";[2]="Nur f\195\188r Kundige. Bei der Mathomgesellschaft ab der Rufstufe \"Verb\195\188ndeter\" erh\195\164ltlich.";};
+
+-- U14
+_PETSTRINGS[23] = {[1]="Weißer Schwan";[2]="In West-Gondor durch Tausch erhältlich.";};
+_PETSTRINGS[24] = {[1]="Schwarzer Schwan";[2]="In West-Gondor durch Tausch erhältlich.";};
+_PETSTRINGS[25] = {[1]="Tundrajunges";[2]="Als Belohnung f\195\188r eine Spende an \"Extra Life\" erh\195\164ltlich..";};
+_PETSTRINGS[26] = {[1]="Geister-B\195\164r";[2]="Als Belohnung f\195\188r eine Spende an \"Extra Life\" erh\195\164ltlich... Weitere Methoden k\195\182nnten verf\195\188gbar werden, sind zur Zeit aber unbekannt.";};
+_PETSTRINGS[27] = {[1]="Schatzsuchende Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+
+-- U14.1
+_PETSTRINGS[28] = {[1]="Nachtschwan";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[29] = {[1]="Braunrücken-Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+_PETSTRINGS[30] = {[1]="Grünschnabel-Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+_PETSTRINGS[31] = {[1]="Grünrücken-Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+_PETSTRINGS[32] = {[1]="Rosaschnabel-Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+_PETSTRINGS[33] = {[1]="Schwarzschnabel-Höhlenklaue";[2]="Während des Events „Schatzsuche“ bei Tauschhändlern erhältlich.";};
+
+-- U14.2
+_PETSTRINGS[34] = {[1]="Frosch";[2]="Per Tauschhandel in Ost-Gondor erhältlich.";};
+_PETSTRINGS[35] = {[1]="Teichfrosch";[2]="Per Tauschhandel erhältlich in umherziehenden Bedrohungen.";};
+_PETSTRINGS[36] = {[1]="Marschfrosch";[2]="Bei einer Kampftruppe in den Totensümpfen erhältlich.";};
+_PETSTRINGS[37] = {[1]="Kupferrücken-Frosch";[2]="Per Tauschhandel in Ost-Gondor erhältlich.";};
+_PETSTRINGS[38] = {[1]="Nebelfrosch";[2]="Per Tauschhandel in Ost-Gondor erhältlich.";};
+_PETSTRINGS[39] = {[1]="Weitgereiste Schindkröte";[2]="Bei einer Kampftruppe in den Totensümpfen erhältlich.";};
+
+-- u15.0
+_PETSTRINGS[40] = {[1]="Auerochsen-Kalb";[2]="Im Ringlótal bei Tauschhändlern erhältlich. Ihr müsst dazu die Rufstufe \"Verwandter\" bei den Menschen des Ringlótals erreichen.";};
+_PETSTRINGS[41] = {[1]="Feuergrimmiger";[2]="Während des Julfests bei Tauschhändlern erhältlich";};
+_PETSTRINGS[42] = {[1]="Grimmige";[2]="Während des Julfests bei Tauschhändlern erhältlich";};
+_PETSTRINGS[43] = {[1]="Sandfliegen";[2]="In Dor-en-Ernil bei Tauschhändlern erhältlich. Ihr müsst dazu die Rufstufe \"Verwandter\" bei den Menschen von Dor-en-Ernil erreichen.";};
+_PETSTRINGS[44] = {[1]="Schattengrimmiger";[2]="Während des Julfests bei Tauschhändlern erhältlich";};
+_PETSTRINGS[45] = {[1]="Schmugglerratte";[2]="Bei Tauschhändlern in Lebennin erhältlich. Ihr müsst dazu die Rufstufe \"Verwandter\" bei den Menschen von Lebennin erreichen.";};
+
+-- u16.0
+_PETSTRINGS[46] = {[1]="Braunes Kaninchen";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Im Auenland auch durch Tausch erhältlich.";};
+_PETSTRINGS[47] = {[1]="Sehr noble Katze";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Waldläufer von Ithilien seid.";};
+_PETSTRINGS[48] = {[1]="Braunes Eichhörnchen";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In den Trollhöhen auch durch Tausch erhältlich.";};
+_PETSTRINGS[49] = {[1]="Braunfuchs";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Waldläufer von Ithilien seid.";};
+_PETSTRINGS[50] = {[1]="Orange Katze";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Waldläufer von Ithilien seid.";};
+_PETSTRINGS[51] = {[1]="Hellbraunes Schaf";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Breeland auch durch Tausch erhältlich.";};
+_PETSTRINGS[52] = {[1]="Geschecktes Kaninchen";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Waldläufer von Ithilien seid.";};
+_PETSTRINGS[53] = {[1]="Braunes Schaf";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Waldläufer von Ithilien seid.";};
+_PETSTRINGS[54] = {[1]="Geschmeidiger Fuchs";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In den Einsamen Landen auch durch Tausch erhältlich.";};
+
+-- u17-19
+_PETSTRINGS[55] = {[1]="Rattlepacks Senior";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Im Auenland auch durch Tausch erhältlich.";};
+_PETSTRINGS[56] = {[1]="Zottelmähne";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In der Wildermark auch durch Tausch erhältlich.";};
+_PETSTRINGS[57] = {[1]="Blaue Echse";[2]="Durch Tauschhandel mit der Gemeinschaft der Stadtbeamten in Minas Tirith erhältlich.";};
+_PETSTRINGS[58] = {[1]="Braune Fledermaus";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!";};
+_PETSTRINGS[59] = {[1]="Blauer Käfer";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Lothlórien auch durch Tausch erhältlich.";};
+_PETSTRINGS[60] = {[1]="Braune Schlange";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Am Großen Fluss auch durch Tausch erhältlich.";};
+_PETSTRINGS[61] = {[1]="Entfernter Cousin";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Breeland auch durch Tausch erhältlich.";};
+_PETSTRINGS[62] = {[1]="Grüner Käfer";[2]="Durch Tauschhandel mit der Gemeinschaft der Stadtbeamten in Minas Tirith erhältlich.";};
+_PETSTRINGS[63] = {[1]="Heiligendrachen";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[64] = {[1]="Eissalamander";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In West-Rohan auch durch Tausch erhältlich.";};
+_PETSTRINGS[65] = {[1]="Fuchs aus Ithilien";[2]="Durch Tauschhandel in Nord-Ithilien erhältlich.";};
+_PETSTRINGS[66] = {[1]="Sicheldrachen";[2]="Durch Tauschhandel während des Julfests erhältlich!";};
+_PETSTRINGS[67] = {[1]="Blätterfalldrachen";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!";};
+_PETSTRINGS[68] = {[1]="Hellbraune Ziege";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Im Nebelgebirge auch durch Tausch erhältlich.";};
+_PETSTRINGS[69] = {[1]="Kleiner Mûmak";[2]="Erhältlich als mögliche Beute in der Schlachtzug-Herausforderung \"Thron des Schreckensherrn\" auf Stufe 2.";};
+_PETSTRINGS[70] = {[1]="Loyaler Schwanenritter";[2]="Erhältlich als mögliche Beute im Schlachtzug \"Thron des Schreckensherrn\" auf Stufe 2.";};
+_PETSTRINGS[71] = {[1]="Miniatur-Grodbog-Krieger";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Breeland auch durch Tausch erhältlich.";};
+_PETSTRINGS[72] = {[1]="Eichendrachen";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!";};
+_PETSTRINGS[73] = {[1]="Rattenfänger-Katze";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[74] = {[1]="Roter Käfer";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Moria auch durch Tausch erhältlich.";};
+_PETSTRINGS[75] = {[1]="Roter Adler";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Ost-Rohan auch durch Tausch erhältlich.";};
+_PETSTRINGS[76] = {[1]="Rotfuchs";[2]="Durch Tauschhandel in Nord-Ithilien erhältlich.";};
+_PETSTRINGS[77] = {[1]="Eichhörnchen";[2]="Durch Tauschhandel in Nord-Ithilien erhältlich.";};
+_PETSTRINGS[78] = {[1]="Rohirrim-Reiter";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Reiter von Rohan seid.";};
+_PETSTRINGS[79] = {[1]="Scheues schwarzes Pferd";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Dunland auch durch Tausch erhältlich.";};
+_PETSTRINGS[80] = {[1]="Segelnder Vogeldrachen";[2]="Gegen Mithril während des Bauernfestes erhältlich!";};
+_PETSTRINGS[81] = {[1]="Gestreiftes Pelennor-Schwein";[2]="Durch Tausch erhältlich, wenn Ihr Verwandter der Verteidiger von Minas Tirith seid.";};
+_PETSTRINGS[82] = {[1]="Sturmschwingendrachen";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[83] = {[1]="Sonniger Sommerdrachen";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";};
+_PETSTRINGS[84] = {[1]="Schwanenritter-Reiter";[2]="";};
+_PETSTRINGS[85] = {[1]="Gezähmter Variag-Hund";[2]="Erhältlich als mögliche Beute in der Schlachtzug-Herausforderung \"Thron des Schreckensherrn\" auf Stufe 2.";};
+_PETSTRINGS[86] = {[1]="Umbrafarbene Ziege";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. In Eregion auch durch Tausch erhältlich.";};
+_PETSTRINGS[87] = {[1]="Weißes Eichhörnchen";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Im Düsterwald auch durch Tausch erhältlich.";};
+_PETSTRINGS[88] = {[1]="Junges von Willem";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin-. In Enedwaith auch durch Tausch erhältlich.";};
+_PETSTRINGS[89] = {[1]="Willem Wollhaar";[2]="Erhältlich für die Teilnahme an der Geschichte von Bingo Boffin. Im Auenland auch durch Tausch erhältlich.";};
+
+-- u19.1
+_PETSTRINGS[90] = {[1]="Shobdo der kleine Mûmak";[2]="Im HdRO-Shop erhältlich.";};
+
+-- u19.3
+_PETSTRINGS[91] = {[1]="Winterblumen";[2]="Während des Julfests erhältlich";};
+_PETSTRINGS[92] = {[1]="Frostiger Drachen";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[93] = {[1]="Wintertaubendrachen";[2]="Im HdRO-Shop erhältlich.";};
+
+-- u20
+_PETSTRINGS[94] = {[1]="Faroth";[2]="Durch Abschluss der Aufgabe \"Ein neuer Freund\" erhältlich.";};
+_PETSTRINGS[95] = {[1]="Hilfreicher Hund";[2]="Durch Tauschhandel in den Ödlanden erhältlich";};
+_PETSTRINGS[96] = {[1]="Gut versorgter Hund";[2]="Durch Tauschhandel in den Ödlanden erhältlich";};
+_PETSTRINGS[97] = {[1]="Mottendrachen";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";};
+_PETSTRINGS[98] = {[1]="Blumendrachen";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";};
+_PETSTRINGS[99] = {[1]="Hummeldrachen";[2]="Im HdRO-Shop erhältlich.";};
+
+-- Anniversary Pets
+_PETSTRINGS[100] = {[1]="Glückliches Schwein";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[101] = {[1]="Rabe";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[102] = {[1]="Bauschiges Schaf";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[103] = {[1]="Stille Kuh";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[104] = {[1]="Bauer Maggots Hund";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[105] = {[1]="Lutz das Pony";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[106] = {[1]="Freundlicher Hirsch";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[107] = {[1]="Majestätischer weißer Hirsch";[2]="Erhältlich während des 10-Jahre-Jubiläumsfests.";};
+_PETSTRINGS[108] = {[1]="Karmesinroter Drachen";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[109] = {[1]="Goldener Drachen";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";};
+_PETSTRINGS[110] = {[1]="Silberner Drachen";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";};
+_PETSTRINGS[111] = {[1]="Mitternachts-Drachen";[2]="Im HdRO-Shop erhältlich.";};
+
+-- Summer festival 2017
+_PETSTRINGS[112] = {[1]="Sonnenblumendrache";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[113] = {[1]="Forellendrache";[2]="Im HdRO-Shop erhältlich.";};
+_PETSTRINGS[114] = {[1]="Sommerblumendrache";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";};
+_PETSTRINGS[115] = {[1]="Mittsommer-Kometendrache";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";};
+
+-- u21 (MORDOR)
+_PETSTRINGS[116] = {[1]="Edler Adlerdrache";[2]="Erhältlich im \"Größter Verehrer Mordors\"-Paket!";};
+_PETSTRINGS[117] = {[1]="Hoffnungsvoller Schwanendrache";[2]="Erhältlich in der Mordor-Sammleredition oder im \"Größter Verehrer\"-Paket";};
+
+-- u21.1
+_PETSTRINGS[118] = {[1]="Erntefest-Drache";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[119] = {[1]="Bierliebende-Dachse-Drachen";[2]="Im HdRO-Shop erhältlich.";}
+_PETSTRINGS[120] = {[1]="Goldkorn-Drache";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+
+-- u22.1 -> u21.3.2
+_PETSTRINGS[121] = {[1]="Lhingris-Kriecher";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[122] = {[1]="Dickicht-Maulwurfsratte";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[123] = {[1]="Gorgoroth-Kriecher";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[124] = {[1]="Aschefrosch";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[125] = {[1]="Fäulnisfrosch";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[126] = {[1]="Agarnaith-Wurmling";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[127] = {[1]="Lhingris-Wurmling";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[128] = {[1]="Giftiger Froschling";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[129] = {[1]="Ebenen-Maulwurfsratte";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[130] = {[1]="Agarnaith-Kriecher";[2]="Verfügbar für Prachtstücke des Glanzes vom Geheimnishüter.";}
+_PETSTRINGS[131] = {[1]="Diamantrückenschlange";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[132] = {[1]="Mordor-Schlange";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[133] = {[1]="Bänderschlange";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[134] = {[1]="Gelbe Schlange";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[135] = {[1]="Agarnaith-Schlange";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Eroberung von Gorgoroth erhältlich.";}
+_PETSTRINGS[136] = {[1]="Rote Schlange";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[137] = {[1]="Streifenschlange";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[138] = {[1]="Kalebassenlauerer";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!";}
+_PETSTRINGS[139] = {[1]="Schneeeule";[2]="Durch Tauschhandel während des Julfests erhältlich!";}
+_PETSTRINGS[140] = {[1]="Schneehase";[2]="Durch Tauschhandel während des Julfests erhältlich!";}
+_PETSTRINGS[141] = {[1]="Federwilddrachen";[2]="Im HdRO-Shop erhältlich.";}
+
+-- u22.0
+_PETSTRINGS[142] = {[1]="Lasgalen-Bartkauz";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[143] = {[1]="Drossel";[2]="Im Thalland erhältlich";}
+_PETSTRINGS[144] = {[1]="Thal-Kalb";[2]="Im Thalland erhältlich";}
+_PETSTRINGS[145] = {[1]="Frühlingsfasan-Männchen";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";}
+_PETSTRINGS[146] = {[1]="Frühlingsfasan-Weibchen";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";}
+_PETSTRINGS[147] = {[1]="Igel";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";}
+_PETSTRINGS[148] = {[1]="Smaug-Drachen";[2]="Im Thalland erhältlich";}
+
+-- u22.1
+_PETSTRINGS[149] = {[1]="Fleißiger Biber";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[150] = {[1]="Biber";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
+_PETSTRINGS[151] = {[1]="Rostbrauner Igel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+
+-- u22.2
+_PETSTRINGS[152] = {[1]="Blaue Pfauenhenne";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[153] = {[1]="Weiße Pfauenhenne";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[154] = {[1]="Geflecktes Zicklein";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[155] = {[1]="Grüne Pfauenhenne";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich.";}
+_PETSTRINGS[156] = {[1]="Silbernes Zicklein";[2]="Im Grauen Gebirge erhältlich";}
+_PETSTRINGS[157] = {[1]="Schwarze Pfauenhenne";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[158] = {[1]="Weißer Pfau";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[159] = {[1]="Teetassen-Zicklein";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
+_PETSTRINGS[160] = {[1]="Grüner Pfau";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich.";}
+_PETSTRINGS[161] = {[1]="Toffee-Zicklein";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist.";}
+_PETSTRINGS[162] = {[1]="Riesenzicklein";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[163] = {[1]="Schwarzer Pfau";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[164] = {[1]="Kleines Zicklein";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[165] = {[1]="Blauer Pfau";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[166] = {[1]="Picknick-Pony";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich.";}
+_PETSTRINGS[167] = {[1]="Regenwolke";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich.";}
+_PETSTRINGS[168] = {[1]="Singvogel";[2]="Per Tauschhandel in empfohlenen Herausforderungen erhältlich.";}
+_PETSTRINGS[169] = {[1]="Weißer Fuchs";[2]="Per Tauschhandel in empfohlenen Herausforderungen erhältlich.";}
+
+-- u22.5
+_PETSTRINGS[170] = {[1]="Sturmwolke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[171] = {[1]="Julfest-Hase";[2]="Erhältlich in der Aufgabe: Gestohlene Süßigkeiten"}
+
+-- u23.0
+_PETSTRINGS[172] = {[1]="Feuriger Roter Käfer";[2]="Im Grauen Gebirge erhältlich"}
+_PETSTRINGS[173] = {[1]="Rost-Staubteufel";[2]="Im Grauen Gebirge erhältlich"}
+
+-- Harvestmath 2018
+_PETSTRINGS[174] = {[1]="Schwarze Katze";[2]="Beim Herbstfest erhältlich"}
+
+-- u23.1.2
+_PETSTRINGS[175] = {[1]="Schwarze Dogge";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+-- u23.1.7
+_PETSTRINGS[176] = {[1]="Schnee-Schleiereule";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[177] = {[1]="Schnee-Ungrimmiger";[2]="Durch Tauschhandel während der Julfest-Saison-Instanzen erhältlich."}
+_PETSTRINGS[178] = {[1]="Goldene Schleiereule";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[179] = {[1]="Verderbter Crebain";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[180] = {[1]="Feuriger gelber Käfer";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[181] = {[1]="Siena-Ziege";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[182] = {[1]="Wächterlehrling";[2]="Im HdRO-Shop als Teil des \"Zurückeroberung Morias\"-Pakets erhältlich."}
+_PETSTRINGS[183] = {[1]="Grüner Glühwurm";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[184] = {[1]="Oranger Glühwurm";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[185] = {[1]="Perfekter-Himmel-Drachen";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+
+_PETSTRINGS[186] = {[1]="Topas-Zirperkirper";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[187] = {[1]="Saphir-Zirperkirper";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[188] = {[1]="Amethyst-Zirperkirper";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+
+_PETSTRINGS[189] = {[1]="Schwarzes Kaninchen";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[190] = {[1]="Nachteichhörnchen";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[191] = {[1]="Hellbrauner Fuchs";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[192] = {[1]="Goldenes Schaf";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[193] = {[1]="Braunes Schwein";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+_PETSTRINGS[194] = {[1]="Goldene Fledermaus";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+
+_PETSTRINGS[195] = {[1]="Große Honigbiene";[2]="Verfügbar in den Tälern des Anduin"}
+_PETSTRINGS[196] = {[1]="Silberrückendachs";[2]="Im HdRO-Shop erhältlich."}
+_PETSTRINGS[197] = {[1]="Geflecktes Schwein";[2]="Verfügbar in den Tälern des Anduin"}
+
+_PETSTRINGS[198] = {[1]="Große blaue Holzbiene";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[199] = {[1]="Große Wespe";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[200] = {[1]="Schwarzes Schwein";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[201] = {[1]="Rosa Schwein";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[202] = {[1]="Große Hummel";[2]="Verfügbar in den Täler des Anduin bei Tauschhändlern"}
+_PETSTRINGS[203] = {[1]="Kleines braunes Schwein";[2]="Verfügbar in den Tälern des Anduin"}
+
+_PETSTRINGS[204] = {[1]="Schäferhund";[2]="Erhältlich in der \"Minas Morgul\"-Sammleredition oder im \"Größter Verehrer\"-Paket."}
+_PETSTRINGS[205] = {[1]="Angeschirrter Schäferhund";[2]="Erhältlich im \"Größter Verehrer Minas Morguls\"-Paket."}
+_PETSTRINGS[206] = {[1]="Dachs";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[207] = {[1]="Brauner Wolfshund";[2]="Per Tauschhandel in Ost-Gondor erhältlich."}
+_PETSTRINGS[208] = {[1]="Weißer Wolfshund";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[209] = {[1]="Schwarzer Wolfshund";[2]="Per Tauschhandel in Imlad Morgul erhältlich."}
+_PETSTRINGS[210] = {[1]="Winterfestschwein";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
+_PETSTRINGS[211] = {[1]="Pony mit Geschenken";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+
+_PETSTRINGS[212] = {[1]="Husky-Wolfshund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[213] = {[1]="Flughund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[214] = {[1]="Rauchgraue Katze";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+
+_PETSTRINGS[215] = {[1]="Zerfledderte Fledermaus";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[216] = {[1]="Blutrote Fledermaus";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[217] = {[1]="Weißer Huorn";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[218] = {[1]="Verzaubertes Gefäß";[2]="Per Tauschhandel beim Quartiermeister der Weißen Schar erhältlich."}
+_PETSTRINGS[219] = {[1]="Weißkopffalke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[220] = {[1]="Waldkaninchen";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[221] = {[1]="Gans";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[222] = {[1]="Bienenschwarm";[2]="Verfügbar in \"Nebel von Wilderland\"."}
+_PETSTRINGS[223] = {[1]="Jubiläumsfestschwein";[2]="Zeitlich begrenztes Jubiläumsangebot für VIPs."}
+_PETSTRINGS[224] = {[1]="Mysteriöses Festschwein";[2]="Verfügbar als ein 13-jährigen Jubiläumsgeschenk-Kiste."}
+
+_PETSTRINGS[225] = {[1]="Großer gondorischer Drachen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[226] = {[1]="Hochzeitsfeier-Pony";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[227] = {[1]="Geschmückte Gans";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[228] = {[1]="Gondorischer Mittsommer-Drachen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[229] = {[1]="Grünes Glühwürmchen";[2]="Früher verfügbar durch Hobbitgeschenke als besonderes Mittsommer-Hochzeitsgeschenk."}
+_PETSTRINGS[230] = {[1]="Purpurfarbenes Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[231] = {[1]="Blaues Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[232] = {[1]="Rotes Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+
+_PETSTRINGS[233] = {[1]="Zwielichtdrachen";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[234] = {[1]="Graues Schwein";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+
+_PETSTRINGS[235] = {[1]="Hellgraue Ziege";[2]="Erhältlich durch den Abschluss von Missionen."}
+_PETSTRINGS[236] = {[1]="Dunkelgraues Eichhörnchen";[2]="Per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich."}
+_PETSTRINGS[237] = {[1]="Burgunderrote Ziege";[2]="Per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich."}
+_PETSTRINGS[238] = {[1]="Kaffeebraune Ziege";[2]="Erhältlich durch den Abschluss von Missionen."}
+_PETSTRINGS[239] = {[1]="Schatzbeladener Esel";[2]="Erhältlich im \"Größter Verehrer des Kriegs der Drei Gipfel\"-Paket."}
+_PETSTRINGS[240] = {[1]="Für die Schlacht geschmücktes Schwein";[2]="Erhältlich im \"Größter Verehrer des Kriegs der Drei Gipfel\"-Paket."}
+_PETSTRINGS[241] = {[1]="Lebhafte Schnecke";[2]="Erhältlich während der Teilnahme an Community-Events."}
+_PETSTRINGS[242] = {[1]="Unheimliche Dohle";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[243] = {[1]="Schwarzgefiederte Krähe";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[244] = {[1]="Vorbote des Weisen-Sturms";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[245] = {[1]="Grauer Wildesel";[2]="Erhältlich durch Vollbringen der Tat \"Überbringer festlicher Stimmung\"."}
+_PETSTRINGS[246] = {[1]="Fässerbeladener Esel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[247] = {[1]="Alabasterfarbener Esel";[2]="Durch Tauschhandel während der Julfest-Saison-Instanzen erhältlich."}
+_PETSTRINGS[248] = {[1]="Kuscheliges Julfest-Zicklein";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[249] = {[1]="Braunes Bärenjunges";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[250] = {[1]="Poinsettien-Kranz-Huorn";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[251] = {[1]="Julfestbaum-Huorn";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[252] = {[1]="Unheilvoller Hund";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[253] = {[1]="Unheilvoller Wurm";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+
+_PETSTRINGS[254] = {[1]="Zahmer Wildwald-Huorn";[2]="Durch Tauschhandel in Wildwald erhältlich."}
+_PETSTRINGS[255] = {[1]="Zahmer Wildwald-Keiler";[2]="Durch Tauschhandel in Wildwald erhältlich."}
+_PETSTRINGS[256] = {[1]="Wilden junger Elch";[2]="Durch Tauschhandel in Wildwald erhältlich."}
+_PETSTRINGS[257] = {[1]="Roter Gecko";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[258] = {[1]="Zweifarbiges Schaf";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[259] = {[1]="Aschgrauer Adler";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[260] = {[1]="Geflecktes Schwein";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[261] = {[1]="Kupferziege";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[262] = {[1]="Freundlicher Sumpflauerer";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
+_PETSTRINGS[263] = {[1]="Gefleckte dreifarbige Katze";[2]="Im HdRO-Shop erhältlich."}
+_PETSTRINGS[264] = {[1]="Flauschige graue Katze";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[265] = {[1]="Abenteuerlustiger Lauerer";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
+
+_PETSTRINGS[266] = {[1]="Azanulbizar-Fledermaus";[2]="Kann in Azanulbizar eingetauscht werden."}
+_PETSTRINGS[267] = {[1]="Suchender Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[268] = {[1]="Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[269] = {[1]="Wagen-Pony";[2]="Kann bei den Kharum-ubnâr eingetauscht werden."}
+_PETSTRINGS[270] = {[1]="Schneebergadler";[2]="Kann bei den Kharum-ubnâr eingetauscht werden."}
+_PETSTRINGS[271] = {[1]="Streifenhörnchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[272] = {[1]="Silberfarbenes Streifenhörnchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[273] = {[1]="Waldhirschkuh";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[274] = {[1]="Waldhirsch";[2]="Durch Tauschhandel während der Sommer-Saison-Instanzen erhältlich."}
+_PETSTRINGS[275] = {[1]="Geflecktes Waldkitz";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[276] = {[1]="Goldene Höhlenklaue";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[277] = {[1]="Kristallgrimmiger";[2]="Erhältlich im ultimativen Fan-Paket \"Schicksal des Gundabad\"."}
+_PETSTRINGS[278] = {[1]="Gundabad-Ukhrâsh";[2]="Erhältlich in der Schicksal-von-Gundabad-Sammleredition oder im \"Größter Verehrer\"-Paket."}
+
+_PETSTRINGS[279] = {[1]="Weißes Kernholz-Rehkitz";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[280] = {[1]="Herbst-Kernholz-Hirsch";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[281] = {[1]="Zahme Gundabad-Fledermaus";[2]="Kann in Gundabad eingetauscht werden."}
+_PETSTRINGS[282] = {[1]="Kleine Tiefenkröte";[2]="Erhältlich in Pughlaks Truhe in der Höhle von Pughlak."}
+_PETSTRINGS[283] = {[1]="Zerfurchte Schnecke";[2]="Kann in Gundabad eingetauscht werden."}
+_PETSTRINGS[284] = {[1]="Kristall-Spinne";[2]="Kann in Gundabad eingetauscht werden."}
+
+_PETSTRINGS[285] = {[1]="Julfest-Prinzessinnen-Kaninchen";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[286] = {[1]="Hellgraues Eichhörnchen";[2]="Durch Tausch beim Quartiermeister der Verteidiger des Bogens erhältlich."}
+_PETSTRINGS[287] = {[1]="Aschefalke";[2]="Durch Tausch beim Quartiermeister der Verteidiger des Bogens erhältlich."}
+_PETSTRINGS[288] = {[1]="Brauner marmorierter Wolfshund";[2]="Durch Tausch beim Quartiermeister der Verteidiger des Bogens erhältlich."}
+
+_PETSTRINGS[289] = {[1]="Scheckiger Wildesel";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich";}
+_PETSTRINGS[290] = {[1]="Dreifarbiger Corgi";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
+_PETSTRINGS[291] = {[1]="Feuerwerkcorgi";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
+_PETSTRINGS[292] = {[1]="Kastanienfarbener Corgi";[2]="Zeitlich begrenztes Jubiläumsangebot.";}
+_PETSTRINGS[293] = {[1]="Goldener Kristallkäfer";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich";}
+_PETSTRINGS[294] = {[1]="Jubiläumsfestcorgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
+_PETSTRINGS[295] = {[1]="Gefleckter Corgi";[2]="Erhältlich während der Teilnahme an Community-Events.";}
+_PETSTRINGS[296] = {[1]="Kräftiger Esel";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar.";}
+_PETSTRINGS[297] = {[1]="Kupferfarbener Niederhund";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar.";}
+
+_PETSTRINGS[298] = {[1]="Blut-Craban";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
+_PETSTRINGS[299] = {[1]="Gepflegter Corgi";[2]="Per Tauschhandel bei Theodor Ginster während des Schatz-Bugan-Ereignisses erhältlich.";}
+_PETSTRINGS[300] = {[1]="Freundliches Bärenjunges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
+_PETSTRINGS[301] = {[1]="Schwarzbären-Junges";[2]="Kann bei Celeblír in Bruchtal ertauscht werden."}
+_PETSTRINGS[302] = {[1]="Nobler Star";[2]="Erworben, indem Ihr Euch als verbesserter oder luxuriöser Unterstützer von Bruchtal gezeigt habt."}
+_PETSTRINGS[303] = {[1]="Bergesel";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 2 verfügbar";}
+_PETSTRINGS[304] = {[1]="Futterbeladener Esel";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!";}
+_PETSTRINGS[305] = {[1]="Pilz-Niederhund";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[306] = {[1]="Schwarze Fledermaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 3"}
+
+_PETSTRINGS[307] = {[1]="Nachthimmel-Craban";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[308] = {[1]="Laternen-Kalebassenlauerer";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[309] = {[1]="Loyale Schildkröte";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Vor dem Schatten\"."}
+_PETSTRINGS[310] = {[1]="Freundlicher Fischreiher";[2]="Erhältlich in der Sammleredition \"Vor dem Schatten\" oder im \"Ultimativer Fan\"-Paket."}
+_PETSTRINGS[311] = {[1]="Gesprenkelter Crebain";[2]="Wird mit einem Rezept hergestellt, das per Tauschhandel beim Quartiermeister für den Marsch auf Gundabad erhältlich ist."}
+_PETSTRINGS[312] = {[1]="Goldene Fledermaus";[2]="Verfügbar, wenn Ihr Radagast in Rhosgobel helft."}
+
+_PETSTRINGS[313] = {[1]="Flauschige Tigerkatze";[2]="Kann in Cardolan eingetauscht werden."}
+_PETSTRINGS[314] = {[1]="Roter Salamander";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 4 verfügbar"}
+_PETSTRINGS[315] = {[1]="Unheimlicher Hügelgrablauerer";[2]="In Sarch Vorn, dem Schwarzen Grab, als Belohnung erhältlich."}
+
+_PETSTRINGS[316] = {[1]="Schwarzer marmorierter Wolfshund";[2]="Beim Herbstfest erhältlich"}
+_PETSTRINGS[317] = {[1]="Weiße Gans";[2]="In den Fernen Auen erhältlich.";}
+_PETSTRINGS[318] = {[1]="Warmes Winter-Zicklein";[2]="In Saison 4 der Belohnungsleiste für legendäre Gegenstände erhältlich.";}
+_PETSTRINGS[319] = {[1]="Dunkler Niederhund";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
+_PETSTRINGS[320] = {[1]="Ziegelcorgi";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich.";}
+_PETSTRINGS[321] = {[1]="Freundlicher Storch";[2]="Kann in Cardolan eingetauscht werden.";}
+_PETSTRINGS[322] = {[1]="Freundlicher Reiher";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar.";}
+_PETSTRINGS[323] = {[1]="Festliches Julfest-Zicklein";[2]="Durch Tauschhandel während des Julfests erhältlich!"}
+_PETSTRINGS[324] = {[1]="Elegante Katze";[2]="Aus einer verbesserten oder luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[325] = {[1]="Verwegene Katze";[2]="Aus einer luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[326] = {[1]="Charmante Katze";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des verwegenen Gasts."}
+_PETSTRINGS[327] = {[1]="Unheilvolle Kreatur";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[328] = {[1]="Unheilvoller Kriecher";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[329] = {[1]="Schneebedeckter Auerochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
+_PETSTRINGS[330] = {[1]="Feuriger blauer Käfer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 5"}
+_PETSTRINGS[331] = {[1]="Weißer Welpe";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[332] = {[1]="Bezaubernde Sichelfliege";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[333] = {[1]="Rattenkönig";[2]="Zu finden in Rádarrígs Truhe in Sagroth, Hort des Ungeziefers. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[334] = {[1]="Kanalratte";[2]="Zu finden in Rádarrígs Truhe in Sagroth, Hort des Ungeziefers. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[335] = {[1]="Dämmerungsglühwürmchen";[2]="Als Belohnung zu finden in Thaurisgar, der abscheulichen Apotheke. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[336] = {[1]="Bernstein-Glühwürmchen";[2]="Als Belohnung zu finden in Sant Lhoer, dem Giftgarten. Außerdem durch Tauschhandel bei Muirál in Bail Avarc erhältlich."}
+_PETSTRINGS[337] = {[1]="Rostfarbener Corgi";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[338] = {[1]="Siedler-Zwergzugpferd";[2]="Aus der luxuriösen Siedlungs- und Erntetruhe."}
+_PETSTRINGS[339] = {[1]="Geflecktes graues Zwergzugpferd";[2]="Aus verbesserten oder luxuriösen Siedlungs- und Erntetruhen."}
+_PETSTRINGS[340] = {[1]="Schwarzes Zwergzugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
+_PETSTRINGS[341] = {[1]="Jubiläumsfestziege";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[342] = {[1]="Reine Möwe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 6"}
+_PETSTRINGS[343] = {[1]="Höhlenschnecke";[2]="Nur für kurze Zeit gegen Prachtstücke des Glanzes sowie in der Belohnungsleiste für legendäre Gegenstände - Saison 6 verfügbar"}
+_PETSTRINGS[344] = {[1]="Siedler-Zugpferd";[2]="Aus der luxuriösen Siedlungs- und Erntetruhe."}
+_PETSTRINGS[345] = {[1]="Geflecktes Graues Zugpferd";[2]="Aus verbesserten oder luxuriösen Siedlungs- und Erntetruhen."}
+_PETSTRINGS[346] = {[1]="Schwarzes Zugpferd";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe von Siedlungen und Ernten."}
+_PETSTRINGS[347] = {[1]="Das Pony des Königs";[2]="Erhältlich nach Abschluss der Aufgabe \"Kapitel 1.10: In allen Schatten\"."}
+_PETSTRINGS[348] = {[1]="Sommerkonzert-Glühwürmchen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[349] = {[1]="Gefleckte Springmaus";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[350] = {[1]="Stacheliger Avanc";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[351] = {[1]="Schiefergrauer Auerochse";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[352] = {[1]="Braune Kuh";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[353] = {[1]="Schwarzer Bulle";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[354] = {[1]="Feuerfuchs-Bandit";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[355] = {[1]="Munterer Vielfraß";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
+_PETSTRINGS[356] = {[1]="Ahorndrachen";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 7"}
+
+_PETSTRINGS[357] = {[1]="Schmetterlinge";[2]="Erworben im \"Überragenden Fluss-Hobbit-Paket\"."}
+_PETSTRINGS[358] = {[1]="Ziege des Waldgeistes";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[359] = {[1]="Papagei";[2]="Erhältlich im \"Ultimativer Fan\"-Paket von \"Korsaren von Umbar\"."}
+_PETSTRINGS[360] = {[1]="Wüstenfuchs";[2]="Erhältlich in der \"Korsaren von Umbar\"-Sammleredition oder im \"Ultimativer Fan\"-Paket."}
+
+_PETSTRINGS[361] = {[1]="Silbergrauer Esel";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister der Buchhüter in Umbar."}
+_PETSTRINGS[362] = {[1]="Löwenwelpe";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
+_PETSTRINGS[363] = {[1]="Krokodiljunges";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
+_PETSTRINGS[364] = {[1]="Grimmiges Kampfkätzchen";[2]="Zum Tausch verfügbar bei den Belohnungs-Stallmeistern von 'Die Erneuerung Gondors' in Pelargir (Königreich Gondor)."}
+_PETSTRINGS[365] = {[1]="Harmonischer Falke";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[366] = {[1]="Ufersandlauerer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[367] = {[1]="Frosthauer-Junges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
+_PETSTRINGS[368] = {[1]="Junger Elch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 8"}
+
+_PETSTRINGS[369] = {[1]="Vorbereiteter Corgi";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[370] = {[1]="Frostweißer Auerochse";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[371] = {[1]="Umbar-Huorn";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister der Buchhüter in Umbar."}
+_PETSTRINGS[372] = {[1]="Gezeiten-Dünenlauerer";[2]="Zum Tausch verfügbar beim Bündnisbelohnungs-Quartiermeister des Ordens des Adlers in Umbar."}
+_PETSTRINGS[373] = {[1]="Zimtbrauner Wildesel";[2]="Erhältlich durch Hobbitgeschenke als besonderes Wintergeschenk."}
+_PETSTRINGS[374] = {[1]="Vorzügliches Ferkel";[2]="Aus einer luxuriösen oder einer verbesserten Truhe des vorzüglichen Gasts erhalten."}
+_PETSTRINGS[375] = {[1]="Schaf der Eisexpeditionen";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
+_PETSTRINGS[376] = {[1]="Vorzüglicher Keiler";[2]="Aus einer luxuriösen Truhe des vorzüglichen Gasts erhalten."}
+_PETSTRINGS[377] = {[1]="Unheilvoller Schakal";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[378] = {[1]="Unheilvolle Schlange";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[379] = {[1]="Unheilvolle Krabbe";[2]="Erhältlich beim Ereignis 'Scharmützel: Böse Omen'."}
+_PETSTRINGS[380] = {[1]="Neugierige Schnecke";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 9"}
+_PETSTRINGS[381] = {[1]="Tiefgrüne Schlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 9"}
+
+_PETSTRINGS[382] = {[1]="Bezaubernder Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[383] = {[1]="Perfekt gekringelte Gartenschnecke";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[384] = {[1]="Gierige Krabbe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[385] = {[1]="Listiger Makake";[2]="Verfügbar in der Instanz \"Die Insel der Stürme\""}
+_PETSTRINGS[386] = {[1]="Sitaka";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[387] = {[1]="Wunderliche Waldtiere";[2]="Aus einer luxuriösen Truhe des wunderlichen Gasts erhalten."}
+_PETSTRINGS[388] = {[1]="Sienafarbener Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[389] = {[1]="Fröhlicher Hamster";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+
+_PETSTRINGS[390] = {[1]="Albino-Springmaus";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
+_PETSTRINGS[391] = {[1]="Schiefergraue Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 10"}
+_PETSTRINGS[392] = {[1]="Papagei von Umbar Baharbêl";[2]="Erhältlich durch den Abschluss von Taten in Umbar Baharbêl."}
+_PETSTRINGS[393] = {[1]="Stolze Löwin";[2]="Zum Tausch verfügbar beim Belohnungs-Quartiermeister der Stadt Umbar in Umbar."}
+_PETSTRINGS[394] = {[1]="Bemähnter Löwe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 10"}
+_PETSTRINGS[395] = {[1]="Schokoladenbrauner Wildesel";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[396] = {[1]="Weinrote Schlange";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[397] = {[1]="Schattenigel";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[398] = {[1]="Schattenkatze";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[399] = {[1]="Schattenrabe";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[400] = {[1]="Schattenlöwe";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[401] = {[1]="Wilder Igel";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[402] = {[1]="Schatten-Niederhund";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[403] = {[1]="Schattenspinne";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[404] = {[1]="Düsterwald-Säbelzahnkatze";[2]="Aus einer luxuriösen Truhe des Düsterwald-Gasts erhalten."}
+_PETSTRINGS[405] = {[1]="Edle Kuh des Kartoffelbauern";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[406] = {[1]="Goldenes Drachenjunges";[2]="Erhältlich während der Teilnahme an Community-Events."}
+_PETSTRINGS[407] = {[1]="Umbrafarbener Niederhund";[2]="Während des Ereignisses 'Der Schleier der Neun' auf Legendären Welten verfügbar."}
+_PETSTRINGS[408] = {[1]="Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
+_PETSTRINGS[409] = {[1]="Papagei der Dunkelheit";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 11"}
+_PETSTRINGS[410] = {[1]="Edle Elster";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[411] = {[1]="Edler Buchfink";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[412] = {[1]="Rohan-Auerochse";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses."}
+_PETSTRINGS[413] = {[1]="Heidehamster";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[414] = {[1]="Mondsteinfarbenes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
+_PETSTRINGS[415] = {[1]="Rubinrotes Drachenjunges";[2]="Verfügbar in der Instanz: \"Der Drache und der Sturm\""}
+_PETSTRINGS[416] = {[1]="Geisterkatze";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[417] = {[1]="Kostbarer Schakal";[2]="Erhältlich im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
+_PETSTRINGS[418] = {[1]="Windfelseneule";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[419] = {[1]="Kobra";[2]="Erhältlich in der Sammleredition oder im Ultimativen Fanpaket von 'Morgoths Vermächtnis'."}
+
+_PETSTRINGS[420] = {[1]="Schwarzer Wildesel";[2]="Kann bei Ikorbâni-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[421] = {[1]="Verletzte Fledermaus";[2]="Kann bei Adúrhid-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[422] = {[1]="Springmaus";[2]="Kann bei Phetekâri-Quartiermeistern ertauscht werden."}
+_PETSTRINGS[423] = {[1]="Heller Corgi";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 12"}
+_PETSTRINGS[424] = {[1]="Papagei der feurigen Sande";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 12"}
+_PETSTRINGS[425] = {[1]="Hütehund der Rohirrim";[2]="Aus einer Luxuriösen Truhe des Rohirrim-Gasts erhalten."}
+_PETSTRINGS[426] = {[1]="Winterabend-Schwein";[2]="Während des Julfests bei Tauschhändlern erhältlich"}
+_PETSTRINGS[427] = {[1]="Papagei des Lichts";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[428] = {[1]="Ametrinfarbenes Drachenjunges";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
+_PETSTRINGS[429] = {[1]="Corgi des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+_PETSTRINGS[430] = {[1]="Frosch des Pilzjägers";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."}
+
+_PETSTRINGS[431] = {[1]="Rubinroter Sandwurm";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[432] = {[1]="Weißer Hamster";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[433] = {[1]="Wasserbüffelkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[434] = {[1]="Wasserbüffelkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[435] = {[1]="Wasserbüffelochse";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[436] = {[1]="Smaragdgrünes Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 13"}
+_PETSTRINGS[437] = {[1]="Parade von Igel und Hase";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+
+_PETSTRINGS[438] = {[1]="Schrecken der Sande";[2]="Aus der luxuriösen, verbesserten und einfachen Truhe des Gasts der Sande erhalten."}
+_PETSTRINGS[439] = {[1]="Schwarze Kobra";[2]="In Dun Shûma gefunden, der Festung des Königs."}
+_PETSTRINGS[440] = {[1]="Bärenjunges des Bäckervergnügens";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[441] = {[1]="Rostbrauner Corgi";[2]="Zum Tausch verfügbar beim Quartiermeister der Hamâti in Iridír.";}
+_PETSTRINGS[442] = {[1]="Immergrüne Sichelfliege";[2]="Zum Tausch verfügbar beim Quartiermeister der Hamâti in Iridír."}
+_PETSTRINGS[443] = {[1]="Gefleckte Schlange";[2]="In Dun Shûma gefunden, der Festung des Königs."}
+_PETSTRINGS[444] = {[1]="Gestreifte Springmaus";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
+_PETSTRINGS[445] = {[1]="Gefleckte Jadeschlange";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 14"}
+_PETSTRINGS[446] = {[1]="Fähiger Eisufer-Fischer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[447] = {[1]="Meeresküstendrachen";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+_PETSTRINGS[448] = {[1]="Treue Gans von Gondor";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des treuen Rittergasts."}
+_PETSTRINGS[449] = {[1]="Gestreifter Oryx";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
+_PETSTRINGS[450] = {[1]="Junger gestreifter Oryx";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
+_PETSTRINGS[451] = {[1]="Sumpfskorpion";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 15"}
+_PETSTRINGS[452] = {[1]="Smaragdgrüne Schlange";[2]="Während des Bauernfestes im Höhlenklauenbau erhältlich."}
+_PETSTRINGS[453] = {[1]="Dunkelgraue Ziege";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[454] = {[1]="Fröhlicher Affe";[2]="Aus einer einfachen, verbesserten oder luxuriösen Truhe des fröhlichen Gasts."}
+_PETSTRINGS[455] = {[1]="Kameljunges";[2]="Erhältlich im Ultimativen Fanpaket von 'Die Königreiche von Harad'."}
+_PETSTRINGS[456] = {[1]="Aufmerksame Kobra";[2]="Erhältlich in der Sammleredition oder dem Ultimativen Fanpaket von 'Die Königreiche von Harad'."}
+_PETSTRINGS[457] = {[1]="Wasserläufer";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[458] = {[1]="Kürbis-Huorn";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[459] = {[1]="Springender-Fisch-Drachen";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[460] = {[1]="Herbstroter Auerochse";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[461] = {[1]="Eleganter dunkler Papagei";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+
+_PETSTRINGS[462] = {[1]="Karawanenwarenkamel";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der goldenen Karawane."}
+_PETSTRINGS[463] = {[1]="Mûrischer Hütehund";[2]="Durch Abschluss der Aufgabe \"Hüterin der Herde\" erhältlich."}
+_PETSTRINGS[464] = {[1]="Elfenbeinfarbener mûrischer Hütehund";[2]="Erhältlich durch Hobbit-Geschenke als besonderes goldenes Wintergeschenk."}
+_PETSTRINGS[465] = {[1]="Schneebedecktes Bauernhofpferd";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[466] = {[1]="Glöckchen-Schildkröte";[2]="Während des Julfests per Tauschhandel erhältlich."}
+_PETSTRINGS[467] = {[1]="Blutroter Tiefenklauen-Welpe";[2]="Erhältlich durch Hobbit-Geschenke als besonderes silbernes Wintergeschenk."}
+_PETSTRINGS[468] = {[1]="Saphirblaues Drachenjunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+_PETSTRINGS[469] = {[1]="Hilfsbereiter Tiefenklauen-Welpe";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 16"}
+
+_PETSTRINGS[470] = {[1]="Goldener Zizanu";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Stadt Zajâna in Zajâna im Kighân erhältlich."}
+_PETSTRINGS[471] = {[1]="Staubiger Wurm";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Kintai von Sul Madásh in Sul Madásh in Adagím erhältlich."}
+_PETSTRINGS[472] = {[1]="Beladenes Mûmak-Kalb";[2]="Durch Tauschhandel beim Belohnungs-Quartiermeister der Temámir von Jiret-menêsh in Jiret-menêsh in An Shêru erhältlich."}
+_PETSTRINGS[473] = {[1]="Rotstein-Mûmak-Kalb";[2]="Durch Tauschhandel bei den Belohnungs-Quartiermeistern des Erneuerten Hamât in Idagâl und Pahar Hatokáli erhältlich."}
+_PETSTRINGS[474] = {[1]="Prächtiger gefleckter Sumpflauerer";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 17"}
+_PETSTRINGS[475] = {[1]="Rosafarbenes Mûmak-Kalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 17"}
+_PETSTRINGS[476] = {[1]="Todeslicht-Skorpion";[2]="Durch Tauschhandel bei der Jägergilde von Mûr Ghala erhältlich."}
+_PETSTRINGS[477] = {[1]="Narzissenfest-Zicklein";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+_PETSTRINGS[478] = {[1]="Lohfarbener Auerochse";[2]="Durch Tauschhandel während des Frühlingsfests erhältlich"}
+
+_PETSTRINGS[479] = {[1]="Essentielles Kitz";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[480] = {[1]="Braune Springmaus";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[481] = {[1]="Dunkler Papagei";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[482] = {[1]="Fuchsroter mûrischer Hütehund";[2]="Durch Tauschhandel während des Jubiläumsfests erhältlich"}
+_PETSTRINGS[483] = {[1]="Überwucherter Sumpflauerer";[2]="Zeitlich begrenzter zufälliger Monster-Drop während des Jubiläumsfests.";}
+_PETSTRINGS[484] = {[1]="Sonnensteinfarbenes Drachenjunges";[2]="Zeitlich begrenzte Verfügbarkeit aus \"Ein großes Fest: Das neunzehnte Jahr\".";}
+_PETSTRINGS[485] = {[1]="Brauner Oryx";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar.";}
+_PETSTRINGS[486] = {[1]="Junger brauner Oryx";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[487] = {[1]="Zwitschernder Honigsauger";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[488] = {[1]="Kobaltfarbene Grodbog-Königin";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[489] = {[1]="Obsidian-Tiefenklauen-Welpe";[2]="Durch Tauschhandel bei Teilnahme an Erkundungen erhältlich."}
+_PETSTRINGS[490] = {[1]="Hellbrauner Wolfshund";[2]="Erhältlich, wenn Ihr Shâra Mizâdi bei ihrer glorreichen Jagd in den Hatokáli-Hügeln in Mûr Ghala helft."}
+_PETSTRINGS[491] = {[1]="Junger lohfarbener Oryx";[2]="Durch Tauschhandel bei den Belohnungs-Quartiermeistern des Erneuerten Hamât in Idagâl und Pahar Hatokáli erhältlich."}
+_PETSTRINGS[492] = {[1]="Kupferfarbener Skorpion";[2]="Durch Tauschhandel bei den Belohnungs-Quartiermeistern des Erneuerten Hamât in Idagâl und Pahar Hatokáli erhältlich."}
+_PETSTRINGS[493] = {[1]="Lohfarbener Oryx";[2]="Durch Tauschhandel bei den Belohnungs-Quartiermeistern des Erneuerten Hamât in Idagâl und Pahar Hatokáli erhältlich."}
+
+_PETSTRINGS[494] = {[1]="Umbar-Pony";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
+_PETSTRINGS[495] = {[1]="Zahme Hyäne";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 18"}
+_PETSTRINGS[496] = {[1]="Zeitloser Elbenfalke";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des zeitlosen Noldor-Gasts."}
+_PETSTRINGS[497] = {[1]="Streifenuhu der blühenden Sonne";[2]="Während des Mittsommerfestes per Tauschhandel erhältlich."}
+
+_PETSTRINGS[498] = {[1]="Gefleckter Hamster";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers.";}
+_PETSTRINGS[499] = {[1]="Gefleckter Geier";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19"}
+_PETSTRINGS[500] = {[1]="Rostbrauner Schleim";[2]="";}
+_PETSTRINGS[501] = {[1]="Nachtgeborener Schleim";[2]="";}
+_PETSTRINGS[502] = {[1]="Kalb der Hochlandweiden";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[503] = {[1]="Üppiger Grodbog-Beschützer";[2]="Durch Tauschhandel während des Bauernfestes erhältlich!"}
+_PETSTRINGS[504] = {[1]="Goldener Hirsch";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[505] = {[1]="Goldene Hirschkuh";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[506] = {[1]="Goldenes Hirschkalb";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 19";}
+_PETSTRINGS[507] = {[1]="Hund der versprochenen Verbündeten";[2]="Erhältlich in der einfachen, verbesserten oder luxuriösen Truhe des Gasts der versprochenen Verbündeten.";}
+_PETSTRINGS[508] = {[1]="Schatz-Grimmiger";[2]="Erhältlich bei Theodor Ginster während des Schatz-Bugan-Ereignisses.";}
+_PETSTRINGS[509] = {[1]="Mitternachtsrabe";[2]="Durch Tauschhandel während des Herbstfestes erhältlich!"}
+_PETSTRINGS[510] = {[1]="Der Hund des Jägers";[2]="Erhältlich im Ultimativen Fanpaket von 'Die Wölfe von Mordor'."}
+
+_PETSTRINGS[511] = {[1]="Vielpunkt-Nachahmerfrosch";[2]="Kann beim Têtikir-Quartiermeister ertauscht werden."}
+_PETSTRINGS[512] = {[1]="Asche-Garaferon";[2]="Kann beim Têtikir-Quartiermeister ertauscht werden."}
+_PETSTRINGS[513] = {[1]="Kalorkhûn";[2]="Erhältlich durch Einsatz des Überlebensinstinkts 'Den Gegner ködern'."}
+_PETSTRINGS[514] = {[1]="Schatz-Schlängelgecko";[2]="Erhältlich durch Einsatz des Überlebensinstinkts 'Versteckter Schatz'."}
+_PETSTRINGS[515] = {[1]="Pracht-Schlängelgecko";[2]="Kann beim Khemozêl-Quartiermeister ertauscht werden."}
+_PETSTRINGS[516] = {[1]="Urzeitlicher Sumpfgänger";[2]="Kann beim Quartiermeister der Kundschafter von Draugardh ertauscht werden."}
+_PETSTRINGS[517] = {[1]="Gehörntes Kaninchen";[2]="Kann beim Quartiermeister der Kundschafter von Draugardh ertauscht werden."}
+_PETSTRINGS[518] = {[1]="Urzeitlicher Nachahmerfrosch";[2]="Kann beim Khemozêl-Quartiermeister ertauscht werden."}
+_PETSTRINGS[519] = {[1]="Goldener Byrdbuckel";[2]="Durch Abschluss der Aufgabe 'Die Gunst des Schicksals, Teil 4' oder beim Quartiermeister der Kundschafter von Draugardh erhältlich."}
+_PETSTRINGS[520] = {[1]="Aschgraue Wespe";[2]="Kann beim Têtikir-Quartiermeister ertauscht werden."}
+_PETSTRINGS[521] = {[1]="Urzeitlicher Modergräber";[2]="Kann beim Khemozêl-Quartiermeister ertauscht werden."}
+_PETSTRINGS[522] = {[1]="Urzeitlicher Oryx";[2]="Kann beim Khemozêl-Quartiermeister ertauscht werden."}
+_PETSTRINGS[523] = {[1]="Kobaltblauer Nachahmerfrosch";[2]="Kann beim Quartiermeister der Kundschafter von Draugardh ertauscht werden."}
+_PETSTRINGS[524] = {[1]="Obsidian-Wulfhund";[2]="Erhältlich durch Einsatz des Überlebensinstinkts 'Den Gegner ködern'."}
+_PETSTRINGS[525] = {[1]="Zahmes Sûlok-Jungtier";[2]="Durch Abschluss der Aufgabe 'Eine Mahlzeit für einen Sûlok' oder beim Quartiermeister der Têtikir erhältlich."}
+_PETSTRINGS[526] = {[1]="Grüner Tiefenklauen-Welpe";[2]="Erhältlich als Belohnung von Brútha der Eigensinnigen."}
+_PETSTRINGS[527] = {[1]="Kaffeebrauner mûrischer Hütehund";[2]="Erhältlich als Belohnung von Golwen."}
+_PETSTRINGS[528] = {[1]="Königliches Hainkitz";[2]="Erhältlich als Belohnung von Emmathron."}
+_PETSTRINGS[529] = {[1]="Graubrauner Hamster";[2]="Erhältlich als Belohnung von Haldo."}
+_PETSTRINGS[530] = {[1]="Schwarzbrauner Langhaarbrockhund";[2]="Zeitlich begrenzte Verfügbarkeit in Schatzkästchen des Reisenden und des Abenteurers."}
+_PETSTRINGS[531] = {[1]="Silberfarbener Skorpion";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[532] = {[1]="Dämmerungs-Mûmak-Kalb";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[533] = {[1]="Urzeitlicher Käfer";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[534] = {[1]="Langmoos-Sumpfgänger";[2]="Prachtstücke des Glanzes nur für begrenzte Zeit und in Abenteurer- und Reisenden-Schatzkästchen verfügbar."}
+_PETSTRINGS[535] = {[1]="Sumpfkrokodiljunges";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 20"}
+_PETSTRINGS[536] = {[1]="Kastanienbrauner Brockhund";[2]="Nur für kurze Zeit verfügbar: Belohnungsleiste für legendäre Gegenstände - Saison 20"}
+
+_PETSTRINGS[1000] = {[1]="Gestreifte Fledermaus";[2]=""}
+_PETSTRINGS[1001] = {[1]="Hellbraune Fledermaus";[2]=""}
+_PETSTRINGS[1002] = {[1]="Schwarzschwingendrachen";[2]=""}
+_PETSTRINGS[1003] = {[1]="Dämmerschwingendrachen";[2]=""}
+_PETSTRINGS[1004] = {[1]="Cremefarbener Corgi";[2]=""}
+_PETSTRINGS[1005] = {[1]="Bibliothekscorgi";[2]=""}
+_PETSTRINGS[1006] = {[1]="Winterwind";[2]=""}
+_PETSTRINGS[1007] = {[1]="Türkise Schlange";[2]=""}
+_PETSTRINGS[1008] = {[1]="Blattgrüne Schlange";[2]=""}
+_PETSTRINGS[1009] = {[1]="Feurige Wüstenschlange";[2]=""}
+_PETSTRINGS[1010] = {[1]="Kastanienfarbener Sandwurm";[2]=""}
+_PETSTRINGS[1011] = {[1]="Amethystfarbenes Drachenjunges";[2]=""}
+_PETSTRINGS[1012] = {[1]="Gepanzerter Skorpion";[2]=""}
+_PETSTRINGS[1013] = {[1]="Grüne Grodbog-Königin";[2]=""}
+_PETSTRINGS[1014] = {[1]="Höhlenschrecken";[2]="";}
+_PETSTRINGS[1015] = {[1]="Freundliche Grodbog-Königin";[2]="";}
+_PETSTRINGS[1016] = {[1]="Giftiger Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1017] = {[1]="Aggressive Grodbog-Königin";[2]=""}
+_PETSTRINGS[1019] = {[1]="Pechschwarzer Skorpion";[2]=""}
+_PETSTRINGS[1020] = {[1]="Bleicher Tiefenklauen-Welpe";[2]=""}
+_PETSTRINGS[1021] = {[1]="Dunkle Grodbog-Königin";[2]=""}
+_PETSTRINGS[1022] = {[1]="Bleicher Skorpion";[2]=""}
+_PETSTRINGS[1023] = {[1]="Strahlender Grodbog-Beschützer";[2]=""}
+_PETSTRINGS[1024] = {[1]="Gestreifter Grodbog-Beschützer";[2]="";}
+_PETSTRINGS[1025] = {[1]="Schwarze Grodbog-Königin";[2]="";}
+_PETSTRINGS[1026] = {[1]="Gestreifter Tiefenklauen-Welpe";[2]="";}
+_PETSTRINGS[1027] = {[1]="Rostbrauner mûrischer Hütehund";[2]="";}
+_PETSTRINGS[1028] = {[1]="Wüstenschleim";[2]=""}
+_PETSTRINGS[1029] = {[1]="Gepanzerte Wüstenwespe";[2]=""}
+_PETSTRINGS[1030] = {[1]="Kampfesmüder Wurm";[2]=""}
+_PETSTRINGS[1031] = {[1]="Braunes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1032] = {[1]="Gewissenhaftes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1033] = {[1]="Schattengeborener Zizanu";[2]=""}
+_PETSTRINGS[1034] = {[1]="Listiger Wurm";[2]="";}
+_PETSTRINGS[1035] = {[1]="Tüchtiges Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1036] = {[1]="Marmor-Mûmak-Kalb";[2]="";}
+_PETSTRINGS[1037] = {[1]="Sonnenbeschienenes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1038] = {[1]="Lauernder Wurm";[2]=""}
+_PETSTRINGS[1039] = {[1]="Meeresschleim";[2]=""}
+_PETSTRINGS[1040] = {[1]="Kupferfarbener Zizanu";[2]=""}
+_PETSTRINGS[1041] = {[1]="Belastetes Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1042] = {[1]="Stein-Mûmak-Kalb";[2]=""}
+_PETSTRINGS[1043] = {[1]="Smaragdgrüner Schleim";[2]=""}
+_PETSTRINGS[1044] = {[1]="Rubinroter Wurm";[2]="";}
+_PETSTRINGS[1045] = {[1]="Bleicher Zizanu";[2]="";}
+_PETSTRINGS[1046] = {[1]="Himbeerfarbener Schleim";[2]="";}
+_PETSTRINGS[1047] = {[1]="Geflecktes Düsterwald-Kitz";[2]=""}
+_PETSTRINGS[1048] = {[1]="Frühlingswäldchen-Hirsch";[2]=""}
+_PETSTRINGS[1049] = {[1]="Gefleckter Düsterwald-Hirsch";[2]=""}
+_PETSTRINGS[1050] = {[1]="Weißhals-Hirschkuh";[2]=""}
+_PETSTRINGS[1051] = {[1]="Königliche Hainhirschkuh";[2]=""}
+_PETSTRINGS[1052] = {[1]="Königlicher Hainhirsch";[2]=""}
+_PETSTRINGS[1053] = {[1]="Gefleckte Düsterwald-Hirschkuh";[2]=""}
+_PETSTRINGS[1054] = {[1]="Weißhals-Kitz";[2]="";}
+_PETSTRINGS[1055] = {[1]="Weißhals-Hirsch";[2]="";}
+_PETSTRINGS[1056] = {[1]="Sonnenuntergangs-Modergräber";[2]="";}
+_PETSTRINGS[1057] = {[1]="Mitternachts–Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1058] = {[1]="Zapfen-Schlängelgecko";[2]=""}
+_PETSTRINGS[1059] = {[1]="Urzeitlicher Schlängelgecko";[2]=""}
+_PETSTRINGS[1060] = {[1]="Mahagoni-Garaferon";[2]=""}
+_PETSTRINGS[1061] = {[1]="Urzeitlicher Byrdbuckel";[2]=""}
+_PETSTRINGS[1062] = {[1]="Mahagoni-Wulfhund";[2]=""}
+_PETSTRINGS[1063] = {[1]="Scheckiger Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1064] = {[1]="Geschmolzener Modergräber";[2]=""}
+_PETSTRINGS[1065] = {[1]="Vulkan-Schlängelgecko";[2]=""}
+_PETSTRINGS[1066] = {[1]="Nackter Sumpfgänger";[2]=""}
+_PETSTRINGS[1067] = {[1]="Gestreifter Brockhund";[2]=""}
+_PETSTRINGS[1068] = {[1]="Winterfuchs";[2]=""}
+_PETSTRINGS[1069] = {[1]="Buntscheckiger Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1070] = {[1]="Wald-Byrdbuckel";[2]=""}
+_PETSTRINGS[1071] = {[1]="Buntscheckiger Brockhund";[2]=""}
+_PETSTRINGS[1072] = {[1]="Herzblut-Schlängelgecko";[2]=""}
+_PETSTRINGS[1073] = {[1]="Elfenbein-Garaferon";[2]=""}
+_PETSTRINGS[1074] = {[1]="Purpur-Modergräber";[2]=""}
+_PETSTRINGS[1075] = {[1]="Obsidian-Garaferon";[2]=""}
+_PETSTRINGS[1076] = {[1]="Erloschener Vulkan-Schlängelgecko";[2]=""}
+_PETSTRINGS[1077] = {[1]="Lohfarbenes Garaferon";[2]=""}
+_PETSTRINGS[1078] = {[1]="Schwarzbrauner Brockhund";[2]=""}
+_PETSTRINGS[1079] = {[1]="Rotrücken-Nachahmerfrosch";[2]=""}
+_PETSTRINGS[1080] = {[1]="Geschmolzener Kobalt-Schlängelgecko";[2]=""}
+_PETSTRINGS[1081] = {[1]="Elfenbein-Wulfhund";[2]=""}
+_PETSTRINGS[1082] = {[1]="Gestreifter Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1083] = {[1]="Silberfuchs";[2]=""}
+_PETSTRINGS[1084] = {[1]="Unauffälliger Byrdbuckel";[2]=""}
+_PETSTRINGS[1085] = {[1]="Mitternachts–Brockhund";[2]=""}
+_PETSTRINGS[1086] = {[1]="Schokoladenbrauner Langhaarbrockhund";[2]=""}
+_PETSTRINGS[1087] = {[1]="Laub-Modergräber";[2]=""}
+_PETSTRINGS[1088] = {[1]="Zwielicht-Modergräber";[2]=""}
+_PETSTRINGS[1089] = {[1]="Lohfarbener Wulfhund";[2]=""}
+_PETSTRINGS[1090] = {[1]="Moosrücken-Byrdbuckel";[2]=""}
+_PETSTRINGS[1091] = {[1]="Rosafarbener Byrdbuckel";[2]=""}
+_PETSTRINGS[1092] = {[1]="Asche-Wulfhund";[2]=""}
+_PETSTRINGS[1093] = {[1]="Urzeitliches Sûlok-Jungtier";[2]=""}

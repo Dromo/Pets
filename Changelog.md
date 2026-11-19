@@ -1,5 +1,7 @@
 Change log:
-* 2026-4-11 - U50 - 1 new + 4 newly available
+* 2026-19-11 - U50.2 - 2 new
+ * Marsh Crocodile Hatchling, Chestnut Brockhound
+* 2026-4-11 - U50.1 - 1 new + 4 newly available
  * Black and Tan Long-haired Brockhoun
  * Silver Scorpion, Twilight Mûmak Calf, Primeval Beetle, Long-moss Slough-ganger
 * 2026-29-10 - U50 - 15 new + 4 newly available + 41 future
